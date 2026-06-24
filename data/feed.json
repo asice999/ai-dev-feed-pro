@@ -2,144 +2,144 @@
   {
     "id": 0,
     "title": "odysseus",
-    "summary": "自托管 AI 工作区",
-    "category": "Developer-Tools",
-    "score": 8,
-    "reason": "高热度自托管需求",
+    "summary": "自托管 AI 工作空间",
+    "category": "AI",
+    "score": 9.2,
+    "reason": "高热度，完整生态",
     "source": "GitHub",
-    "stars": 77194,
+    "stars": 77342,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 77194,
+    "growth": 77342,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 77194
+        "stars": 77342
       }
     ]
   },
   {
     "id": 1,
     "title": "ponytail",
-    "summary": "懒人 AI 代码生成",
-    "category": "Developer-Tools",
-    "score": 7,
-    "reason": "独特懒人定位",
+    "summary": "让 AI 代理懒惰写代码",
+    "category": "AI",
+    "score": 8.7,
+    "reason": "创意新颖，实用性强",
     "source": "GitHub",
-    "stars": 54152,
+    "stars": 54806,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 54152,
+    "growth": 54806,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 54152
+        "stars": 54806
       }
     ]
   },
   {
     "id": 2,
     "title": "MiMo-Code",
-    "summary": "模型与代理共进化",
+    "summary": "模型与代理共同进化平台",
     "category": "AI",
-    "score": 6,
-    "reason": "新型共进化框架",
+    "score": 7.9,
+    "reason": "模型协同创新",
     "source": "GitHub",
-    "stars": 10579,
+    "stars": 10602,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10579,
+    "growth": 10602,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 10579
+        "stars": 10602
       }
     ]
   },
   {
     "id": 3,
     "title": "book",
-    "summary": "Astrid OS 核心文档",
-    "category": "Other",
-    "score": 5,
-    "reason": "技术深度高",
+    "summary": "Astrid OS 权威参考手册",
+    "category": "Developer-Tools",
+    "score": 7.3,
+    "reason": "系统文档完整",
     "source": "GitHub",
-    "stars": 6869,
+    "stars": 6999,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 6869,
+    "growth": 6999,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 6869
+        "stars": 6999
       }
     ]
   },
   {
     "id": 4,
     "title": "handbook",
-    "summary": "Astrid 开发流程手册",
-    "category": "Other",
-    "score": 5,
-    "reason": "贡献指南完整",
+    "summary": "Astrid 开发流程指南",
+    "category": "Developer-Tools",
+    "score": 7.1,
+    "reason": "贡献指南清晰",
     "source": "GitHub",
-    "stars": 6819,
+    "stars": 6949,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 6819,
+    "growth": 6949,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 6819
+        "stars": 6949
       }
     ]
   },
   {
     "id": 5,
-    "title": "improve",
-    "summary": "AI 代码审核与计划",
-    "category": "Developer-Tools",
-    "score": 7,
-    "reason": "成本优化功能",
+    "title": "Unlimited-OCR",
+    "summary": "单次长文本 OCR 方案",
+    "category": "AI",
+    "score": 8.0,
+    "reason": "突破长度限制",
     "source": "GitHub",
-    "stars": 6120,
-    "url": "https://github.com/shadcn/improve",
-    "growth": 6120,
+    "stars": 6162,
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "growth": 6162,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 6120
+        "stars": 6162
       }
     ]
   },
   {
     "id": 6,
-    "title": "ian-xiaohei-illustrations",
-    "summary": "中文手绘配图生成",
-    "category": "Design",
-    "score": 6,
-    "reason": "本地化创意工具",
+    "title": "improve",
+    "summary": "AI 审计代码并生成执行计划",
+    "category": "Developer-Tools",
+    "score": 8.3,
+    "reason": "提升代码质量成本",
     "source": "GitHub",
-    "stars": 5976,
-    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-    "growth": 5976,
+    "stars": 6142,
+    "url": "https://github.com/shadcn/improve",
+    "growth": 6142,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 5976
+        "stars": 6142
       }
     ]
   },
   {
     "id": 7,
-    "title": "Unlimited-OCR",
-    "summary": "一Shot 长文本 OCR",
-    "category": "Developer-Tools",
-    "score": 7,
-    "reason": "长文本解析突破",
+    "title": "ian-xiaohei-illustrations",
+    "summary": "中文怪诞插画生成工具",
+    "category": "Design",
+    "score": 6.8,
+    "reason": "细节风格独特",
     "source": "GitHub",
-    "stars": 5617,
-    "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 5617,
+    "stars": 5998,
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "growth": 5998,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 5617
+        "stars": 5998
       }
     ]
   }
