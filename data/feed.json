@@ -1,145 +1,145 @@
 [
   {
     "id": 0,
-    "title": "codecrafters-io/build-your-own-x",
-    "summary": "从零开始重建技术",
+    "title": "odysseus",
+    "summary": "自托管 AI 工作区",
     "category": "Developer-Tools",
-    "score": 9,
-    "reason": "练手重建技术",
+    "score": 8,
+    "reason": "高热度自托管需求",
     "source": "GitHub",
-    "stars": 519033,
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "growth": 519033,
+    "stars": 77193,
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "growth": 77193,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 519033
+        "stars": 77193
       }
     ]
   },
   {
     "id": 1,
-    "title": "sindresorhus/awesome",
-    "summary": "主题列表大全",
-    "category": "Other",
-    "score": 9,
-    "reason": "收集各类资源",
+    "title": "ponytail",
+    "summary": "懒人式 AI 代码生成",
+    "category": "Developer-Tools",
+    "score": 7,
+    "reason": "轻量化代码思维",
     "source": "GitHub",
-    "stars": 478403,
-    "url": "https://github.com/sindresorhus/awesome",
-    "growth": 478403,
+    "stars": 54149,
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "growth": 54149,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 478403
+        "stars": 54149
       }
     ]
   },
   {
     "id": 2,
-    "title": "freeCodeCamp/freeCodeCamp",
-    "summary": "免费学习编程",
-    "category": "Learning",
-    "score": 10,
-    "reason": "免费课程广受欢迎",
+    "title": "MiMo-Code",
+    "summary": "模型与代理共进化",
+    "category": "AI",
+    "score": 6,
+    "reason": "新型协同模型",
     "source": "GitHub",
-    "stars": 450400,
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "growth": 450400,
+    "stars": 10579,
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "growth": 10579,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 450400
+        "stars": 10579
       }
     ]
   },
   {
     "id": 3,
-    "title": "public-apis/public-apis",
-    "summary": "免费API集合",
-    "category": "Developer-Tools",
-    "score": 8,
-    "reason": "API资源集中",
+    "title": "book",
+    "summary": "Astrid OS 核心参考",
+    "category": "Other",
+    "score": 5,
+    "reason": "系统设计文档",
     "source": "GitHub",
-    "stars": 443883,
-    "url": "https://github.com/public-apis/public-apis",
-    "growth": 443883,
+    "stars": 6869,
+    "url": "https://github.com/unicity-astrid/book",
+    "growth": 6869,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 443883
+        "stars": 6869
       }
     ]
   },
   {
     "id": 4,
-    "title": "EbookFoundation/free-programming-books",
-    "summary": "免费编程书籍",
-    "category": "Learning",
-    "score": 8,
-    "reason": "书籍免费共享",
+    "title": "handbook",
+    "summary": "Astrid 贡献流程",
+    "category": "Other",
+    "score": 5,
+    "reason": "贡献指南",
     "source": "GitHub",
-    "stars": 390718,
-    "url": "https://github.com/EbookFoundation/free-programming-books",
-    "growth": 390718,
+    "stars": 6819,
+    "url": "https://github.com/unicity-astrid/handbook",
+    "growth": 6819,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 390718
+        "stars": 6819
       }
     ]
   },
   {
     "id": 5,
-    "title": "openclaw/openclaw",
-    "summary": "跨平台AI助手",
-    "category": "AI",
+    "title": "improve",
+    "summary": "代码审计与计划",
+    "category": "Developer-Tools",
     "score": 7,
-    "reason": "个人AI助手受关注",
+    "reason": "模型审计工具",
     "source": "GitHub",
-    "stars": 380230,
-    "url": "https://github.com/openclaw/openclaw",
-    "growth": 380230,
+    "stars": 6120,
+    "url": "https://github.com/shadcn/improve",
+    "growth": 6120,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 380230
+        "stars": 6120
       }
     ]
   },
   {
     "id": 6,
-    "title": "nilbuild/developer-roadmap",
-    "summary": "开发者成长路线图",
-    "category": "Developer-Tools",
-    "score": 8,
-    "reason": "成长路径可视化",
+    "title": "ian-xiaohei-illustrations",
+    "summary": "中文手绘图生成",
+    "category": "Design",
+    "score": 6,
+    "reason": "AI 生成插图",
     "source": "GitHub",
-    "stars": 358134,
-    "url": "https://github.com/nilbuild/developer-roadmap",
-    "growth": 358134,
+    "stars": 5976,
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "growth": 5976,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 358134
+        "stars": 5976
       }
     ]
   },
   {
     "id": 7,
-    "title": "donnemartin/system-design-primer",
-    "summary": "系统设计学习指南",
-    "category": "Developer-Tools",
-    "score": 9,
-    "reason": "面试准备必备",
+    "title": "Unlimited-OCR",
+    "summary": "无限长文本 OCR",
+    "category": "SaaS",
+    "score": 7,
+    "reason": "长文本解析",
     "source": "GitHub",
-    "stars": 354607,
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "growth": 354607,
+    "stars": 5611,
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "growth": 5611,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 354607
+        "stars": 5611
       }
     ]
   }
