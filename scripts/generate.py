@@ -2,6 +2,7 @@ import json
 import os
 import re
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -13,6 +14,7 @@ client = OpenAI(
 )
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 
+DATA_FILE = "data/feed.json"
 CATEGORIES = [
     "AI/ML",
     "Developer Tools",
@@ -28,8 +30,16 @@ CATEGORIES = [
 ]
 
 
+def load_old_feed():
+    """Load previous feed.json if exists, for growth comparison."""
+    if not os.path.exists(DATA_FILE):
+        return {}
+    with open(DATA_FILE) as f:
+        items = json.load(f)
+    return {i["title"]: i.get("stars", 0) for i in items}
+
+
 def fetch_repos():
-    """Fetch top GitHub repos by stars (from last 7 days)."""
     url = "https://api.github.com/search/repositories"
     headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
     params = {
@@ -50,36 +60,35 @@ def fetch_repos():
                 "name": i["full_name"],
                 "desc": i["description"] or "(no description)",
                 "stars": i["stargazers_count"],
+                "forks": i.get("forks_count", 0),
                 "language": i.get("language") or "Unknown",
                 "url": i["html_url"],
+                "created_at": i["created_at"][:10],
             }
         )
     return repos
 
 
 def analyze_repos(repos):
-    """Use AI to summarize + categorize + score, output structured JSON."""
     cats = ", ".join(CATEGORIES)
-    prompt = f"""Analyze these GitHub repositories and return a JSON array. For each repo pick one category from: {cats}.
+    prompt = f"""Analyze these GitHub repositories and return a JSON array. Pick one category per repo from: {cats}.
 
 Repos:
 """
     for r in repos:
-        prompt += f"- {r['name']} | ⭐{r['stars']} | {r['desc']} | url: {r['url']}\n"
+        prompt += f"- {r['name']} | ⭐{r['stars']} | lang: {r['language']} | {r['desc']} | url: {r['url']}\n"
 
     prompt += """
-Return ONLY a JSON array (no markdown, no code fences, no extra text). Each object must have:
-- "title": repo name (string)
-- "summary": one-sentence Chinese summary, include why it's trending (string)
+Return ONLY a JSON array (no markdown, no code fences). Each object:
+- "title": repo full name (string)
+- "summary": one-sentence Chinese summary, why trending (string)
 - "category": one of the listed categories (string)
-- "score": relevance score 0-10, based on AI/dev impact (number)
-- "stars": star count (number)
+- "score": relevance 0-10 for AI/developer impact (number)
 - "url": repo url (string)
 
-Example format:
-[{"title":"foo/bar","summary":"...","category":"AI/ML","score":9.2,"stars":5000,"url":"https://github.com/foo/bar"}]
+Example:
+[{"title":"owner/repo","summary":"一句话中文总结","category":"AI/ML","score":9.2,"url":"https://github.com/owner/repo"}]
 """
-
     resp = client.chat.completions.create(
         model=os.getenv("OPENAI_MODEL", "code-top"),
         messages=[{"role": "user", "content": prompt}],
@@ -89,61 +98,93 @@ Example format:
 
 
 def parse_json(raw: str):
-    """Robust JSON extraction from AI response."""
-    # Try direct parse
     text = raw.strip()
     try:
         return json.loads(text)
     except json.JSONDecodeError:
         pass
-    # Try extracting from ```json ... ``` block
     m = re.search(r"```(?:json)?\s*([\s\S]*?)```", text)
     if m:
         try:
             return json.loads(m.group(1).strip())
         except json.JSONDecodeError:
             pass
-    # Try finding the first [ ... ] array
     m = re.search(r"\[[\s\S]*\]", text)
     if m:
         try:
             return json.loads(m.group(0))
         except json.JSONDecodeError:
             pass
-    print(f"Failed to parse JSON. Raw response:\n{raw[:500]}", file=sys.stderr)
+    print(f"JSON parse failed. Raw:\n{raw[:500]}", file=sys.stderr)
     return []
 
 
-def format_markdown(items):
-    """Convert structured data to human-readable Markdown for Telegram."""
-    lines = ["🔥 *GitHub AI Weekly Report*\n"]
-    for i in items:
-        cat = i.get("category", "Other")
-        score = i.get("score", 0)
-        fire = "🟢" if score >= 8 else ("🟡" if score >= 6 else "🔵")
-        lines.append(
-            f"{fire} *{i['title']}*  ⭐{i.get('stars',0)}\n"
-            f"_{cat}_ | 评分: {score}\n"
-            f"{i['summary']}\n"
-            f"[🔗 GitHub]({i['url']})"
-        )
-        lines.append("")  # blank line
-    return "\n".join(lines)
+def merge_data(items, old_feed, repos_lookup):
+    """Merge AI analysis with repo metadata, compute growth from old feed."""
+    today_str = datetime.now(timezone.utc).strftime("%m-%d")
+    yesterday_str = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%m-%d")
+
+    result = []
+    for item in items:
+        name = item["title"]
+        repo = repos_lookup.get(name, {})
+        stars = repo.get("stars", 0)
+        old_stars = old_feed.get(name, stars)
+        growth = max(0, stars - old_stars)
+
+        entry = {
+            "title": name,
+            "summary": item["summary"],
+            "category": item.get("category", "Other"),
+            "score": item.get("score", 0),
+            "stars": stars,
+            "forks": repo.get("forks", 0),
+            "language": repo.get("language", "Unknown"),
+            "created_at": repo.get("created_at", ""),
+            "url": item["url"],
+            "growth": growth,
+            "history": [
+                {"day": yesterday_str, "stars": old_stars},
+                {"day": today_str, "stars": stars},
+            ],
+            "updated": datetime.now(timezone.utc).isoformat(),
+        }
+        result.append(entry)
+
+    # sort by growth desc
+    result.sort(key=lambda x: x["growth"], reverse=True)
+    return result
 
 
 def save_data(items):
-    """Save structured data to storage/latest.json."""
-    Path("storage").mkdir(exist_ok=True)
-    with open("storage/latest.json", "w") as f:
+    Path("data").mkdir(exist_ok=True)
+    with open(DATA_FILE, "w") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
 
 
+def format_telegram(items):
+    """Format structured data for Telegram Markdown."""
+    lines = ["🔥 *AI Trend Radar*  —  24h Growth\n"]
+    for i in items[:10]:
+        growth = i.get("growth", 0)
+        score = i.get("score", 0)
+        fire = "🟢" if score >= 8 else ("🟡" if score >= 6 else "🔵")
+        boom = " 🚀" if growth >= 500 else ""
+        lines.append(
+            f"{fire} *{i['title']}*  ⭐{i.get('stars',0)}  +{growth}{boom}\n"
+            f"_{i['category']}_  |  评分 {score}\n"
+            f"{i['summary']}\n"
+            f"[🔗 GitHub]({i['url']})"
+        )
+        lines.append("")
+    return "\n".join(lines)
+
+
 def send_telegram(text):
-    """Send message via Telegram Bot API, auto-split if > 4096 chars."""
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
-        print("⚠️ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set, skip Telegram push")
+        print("⚠️ Telegram not configured, skip")
         return
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     max_len = 4000
@@ -168,26 +209,29 @@ def send_telegram(text):
             },
         )
         if not resp.json().get("ok"):
-            print(f"Telegram send error: {resp.text}")
+            print(f"Telegram error: {resp.text}")
 
 
 if __name__ == "__main__":
+    old_feed = load_old_feed()
     repos = fetch_repos()
     if not repos:
         print("No repos fetched, exiting.")
         sys.exit(1)
 
+    repos_lookup = {r["name"]: r for r in repos}
     print(f"Fetched {len(repos)} repos, analyzing with AI...")
     raw = analyze_repos(repos)
     items = parse_json(raw)
 
-    if items:
-        save_data(items)
-        print(f"Saved {len(items)} items to storage/latest.json")
-
-        md = format_markdown(items)
-        print(md)
-        send_telegram(md)
-    else:
-        print("No structured data generated.")
+    if not items:
+        print("AI analysis failed.")
         sys.exit(1)
+
+    merged = merge_data(items, old_feed, repos_lookup)
+    save_data(merged)
+    print(f"Saved {len(merged)} items to {DATA_FILE}")
+
+    tg = format_telegram(merged)
+    print(tg)
+    send_telegram(tg)

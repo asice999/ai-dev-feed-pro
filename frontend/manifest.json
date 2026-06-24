@@ -1,6 +1,6 @@
 {
-  "name": "AI Dev Feed",
-  "short_name": "DevFeed",
+  "name": "AI Trend Radar",
+  "short_name": "TrendRadar",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
