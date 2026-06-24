@@ -51,7 +51,7 @@ stars：{r['stars']}
 - Markdown输出
 """
     resp = client.chat.completions.create(
-        model="gpt-4o-mini", messages=[{"role": "user", "content": prompt}]
+        model=os.getenv("OPENAI_MODEL", "code-top"), messages=[{"role": "user", "content": prompt}]
     )
     return resp.choices[0].message.content
 
