@@ -7,31 +7,31 @@
     "score": 8,
     "reason": "高热度自托管需求",
     "source": "GitHub",
-    "stars": 77193,
+    "stars": 77194,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 77193,
+    "growth": 77194,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 77193
+        "stars": 77194
       }
     ]
   },
   {
     "id": 1,
     "title": "ponytail",
-    "summary": "懒人式 AI 代码生成",
+    "summary": "懒人 AI 代码生成",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "轻量化代码思维",
+    "reason": "独特懒人定位",
     "source": "GitHub",
-    "stars": 54149,
+    "stars": 54152,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 54149,
+    "growth": 54152,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 54149
+        "stars": 54152
       }
     ]
   },
@@ -41,7 +41,7 @@
     "summary": "模型与代理共进化",
     "category": "AI",
     "score": 6,
-    "reason": "新型协同模型",
+    "reason": "新型共进化框架",
     "source": "GitHub",
     "stars": 10579,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
@@ -56,10 +56,10 @@
   {
     "id": 3,
     "title": "book",
-    "summary": "Astrid OS 核心参考",
+    "summary": "Astrid OS 核心文档",
     "category": "Other",
     "score": 5,
-    "reason": "系统设计文档",
+    "reason": "技术深度高",
     "source": "GitHub",
     "stars": 6869,
     "url": "https://github.com/unicity-astrid/book",
@@ -74,10 +74,10 @@
   {
     "id": 4,
     "title": "handbook",
-    "summary": "Astrid 贡献流程",
+    "summary": "Astrid 开发流程手册",
     "category": "Other",
     "score": 5,
-    "reason": "贡献指南",
+    "reason": "贡献指南完整",
     "source": "GitHub",
     "stars": 6819,
     "url": "https://github.com/unicity-astrid/handbook",
@@ -92,10 +92,10 @@
   {
     "id": 5,
     "title": "improve",
-    "summary": "代码审计与计划",
+    "summary": "AI 代码审核与计划",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "模型审计工具",
+    "reason": "成本优化功能",
     "source": "GitHub",
     "stars": 6120,
     "url": "https://github.com/shadcn/improve",
@@ -110,10 +110,10 @@
   {
     "id": 6,
     "title": "ian-xiaohei-illustrations",
-    "summary": "中文手绘图生成",
+    "summary": "中文手绘配图生成",
     "category": "Design",
     "score": 6,
-    "reason": "AI 生成插图",
+    "reason": "本地化创意工具",
     "source": "GitHub",
     "stars": 5976,
     "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
@@ -128,18 +128,18 @@
   {
     "id": 7,
     "title": "Unlimited-OCR",
-    "summary": "无限长文本 OCR",
-    "category": "SaaS",
+    "summary": "一Shot 长文本 OCR",
+    "category": "Developer-Tools",
     "score": 7,
-    "reason": "长文本解析",
+    "reason": "长文本解析突破",
     "source": "GitHub",
-    "stars": 5611,
+    "stars": 5617,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 5611,
+    "growth": 5617,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 5611
+        "stars": 5617
       }
     ]
   }
