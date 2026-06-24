@@ -24,8 +24,8 @@ h1{font-size:20px;display:flex;align-items:center;gap:8px}.badge{font-size:12px;
 <header><h1>📡 AI Trend Radar</h1><div><span id="updated"></span></div></header>
 <div class="container">
 <div id="stats"><div class="stat"><div class="stat-val" id="stat-total">-</div><div class="stat-label">今日收录</div></div><div class="stat"><div class="stat-val" id="stat-gh">-</div><div class="stat-label">🐙 GitHub</div></div><div class="stat"><div class="stat-val" id="stat-ph">-</div><div class="stat-label">🟠 ProductHunt</div></div></div>
-<div id="chart-container"><h2>📈 热度趋势 (Stars/Votes)</h2><canvas id="chart" height="80"></canvas></div>
-<div id="filters"><button class="filter-btn active" data-src="all">全部</button><button class="filter-btn" data-src="GitHub">🐙 GitHub</button><button class="filter-btn" data-src="ProductHunt">🟠 ProductHunt</button></div>
+<div id="chart-container"><h2>📊 综合评分 (0-10)</h2><canvas id="chart" height="80"></canvas></div>
+<div id="filters"><button class="filter-btn active" onclick="filter('all')">全部</button><button class="filter-btn" onclick="filter('GitHub')">🐙 GitHub</button><button class="filter-btn" onclick="filter('ProductHunt')">🟠 ProductHunt</button></div>
 <div id="list"></div>
 </div>
 <footer>Powered by GitHub Actions + AI · Updated every 6 hours</footer>
