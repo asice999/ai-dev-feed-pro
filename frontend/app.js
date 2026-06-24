@@ -29,8 +29,12 @@ function renderChart(items) {
   const top = [...items].sort((a, b) => b.score - a.score).slice(0, 10);
   const stars = top.map(i => i.stars);
   const fmt = v => v > 999 ? (v/1000).toFixed(1) + 'k' : v;
-  if (window._chart) window._chart.destroy();
-  window._chart = new Chart(document.getElementById('chart'), {
+  // Properly destroy existing chart
+  const existing = Chart.getChart('chart');
+  if (existing) existing.destroy();
+  const ctx = document.getElementById('chart').getContext('2d');
+  Chart.defaults.font = { family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif", size: 12 };
+  new Chart(ctx, {
     type: 'bar',
     data: {
       labels: top.map(i => (i.title||'').split('/').pop().slice(0, 14)),
@@ -38,17 +42,22 @@ function renderChart(items) {
         label: 'Score',
         data: top.map(i => i.score),
         backgroundColor: top.map(i => i.source === 'GitHub' ? '#58a6ff' : '#da552f'),
-        borderRadius: 6
+        borderRadius: 6,
+        maxBarThickness: 48,
       }]
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      animation: { duration: 400 },
       plugins: {
         legend: { display: false },
         tooltip: { callbacks: { afterLabel: ctx => 'Stars: ' + fmt(stars[ctx.dataIndex]) } }
       },
-      scales: { y: { beginAtZero: true, max: 10, ticks: { stepSize: 1 } } }
+      scales: {
+        y: { min: 0, max: 10, ticks: { stepSize: 1, callback: v => v }, grid: { color: '#21262d' } },
+        x: { grid: { display: false } }
+      }
     }
   });
 }
