@@ -171,6 +171,12 @@ def ai_analyze(items):
         text = resp.choices[0].message.content.strip()
         json_text = re.sub(r'^```(?:json)?\s*|\s*```$', '', text).strip()
         result = json.loads(json_text)
+        # Merge stars + url from original items (AI may not output these)
+        for r in result:
+            idx = r.get("id")
+            if idx is not None and 0 <= idx < len(items):
+                r.setdefault("stars", items[idx].get("stars", 0))
+                r.setdefault("url", items[idx].get("url", ""))
         print(f"[ai] analyzed {len(result)} items")
         return result
     except Exception as exc:
