@@ -1,129 +1,145 @@
 [
   {
     "id": 0,
-    "title": "codecrafters-io/build-your-own-x",
-    "summary": "从零开始重建技术栈",
-    "category": "Developer-Tools",
-    "score": 9,
-    "reason": "实践驱动学习",
+    "title": "build-your-own-x",
+    "summary": "通过复刻技术掌握编程",
+    "category": "Learning",
+    "score": 9.2,
+    "reason": "实战复现热门技术",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 519032,
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "growth": 519032,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 519032
       }
     ]
   },
   {
     "id": 1,
-    "title": "sindresorhus/awesome",
-    "summary": "收集各类资源清单",
-    "category": "Developer-Tools",
-    "score": 9,
-    "reason": "资源大全",
+    "title": "awesome",
+    "summary": "收录各类精选资源列表",
+    "category": "Other",
+    "score": 8.8,
+    "reason": "覆盖面广，社区活跃",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 478400,
+    "url": "https://github.com/sindresorhus/awesome",
+    "growth": 478400,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 478400
       }
     ]
   },
   {
     "id": 2,
-    "title": "freeCodeCamp/freeCodeCamp",
-    "summary": "免费编程教育平台",
+    "title": "freeCodeCamp",
+    "summary": "免费学习编程与计算机科学",
     "category": "Learning",
-    "score": 8,
-    "reason": "全栈课程免费",
+    "score": 9.0,
+    "reason": "完整课程体系，零费用",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 450400,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "growth": 450400,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 450400
       }
     ]
   },
   {
     "id": 3,
-    "title": "public-apis/public-apis",
-    "summary": "免费API目录",
+    "title": "public-apis",
+    "summary": "免费 API 汇总列表",
     "category": "Developer-Tools",
-    "score": 8,
-    "reason": "API一站查询",
+    "score": 8.5,
+    "reason": "资源丰富，易查找",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 443882,
+    "url": "https://github.com/public-apis/public-apis",
+    "growth": 443882,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 443882
       }
     ]
   },
   {
     "id": 4,
-    "title": "EbookFoundation/free-programming-books",
-    "summary": "免费编程书籍合集",
+    "title": "free-programming-books",
+    "summary": "免费编程书籍大全",
     "category": "Learning",
-    "score": 7,
-    "reason": "书籍资源丰富",
+    "score": 8.7,
+    "reason": "书籍齐全，更新及时",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 390717,
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "growth": 390717,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 390717
       }
     ]
   },
   {
     "id": 5,
-    "title": "openclaw/openclaw",
-    "summary": "跨平台AI助手",
+    "title": "openclaw",
+    "summary": "跨平台个人 AI 助手",
     "category": "AI",
-    "score": 7,
-    "reason": "多平台支持",
+    "score": 8.0,
+    "reason": "跨系统兼容，功能全",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 380229,
+    "url": "https://github.com/openclaw/openclaw",
+    "growth": 380229,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 380229
       }
     ]
   },
   {
     "id": 6,
-    "title": "nilbuild/developer-roadmap",
+    "title": "developer-roadmap",
     "summary": "开发者成长路线图",
-    "category": "Learning",
-    "score": 7,
-    "reason": "路径清晰",
+    "category": "Developer-Tools",
+    "score": 8.3,
+    "reason": "结构清晰，实用指引",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 358134,
+    "url": "https://github.com/nilbuild/developer-roadmap",
+    "growth": 358134,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 358134
       }
     ]
   },
   {
     "id": 7,
-    "title": "donnemartin/system-design-primer",
-    "summary": "系统设计学习指南",
-    "category": "Developer-Tools",
-    "score": 8,
-    "reason": "面试准备必备",
+    "title": "system-design-primer",
+    "summary": "系统设计面试全攻略",
+    "category": "DevOps",
+    "score": 8.6,
+    "reason": "案例丰富，面试必备",
     "source": "GitHub",
-    "growth": 0,
+    "stars": 354606,
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "growth": 354606,
     "history": [
       {
         "day": "2026-06-24",
-        "stars": 0
+        "stars": 354606
       }
     ]
   }
