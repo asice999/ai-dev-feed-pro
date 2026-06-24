@@ -24,6 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PH_DEV_TOKEN: ${{ secrets.PH_DEV_TOKEN }}
         run: python scripts/generate.py
       - name: Sync data to frontend
         run: |

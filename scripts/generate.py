@@ -1,237 +1,277 @@
-import json
-import os
-import re
-import sys
-from datetime import datetime, timedelta, timezone
-from pathlib import Path
-
+#!/usr/bin/env python3
+"""AI Trend Radar — GitHub + Product Hunt + AI + TG."""
+import json, os, re, time, sys
 import requests
+from pathlib import Path
 from openai import OpenAI
+from datetime import datetime, timezone, timedelta
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA_FILE = ROOT / "data" / "feed.json"
+HISTORY_FILE = ROOT / "data" / "history.json"
 
 client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
     base_url=os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1"),
 )
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
-
-DATA_FILE = "data/feed.json"
-CATEGORIES = [
-    "AI/ML",
-    "Developer Tools",
-    "Infrastructure",
-    "Frontend",
-    "Backend",
-    "Data Science",
-    "Security",
-    "Mobile",
-    "DevOps",
-    "Learning",
-    "Other",
-]
 
 
-def load_old_feed():
-    """Load previous feed.json if exists, for growth comparison."""
-    if not os.path.exists(DATA_FILE):
-        return {}
-    with open(DATA_FILE) as f:
-        items = json.load(f)
-    return {i["title"]: i.get("stars", 0) for i in items}
+# ---- GitHub ----
 
-
-def fetch_repos():
+def fetch_github():
+    print("[github] fetching trending repos...")
     url = "https://api.github.com/search/repositories"
-    headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
-    params = {
-        "q": "stars:>1000",
-        "sort": "stars",
-        "order": "desc",
-        "per_page": 10,
-    }
-    r = requests.get(url, params=params, headers=headers)
-    data = r.json()
-    if "items" not in data:
-        print(f"GitHub API error: {data}", file=sys.stderr)
-        return []
+    gh_token = os.getenv("GITHUB_TOKEN")
+    headers = {"Authorization": f"Bearer {gh_token}"} if gh_token else {}
+    params = {"q": "stars:>1000", "sort": "stars", "order": "desc", "per_page": 8}
+    r = requests.get(url, params=params, headers=headers, timeout=30)
+    r.raise_for_status()
+    items = r.json().get("items", [])
     repos = []
-    for i in data["items"]:
-        repos.append(
-            {
-                "name": i["full_name"],
-                "desc": i["description"] or "(no description)",
-                "stars": i["stargazers_count"],
-                "forks": i.get("forks_count", 0),
-                "language": i.get("language") or "Unknown",
-                "url": i["html_url"],
-                "created_at": i["created_at"][:10],
-            }
-        )
+    for i in items:
+        repos.append({
+            "title": i["full_name"],
+            "desc": i.get("description") or "",
+            "stars": i["stargazers_count"],
+            "url": i["html_url"],
+            "source": "GitHub",
+        })
+    print(f"[github] got {len(repos)} repos")
     return repos
 
 
-def analyze_repos(repos):
-    cats = ", ".join(CATEGORIES)
-    prompt = f"""Analyze these GitHub repositories and return a JSON array. Pick one category per repo from: {cats}.
+# ---- Product Hunt ----
 
-Repos:
-"""
-    for r in repos:
-        prompt += f"- {r['name']} | ⭐{r['stars']} | lang: {r['language']} | {r['desc']} | url: {r['url']}\n"
+def fetch_producthunt():
+    token = os.getenv("PH_DEV_TOKEN")
+    if not token:
+        print("[ph] PH_DEV_TOKEN not set, trying scrape...")
+        return fetch_ph_scrape()
+    return fetch_ph_api(token)
 
-    prompt += """
-Return ONLY a JSON array (no markdown, no code fences). Each object:
-- "title": repo full name (string)
-- "summary": one-sentence Chinese summary, why trending (string)
-- "category": one of the listed categories (string)
-- "score": relevance 0-10 for AI/developer impact (number)
-- "url": repo url (string)
 
-Example:
-[{"title":"owner/repo","summary":"一句话中文总结","category":"AI/ML","score":9.2,"url":"https://github.com/owner/repo"}]
-"""
-    resp = client.chat.completions.create(
-        model=os.getenv("OPENAI_MODEL", "code-top"),
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.3,
+def fetch_ph_api(token):
+    print("[ph] using API v2...")
+    query = """
+    query {
+      posts(first: 10, order: VOTES) {
+        edges { node {
+          id name tagline url votesCount commentsCount createdAt
+          topics(first: 3) { edges { node { name } } }
+        }}
+      }
+    }"""
+    resp = requests.post(
+        "https://api.producthunt.com/v2/api/graphql",
+        json={"query": query},
+        headers={"Authorization": f"Bearer {token}"},
+        timeout=30,
     )
-    return resp.choices[0].message.content
+    data = resp.json()
+    if "errors" in data:
+        print(f"[ph] API error: {data['errors']}")
+        return []
+    edges = data.get("data", {}).get("posts", {}).get("edges", [])
+    items = []
+    for e in edges:
+        node = e["node"]
+        topics = [t["node"]["name"] for t in node.get("topics", {}).get("edges", [])]
+        items.append({
+            "title": node["name"],
+            "desc": node.get("tagline") or "",
+            "stars": node.get("votesCount", 0),
+            "url": node["url"],
+            "source": "ProductHunt",
+            "topics": topics,
+            "comments": node.get("commentsCount", 0),
+        })
+    print(f"[ph] got {len(items)} products via API")
+    return items
 
 
-def parse_json(raw: str):
-    text = raw.strip()
+def fetch_ph_scrape():
+    print("[ph] scraping homepage...")
     try:
-        return json.loads(text)
-    except json.JSONDecodeError:
-        pass
-    m = re.search(r"```(?:json)?\s*([\s\S]*?)```", text)
-    if m:
-        try:
-            return json.loads(m.group(1).strip())
-        except json.JSONDecodeError:
-            pass
-    m = re.search(r"\[[\s\S]*\]", text)
-    if m:
-        try:
-            return json.loads(m.group(0))
-        except json.JSONDecodeError:
-            pass
-    print(f"JSON parse failed. Raw:\n{raw[:500]}", file=sys.stderr)
-    return []
+        resp = requests.get(
+            "https://www.producthunt.com/",
+            headers={"User-Agent": "Mozilla/5.0 (compatible; TrendRadar/1.0)"},
+            timeout=30,
+        )
+        match = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', resp.text, re.DOTALL)
+        if not match:
+            print("[ph] scrape failed: no __NEXT_DATA__")
+            return []
+        data = json.loads(match.group(1))
+        posts = (data.get("props", {}).get("apolloState", {}) or {})
+        items = []
+        seen = set()
+        for key, val in posts.items():
+            if not key.startswith("Post:"):
+                continue
+            name = val.get("name")
+            if not name or name in seen:
+                continue
+            seen.add(name)
+            topics = []
+            for te in val.get("topics", {}).get("edges", []):
+                tn = te.get("node", {}).get("name", "")
+                if tn:
+                    topics.append(tn)
+            items.append({
+                "title": name,
+                "desc": val.get("tagline") or "",
+                "stars": val.get("votesCount", 0),
+                "url": f"https://www.producthunt.com/posts/{val.get('slug','')}",
+                "source": "ProductHunt",
+                "topics": topics,
+                "comments": val.get("commentsCount", 0),
+            })
+        print(f"[ph] scraped {len(items)} products")
+        return items
+    except Exception as e:
+        print(f"[ph] scrape error: {e}")
+        return []
 
 
-def merge_data(items, old_feed, repos_lookup):
-    """Merge AI analysis with repo metadata, compute growth from old feed."""
-    today_str = datetime.now(timezone.utc).strftime("%m-%d")
-    yesterday_str = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%m-%d")
+# ---- AI Analysis ----
 
+def ai_analyze(items):
+    if not items:
+        return []
+    lines = []
+    for idx, it in enumerate(items):
+        src_tag = f"[{it['source']}]"
+        lines.append(
+            f"ID:{idx} | {src_tag} | {it['title']}\n"
+            f"  描述: {it['desc']}\n"
+            f"  热度: {it['stars']}\n"
+            f"  链接: {it['url']}"
+        )
+    prompt = f"""分析以下 GitHub + Product Hunt 热门项目，逐条输出 JSON 数组。
+
+每个对象字段:
+- id: 整数(ID编号)
+- title: 字符串(项目名)
+- summary: 字符串(中文一句话总结，20字内)
+- category: 字符串(分类: AI/Developer-Tools/Productivity/Design/Learning/SaaS/DevOps/Other)
+- score: 数字(0-10综合评分)
+- reason: 字符串(为什么火，15字内)
+- source: 字符串(保持输入里的source值)
+
+输入:
+{chr(10).join(lines)}
+
+只输出 JSON 数组，不要 markdown 代码块。"""
+    try:
+        resp = client.chat.completions.create(
+            model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+        )
+        text = resp.choices[0].message.content.strip()
+        json_text = re.sub(r'^```(?:json)?\s*|\s*```$', '', text).strip()
+        result = json.loads(json_text)
+        print(f"[ai] analyzed {len(result)} items")
+        return result
+    except Exception as exc:
+        raw_txt = text if 'text' in dir() else 'N/A'
+        print(f"[ai] error: {exc}, raw: {str(raw_txt)[:200]}")
+        return []
+
+
+# ---- Merge with history ----
+
+def load_history():
+    if HISTORY_FILE.exists():
+        return json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+    return {}
+
+
+def save_history(h):
+    HISTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    HISTORY_FILE.write_text(json.dumps(h, ensure_ascii=False), encoding="utf-8")
+
+
+def merge_history(analyzed):
+    old = load_history()
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     result = []
-    for item in items:
-        name = item["title"]
-        repo = repos_lookup.get(name, {})
-        stars = repo.get("stars", 0)
-        old_stars = old_feed.get(name, stars)
-        growth = max(0, stars - old_stars)
-
-        entry = {
-            "title": name,
-            "summary": item["summary"],
-            "category": item.get("category", "Other"),
-            "score": item.get("score", 0),
-            "stars": stars,
-            "forks": repo.get("forks", 0),
-            "language": repo.get("language", "Unknown"),
-            "created_at": repo.get("created_at", ""),
-            "url": item["url"],
-            "growth": growth,
-            "history": [
-                {"day": yesterday_str, "stars": old_stars},
-                {"day": today_str, "stars": stars},
-            ],
-            "updated": datetime.now(timezone.utc).isoformat(),
+    for it in analyzed:
+        key = it.get("title", "")
+        prev = old.get(key, {})
+        history = prev.get("history", [])
+        prev_stars = history[-1]["stars"] if history else 0
+        growth = it.get("stars", 0) - prev_stars
+        history.append({"day": today, "stars": it.get("stars", 0)})
+        if len(history) > 90:
+            history = history[-90:]
+        result.append({**it, "growth": growth, "history": history})
+        old[key] = {
+            "stars": it.get("stars", 0),
+            "history": history,
+            "source": it.get("source", ""),
         }
-        result.append(entry)
-
-    # sort by growth desc
-    result.sort(key=lambda x: x["growth"], reverse=True)
+    save_history(old)
     return result
 
 
+# ---- Save ----
+
 def save_data(items):
-    Path("data").mkdir(exist_ok=True)
-    with open(DATA_FILE, "w") as f:
-        json.dump(items, f, ensure_ascii=False, indent=2)
+    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
+    DATA_FILE.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"[save] {len(items)} items -> data/feed.json")
 
 
-def format_telegram(items):
-    """Format structured data for Telegram Markdown."""
-    lines = ["🔥 *AI Trend Radar*  —  24h Growth\n"]
-    for i in items[:10]:
-        growth = i.get("growth", 0)
-        score = i.get("score", 0)
-        fire = "🟢" if score >= 8 else ("🟡" if score >= 6 else "🔵")
-        boom = " 🚀" if growth >= 500 else ""
-        lines.append(
-            f"{fire} *{i['title']}*  ⭐{i.get('stars',0)}  +{growth}{boom}\n"
-            f"_{i['category']}_  |  评分 {score}\n"
-            f"{i['summary']}\n"
-            f"[🔗 GitHub]({i['url']})"
-        )
-        lines.append("")
-    return "\n".join(lines)
+# ---- Telegram ----
 
-
-def send_telegram(text):
+def send_telegram(items):
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
-        print("⚠️ Telegram not configured, skip")
+        print("[tg] not configured, skip")
         return
+    now = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
+    lines = [f"🤖 <b>AI Trend Radar</b> — {now}\n"]
+    for it in items[:10]:
+        src_emoji = "🐙" if it.get("source") == "GitHub" else "🟠"
+        lines.append(
+            f"{src_emoji} <b>{it['title']}</b>\n"
+            f"  {it.get('summary','')} | ⭐{it.get('score','?')} | {it.get('category','')}\n"
+            f"  {it.get('reason','')}\n"
+            f"  <a href='{it.get('url','')}'>🔗 链接</a>\n"
+        )
+    text = "\n".join(lines)
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     max_len = 4000
-    chunks = []
-    remaining = text
-    while len(remaining) > max_len:
-        split_at = remaining.rfind("\n", 0, max_len)
+    while len(text) > max_len:
+        split_at = text.rfind("\n", 0, max_len)
         if split_at == -1:
             split_at = max_len
-        chunks.append(remaining[:split_at])
-        remaining = remaining[split_at:]
-    chunks.append(remaining)
-    for i, chunk in enumerate(chunks):
-        prefix = f"📬 ({i+1}/{len(chunks)})\n" if len(chunks) > 1 else ""
-        resp = requests.post(
-            url,
-            json={
-                "chat_id": chat_id,
-                "text": prefix + chunk,
-                "parse_mode": "Markdown",
-                "disable_web_page_preview": True,
-            },
-        )
-        if not resp.json().get("ok"):
-            print(f"Telegram error: {resp.text}")
+        requests.post(url, json={
+            "chat_id": chat_id, "text": text[:split_at], "parse_mode": "HTML"
+        }, timeout=15)
+        text = text[split_at:]
+    requests.post(url, json={
+        "chat_id": chat_id, "text": text, "parse_mode": "HTML"
+    }, timeout=15)
+    print("[tg] sent")
 
+
+# ---- Main ----
 
 if __name__ == "__main__":
-    old_feed = load_old_feed()
-    repos = fetch_repos()
-    if not repos:
-        print("No repos fetched, exiting.")
+    gh = fetch_github()
+    ph = fetch_producthunt()
+    all_items = gh + ph
+    if not all_items:
+        print("[main] no items fetched, exiting")
         sys.exit(1)
-
-    repos_lookup = {r["name"]: r for r in repos}
-    print(f"Fetched {len(repos)} repos, analyzing with AI...")
-    raw = analyze_repos(repos)
-    items = parse_json(raw)
-
-    if not items:
-        print("AI analysis failed.")
+    analyzed = ai_analyze(all_items)
+    if not analyzed:
+        print("[main] AI analysis returned empty, exiting")
         sys.exit(1)
-
-    merged = merge_data(items, old_feed, repos_lookup)
+    merged = merge_history(analyzed)
     save_data(merged)
-    print(f"Saved {len(merged)} items to {DATA_FILE}")
-
-    tg = format_telegram(merged)
-    print(tg)
-    send_telegram(tg)
+    send_telegram(merged)
+    print("[main] done")
