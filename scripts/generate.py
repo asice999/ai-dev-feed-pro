@@ -23,7 +23,8 @@ def fetch_github():
     url = "https://api.github.com/search/repositories"
     gh_token = os.getenv("GITHUB_TOKEN")
     headers = {"Authorization": f"Bearer {gh_token}"} if gh_token else {}
-    params = {"q": "stars:>1000", "sort": "stars", "order": "desc", "per_page": 8}
+    since = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%Y-%m-%d")
+    params = {"q": f"created:>{since} stars:>50", "sort": "stars", "order": "desc", "per_page": 8}
     r = requests.get(url, params=params, headers=headers, timeout=30)
     r.raise_for_status()
     items = r.json().get("items", [])
