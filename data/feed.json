@@ -2,144 +2,144 @@
   {
     "id": 0,
     "title": "odysseus",
-    "summary": "自托管 AI 工作区",
+    "summary": "自托管 AI 工作空间",
     "category": "AI",
-    "score": 8,
-    "reason": "热度最高",
-    "source": "pewdiepie-archdaemon/odysseus",
-    "stars": 77492,
+    "score": 9.2,
+    "reason": "热度高，功能全",
+    "source": "GitHub",
+    "stars": 77595,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 77492,
+    "growth": 77595,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 77492
+        "stars": 77595
       }
     ]
   },
   {
     "id": 1,
     "title": "ponytail",
-    "summary": "AI 代码思考助手",
-    "category": "AI",
-    "score": 7,
-    "reason": "热度高",
-    "source": "DietrichGebert/ponytail",
-    "stars": 55657,
+    "summary": "AI 代理懒惰代码生成",
+    "category": "Developer-Tools",
+    "score": 8.7,
+    "reason": "创意独特，实用",
+    "source": "GitHub",
+    "stars": 56535,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 55657,
+    "growth": 56535,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 55657
+        "stars": 56535
       }
     ]
   },
   {
     "id": 2,
     "title": "MiMo-Code",
-    "summary": "模型与 agents 共进",
+    "summary": "模型与代理共同进化平台",
     "category": "AI",
-    "score": 6,
-    "reason": "热度中等",
-    "source": "XiaomiMiMo/MiMo-Code",
-    "stars": 10640,
+    "score": 7.5,
+    "reason": "新颖概念，社区关注",
+    "source": "GitHub",
+    "stars": 10674,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10640,
+    "growth": 10674,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 10640
+        "stars": 10674
       }
     ]
   },
   {
     "id": 3,
     "title": "book",
-    "summary": "Astrid OS 官方参考",
+    "summary": "Astrid OS 官方文档",
     "category": "DevOps",
-    "score": 5,
-    "reason": "热度适中",
-    "source": "unicity-astrid/book",
-    "stars": 7109,
+    "score": 6.8,
+    "reason": "技术深度，用户少",
+    "source": "GitHub",
+    "stars": 7211,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7109,
+    "growth": 7211,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 7109
+        "stars": 7211
       }
     ]
   },
   {
     "id": 4,
     "title": "handbook",
-    "summary": "Astrid 工作流指南",
-    "category": "Learning",
-    "score": 5,
-    "reason": "热度适中",
-    "source": "unicity-astrid/handbook",
-    "stars": 7059,
+    "summary": "Astrid 开发指南",
+    "category": "DevOps",
+    "score": 6.7,
+    "reason": "配套文档，贡献指南",
+    "source": "GitHub",
+    "stars": 7164,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7059,
+    "growth": 7164,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 7059
+        "stars": 7164
       }
     ]
   },
   {
     "id": 5,
     "title": "Unlimited-OCR",
-    "summary": "一站式 OCR 解析",
-    "category": "Developer-Tools",
-    "score": 6,
-    "reason": "热度中等",
-    "source": "baidu/Unlimited-OCR",
-    "stars": 6616,
+    "summary": "无限长文本 OCR 引擎",
+    "category": "AI",
+    "score": 7.2,
+    "reason": "百度技术，应用广",
+    "source": "GitHub",
+    "stars": 6935,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 6616,
+    "growth": 6935,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 6616
+        "stars": 6935
       }
     ]
   },
   {
     "id": 6,
     "title": "improve",
-    "summary": "模型审计与计划",
-    "category": "AI",
-    "score": 7,
-    "reason": "热度高",
-    "source": "shadcn/improve",
-    "stars": 6161,
+    "summary": "AI 审计代码并生成执行计划",
+    "category": "Developer-Tools",
+    "score": 7.9,
+    "reason": "提升效率，成本低",
+    "source": "GitHub",
+    "stars": 6175,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6161,
+    "growth": 6175,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 6161
+        "stars": 6175
       }
     ]
   },
   {
     "id": 7,
     "title": "ian-xiaohei-illustrations",
-    "summary": "中文小黑怪图生成",
+    "summary": "中文怪诞插画生成工具",
     "category": "Design",
-    "score": 4,
-    "reason": "热度较低",
-    "source": "helloianneo/ian-xiaohei-illustrations",
-    "stars": 6030,
+    "score": 6.5,
+    "reason": "细分市场，视觉新颖",
+    "source": "GitHub",
+    "stars": 6083,
     "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-    "growth": 6030,
+    "growth": 6083,
     "history": [
       {
         "day": "2026-06-25",
-        "stars": 6030
+        "stars": 6083
       }
     ]
   }
