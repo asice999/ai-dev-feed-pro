@@ -3,143 +3,143 @@
     "id": 0,
     "title": "pewdiepie-archdaemon/odysseus",
     "summary": "自托管AI工作空间",
-    "category": "Developer-Tools",
+    "category": "AI",
     "score": 9,
-    "reason": "自托管AI工作区热度极高",
+    "reason": "自托管AI需求大",
     "source": "[GitHub]",
-    "stars": 77813,
+    "stars": 77919,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 77813,
+    "growth": 77919,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 77813
+        "day": "2026-06-26",
+        "stars": 77919
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像懒人高级开发者思考",
-    "category": "AI",
-    "score": 8.5,
-    "reason": "懒人哲学AI开发",
+    "summary": "懒人高级开发者思维",
+    "category": "Developer-Tools",
+    "score": 8,
+    "reason": "懒人开发哲学",
     "source": "[GitHub]",
-    "stars": 57748,
+    "stars": 58422,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 57748,
+    "growth": 58422,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 57748
+        "day": "2026-06-26",
+        "stars": 58422
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与代理共同进化",
+    "summary": "模型代理协同进化",
     "category": "AI",
     "score": 7,
-    "reason": "模型与代理共进化",
+    "reason": "开源协同进化",
     "source": "[GitHub]",
-    "stars": 10732,
+    "stars": 10765,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10732,
+    "growth": 10765,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 10732
+        "day": "2026-06-26",
+        "stars": 10765
       }
     ]
   },
   {
     "id": 3,
     "title": "baidu/Unlimited-OCR",
-    "summary": "一次性长时解析OCR",
+    "summary": "无限OCR长视野解析",
     "category": "AI",
     "score": 7,
-    "reason": "一次性长时解析OCR",
+    "reason": "百度强OCR开源",
     "source": "[GitHub]",
-    "stars": 8223,
+    "stars": 8991,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 8223,
+    "growth": 8991,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 8223
+        "day": "2026-06-26",
+        "stars": 8991
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS内核参考文档",
-    "category": "Developer-Tools",
-    "score": 6.5,
-    "reason": "Astrid OS权威参考",
+    "summary": "Astrid OS参考文档",
+    "category": "Other",
+    "score": 6,
+    "reason": "操作系统规范",
     "source": "[GitHub]",
-    "stars": 7550,
+    "stars": 7579,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7550,
+    "growth": 7579,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 7550
+        "day": "2026-06-26",
+        "stars": 7579
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS开发手册",
-    "category": "Developer-Tools",
-    "score": 6.5,
-    "reason": "Astrid OS工作手册",
+    "summary": "Astrid OS开发指南",
+    "category": "Other",
+    "score": 6,
+    "reason": "贡献流程参考",
     "source": "[GitHub]",
-    "stars": 7496,
+    "stars": 7522,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7496,
+    "growth": 7522,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 7496
+        "day": "2026-06-26",
+        "stars": 7522
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "用最强大模型审计代码",
-    "category": "AI",
-    "score": 7.5,
-    "reason": "审计代码库制定计划执行",
+    "summary": "最强模型审计代码库",
+    "category": "Developer-Tools",
+    "score": 8,
+    "reason": "shadcn品牌",
     "source": "[GitHub]",
-    "stars": 6200,
+    "stars": 6223,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6200,
+    "growth": 6223,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 6200
+        "day": "2026-06-26",
+        "stars": 6223
       }
     ]
   },
   {
     "id": 7,
-    "title": "helloianneo/ian-xiaohei-illustrations",
-    "summary": "中文怪诞配图生成技能",
-    "category": "Design",
-    "score": 6,
-    "reason": "有趣的中文配图生成",
+    "title": "StarTrail-org/PixelRAG",
+    "summary": "像素原生搜索解析",
+    "category": "AI",
+    "score": 7,
+    "reason": "新颖搜索方法",
     "source": "[GitHub]",
-    "stars": 6134,
-    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-    "growth": 6134,
+    "stars": 5338,
+    "url": "https://github.com/StarTrail-org/PixelRAG",
+    "growth": 5338,
     "history": [
       {
-        "day": "2026-06-25",
-        "stars": 6134
+        "day": "2026-06-26",
+        "stars": 5338
       }
     ]
   }
