@@ -5,69 +5,69 @@
     "summary": "自托管AI工作空间",
     "category": "AI",
     "score": 9,
-    "reason": "自托管AI需求大",
-    "source": "[GitHub]",
-    "stars": 77919,
+    "reason": "自托管AI热潮",
+    "source": "GitHub",
+    "stars": 78011,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 77919,
+    "growth": 78011,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 77919
+        "stars": 78011
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "懒人高级开发者思维",
+    "summary": "AI化身懒人开发者",
     "category": "Developer-Tools",
     "score": 8,
-    "reason": "懒人开发哲学",
-    "source": "[GitHub]",
-    "stars": 58422,
+    "reason": "幽默且实用的AI工具",
+    "source": "GitHub",
+    "stars": 59062,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 58422,
+    "growth": 59062,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 58422
+        "stars": 59062
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型代理协同进化",
+    "summary": "模型与智能体协同进化",
     "category": "AI",
     "score": 7,
-    "reason": "开源协同进化",
-    "source": "[GitHub]",
-    "stars": 10765,
+    "reason": "Agent共进化新范式",
+    "source": "GitHub",
+    "stars": 10803,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10765,
+    "growth": 10803,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 10765
+        "stars": 10803
       }
     ]
   },
   {
     "id": 3,
     "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR长视野解析",
+    "summary": "超长文本OCR一次解析",
     "category": "AI",
     "score": 7,
-    "reason": "百度强OCR开源",
-    "source": "[GitHub]",
-    "stars": 8991,
+    "reason": "OCR解析长度突破",
+    "source": "GitHub",
+    "stars": 9823,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 8991,
+    "growth": 9823,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 8991
+        "stars": 9823
       }
     ]
   },
@@ -77,69 +77,69 @@
     "summary": "Astrid OS参考文档",
     "category": "Other",
     "score": 6,
-    "reason": "操作系统规范",
-    "source": "[GitHub]",
-    "stars": 7579,
+    "reason": "操作系统参考文档",
+    "source": "GitHub",
+    "stars": 7572,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7579,
+    "growth": 7572,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 7579
+        "stars": 7572
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS开发指南",
+    "summary": "Astrid OS贡献指南",
     "category": "Other",
     "score": 6,
-    "reason": "贡献流程参考",
-    "source": "[GitHub]",
-    "stars": 7522,
+    "reason": "贡献与开发指南",
+    "source": "GitHub",
+    "stars": 7516,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7522,
+    "growth": 7516,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 7522
+        "stars": 7516
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "最强模型审计代码库",
+    "summary": "审计代码改进流程",
     "category": "Developer-Tools",
     "score": 8,
-    "reason": "shadcn品牌",
-    "source": "[GitHub]",
-    "stars": 6223,
+    "reason": "结合强弱模型审计",
+    "source": "GitHub",
+    "stars": 6229,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6223,
+    "growth": 6229,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 6223
+        "stars": 6229
       }
     ]
   },
   {
     "id": 7,
     "title": "StarTrail-org/PixelRAG",
-    "summary": "像素原生搜索解析",
+    "summary": "可扩展像素原生搜索",
     "category": "AI",
     "score": 7,
-    "reason": "新颖搜索方法",
-    "source": "[GitHub]",
-    "stars": 5338,
+    "reason": "像素级搜索新范式",
+    "source": "GitHub",
+    "stars": 5371,
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "growth": 5338,
+    "growth": 5371,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 5338
+        "stars": 5371
       }
     ]
   }
