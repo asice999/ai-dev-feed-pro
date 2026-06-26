@@ -4,34 +4,34 @@
     "title": "pewdiepie-archdaemon/odysseus",
     "summary": "自托管AI工作空间",
     "category": "AI",
-    "score": 8,
-    "reason": "热度极高自托管AI空间",
+    "score": 9,
+    "reason": "高热度自托管AI",
     "source": "[GitHub]",
-    "stars": 78096,
+    "stars": 78183,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 78096,
+    "growth": 78183,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 78096
+        "stars": 78183
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "AI模仿懒人开发思维",
+    "summary": "AI假装懒人高级开发",
     "category": "AI",
-    "score": 8,
-    "reason": "有趣概念减少编码量",
+    "score": 9,
+    "reason": "有趣概念高热度",
     "source": "[GitHub]",
-    "stars": 59523,
+    "stars": 59918,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 59523,
+    "growth": 59918,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 59523
+        "stars": 59918
       }
     ]
   },
@@ -40,106 +40,106 @@
     "title": "XiaomiMiMo/MiMo-Code",
     "summary": "模型与代理协同进化",
     "category": "AI",
-    "score": 6,
-    "reason": "小米出品AI进化工具",
+    "score": 7,
+    "reason": "小米背景技术新",
     "source": "[GitHub]",
-    "stars": 10833,
+    "stars": 10852,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10833,
+    "growth": 10852,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 10833
+        "stars": 10852
       }
     ]
   },
   {
     "id": 3,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度无限OCR长文解析",
+    "summary": "无限OCR长视野解析",
     "category": "AI",
-    "score": 6,
-    "reason": "百度出品OCR利器",
+    "score": 7,
+    "reason": "百度出品一次识别",
     "source": "[GitHub]",
-    "stars": 10138,
+    "stars": 10290,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 10138,
+    "growth": 10290,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 10138
+        "stars": 10290
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS核心文档",
-    "category": "Learning",
-    "score": 5,
-    "reason": "新操作系统参考文件热",
+    "summary": "Astrid OS内核参考",
+    "category": "Developer-Tools",
+    "score": 6,
+    "reason": "操作系统技术文档",
     "source": "[GitHub]",
-    "stars": 7571,
+    "stars": 7565,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7571,
+    "growth": 7565,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 7571
+        "stars": 7565
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献指南",
+    "summary": "Astrid开发指南",
     "category": "Developer-Tools",
-    "score": 5,
-    "reason": "开源项目协作参考",
+    "score": 6,
+    "reason": "协作流程规范",
     "source": "[GitHub]",
-    "stars": 7515,
+    "stars": 7513,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7515,
+    "growth": 7513,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 7515
+        "stars": 7513
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "用强模型审计代码计划",
+    "summary": "大模型审计代码生成",
     "category": "Developer-Tools",
-    "score": 6,
-    "reason": "shadcn新作代码优化",
+    "score": 7,
+    "reason": "shadcn出品实用",
     "source": "[GitHub]",
-    "stars": 6251,
+    "stars": 6263,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6251,
+    "growth": 6263,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 6251
+        "stars": 6263
       }
     ]
   },
   {
     "id": 7,
     "title": "StarTrail-org/PixelRAG",
-    "summary": "像素原生搜索新范式",
+    "summary": "像素级搜索引擎",
     "category": "AI",
-    "score": 5,
-    "reason": "新搜索概念受关注",
+    "score": 6,
+    "reason": "新范式去解析",
     "source": "[GitHub]",
-    "stars": 5387,
+    "stars": 5409,
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "growth": 5387,
+    "growth": 5409,
     "history": [
       {
         "day": "2026-06-26",
-        "stars": 5387
+        "stars": 5409
       }
     ]
   }
