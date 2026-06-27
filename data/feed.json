@@ -5,97 +5,97 @@
     "summary": "自托管AI工作空间",
     "category": "AI",
     "score": 9,
-    "reason": "高热度自托管AI需求",
+    "reason": "高热度自托管AI",
     "source": "[GitHub]",
-    "stars": 78303,
+    "stars": 78387,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 78303,
+    "growth": 78387,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 78303
+        "stars": 78387
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "AI agent懒惰思考",
+    "summary": "让AI像懒资深开发者思考",
     "category": "AI",
-    "score": 8,
-    "reason": "幽默实用引共鸣",
+    "score": 9,
+    "reason": "有趣理念减少代码",
     "source": "[GitHub]",
-    "stars": 60610,
+    "stars": 61072,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 60610,
+    "growth": 61072,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 60610
+        "stars": 61072
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与代理共进化",
+    "summary": "模型与智能体共同进化",
     "category": "AI",
-    "score": 6,
-    "reason": "小米AI新探索",
+    "score": 7,
+    "reason": "模型智能体共进",
     "source": "[GitHub]",
-    "stars": 10893,
+    "stars": 10908,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10893,
+    "growth": 10908,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 10893
+        "stars": 10908
       }
     ]
   },
   {
     "id": 3,
     "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR长视野解析",
+    "summary": "无限OCR长视距解析",
     "category": "AI",
-    "score": 6,
-    "reason": "百度新版OCR",
+    "score": 7,
+    "reason": "百度OCR突破",
     "source": "[GitHub]",
-    "stars": 10684,
+    "stars": 10881,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 10684,
+    "growth": 10881,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 10684
+        "stars": 10881
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS参考手册",
+    "summary": "Astrid OS官方参考",
     "category": "Other",
-    "score": 5,
-    "reason": "操作系统文档",
+    "score": 6,
+    "reason": "新操作系统文档",
     "source": "[GitHub]",
-    "stars": 7558,
+    "stars": 7557,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7558,
+    "growth": 7557,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 7558
+        "stars": 7557
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS工作手册",
+    "summary": "Astrid OS贡献手册",
     "category": "Other",
-    "score": 5,
-    "reason": "操作系统文档",
+    "score": 6,
+    "reason": "项目协作指南",
     "source": "[GitHub]",
     "stars": 7506,
     "url": "https://github.com/unicity-astrid/handbook",
@@ -110,36 +110,36 @@
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "代码审计与执行计划",
+    "summary": "强模型审计弱模型执行",
     "category": "Developer-Tools",
-    "score": 5,
-    "reason": "shadcn新工具",
+    "score": 8,
+    "reason": "shadcn出品优化成本",
     "source": "[GitHub]",
-    "stars": 6284,
+    "stars": 6293,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6284,
+    "growth": 6293,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 6284
+        "stars": 6293
       }
     ]
   },
   {
     "id": 7,
     "title": "StarTrail-org/PixelRAG",
-    "summary": "像素原生RAG搜索",
+    "summary": "像素级搜索替代解析",
     "category": "AI",
-    "score": 5,
-    "reason": "新颖搜索方式",
+    "score": 7,
+    "reason": "新型搜索范式",
     "source": "[GitHub]",
-    "stars": 5432,
+    "stars": 5452,
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "growth": 5432,
+    "growth": 5452,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 5432
+        "stars": 5452
       }
     ]
   }
