@@ -2,36 +2,36 @@
   {
     "id": 0,
     "title": "pewdiepie-archdaemon/odysseus",
-    "summary": "自托管AI工作空间",
+    "summary": "自托管AI工作区",
     "category": "AI",
     "score": 9,
-    "reason": "高热度自托管AI",
+    "reason": "自托管AI工作台爆火",
     "source": "[GitHub]",
-    "stars": 78183,
+    "stars": 78253,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 78183,
+    "growth": 78253,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 78183
+        "day": "2026-06-27",
+        "stars": 78253
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "AI假装懒人高级开发",
-    "category": "AI",
-    "score": 9,
-    "reason": "有趣概念高热度",
+    "summary": "让AI像懒人开发者思考",
+    "category": "Developer-Tools",
+    "score": 8,
+    "reason": "懒人开发哲学引共鸣",
     "source": "[GitHub]",
-    "stars": 59918,
+    "stars": 60319,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 59918,
+    "growth": 60319,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 59918
+        "day": "2026-06-27",
+        "stars": 60319
       }
     ]
   },
@@ -41,33 +41,33 @@
     "summary": "模型与代理协同进化",
     "category": "AI",
     "score": 7,
-    "reason": "小米背景技术新",
+    "reason": "模型代理协同进化新范式",
     "source": "[GitHub]",
-    "stars": 10852,
+    "stars": 10874,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10852,
+    "growth": 10874,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 10852
+        "day": "2026-06-27",
+        "stars": 10874
       }
     ]
   },
   {
     "id": 3,
     "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR长视野解析",
+    "summary": "一键长程OCR解析",
     "category": "AI",
     "score": 7,
-    "reason": "百度出品一次识别",
+    "reason": "百度开源长程OCR",
     "source": "[GitHub]",
-    "stars": 10290,
+    "stars": 10477,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 10290,
+    "growth": 10477,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 10290
+        "day": "2026-06-27",
+        "stars": 10477
       }
     ]
   },
@@ -75,71 +75,71 @@
     "id": 4,
     "title": "unicity-astrid/book",
     "summary": "Astrid OS内核参考",
-    "category": "Developer-Tools",
+    "category": "Other",
     "score": 6,
-    "reason": "操作系统技术文档",
+    "reason": "Astrid OS内核参考书",
     "source": "[GitHub]",
-    "stars": 7565,
+    "stars": 7558,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7565,
+    "growth": 7558,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 7565
+        "day": "2026-06-27",
+        "stars": 7558
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid开发指南",
-    "category": "Developer-Tools",
+    "summary": "Astrid OS贡献流程",
+    "category": "Other",
     "score": 6,
-    "reason": "协作流程规范",
+    "reason": "Astrid OS开发流程手册",
     "source": "[GitHub]",
-    "stars": 7513,
+    "stars": 7506,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7513,
+    "growth": 7506,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 7513
+        "day": "2026-06-27",
+        "stars": 7506
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "大模型审计代码生成",
+    "summary": "用强模型审计代码",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "shadcn出品实用",
+    "reason": "shadcn代码审计新工具",
     "source": "[GitHub]",
-    "stars": 6263,
+    "stars": 6279,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6263,
+    "growth": 6279,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 6263
+        "day": "2026-06-27",
+        "stars": 6279
       }
     ]
   },
   {
     "id": 7,
     "title": "StarTrail-org/PixelRAG",
-    "summary": "像素级搜索引擎",
+    "summary": "像素级搜索RAG",
     "category": "AI",
     "score": 6,
-    "reason": "新范式去解析",
+    "reason": "像素级RAG搜索新思路",
     "source": "[GitHub]",
-    "stars": 5409,
+    "stars": 5423,
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "growth": 5409,
+    "growth": 5423,
     "history": [
       {
-        "day": "2026-06-26",
-        "stars": 5409
+        "day": "2026-06-27",
+        "stars": 5423
       }
     ]
   }
