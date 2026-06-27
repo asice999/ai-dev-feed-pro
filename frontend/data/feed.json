@@ -5,80 +5,80 @@
     "summary": "自托管AI工作空间",
     "category": "AI",
     "score": 9,
-    "reason": "高热度自托管AI",
-    "source": "[GitHub]",
-    "stars": 78387,
+    "reason": "高星自托管AI",
+    "source": "GitHub",
+    "stars": 78495,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 78387,
+    "growth": 78495,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 78387
+        "stars": 78495
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像懒资深开发者思考",
-    "category": "AI",
-    "score": 9,
-    "reason": "有趣理念减少代码",
-    "source": "[GitHub]",
-    "stars": 61072,
+    "summary": "AI懒人开发思维",
+    "category": "Developer-Tools",
+    "score": 8,
+    "reason": "减少编写代码",
+    "source": "GitHub",
+    "stars": 61582,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 61072,
+    "growth": 61582,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 61072
+        "stars": 61582
       }
     ]
   },
   {
     "id": 2,
-    "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与智能体共同进化",
+    "title": "baidu/Unlimited-OCR",
+    "summary": "无限OCR长时解析",
     "category": "AI",
     "score": 7,
-    "reason": "模型智能体共进",
-    "source": "[GitHub]",
-    "stars": 10908,
-    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10908,
+    "reason": "百度OCR突破",
+    "source": "GitHub",
+    "stars": 11011,
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "growth": 11011,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 10908
+        "stars": 11011
       }
     ]
   },
   {
     "id": 3,
-    "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR长视距解析",
+    "title": "XiaomiMiMo/MiMo-Code",
+    "summary": "模型代理共演代码",
     "category": "AI",
     "score": 7,
-    "reason": "百度OCR突破",
-    "source": "[GitHub]",
-    "stars": 10881,
-    "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 10881,
+    "reason": "小米模型共演",
+    "source": "GitHub",
+    "stars": 10928,
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "growth": 10928,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 10881
+        "stars": 10928
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS官方参考",
+    "summary": "Astrid OS参考",
     "category": "Other",
     "score": 6,
-    "reason": "新操作系统文档",
-    "source": "[GitHub]",
+    "reason": "OS手册高星",
+    "source": "GitHub",
     "stars": 7557,
     "url": "https://github.com/unicity-astrid/book",
     "growth": 7557,
@@ -92,11 +92,11 @@
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献手册",
+    "summary": "Astrid OS贡献指南",
     "category": "Other",
     "score": 6,
-    "reason": "项目协作指南",
-    "source": "[GitHub]",
+    "reason": "贡献指南高星",
+    "source": "GitHub",
     "stars": 7506,
     "url": "https://github.com/unicity-astrid/handbook",
     "growth": 7506,
@@ -110,36 +110,36 @@
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "强模型审计弱模型执行",
+    "summary": "模型审计规划执行",
     "category": "Developer-Tools",
-    "score": 8,
-    "reason": "shadcn出品优化成本",
-    "source": "[GitHub]",
-    "stars": 6293,
+    "score": 7,
+    "reason": "shadcn出品",
+    "source": "GitHub",
+    "stars": 6313,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6293,
+    "growth": 6313,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 6293
+        "stars": 6313
       }
     ]
   },
   {
     "id": 7,
     "title": "StarTrail-org/PixelRAG",
-    "summary": "像素级搜索替代解析",
+    "summary": "像素原生搜索",
     "category": "AI",
-    "score": 7,
-    "reason": "新型搜索范式",
-    "source": "[GitHub]",
-    "stars": 5452,
+    "score": 6,
+    "reason": "新搜索范式",
+    "source": "GitHub",
+    "stars": 5485,
     "url": "https://github.com/StarTrail-org/PixelRAG",
-    "growth": 5452,
+    "growth": 5485,
     "history": [
       {
         "day": "2026-06-27",
-        "stars": 5452
+        "stars": 5485
       }
     ]
   }
