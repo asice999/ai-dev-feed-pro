@@ -2,54 +2,54 @@
   {
     "id": 0,
     "title": "pewdiepie-archdaemon/odysseus",
-    "summary": "自托管AI工作空间",
+    "summary": "自托管AI工作区",
     "category": "AI",
-    "score": 8,
-    "reason": "自托管AI，隐私保护强",
+    "score": 9,
+    "reason": "自托管AI workspace爆火",
     "source": "[GitHub]",
-    "stars": 78639,
+    "stars": 78724,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 78639,
+    "growth": 78724,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 78639
+        "stars": 78724
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像懒人开发思考",
+    "summary": "AI像懒癌开发者思考",
     "category": "Developer-Tools",
-    "score": 7,
-    "reason": "懒人哲学，代码减少",
+    "score": 8,
+    "reason": "懒癌思维AI编码梗火",
     "source": "[GitHub]",
-    "stars": 61968,
+    "stars": 62392,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 61968,
+    "growth": 62392,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 61968
+        "stars": 62392
       }
     ]
   },
   {
     "id": 2,
     "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR长文本解析",
+    "summary": "无限OCR一次解析长篇",
     "category": "AI",
-    "score": 6,
-    "reason": "OCR技术突破长文本",
+    "score": 7,
+    "reason": "长文本OCR突破",
     "source": "[GitHub]",
-    "stars": 11120,
+    "stars": 11247,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 11120,
+    "growth": 11247,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 11120
+        "stars": 11247
       }
     ]
   },
@@ -58,88 +58,88 @@
     "title": "XiaomiMiMo/MiMo-Code",
     "summary": "模型与智能体协同进化",
     "category": "AI",
-    "score": 6,
-    "reason": "AI模型与智能体协作",
+    "score": 7,
+    "reason": "小米模型+智能体协同",
     "source": "[GitHub]",
-    "stars": 10944,
+    "stars": 10954,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10944,
+    "growth": 10954,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 10944
+        "stars": 10954
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS参考文档",
+    "summary": "Astrid OS参考手册",
     "category": "Other",
-    "score": 4,
-    "reason": "操作系统规范文档",
+    "score": 6,
+    "reason": "操作系统权威参考",
     "source": "[GitHub]",
-    "stars": 7556,
+    "stars": 7550,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7556,
+    "growth": 7550,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 7556
+        "stars": 7550
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献手册",
+    "summary": "Astrid OS开发指南",
     "category": "Other",
-    "score": 4,
-    "reason": "OS贡献流程指南",
+    "score": 6,
+    "reason": "开发流程指南",
     "source": "[GitHub]",
-    "stars": 7504,
+    "stars": 7498,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7504,
+    "growth": 7498,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 7504
+        "stars": 7498
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "最强模型审计弱模型执行",
+    "summary": "审计代码计划省钱执行",
     "category": "Developer-Tools",
     "score": 8,
-    "reason": "混合模型优化执行成本",
+    "reason": "代码审计+成本优化",
     "source": "[GitHub]",
-    "stars": 6337,
+    "stars": 6344,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6337,
+    "growth": 6344,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 6337
+        "stars": 6344
       }
     ]
   },
   {
     "id": 7,
     "title": "zgwl/chinese-buy-us-stock-guide",
-    "summary": "中国人买美股指南",
+    "summary": "中文美股投资指南",
     "category": "Other",
-    "score": 5,
-    "reason": "美股投资指导热门",
+    "score": 6,
+    "reason": "美股投资实用指南",
     "source": "[GitHub]",
-    "stars": 5358,
+    "stars": 5362,
     "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-    "growth": 5358,
+    "growth": 5362,
     "history": [
       {
         "day": "2026-06-28",
-        "stars": 5358
+        "stars": 5362
       }
     ]
   }
