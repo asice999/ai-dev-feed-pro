@@ -4,142 +4,142 @@
     "title": "pewdiepie-archdaemon/odysseus",
     "summary": "自托管AI工作空间",
     "category": "AI",
-    "score": 9,
-    "reason": "高星自托管AI",
-    "source": "GitHub",
-    "stars": 78495,
+    "score": 8,
+    "reason": "自托管AI，隐私保护强",
+    "source": "[GitHub]",
+    "stars": 78639,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 78495,
+    "growth": 78639,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 78495
+        "day": "2026-06-28",
+        "stars": 78639
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "AI懒人开发思维",
+    "summary": "让AI像懒人开发思考",
     "category": "Developer-Tools",
-    "score": 8,
-    "reason": "减少编写代码",
-    "source": "GitHub",
-    "stars": 61582,
+    "score": 7,
+    "reason": "懒人哲学，代码减少",
+    "source": "[GitHub]",
+    "stars": 61968,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 61582,
+    "growth": 61968,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 61582
+        "day": "2026-06-28",
+        "stars": 61968
       }
     ]
   },
   {
     "id": 2,
     "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR长时解析",
+    "summary": "无限OCR长文本解析",
     "category": "AI",
-    "score": 7,
-    "reason": "百度OCR突破",
-    "source": "GitHub",
-    "stars": 11011,
+    "score": 6,
+    "reason": "OCR技术突破长文本",
+    "source": "[GitHub]",
+    "stars": 11120,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 11011,
+    "growth": 11120,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 11011
+        "day": "2026-06-28",
+        "stars": 11120
       }
     ]
   },
   {
     "id": 3,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型代理共演代码",
+    "summary": "模型与智能体协同进化",
     "category": "AI",
-    "score": 7,
-    "reason": "小米模型共演",
-    "source": "GitHub",
-    "stars": 10928,
+    "score": 6,
+    "reason": "AI模型与智能体协作",
+    "source": "[GitHub]",
+    "stars": 10944,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10928,
+    "growth": 10944,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 10928
+        "day": "2026-06-28",
+        "stars": 10944
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS参考",
+    "summary": "Astrid OS参考文档",
     "category": "Other",
-    "score": 6,
-    "reason": "OS手册高星",
-    "source": "GitHub",
-    "stars": 7557,
+    "score": 4,
+    "reason": "操作系统规范文档",
+    "source": "[GitHub]",
+    "stars": 7556,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7557,
+    "growth": 7556,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 7557
+        "day": "2026-06-28",
+        "stars": 7556
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献指南",
+    "summary": "Astrid OS贡献手册",
     "category": "Other",
-    "score": 6,
-    "reason": "贡献指南高星",
-    "source": "GitHub",
-    "stars": 7506,
+    "score": 4,
+    "reason": "OS贡献流程指南",
+    "source": "[GitHub]",
+    "stars": 7504,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7506,
+    "growth": 7504,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 7506
+        "day": "2026-06-28",
+        "stars": 7504
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "模型审计规划执行",
+    "summary": "最强模型审计弱模型执行",
     "category": "Developer-Tools",
-    "score": 7,
-    "reason": "shadcn出品",
-    "source": "GitHub",
-    "stars": 6313,
+    "score": 8,
+    "reason": "混合模型优化执行成本",
+    "source": "[GitHub]",
+    "stars": 6337,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6313,
+    "growth": 6337,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 6313
+        "day": "2026-06-28",
+        "stars": 6337
       }
     ]
   },
   {
     "id": 7,
-    "title": "StarTrail-org/PixelRAG",
-    "summary": "像素原生搜索",
-    "category": "AI",
-    "score": 6,
-    "reason": "新搜索范式",
-    "source": "GitHub",
-    "stars": 5485,
-    "url": "https://github.com/StarTrail-org/PixelRAG",
-    "growth": 5485,
+    "title": "zgwl/chinese-buy-us-stock-guide",
+    "summary": "中国人买美股指南",
+    "category": "Other",
+    "score": 5,
+    "reason": "美股投资指导热门",
+    "source": "[GitHub]",
+    "stars": 5358,
+    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "growth": 5358,
     "history": [
       {
-        "day": "2026-06-27",
-        "stars": 5485
+        "day": "2026-06-28",
+        "stars": 5358
       }
     ]
   }
