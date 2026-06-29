@@ -4,142 +4,142 @@
     "title": "pewdiepie-archdaemon/odysseus",
     "summary": "自托管AI工作空间",
     "category": "AI",
-    "score": 8,
-    "reason": "自托管AI需求旺盛",
-    "source": "[GitHub]",
-    "stars": 78933,
+    "score": 9,
+    "reason": "自托管AI工作空间热度高",
+    "source": "GitHub",
+    "stars": 79045,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 78933,
+    "growth": 79045,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 78933
+        "day": "2026-06-29",
+        "stars": 79045
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI模仿懒资深程序员",
-    "category": "AI",
-    "score": 7,
-    "reason": "懒开发哲学新颖",
-    "source": "[GitHub]",
-    "stars": 63831,
+    "summary": "AI代理像懒高级开发者",
+    "category": "Developer-Tools",
+    "score": 8,
+    "reason": "懒高级开发者AI代理",
+    "source": "GitHub",
+    "stars": 65012,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 63831,
+    "growth": 65012,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 63831
+        "day": "2026-06-29",
+        "stars": 65012
       }
     ]
   },
   {
     "id": 2,
     "title": "baidu/Unlimited-OCR",
-    "summary": "一次扫描长文本OCR",
+    "summary": "无限OCR一次长程解析",
     "category": "AI",
     "score": 6,
-    "reason": "百度出品长文本OCR",
-    "source": "[GitHub]",
-    "stars": 11487,
+    "reason": "百度OCR项目新突破",
+    "source": "GitHub",
+    "stars": 11672,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 11487,
+    "growth": 11672,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 11487
+        "day": "2026-06-29",
+        "stars": 11672
       }
     ]
   },
   {
     "id": 3,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与代理协同进化",
+    "summary": "模型与代理共同进化",
     "category": "AI",
-    "score": 5,
-    "reason": "模型代理协同理念",
-    "source": "[GitHub]",
-    "stars": 10994,
+    "score": 6,
+    "reason": "小米模型代理进化",
+    "source": "GitHub",
+    "stars": 11001,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 10994,
+    "growth": 11001,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 10994
+        "day": "2026-06-29",
+        "stars": 11001
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid操作系统官方手册",
+    "summary": "Astrid OS参考手册",
     "category": "Other",
-    "score": 4,
-    "reason": "操作系统文档需求低",
-    "source": "[GitHub]",
-    "stars": 7547,
+    "score": 5,
+    "reason": "操作系统官方参考",
+    "source": "GitHub",
+    "stars": 7546,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7547,
+    "growth": 7546,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 7547
+        "day": "2026-06-29",
+        "stars": 7546
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献指南",
+    "summary": "Astrid OS开发手册",
     "category": "Other",
-    "score": 4,
-    "reason": "开发协作手册",
-    "source": "[GitHub]",
-    "stars": 7495,
+    "score": 5,
+    "reason": "操作系统开发指引",
+    "source": "GitHub",
+    "stars": 7494,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7495,
+    "growth": 7494,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 7495
+        "day": "2026-06-29",
+        "stars": 7494
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "模型分层审计执行代码",
+    "summary": "模型审计代码廉价模型执行",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "shadcn出品代码优化",
-    "source": "[GitHub]",
-    "stars": 6370,
+    "reason": "shadcn新项目优化代码",
+    "source": "GitHub",
+    "stars": 6387,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6370,
+    "growth": 6387,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 6370
+        "day": "2026-06-29",
+        "stars": 6387
       }
     ]
   },
   {
     "id": 7,
-    "title": "zgwl/chinese-buy-us-stock-guide",
-    "summary": "中文美股投资指南",
-    "category": "Learning",
-    "score": 3,
-    "reason": "炒股指南热度一般",
-    "source": "[GitHub]",
-    "stars": 5370,
-    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-    "growth": 5370,
+    "title": "omnigent-ai/omnigent",
+    "summary": "开源多AI代理编排框架",
+    "category": "AI",
+    "score": 7,
+    "reason": "多AI代理统一编排",
+    "source": "GitHub",
+    "stars": 5324,
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "growth": 5324,
     "history": [
       {
-        "day": "2026-06-28",
-        "stars": 5370
+        "day": "2026-06-29",
+        "stars": 5324
       }
     ]
   }
