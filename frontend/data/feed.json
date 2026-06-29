@@ -5,141 +5,141 @@
     "summary": "自托管AI工作空间",
     "category": "AI",
     "score": 9,
-    "reason": "自托管AI需求旺盛",
-    "source": "[GitHub]",
-    "stars": 79152,
+    "reason": "自托管AI热度高",
+    "source": "GitHub",
+    "stars": 79244,
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "growth": 79152,
+    "growth": 79244,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 79152
+        "stars": 79244
       }
     ]
   },
   {
     "id": 1,
     "title": "DietrichGebert/ponytail",
-    "summary": "AI代理模仿懒人开发者",
+    "summary": "让AI模仿懒高级开发",
     "category": "Developer-Tools",
     "score": 8,
-    "reason": "概念有趣引发讨论",
-    "source": "[GitHub]",
-    "stars": 66078,
+    "reason": "懒开发者梗爆红",
+    "source": "GitHub",
+    "stars": 66731,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 66078,
+    "growth": 66731,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 66078
+        "stars": 66731
       }
     ]
   },
   {
     "id": 2,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度不限长OCR单次解析",
+    "summary": "一次性长文本OCR解析",
     "category": "AI",
-    "score": 6,
-    "reason": "OCR创新突破",
-    "source": "[GitHub]",
-    "stars": 11828,
+    "score": 5,
+    "reason": "百度OCR新突破",
+    "source": "GitHub",
+    "stars": 11926,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 11828,
+    "growth": 11926,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 11828
+        "stars": 11926
       }
     ]
   },
   {
     "id": 3,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与代理协同进化平台",
+    "summary": "模型与代理协同进化",
     "category": "AI",
-    "score": 6,
-    "reason": "小米出品新范式",
-    "source": "[GitHub]",
-    "stars": 11027,
+    "score": 5,
+    "reason": "小米模型进化新",
+    "source": "GitHub",
+    "stars": 11039,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11027,
+    "growth": 11039,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 11027
+        "stars": 11039
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS架构参考手册",
-    "category": "Learning",
-    "score": 4,
-    "reason": "小众技术参考文档",
-    "source": "[GitHub]",
-    "stars": 7544,
+    "summary": "Astrid操作系统参考",
+    "category": "Developer-Tools",
+    "score": 3,
+    "reason": "新OS设计文档",
+    "source": "GitHub",
+    "stars": 7542,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7544,
+    "growth": 7542,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 7544
+        "stars": 7542
       }
     ]
   },
   {
     "id": 5,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献流程手册",
-    "category": "Learning",
-    "score": 4,
-    "reason": "社区规范文档",
-    "source": "[GitHub]",
-    "stars": 7492,
+    "summary": "Astrid开发贡献指南",
+    "category": "Developer-Tools",
+    "score": 3,
+    "reason": "开发流程指南",
+    "source": "GitHub",
+    "stars": 7490,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7492,
+    "growth": 7490,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 7492
+        "stars": 7490
       }
     ]
   },
   {
     "id": 6,
     "title": "shadcn/improve",
-    "summary": "用强模型审计代码弱模型执行",
+    "summary": "用强模型审计代码规划",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "shadcn出品分层思路",
-    "source": "[GitHub]",
-    "stars": 6401,
+    "reason": "shadcn代码审计",
+    "source": "GitHub",
+    "stars": 6413,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6401,
+    "growth": 6413,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 6401
+        "stars": 6413
       }
     ]
   },
   {
     "id": 7,
     "title": "omnigent-ai/omnigent",
-    "summary": "开源多元AI代理编排框架",
-    "category": "Developer-Tools",
-    "score": 7,
-    "reason": "代理编排需求大",
-    "source": "[GitHub]",
-    "stars": 5381,
+    "summary": "开源AI代理编排框架",
+    "category": "AI",
+    "score": 6,
+    "reason": "多代理框架热度",
+    "source": "GitHub",
+    "stars": 5424,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 5381,
+    "growth": 5424,
     "history": [
       {
         "day": "2026-06-29",
-        "stars": 5381
+        "stars": 5424
       }
     ]
   }
