@@ -2,64 +2,64 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI代理像懒人开发者一样思考",
+    "summary": "让AI像最懒开发者写代码",
     "category": "AI",
-    "score": 9,
-    "reason": "幽默理念高热度",
+    "score": 8,
+    "reason": "幽默实用减少代码量",
     "source": "[GitHub]",
-    "stars": 68131,
+    "stars": 68580,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 68131,
+    "growth": 68580,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 68131
+        "stars": 68580
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度无限OCR一次性长距离解析",
+    "summary": "百度无限OCR一次性长解析",
     "category": "AI",
     "score": 7,
-    "reason": "百度出品新方法",
+    "reason": "突破OCR长文本解析",
     "source": "[GitHub]",
-    "stars": 12270,
+    "stars": 12348,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 12270,
+    "growth": 12348,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 12270
+        "stars": 12348
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与代理共同进化框架",
+    "summary": "模型与代理协同进化平台",
     "category": "AI",
-    "score": 7,
-    "reason": "小米开源代理进化",
+    "score": 6.5,
+    "reason": "模型代理协同进化",
     "source": "[GitHub]",
-    "stars": 11103,
+    "stars": 11125,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11103,
+    "growth": 11125,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 11103
+        "stars": 11125
       }
     ]
   },
   {
     "id": 3,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS内核及安全参考",
-    "category": "DevOps",
+    "summary": "Astrid OS官方参考文档",
+    "category": "Other",
     "score": 6,
-    "reason": "操作系统参考文档",
+    "reason": "操作系统官方参考",
     "source": "[GitHub]",
     "stars": 7536,
     "url": "https://github.com/unicity-astrid/book",
@@ -74,10 +74,10 @@
   {
     "id": 4,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献指南与流程",
-    "category": "DevOps",
+    "summary": "Astrid OS开发手册",
+    "category": "Learning",
     "score": 6,
-    "reason": "开发手册详细",
+    "reason": "贡献指南详细",
     "source": "[GitHub]",
     "stars": 7484,
     "url": "https://github.com/unicity-astrid/handbook",
@@ -92,54 +92,54 @@
   {
     "id": 5,
     "title": "shadcn/improve",
-    "summary": "用高级模型审计代码生成计划",
+    "summary": "用强模型审计代码弱模型执行",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "作者影响力有效利用模型",
+    "reason": "优化模型成本",
     "source": "[GitHub]",
-    "stars": 6441,
+    "stars": 6448,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6441,
+    "growth": 6448,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 6441
+        "stars": 6448
       }
     ]
   },
   {
     "id": 6,
-    "title": "omnigent-ai/omnigent",
-    "summary": "开源AI代理框架协调多代理",
-    "category": "AI",
-    "score": 7,
-    "reason": "多代理协作框架",
+    "title": "XxHuberrr/Mineradio",
+    "summary": "沉浸式音乐播放器",
+    "category": "Design",
+    "score": 6,
+    "reason": "沉浸式视觉体验",
     "source": "[GitHub]",
-    "stars": 5564,
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 5564,
+    "stars": 5679,
+    "url": "https://github.com/XxHuberrr/Mineradio",
+    "growth": 5679,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 5564
+        "stars": 5679
       }
     ]
   },
   {
     "id": 7,
-    "title": "XxHuberrr/Mineradio",
-    "summary": "沉浸式音乐播放器视觉效果独特",
-    "category": "Other",
-    "score": 6,
-    "reason": "独特视觉效果",
+    "title": "omnigent-ai/omnigent",
+    "summary": "开源多AI代理编排框架",
+    "category": "AI",
+    "score": 7,
+    "reason": "多AI代理编排",
     "source": "[GitHub]",
-    "stars": 5463,
-    "url": "https://github.com/XxHuberrr/Mineradio",
-    "growth": 5463,
+    "stars": 5653,
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "growth": 5653,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 5463
+        "stars": 5653
       }
     ]
   }
