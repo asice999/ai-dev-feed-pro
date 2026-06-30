@@ -1,145 +1,145 @@
 [
   {
     "id": 0,
-    "title": "ponytail",
-    "summary": "让AI像懒散资深开发者",
+    "title": "DietrichGebert/ponytail",
+    "summary": "让AI代理像懒人开发者一样思考",
     "category": "AI",
     "score": 9,
-    "reason": "幽默老工程师文化",
-    "source": "GitHub",
-    "stars": 67553,
+    "reason": "幽默理念高热度",
+    "source": "[GitHub]",
+    "stars": 68131,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 67553,
+    "growth": 68131,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 67553
+        "stars": 68131
       }
     ]
   },
   {
     "id": 1,
-    "title": "Unlimited-OCR",
-    "summary": "一次性长跨度OCR解析",
+    "title": "baidu/Unlimited-OCR",
+    "summary": "百度无限OCR一次性长距离解析",
     "category": "AI",
-    "score": 8,
-    "reason": "百度OCR开源热度",
-    "source": "GitHub",
-    "stars": 12133,
+    "score": 7,
+    "reason": "百度出品新方法",
+    "source": "[GitHub]",
+    "stars": 12270,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 12133,
+    "growth": 12270,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 12133
+        "stars": 12270
       }
     ]
   },
   {
     "id": 2,
-    "title": "MiMo-Code",
-    "summary": "模型与代理协同进化",
+    "title": "XiaomiMiMo/MiMo-Code",
+    "summary": "模型与代理共同进化框架",
     "category": "AI",
     "score": 7,
-    "reason": "小米AI协同进化",
-    "source": "GitHub",
-    "stars": 11080,
+    "reason": "小米开源代理进化",
+    "source": "[GitHub]",
+    "stars": 11103,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11080,
+    "growth": 11103,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 11080
+        "stars": 11103
       }
     ]
   },
   {
     "id": 3,
-    "title": "book",
-    "summary": "Astrid OS内核参考手册",
-    "category": "Other",
+    "title": "unicity-astrid/book",
+    "summary": "Astrid OS内核及安全参考",
+    "category": "DevOps",
     "score": 6,
-    "reason": "新操作系统参考",
-    "source": "GitHub",
-    "stars": 7543,
+    "reason": "操作系统参考文档",
+    "source": "[GitHub]",
+    "stars": 7536,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7543,
+    "growth": 7536,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 7543
+        "stars": 7536
       }
     ]
   },
   {
     "id": 4,
-    "title": "handbook",
-    "summary": "Astrid OS贡献流程指南",
-    "category": "Other",
+    "title": "unicity-astrid/handbook",
+    "summary": "Astrid OS贡献指南与流程",
+    "category": "DevOps",
     "score": 6,
-    "reason": "贡献流程清晰",
-    "source": "GitHub",
-    "stars": 7491,
+    "reason": "开发手册详细",
+    "source": "[GitHub]",
+    "stars": 7484,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7491,
+    "growth": 7484,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 7491
+        "stars": 7484
       }
     ]
   },
   {
     "id": 5,
-    "title": "improve",
-    "summary": "强模型审计代码弱模型执行",
+    "title": "shadcn/improve",
+    "summary": "用高级模型审计代码生成计划",
     "category": "Developer-Tools",
-    "score": 8,
-    "reason": "shadcn品牌效应",
-    "source": "GitHub",
-    "stars": 6433,
+    "score": 7,
+    "reason": "作者影响力有效利用模型",
+    "source": "[GitHub]",
+    "stars": 6441,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6433,
+    "growth": 6441,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 6433
+        "stars": 6441
       }
     ]
   },
   {
     "id": 6,
-    "title": "omnigent",
-    "summary": "开源AI代理协调框架",
+    "title": "omnigent-ai/omnigent",
+    "summary": "开源AI代理框架协调多代理",
     "category": "AI",
     "score": 7,
-    "reason": "代理编排新范式",
-    "source": "GitHub",
-    "stars": 5494,
+    "reason": "多代理协作框架",
+    "source": "[GitHub]",
+    "stars": 5564,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 5494,
+    "growth": 5564,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 5494
+        "stars": 5564
       }
     ]
   },
   {
     "id": 7,
-    "title": "Mineradio",
-    "summary": "沉浸式粒子音乐播放器",
-    "category": "Design",
+    "title": "XxHuberrr/Mineradio",
+    "summary": "沉浸式音乐播放器视觉效果独特",
+    "category": "Other",
     "score": 6,
-    "reason": "视觉音乐体验独特",
-    "source": "GitHub",
-    "stars": 5263,
+    "reason": "独特视觉效果",
+    "source": "[GitHub]",
+    "stars": 5463,
     "url": "https://github.com/XxHuberrr/Mineradio",
-    "growth": 5263,
+    "growth": 5463,
     "history": [
       {
         "day": "2026-06-30",
-        "stars": 5263
+        "stars": 5463
       }
     ]
   }
