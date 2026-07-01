@@ -2,64 +2,64 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "AI代理懒人思维方式",
+    "summary": "让AI agent装懒，减少代码量",
     "category": "AI",
     "score": 9,
-    "reason": "热度破七万，理念新颖",
+    "reason": "懒人哲学降成本",
     "source": "GitHub",
-    "stars": 70059,
+    "stars": 70312,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 70059,
+    "growth": 70312,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 70059
+        "stars": 70312
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR一次性解析",
+    "summary": "一次性解析长文本OCR",
     "category": "AI",
     "score": 7,
-    "reason": "无限OCR高热度",
+    "reason": "OCR长文本突破",
     "source": "GitHub",
-    "stars": 12739,
+    "stars": 12794,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 12739,
+    "growth": 12794,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 12739
+        "stars": 12794
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与代理协同进化",
+    "summary": "模型与代理共同进化框架",
     "category": "AI",
     "score": 7,
-    "reason": "小米开源代码项目",
+    "reason": "模型代理协同进化",
     "source": "GitHub",
-    "stars": 11176,
+    "stars": 11193,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11176,
+    "growth": 11193,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 11176
+        "stars": 11193
       }
     ]
   },
   {
     "id": 3,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS内核参考",
+    "summary": "Astrid OS官方参考文档",
     "category": "Other",
     "score": 6,
-    "reason": "系统开发参考",
+    "reason": "操作系统规范指南",
     "source": "GitHub",
     "stars": 7536,
     "url": "https://github.com/unicity-astrid/book",
@@ -74,10 +74,10 @@
   {
     "id": 4,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS开发流程",
-    "category": "Developer-Tools",
+    "summary": "Astrid开发流程手册",
+    "category": "Other",
     "score": 6,
-    "reason": "开发规范手册",
+    "reason": "贡献流程指导",
     "source": "GitHub",
     "stars": 7484,
     "url": "https://github.com/unicity-astrid/handbook",
@@ -92,54 +92,54 @@
   {
     "id": 5,
     "title": "shadcn/improve",
-    "summary": "代码审计生成执行计划",
+    "summary": "用强模型审计，弱模型执行",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "shadcn出品代码审计",
+    "reason": "模型分层降成本",
     "source": "GitHub",
-    "stars": 6490,
+    "stars": 6504,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6490,
+    "growth": 6504,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 6490
+        "stars": 6504
       }
     ]
   },
   {
     "id": 6,
     "title": "XxHuberrr/Mineradio",
-    "summary": "电影镜头音乐播放器",
+    "summary": "沉浸式粒子视觉音乐播放器",
     "category": "Other",
     "score": 6,
     "reason": "粒子视觉音乐体验",
     "source": "GitHub",
-    "stars": 6373,
+    "stars": 6468,
     "url": "https://github.com/XxHuberrr/Mineradio",
-    "growth": 6373,
+    "growth": 6468,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 6373
+        "stars": 6468
       }
     ]
   },
   {
     "id": 7,
     "title": "omnigent-ai/omnigent",
-    "summary": "开源AI代理协调框架",
+    "summary": "多AI agent编排框架",
     "category": "AI",
     "score": 7,
-    "reason": "多代理统一框架",
+    "reason": "多agent集成编排",
     "source": "GitHub",
-    "stars": 5891,
+    "stars": 5928,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 5891,
+    "growth": 5928,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 5891
+        "stars": 5928
       }
     ]
   }
