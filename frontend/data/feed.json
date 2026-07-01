@@ -1,65 +1,65 @@
 [
   {
     "id": 0,
-    "title": "ponytail",
-    "summary": "让AI模拟懒散高级开发者思维",
-    "category": "Developer-Tools",
-    "score": 8,
-    "reason": "懒人开发理念受追捧",
+    "title": "DietrichGebert/ponytail",
+    "summary": "AI agent懒人编码哲学",
+    "category": "AI",
+    "score": 9,
+    "reason": "懒人代码理念爆火",
     "source": "GitHub",
-    "stars": 69318,
+    "stars": 69746,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 69318,
+    "growth": 69746,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 69318
+        "stars": 69746
       }
     ]
   },
   {
     "id": 1,
-    "title": "Unlimited-OCR",
-    "summary": "百度出品一键长距OCR解析",
-    "category": "AI",
-    "score": 6,
-    "reason": "OCR新范式不限长度",
+    "title": "baidu/Unlimited-OCR",
+    "summary": "一次性长文本OCR解析",
+    "category": "Developer-Tools",
+    "score": 7,
+    "reason": "长文本OCR突破",
     "source": "GitHub",
-    "stars": 12556,
+    "stars": 12673,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 12556,
+    "growth": 12673,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 12556
+        "stars": 12673
       }
     ]
   },
   {
     "id": 2,
-    "title": "MiMo-Code",
-    "summary": "模型与代理协同进化框架",
+    "title": "XiaomiMiMo/MiMo-Code",
+    "summary": "模型与Agent协同进化",
     "category": "AI",
     "score": 6,
-    "reason": "小米开源模型代理共进化",
+    "reason": "模型Agent共演化",
     "source": "GitHub",
-    "stars": 11148,
+    "stars": 11162,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11148,
+    "growth": 11162,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 11148
+        "stars": 11162
       }
     ]
   },
   {
     "id": 3,
-    "title": "book",
-    "summary": "Astrid操作系统内核参考文档",
+    "title": "unicity-astrid/book",
+    "summary": "Astrid系统架构权威参考",
     "category": "Other",
     "score": 5,
-    "reason": "权威操作系统参考书",
+    "reason": "操作系统设计指南",
     "source": "GitHub",
     "stars": 7536,
     "url": "https://github.com/unicity-astrid/book",
@@ -73,11 +73,11 @@
   },
   {
     "id": 4,
-    "title": "handbook",
-    "summary": "Astrid操作系统贡献指南",
+    "title": "unicity-astrid/handbook",
+    "summary": "Astrid内核开发流程手册",
     "category": "Developer-Tools",
     "score": 5,
-    "reason": "开源协作规则清晰",
+    "reason": "内核开发规范手册",
     "source": "GitHub",
     "stars": 7484,
     "url": "https://github.com/unicity-astrid/handbook",
@@ -91,55 +91,55 @@
   },
   {
     "id": 5,
-    "title": "improve",
-    "summary": "用先进模型审计代码并规划",
+    "title": "shadcn/improve",
+    "summary": "大模型审计代码小模型执行",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "shadcn新工具模型协作",
+    "reason": "模型分工审计执行",
     "source": "GitHub",
-    "stars": 6464,
+    "stars": 6480,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6464,
+    "growth": 6480,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 6464
+        "stars": 6480
       }
     ]
   },
   {
     "id": 6,
-    "title": "Mineradio",
-    "summary": "沉浸式音乐播放器电影镜头视觉",
-    "category": "Design",
+    "title": "XxHuberrr/Mineradio",
+    "summary": "沉浸式电影级音乐播放器",
+    "category": "Other",
     "score": 6,
-    "reason": "新颖视觉与歌词舞台",
+    "reason": "电影镜头粒子视效",
     "source": "GitHub",
-    "stars": 5985,
+    "stars": 6196,
     "url": "https://github.com/XxHuberrr/Mineradio",
-    "growth": 5985,
+    "growth": 6196,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 5985
+        "stars": 6196
       }
     ]
   },
   {
     "id": 7,
-    "title": "omnigent",
-    "summary": "开源多AI代理编排框架",
+    "title": "omnigent-ai/omnigent",
+    "summary": "多Agent开源编排框架",
     "category": "AI",
-    "score": 7,
-    "reason": "统一管理多种AI代理",
+    "score": 8,
+    "reason": "统一多Agent调度",
     "source": "GitHub",
-    "stars": 5798,
+    "stars": 5855,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 5798,
+    "growth": 5855,
     "history": [
       {
         "day": "2026-07-01",
-        "stars": 5798
+        "stars": 5855
       }
     ]
   }
