@@ -1,65 +1,65 @@
 [
   {
     "id": 0,
-    "title": "DietrichGebert/ponytail",
-    "summary": "让AI代理模仿懒惰资深开发者",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "懒人代码哲学",
+    "title": "ponytail",
+    "summary": "让AI模拟懒散资深开发者",
+    "category": "AI",
+    "score": 9,
+    "reason": "懒人哲学吸睛，热度极高",
     "source": "[GitHub]",
-    "stars": 70999,
+    "stars": 71334,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 70999,
+    "growth": 71334,
     "history": [
       {
         "day": "2026-07-02",
-        "stars": 70999
+        "stars": 71334
       }
     ]
   },
   {
     "id": 1,
-    "title": "baidu/Unlimited-OCR",
-    "summary": "百度推出无限OCR长文本解析",
+    "title": "Unlimited-OCR",
+    "summary": "百度开源超长文本OCR",
     "category": "AI",
-    "score": 8,
-    "reason": "OCR技术突破",
+    "score": 7,
+    "reason": "百度出品，OCR新突破",
     "source": "[GitHub]",
-    "stars": 12928,
+    "stars": 12970,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 12928,
+    "growth": 12970,
     "history": [
       {
         "day": "2026-07-02",
-        "stars": 12928
+        "stars": 12970
       }
     ]
   },
   {
     "id": 2,
-    "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "小米MiMo模型与代理共进化",
+    "title": "MiMo-Code",
+    "summary": "小米模型与代理协同进化",
     "category": "AI",
     "score": 7,
-    "reason": "模型代理共进化",
+    "reason": "小米AI布局受关注",
     "source": "[GitHub]",
-    "stars": 11250,
+    "stars": 11270,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11250,
+    "growth": 11270,
     "history": [
       {
         "day": "2026-07-02",
-        "stars": 11250
+        "stars": 11270
       }
     ]
   },
   {
     "id": 3,
-    "title": "unicity-astrid/book",
-    "summary": "Astrid OS规范参考文档",
-    "category": "Learning",
+    "title": "book",
+    "summary": "Astrid OS内核参考手册",
+    "category": "Other",
     "score": 6,
-    "reason": "官方参考文档",
+    "reason": "系统OS项目讨论热",
     "source": "[GitHub]",
     "stars": 7536,
     "url": "https://github.com/unicity-astrid/book",
@@ -73,11 +73,11 @@
   },
   {
     "id": 4,
-    "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献手册",
-    "category": "Learning",
-    "score": 6,
-    "reason": "贡献指南",
+    "title": "handbook",
+    "summary": "Astrid OS贡献指南",
+    "category": "Other",
+    "score": 5,
+    "reason": "与前一项目联动",
     "source": "[GitHub]",
     "stars": 7484,
     "url": "https://github.com/unicity-astrid/handbook",
@@ -91,55 +91,55 @@
   },
   {
     "id": 5,
-    "title": "shadcn/improve",
-    "summary": "shadcn改进代码审计执行计划",
+    "title": "improve",
+    "summary": "强模型审计，弱模型执行",
     "category": "Developer-Tools",
-    "score": 6,
-    "reason": "代码审计优化",
+    "score": 8,
+    "reason": "shadcn出品，高效分工",
     "source": "[GitHub]",
-    "stars": 6557,
+    "stars": 6573,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6557,
+    "growth": 6573,
     "history": [
       {
         "day": "2026-07-02",
-        "stars": 6557
+        "stars": 6573
       }
     ]
   },
   {
     "id": 6,
-    "title": "omnigent-ai/omnigent",
-    "summary": "开源AI代理框架调度多Agent",
+    "title": "omnigent",
+    "summary": "开源多AI代理编排框架",
     "category": "AI",
-    "score": 5,
-    "reason": "多代理编排",
+    "score": 7,
+    "reason": "Agent整合框架热",
     "source": "[GitHub]",
-    "stars": 5984,
+    "stars": 6010,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 5984,
+    "growth": 6010,
     "history": [
       {
         "day": "2026-07-02",
-        "stars": 5984
+        "stars": 6010
       }
     ]
   },
   {
     "id": 7,
-    "title": "deepseek-ai/DeepSpec",
-    "summary": "训练评估投机解码算法码库",
+    "title": "DeepSpec",
+    "summary": "推测解码全栈代码库",
     "category": "AI",
-    "score": 5,
-    "reason": "投机解码算法",
+    "score": 8,
+    "reason": "DeepSeek高效解码方案",
     "source": "[GitHub]",
-    "stars": 5820,
+    "stars": 5839,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 5820,
+    "growth": 5839,
     "history": [
       {
         "day": "2026-07-02",
-        "stars": 5820
+        "stars": 5839
       }
     ]
   }
