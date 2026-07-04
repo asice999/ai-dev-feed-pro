@@ -2,65 +2,65 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像资深懒程序员思考",
-    "category": "AI",
-    "score": 9,
-    "reason": "极简代码哲学引爆共鸣",
-    "source": "[GitHub]",
-    "stars": 73529,
+    "summary": "让AI像最懒的高级工程师一样思考，少写代码。",
+    "category": "Developer-Tools",
+    "score": 8,
+    "reason": "反直觉AI编程理念引爆话题",
+    "source": "GitHub",
+    "stars": 73786,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 73529,
+    "growth": 73786,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 73529
+        "stars": 73786
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度开源无限长文本OCR",
+    "summary": "单次处理超长文本OCR解析新时代。",
     "category": "AI",
-    "score": 8,
-    "reason": "长文本OCR突破性能力",
-    "source": "[GitHub]",
-    "stars": 13234,
+    "score": 7,
+    "reason": "突破长文本OCR技术瓶颈",
+    "source": "GitHub",
+    "stars": 13255,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13234,
+    "growth": 13255,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 13234
+        "stars": 13255
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "小米开源模型与智能体协同框架",
+    "summary": "模型与智能体协同进化的代码框架。",
     "category": "AI",
     "score": 7,
-    "reason": "模型与智能体协同进化",
-    "source": "[GitHub]",
-    "stars": 11400,
+    "reason": "小米开源前沿AI协同架构",
+    "source": "GitHub",
+    "stars": 11415,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11400,
+    "growth": 11415,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 11400
+        "stars": 11415
       }
     ]
   },
   {
     "id": 3,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS内核与安全规范参考",
-    "category": "Other",
+    "summary": "Astrid OS内核、胶囊与安全模型权威参考。",
+    "category": "DevOps",
     "score": 6,
-    "reason": "新操作系统核心文档",
-    "source": "[GitHub]",
+    "reason": "新型操作系统核心文档发布",
+    "source": "GitHub",
     "stars": 7534,
     "url": "https://github.com/unicity-astrid/book",
     "growth": 7534,
@@ -74,11 +74,11 @@
   {
     "id": 4,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS开发流程手册",
-    "category": "Other",
+    "summary": "Astrid OS开发协作与发布流程手册。",
+    "category": "DevOps",
     "score": 6,
-    "reason": "配套开发指南",
-    "source": "[GitHub]",
+    "reason": "OS开发规范透明化吸引贡献",
+    "source": "GitHub",
     "stars": 7481,
     "url": "https://github.com/unicity-astrid/handbook",
     "growth": 7481,
@@ -92,54 +92,54 @@
   {
     "id": 5,
     "title": "shadcn/improve",
-    "summary": "用强模型审计代码生成计划",
+    "summary": "强模型审计代码库，弱模型执行计划。",
     "category": "Developer-Tools",
     "score": 8,
-    "reason": "降本增效的AI代码审计",
-    "source": "[GitHub]",
-    "stars": 6803,
+    "reason": "shadcn出品，模型协作新范式",
+    "source": "GitHub",
+    "stars": 6827,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6803,
+    "growth": 6827,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 6803
+        "stars": 6827
       }
     ]
   },
   {
     "id": 6,
     "title": "omnigent-ai/omnigent",
-    "summary": "开源AI代理框架多模型协调",
+    "summary": "开源AI智能体元框架，统一编排多种编码工具。",
     "category": "AI",
     "score": 7,
-    "reason": "统一多代理编排平台",
-    "source": "[GitHub]",
-    "stars": 6195,
+    "reason": "多智能体统一编排解决碎片化",
+    "source": "GitHub",
+    "stars": 6214,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6195,
+    "growth": 6214,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 6195
+        "stars": 6214
       }
     ]
   },
   {
     "id": 7,
     "title": "deepseek-ai/DeepSpec",
-    "summary": "全栈投机解码训练评估代码",
+    "summary": "训练评估推测解码算法的全栈代码库。",
     "category": "AI",
-    "score": 7,
-    "reason": "投机解码开源实现",
-    "source": "[GitHub]",
-    "stars": 6125,
+    "score": 8,
+    "reason": "DeepSeek开源推理加速核心技术",
+    "source": "GitHub",
+    "stars": 6158,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6125,
+    "growth": 6158,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 6125
+        "stars": 6158
       }
     ]
   }
