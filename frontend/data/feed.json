@@ -1,145 +1,145 @@
 [
   {
     "id": 0,
-    "title": "DietrichGebert/ponytail",
-    "summary": "让AI像懒程序员一样思考",
+    "title": "ponytail",
+    "summary": "让AI模仿懒人代码哲学",
     "category": "AI",
     "score": 9,
-    "reason": "懒程序员概念吸睛",
-    "source": "GitHub",
-    "stars": 72835,
+    "reason": "懒人代码哲学爆火",
+    "source": "[GitHub]",
+    "stars": 73119,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 72835,
+    "growth": 73119,
     "history": [
       {
-        "day": "2026-07-03",
-        "stars": 72835
+        "day": "2026-07-04",
+        "stars": 73119
       }
     ]
   },
   {
     "id": 1,
-    "title": "baidu/Unlimited-OCR",
-    "summary": "百度开源无限制OCR",
+    "title": "Unlimited-OCR",
+    "summary": "百度开源高精度OCR工具",
     "category": "AI",
     "score": 7,
-    "reason": "百度开源OCR新范式",
-    "source": "GitHub",
-    "stars": 13163,
+    "reason": "百度开源高精度OCR",
+    "source": "[GitHub]",
+    "stars": 13190,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13163,
+    "growth": 13190,
     "history": [
       {
-        "day": "2026-07-03",
-        "stars": 13163
+        "day": "2026-07-04",
+        "stars": 13190
       }
     ]
   },
   {
     "id": 2,
-    "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "小米开源模型代理共进框架",
+    "title": "MiMo-Code",
+    "summary": "模型与代理共演化框架",
     "category": "AI",
     "score": 7,
-    "reason": "小米AI框架引人关注",
-    "source": "GitHub",
-    "stars": 11360,
+    "reason": "小米开源模型代理框架",
+    "source": "[GitHub]",
+    "stars": 11374,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11360,
+    "growth": 11374,
     "history": [
       {
-        "day": "2026-07-03",
-        "stars": 11360
+        "day": "2026-07-04",
+        "stars": 11374
       }
     ]
   },
   {
     "id": 3,
-    "title": "unicity-astrid/book",
-    "summary": "Astrid OS内核参考手册",
+    "title": "book",
+    "summary": "Astrid OS内核参考文档",
     "category": "Other",
-    "score": 6,
-    "reason": "新操作系统文档需求",
-    "source": "GitHub",
+    "score": 5,
+    "reason": "Astrid OS官方参考文档",
+    "source": "[GitHub]",
     "stars": 7533,
     "url": "https://github.com/unicity-astrid/book",
     "growth": 7533,
     "history": [
       {
-        "day": "2026-07-03",
+        "day": "2026-07-04",
         "stars": 7533
       }
     ]
   },
   {
     "id": 4,
-    "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献指南",
-    "category": "Other",
-    "score": 6,
-    "reason": "协作规范吸引贡献者",
-    "source": "GitHub",
+    "title": "handbook",
+    "summary": "Astrid OS贡献与流程手册",
+    "category": "Learning",
+    "score": 5,
+    "reason": "Astrid OS贡献指南聚集人气",
+    "source": "[GitHub]",
     "stars": 7481,
     "url": "https://github.com/unicity-astrid/handbook",
     "growth": 7481,
     "history": [
       {
-        "day": "2026-07-03",
+        "day": "2026-07-04",
         "stars": 7481
       }
     ]
   },
   {
     "id": 5,
-    "title": "shadcn/improve",
-    "summary": "用最强模型审计代码生成计划",
+    "title": "improve",
+    "summary": "AI审计代码库生成优化计划",
     "category": "Developer-Tools",
-    "score": 8,
-    "reason": "shadcn出品实用工具",
-    "source": "GitHub",
-    "stars": 6731,
+    "score": 7,
+    "reason": "shadcn出品AI代码审计工具",
+    "source": "[GitHub]",
+    "stars": 6765,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6731,
+    "growth": 6765,
     "history": [
       {
-        "day": "2026-07-03",
-        "stars": 6731
+        "day": "2026-07-04",
+        "stars": 6765
       }
     ]
   },
   {
     "id": 6,
-    "title": "omnigent-ai/omnigent",
+    "title": "omnigent",
     "summary": "开源多AI代理编排框架",
     "category": "AI",
     "score": 7,
-    "reason": "多代理编排热度高",
-    "source": "GitHub",
-    "stars": 6149,
+    "reason": "开源多AI代理编排框架",
+    "source": "[GitHub]",
+    "stars": 6171,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6149,
+    "growth": 6171,
     "history": [
       {
-        "day": "2026-07-03",
-        "stars": 6149
+        "day": "2026-07-04",
+        "stars": 6171
       }
     ]
   },
   {
     "id": 7,
-    "title": "deepseek-ai/DeepSpec",
-    "summary": "DeepSeek开源推测解码框架",
+    "title": "DeepSpec",
+    "summary": "推测解码训练与评估代码库",
     "category": "AI",
-    "score": 8,
-    "reason": "DeepSeek新作推测解码",
-    "source": "GitHub",
-    "stars": 6032,
+    "score": 7,
+    "reason": "DeepSeek开源推测解码框架",
+    "source": "[GitHub]",
+    "stars": 6060,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6032,
+    "growth": 6060,
     "history": [
       {
-        "day": "2026-07-03",
-        "stars": 6032
+        "day": "2026-07-04",
+        "stars": 6060
       }
     ]
   }
