@@ -1,65 +1,65 @@
 [
   {
     "id": 0,
-    "title": "ponytail",
-    "summary": "让AI模仿懒人代码哲学",
+    "title": "DietrichGebert/ponytail",
+    "summary": "让AI像懒散资深开发者思考",
     "category": "AI",
     "score": 9,
-    "reason": "懒人代码哲学爆火",
+    "reason": "幽默概念爆火",
     "source": "[GitHub]",
-    "stars": 73119,
+    "stars": 73332,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 73119,
+    "growth": 73332,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 73119
+        "stars": 73332
       }
     ]
   },
   {
     "id": 1,
-    "title": "Unlimited-OCR",
-    "summary": "百度开源高精度OCR工具",
+    "title": "baidu/Unlimited-OCR",
+    "summary": "百度开源无限OCR解析",
     "category": "AI",
-    "score": 7,
-    "reason": "百度开源高精度OCR",
+    "score": 8,
+    "reason": "百度开源新范式",
     "source": "[GitHub]",
-    "stars": 13190,
+    "stars": 13204,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13190,
+    "growth": 13204,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 13190
+        "stars": 13204
       }
     ]
   },
   {
     "id": 2,
-    "title": "MiMo-Code",
-    "summary": "模型与代理共演化框架",
+    "title": "XiaomiMiMo/MiMo-Code",
+    "summary": "模型与智能体共同进化",
     "category": "AI",
     "score": 7,
-    "reason": "小米开源模型代理框架",
+    "reason": "小米AI新框架",
     "source": "[GitHub]",
-    "stars": 11374,
+    "stars": 11384,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11374,
+    "growth": 11384,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 11374
+        "stars": 11384
       }
     ]
   },
   {
     "id": 3,
-    "title": "book",
-    "summary": "Astrid OS内核参考文档",
+    "title": "unicity-astrid/book",
+    "summary": "Astrid OS官方参考",
     "category": "Other",
-    "score": 5,
-    "reason": "Astrid OS官方参考文档",
+    "score": 6,
+    "reason": "操作系统文档",
     "source": "[GitHub]",
     "stars": 7533,
     "url": "https://github.com/unicity-astrid/book",
@@ -73,11 +73,11 @@
   },
   {
     "id": 4,
-    "title": "handbook",
-    "summary": "Astrid OS贡献与流程手册",
-    "category": "Learning",
-    "score": 5,
-    "reason": "Astrid OS贡献指南聚集人气",
+    "title": "unicity-astrid/handbook",
+    "summary": "Astrid OS开发手册",
+    "category": "Other",
+    "score": 6,
+    "reason": "开发流程指南",
     "source": "[GitHub]",
     "stars": 7481,
     "url": "https://github.com/unicity-astrid/handbook",
@@ -91,55 +91,55 @@
   },
   {
     "id": 5,
-    "title": "improve",
-    "summary": "AI审计代码库生成优化计划",
+    "title": "shadcn/improve",
+    "summary": "用强模型审计代码",
     "category": "Developer-Tools",
-    "score": 7,
-    "reason": "shadcn出品AI代码审计工具",
+    "score": 8,
+    "reason": "shadcn出品成本优化",
     "source": "[GitHub]",
-    "stars": 6765,
+    "stars": 6791,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6765,
+    "growth": 6791,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 6765
+        "stars": 6791
       }
     ]
   },
   {
     "id": 6,
-    "title": "omnigent",
-    "summary": "开源多AI代理编排框架",
+    "title": "omnigent-ai/omnigent",
+    "summary": "开源AI智能体编排框架",
     "category": "AI",
-    "score": 7,
-    "reason": "开源多AI代理编排框架",
+    "score": 8,
+    "reason": "开源编排多种工具",
     "source": "[GitHub]",
-    "stars": 6171,
+    "stars": 6184,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6171,
+    "growth": 6184,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 6171
+        "stars": 6184
       }
     ]
   },
   {
     "id": 7,
-    "title": "DeepSpec",
-    "summary": "推测解码训练与评估代码库",
+    "title": "deepseek-ai/DeepSpec",
+    "summary": "推测解码算法全栈库",
     "category": "AI",
     "score": 7,
-    "reason": "DeepSeek开源推测解码框架",
+    "reason": "DeepSeek出品推测解码",
     "source": "[GitHub]",
-    "stars": 6060,
+    "stars": 6096,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6060,
+    "growth": 6096,
     "history": [
       {
         "day": "2026-07-04",
-        "stars": 6060
+        "stars": 6096
       }
     ]
   }
