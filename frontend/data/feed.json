@@ -2,108 +2,108 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI思维像偷懒高级开发",
+    "summary": "让AI像懒人高级开发者",
     "category": "Developer-Tools",
     "score": 9,
-    "reason": "懒人哲学引热议",
-    "source": "GitHub",
-    "stars": 74200,
+    "reason": "懒人哲学爆火",
+    "source": "[GitHub]",
+    "stars": 74372,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 74200,
+    "growth": 74372,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 74200
+        "stars": 74372
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度开源长视野OCR解析",
+    "summary": "百度无限OCR一次解析",
     "category": "AI",
     "score": 7,
-    "reason": "百度OCR高精度开源",
-    "source": "GitHub",
-    "stars": 13294,
+    "reason": "OCR新范式",
+    "source": "[GitHub]",
+    "stars": 13319,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13294,
+    "growth": 13319,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 13294
+        "stars": 13319
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "小米开源模型代理协同进化",
+    "summary": "模型与代理协同进化",
     "category": "AI",
     "score": 7,
-    "reason": "小米AI框架关注",
-    "source": "GitHub",
-    "stars": 11433,
+    "reason": "模型代理共进化",
+    "source": "[GitHub]",
+    "stars": 11447,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11433,
+    "growth": 11447,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 11433
+        "stars": 11447
       }
     ]
   },
   {
     "id": 3,
     "title": "unicity-astrid/book",
-    "summary": "Astrid OS内核安全参考",
+    "summary": "Astrid系统内核文档",
     "category": "Other",
     "score": 6,
-    "reason": "新OS设计文档",
-    "source": "GitHub",
-    "stars": 7535,
+    "reason": "系统参考手册",
+    "source": "[GitHub]",
+    "stars": 7533,
     "url": "https://github.com/unicity-astrid/book",
-    "growth": 7535,
+    "growth": 7533,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 7535
+        "stars": 7533
       }
     ]
   },
   {
     "id": 4,
     "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献流程手册",
-    "category": "Developer-Tools",
+    "summary": "Astrid开发贡献指南",
+    "category": "Other",
     "score": 6,
-    "reason": "开源OS开发指南",
-    "source": "GitHub",
-    "stars": 7482,
+    "reason": "贡献流程指南",
+    "source": "[GitHub]",
+    "stars": 7480,
     "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7482,
+    "growth": 7480,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 7482
+        "stars": 7480
       }
     ]
   },
   {
     "id": 5,
     "title": "shadcn/improve",
-    "summary": "用强模型审计弱模型执行",
+    "summary": "代码审计并生成执行计划",
     "category": "Developer-Tools",
-    "score": 6,
-    "reason": "智能代码审计方案",
-    "source": "GitHub",
-    "stars": 6883,
+    "score": 8,
+    "reason": "高效代码优化工具",
+    "source": "[GitHub]",
+    "stars": 6911,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6883,
+    "growth": 6911,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 6883
+        "stars": 6911
       }
     ]
   },
@@ -112,34 +112,34 @@
     "title": "omnigent-ai/omnigent",
     "summary": "开源多代理编排框架",
     "category": "AI",
-    "score": 6,
-    "reason": "统一代理框架",
-    "source": "GitHub",
-    "stars": 6262,
+    "score": 7,
+    "reason": "多代理编排",
+    "source": "[GitHub]",
+    "stars": 6282,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6262,
+    "growth": 6282,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 6262
+        "stars": 6282
       }
     ]
   },
   {
     "id": 7,
     "title": "deepseek-ai/DeepSpec",
-    "summary": "全栈推测解码训练评估",
+    "summary": "推测解码训练评估全栈",
     "category": "AI",
-    "score": 6,
-    "reason": "DeepSeek推测解码工具",
-    "source": "GitHub",
-    "stars": 6205,
+    "score": 7,
+    "reason": "推测解码全栈",
+    "source": "[GitHub]",
+    "stars": 6218,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6205,
+    "growth": 6218,
     "history": [
       {
         "day": "2026-07-05",
-        "stars": 6205
+        "stars": 6218
       }
     ]
   }
