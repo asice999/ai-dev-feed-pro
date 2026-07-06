@@ -2,144 +2,144 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像懒程序员减少无用代码",
+    "summary": "懒人编程哲学AI助手",
     "category": "Developer-Tools",
     "score": 9,
-    "reason": "减少无用代码提升效率",
+    "reason": "反内卷编程爆火",
     "source": "GitHub",
-    "stars": 75009,
+    "stars": 75423,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 75009,
+    "growth": 75423,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 75009
+        "stars": 75423
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度开源无限OCR解析工具",
-    "category": "AI",
-    "score": 8,
-    "reason": "突破性长距离解析",
+    "summary": "百度无限OCR解析工具",
+    "category": "Developer-Tools",
+    "score": 7,
+    "reason": "超长OCR一次搞定",
     "source": "GitHub",
-    "stars": 13381,
+    "stars": 13435,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13381,
+    "growth": 13435,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 13381
+        "stars": 13435
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与智能体共同进化",
+    "summary": "模型与代理协同进化",
     "category": "AI",
     "score": 7,
-    "reason": "模型与智能体协同进化",
+    "reason": "小米AI框架新作",
     "source": "GitHub",
-    "stars": 11486,
+    "stars": 11503,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11486,
+    "growth": 11503,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 11486
+        "stars": 11503
       }
     ]
   },
   {
     "id": 3,
     "title": "shadcn/improve",
-    "summary": "用高级模型审计代码生成计划",
+    "summary": "大模型审计代码代理化",
     "category": "Developer-Tools",
-    "score": 6,
-    "reason": "审计代码并生成执行计划",
+    "score": 8,
+    "reason": "降低成本提高效率",
     "source": "GitHub",
-    "stars": 6951,
+    "stars": 6964,
     "url": "https://github.com/shadcn/improve",
-    "growth": 6951,
+    "growth": 6964,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 6951
+        "stars": 6964
       }
     ]
   },
   {
     "id": 4,
     "title": "omnigent-ai/omnigent",
-    "summary": "开源AI agent框架支持多模型编排",
+    "summary": "开源全能AI代理框架",
     "category": "AI",
-    "score": 6,
-    "reason": "无需重写切换框架",
+    "score": 8,
+    "reason": "统合多种AI代理",
     "source": "GitHub",
-    "stars": 6329,
+    "stars": 6351,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6329,
+    "growth": 6351,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 6329
+        "stars": 6351
       }
     ]
   },
   {
     "id": 5,
     "title": "deepseek-ai/DeepSpec",
-    "summary": "训练评估推测解码算法库",
+    "summary": "推测解码训练全栈",
     "category": "AI",
-    "score": 6,
-    "reason": "推测解码全栈实现",
+    "score": 8,
+    "reason": "DeepSeek开源加速",
     "source": "GitHub",
-    "stars": 6255,
+    "stars": 6285,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6255,
+    "growth": 6285,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 6255
+        "stars": 6285
       }
     ]
   },
   {
     "id": 6,
-    "title": "cobusgreyling/loop-engineering",
-    "summary": "AI编码代理循环工程工具",
+    "title": "langchain-ai/openwiki",
+    "summary": "CLI自动维护代理文档",
     "category": "Developer-Tools",
-    "score": 5,
-    "reason": "提供循环工程模式与CLI",
+    "score": 7,
+    "reason": "文档自动化新工具",
     "source": "GitHub",
-    "stars": 5993,
-    "url": "https://github.com/cobusgreyling/loop-engineering",
-    "growth": 5993,
+    "stars": 6266,
+    "url": "https://github.com/langchain-ai/openwiki",
+    "growth": 6266,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 5993
+        "stars": 6266
       }
     ]
   },
   {
     "id": 7,
-    "title": "langchain-ai/openwiki",
-    "summary": "CLI工具自动维护代码文档",
+    "title": "cobusgreyling/loop-engineering",
+    "summary": "循环工程实用模式集",
     "category": "Developer-Tools",
-    "score": 5,
-    "reason": "自动生成维护代理文档",
+    "score": 7,
+    "reason": "代理编程实战指南",
     "source": "GitHub",
-    "stars": 5490,
-    "url": "https://github.com/langchain-ai/openwiki",
-    "growth": 5490,
+    "stars": 6103,
+    "url": "https://github.com/cobusgreyling/loop-engineering",
+    "growth": 6103,
     "history": [
       {
         "day": "2026-07-06",
-        "stars": 5490
+        "stars": 6103
       }
     ]
   }
