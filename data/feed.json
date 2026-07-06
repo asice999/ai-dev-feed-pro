@@ -2,144 +2,144 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像懒程序员般不写代码。",
-    "category": "AI",
+    "summary": "让AI像懒程序员减少无用代码",
+    "category": "Developer-Tools",
     "score": 9,
-    "reason": "幽默理念引共鸣",
-    "source": "[GitHub]",
-    "stars": 74652,
+    "reason": "减少无用代码提升效率",
+    "source": "GitHub",
+    "stars": 75009,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 74652,
+    "growth": 75009,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 74652
+        "day": "2026-07-06",
+        "stars": 75009
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度无限OCR单次长程解析。",
+    "summary": "百度开源无限OCR解析工具",
     "category": "AI",
-    "score": 7,
-    "reason": "百度OCR新突破",
-    "source": "[GitHub]",
-    "stars": 13345,
+    "score": 8,
+    "reason": "突破性长距离解析",
+    "source": "GitHub",
+    "stars": 13381,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13345,
+    "growth": 13381,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 13345
+        "day": "2026-07-06",
+        "stars": 13381
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "小米模型与代理协同进化。",
+    "summary": "模型与智能体共同进化",
     "category": "AI",
     "score": 7,
-    "reason": "小米AI战略体现",
-    "source": "[GitHub]",
-    "stars": 11464,
+    "reason": "模型与智能体协同进化",
+    "source": "GitHub",
+    "stars": 11486,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11464,
+    "growth": 11486,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 11464
+        "day": "2026-07-06",
+        "stars": 11486
       }
     ]
   },
   {
     "id": 3,
-    "title": "unicity-astrid/book",
-    "summary": "Astrid OS规范参考书。",
-    "category": "Other",
+    "title": "shadcn/improve",
+    "summary": "用高级模型审计代码生成计划",
+    "category": "Developer-Tools",
     "score": 6,
-    "reason": "系统开发必读",
-    "source": "[GitHub]",
-    "stars": 7533,
-    "url": "https://github.com/unicity-astrid/book",
-    "growth": 7533,
+    "reason": "审计代码并生成执行计划",
+    "source": "GitHub",
+    "stars": 6951,
+    "url": "https://github.com/shadcn/improve",
+    "growth": 6951,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 7533
+        "day": "2026-07-06",
+        "stars": 6951
       }
     ]
   },
   {
     "id": 4,
-    "title": "unicity-astrid/handbook",
-    "summary": "Astrid OS贡献指南手册。",
-    "category": "Learning",
+    "title": "omnigent-ai/omnigent",
+    "summary": "开源AI agent框架支持多模型编排",
+    "category": "AI",
     "score": 6,
-    "reason": "社区贡献指南清晰",
-    "source": "[GitHub]",
-    "stars": 7480,
-    "url": "https://github.com/unicity-astrid/handbook",
-    "growth": 7480,
+    "reason": "无需重写切换框架",
+    "source": "GitHub",
+    "stars": 6329,
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "growth": 6329,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 7480
+        "day": "2026-07-06",
+        "stars": 6329
       }
     ]
   },
   {
     "id": 5,
-    "title": "shadcn/improve",
-    "summary": "强模型审计代码弱模型执行。",
-    "category": "Developer-Tools",
+    "title": "deepseek-ai/DeepSpec",
+    "summary": "训练评估推测解码算法库",
+    "category": "AI",
     "score": 6,
-    "reason": "shadcn新作优化流程",
-    "source": "[GitHub]",
-    "stars": 6929,
-    "url": "https://github.com/shadcn/improve",
-    "growth": 6929,
+    "reason": "推测解码全栈实现",
+    "source": "GitHub",
+    "stars": 6255,
+    "url": "https://github.com/deepseek-ai/DeepSpec",
+    "growth": 6255,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 6929
+        "day": "2026-07-06",
+        "stars": 6255
       }
     ]
   },
   {
     "id": 6,
-    "title": "omnigent-ai/omnigent",
-    "summary": "开源AI代理框架多模型协作。",
-    "category": "AI",
-    "score": 6,
-    "reason": "多模型编排热题",
-    "source": "[GitHub]",
-    "stars": 6304,
-    "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6304,
+    "title": "cobusgreyling/loop-engineering",
+    "summary": "AI编码代理循环工程工具",
+    "category": "Developer-Tools",
+    "score": 5,
+    "reason": "提供循环工程模式与CLI",
+    "source": "GitHub",
+    "stars": 5993,
+    "url": "https://github.com/cobusgreyling/loop-engineering",
+    "growth": 5993,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 6304
+        "day": "2026-07-06",
+        "stars": 5993
       }
     ]
   },
   {
     "id": 7,
-    "title": "deepseek-ai/DeepSpec",
-    "summary": "DeepSeek开源推测解码算法库。",
-    "category": "AI",
-    "score": 6,
-    "reason": "推测解码新工具",
-    "source": "[GitHub]",
-    "stars": 6231,
-    "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6231,
+    "title": "langchain-ai/openwiki",
+    "summary": "CLI工具自动维护代码文档",
+    "category": "Developer-Tools",
+    "score": 5,
+    "reason": "自动生成维护代理文档",
+    "source": "GitHub",
+    "stars": 5490,
+    "url": "https://github.com/langchain-ai/openwiki",
+    "growth": 5490,
     "history": [
       {
-        "day": "2026-07-05",
-        "stars": 6231
+        "day": "2026-07-06",
+        "stars": 5490
       }
     ]
   }
