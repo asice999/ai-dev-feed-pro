@@ -2,36 +2,36 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像最懒高级开发者那样思考",
+    "summary": "让AI像懒资深开发者",
     "category": "AI",
-    "score": 9,
-    "reason": "幽默懒惰哲学，节省代码",
+    "score": 8,
+    "reason": "懒哲学引共鸣",
     "source": "[GitHub]",
-    "stars": 76037,
+    "stars": 76360,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 76037,
+    "growth": 76360,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 76037
+        "stars": 76360
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "一次性长程解析无限OCR",
+    "summary": "一次性长时序OCR解析",
     "category": "AI",
-    "score": 7,
-    "reason": "百度开源，OCR长解析新突破",
+    "score": 6,
+    "reason": "百度开源OCR",
     "source": "[GitHub]",
-    "stars": 13515,
+    "stars": 13547,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13515,
+    "growth": 13547,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 13515
+        "stars": 13547
       }
     ]
   },
@@ -40,106 +40,106 @@
     "title": "XiaomiMiMo/MiMo-Code",
     "summary": "模型与智能体协同进化",
     "category": "AI",
-    "score": 7,
-    "reason": "小米开源，Agent进化新范式",
+    "score": 6,
+    "reason": "小米开源模型agent",
     "source": "[GitHub]",
-    "stars": 11547,
+    "stars": 11566,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11547,
+    "growth": 11566,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 11547
+        "stars": 11566
       }
     ]
   },
   {
     "id": 3,
     "title": "langchain-ai/openwiki",
-    "summary": "CLI自动化代码库文档维护",
+    "summary": "自动生成代码库文档",
     "category": "Developer-Tools",
-    "score": 7,
-    "reason": "LangChain官方，文档自动化利器",
+    "score": 6,
+    "reason": "Langchain文档工具",
     "source": "[GitHub]",
-    "stars": 7771,
+    "stars": 8277,
     "url": "https://github.com/langchain-ai/openwiki",
-    "growth": 7771,
+    "growth": 8277,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 7771
+        "stars": 8277
       }
     ]
   },
   {
     "id": 4,
     "title": "shadcn/improve",
-    "summary": "大模型审计代码，小模型执行",
+    "summary": "强模型审计弱模型执行",
     "category": "Developer-Tools",
-    "score": 8,
-    "reason": "shadcn新作，代码成本优化神器",
+    "score": 5,
+    "reason": "shadcn代码审计",
     "source": "[GitHub]",
-    "stars": 7154,
+    "stars": 7251,
     "url": "https://github.com/shadcn/improve",
-    "growth": 7154,
+    "growth": 7251,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 7154
+        "stars": 7251
       }
     ]
   },
   {
     "id": 5,
     "title": "omnigent-ai/omnigent",
-    "summary": "开源多Agent编排与协作框架",
+    "summary": "开源AI智能体编排框架",
     "category": "AI",
-    "score": 7,
-    "reason": "集成多Agent，实时跨平台协作",
+    "score": 5,
+    "reason": "多agent协同热",
     "source": "[GitHub]",
-    "stars": 6466,
+    "stars": 6511,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6466,
+    "growth": 6511,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 6466
+        "stars": 6511
       }
     ]
   },
   {
     "id": 6,
     "title": "deepseek-ai/DeepSpec",
-    "summary": "投机解码训练评估全栈实现",
+    "summary": "投机解码训练评估代码库",
     "category": "AI",
-    "score": 8,
-    "reason": "DeepSeek开源，加速推理新方法",
+    "score": 5,
+    "reason": "DeepSeek加速推理",
     "source": "[GitHub]",
-    "stars": 6332,
+    "stars": 6352,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6332,
+    "growth": 6352,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 6332
+        "stars": 6352
       }
     ]
   },
   {
     "id": 7,
     "title": "cobusgreyling/loop-engineering",
-    "summary": "AI编码Agent循环工程CLI工具",
+    "summary": "AI编码智能体循环工程",
     "category": "Developer-Tools",
-    "score": 7,
-    "reason": "工程化Agent循环，实用CLI集合",
+    "score": 5,
+    "reason": "实用循环CLI",
     "source": "[GitHub]",
-    "stars": 6231,
+    "stars": 6305,
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "growth": 6231,
+    "growth": 6305,
     "history": [
       {
         "day": "2026-07-07",
-        "stars": 6231
+        "stars": 6305
       }
     ]
   }
