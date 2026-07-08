@@ -2,144 +2,144 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI代理像懒人开发者思考",
-    "category": "AI",
+    "summary": "让AI像懒人开发者",
+    "category": "Developer-Tools",
     "score": 9,
-    "reason": "懒人哲学引共鸣",
+    "reason": "幽默懒人思路引共鸣",
     "source": "GitHub",
-    "stars": 77015,
+    "stars": 77298,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 77015,
+    "growth": 77298,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 77015
+        "stars": 77298
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "无限OCR单次长时解析",
+    "summary": "百度无限字符OCR解析",
     "category": "AI",
-    "score": 7,
-    "reason": "OCR新范式受关注",
+    "score": 8,
+    "reason": "百度开源OCR新方案",
     "source": "GitHub",
-    "stars": 13631,
+    "stars": 13666,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13631,
+    "growth": 13666,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 13631
+        "stars": 13666
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型代理协同进化代码",
+    "summary": "模型与智能代理共演化",
     "category": "AI",
     "score": 7,
-    "reason": "共进化概念创新",
+    "reason": "小米AI代码模型开源",
     "source": "GitHub",
-    "stars": 11598,
+    "stars": 11608,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11598,
+    "growth": 11608,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 11598
+        "stars": 11608
       }
     ]
   },
   {
     "id": 3,
     "title": "langchain-ai/openwiki",
-    "summary": "CLI自动维护代理文档",
+    "summary": "CLI自动维护代码文档",
     "category": "Developer-Tools",
-    "score": 7,
-    "reason": "自动文档化节省时间",
+    "score": 8,
+    "reason": "自动维护代理文档",
     "source": "GitHub",
-    "stars": 9139,
+    "stars": 9427,
     "url": "https://github.com/langchain-ai/openwiki",
-    "growth": 9139,
+    "growth": 9427,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 9139
+        "stars": 9427
       }
     ]
   },
   {
     "id": 4,
     "title": "shadcn/improve",
-    "summary": "强模型审计代码弱模型执行",
+    "summary": "多模型审计降低开发成本",
     "category": "Developer-Tools",
-    "score": 8,
-    "reason": "shadcn品牌加持",
+    "score": 7,
+    "reason": "shadcn新作多模型分工",
     "source": "GitHub",
-    "stars": 7444,
+    "stars": 7465,
     "url": "https://github.com/shadcn/improve",
-    "growth": 7444,
+    "growth": 7465,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 7444
+        "stars": 7465
       }
     ]
   },
   {
     "id": 5,
     "title": "omnigent-ai/omnigent",
-    "summary": "开源多AI代理元框架",
+    "summary": "开源多智能体编排框架",
     "category": "AI",
     "score": 8,
-    "reason": "统一编排多种AI代理",
+    "reason": "多智能体协作框架",
     "source": "GitHub",
-    "stars": 6651,
+    "stars": 6693,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6651,
+    "growth": 6693,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 6651
+        "stars": 6693
       }
     ]
   },
   {
     "id": 6,
     "title": "cobusgreyling/loop-engineering",
-    "summary": "AI代理循环工程工具集",
+    "summary": "AI编码代理循环工程",
     "category": "Developer-Tools",
-    "score": 7,
-    "reason": "实用CLI工具模式",
+    "score": 6,
+    "reason": "循环工程模式工具",
     "source": "GitHub",
-    "stars": 6433,
+    "stars": 6503,
     "url": "https://github.com/cobusgreyling/loop-engineering",
-    "growth": 6433,
+    "growth": 6503,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 6433
+        "stars": 6503
       }
     ]
   },
   {
     "id": 7,
     "title": "deepseek-ai/DeepSpec",
-    "summary": "推测解码全栈训练评估库",
+    "summary": "全栈投机解码训练评估",
     "category": "AI",
-    "score": 8,
-    "reason": "DeepSeek开源推测解码",
+    "score": 7,
+    "reason": "DeepSeek投机解码开源",
     "source": "GitHub",
-    "stars": 6407,
+    "stars": 6427,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6407,
+    "growth": 6427,
     "history": [
       {
         "day": "2026-07-08",
-        "stars": 6407
+        "stars": 6427
       }
     ]
   }
