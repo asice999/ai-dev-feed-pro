@@ -136,6 +136,43 @@ def fetch_ph_scrape():
 
 # ---- AI Analysis ----
 
+def local_analyze(items):
+    """Deterministic fallback so the feed still updates when the AI endpoint is down."""
+    analyzed = []
+    for idx, it in enumerate(items):
+        desc = (it.get("desc") or "").strip()
+        title = it.get("title", "")
+        text = f"{title} {desc}".lower()
+        if any(k in text for k in ("ai", "llm", "agent", "model", "gpt")):
+            category = "AI"
+        elif any(k in text for k in ("dev", "code", "github", "api", "tool", "cli", "sdk")):
+            category = "Developer-Tools"
+        elif any(k in text for k in ("design", "ui", "figma")):
+            category = "Design"
+        elif any(k in text for k in ("learn", "course", "tutorial")):
+            category = "Learning"
+        elif any(k in text for k in ("saas", "startup")):
+            category = "SaaS"
+        else:
+            category = "Other"
+        stars = int(it.get("stars") or 0)
+        score = max(1, min(10, round(5 + min(stars, 5000) / 1000, 1)))
+        summary = desc[:20] if desc else title[:20]
+        analyzed.append({
+            "id": idx,
+            "title": title,
+            "summary": summary,
+            "category": category,
+            "score": score,
+            "reason": "热度较高" if stars else "值得关注",
+            "source": it.get("source", ""),
+            "stars": stars,
+            "url": it.get("url", ""),
+        })
+    print(f"[ai] fallback analyzed {len(analyzed)} items")
+    return analyzed
+
+
 def ai_analyze(items):
     if not items:
         return []
@@ -183,7 +220,7 @@ def ai_analyze(items):
     except Exception as exc:
         raw_txt = text if 'text' in dir() else 'N/A'
         print(f"[ai] error: {exc}, raw: {str(raw_txt)[:200]}")
-        return []
+        return local_analyze(items)
 
 
 # ---- Merge with history ----
@@ -267,7 +304,7 @@ def send_telegram(items):
 
 # ---- Main ----
 
-if __name__ == "__main__":
+def main():
     gh = fetch_github()
     ph = fetch_producthunt()
     all_items = gh + ph
@@ -282,3 +319,7 @@ if __name__ == "__main__":
     save_data(merged)
     send_telegram(merged)
     print("[main] done")
+
+
+if __name__ == "__main__":
+    main()
