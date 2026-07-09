@@ -1,145 +1,145 @@
 [
   {
     "id": 0,
-    "title": "ponytail",
-    "summary": "让AI像最懒高级开发",
-    "category": "Developer-Tools",
-    "score": 8,
-    "reason": "懒人哲学引爆共鸣",
+    "title": "DietrichGebert/ponytail",
+    "summary": "让AI像懒人高级开发者",
+    "category": "AI",
+    "score": 9,
+    "reason": "懒人哲学走红",
     "source": "[GitHub]",
-    "stars": 77867,
+    "stars": 78157,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 77867,
+    "growth": 78157,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 77867
+        "day": "2026-07-09",
+        "stars": 78157
       }
     ]
   },
   {
     "id": 1,
-    "title": "Unlimited-OCR",
-    "summary": "一次性长文本OCR解析",
+    "title": "baidu/Unlimited-OCR",
+    "summary": "百度开源一次性长视域OCR",
     "category": "AI",
-    "score": 7,
-    "reason": "百度OCR开源",
+    "score": 8,
+    "reason": "OCR突破",
     "source": "[GitHub]",
-    "stars": 13695,
+    "stars": 13720,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13695,
+    "growth": 13720,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 13695
+        "day": "2026-07-09",
+        "stars": 13720
       }
     ]
   },
   {
     "id": 2,
-    "title": "MiMo-Code",
-    "summary": "模型与代理协同进化",
+    "title": "XiaomiMiMo/MiMo-Code",
+    "summary": "模型与代理联合进化框架",
     "category": "AI",
     "score": 7,
-    "reason": "小米AI代码创新",
+    "reason": "代理模型协作",
     "source": "[GitHub]",
-    "stars": 11649,
+    "stars": 11667,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11649,
+    "growth": 11667,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 11649
+        "day": "2026-07-09",
+        "stars": 11667
       }
     ]
   },
   {
     "id": 3,
-    "title": "openwiki",
-    "summary": "CLI自动管理代码文档",
+    "title": "langchain-ai/openwiki",
+    "summary": "CLI自动化代码文档维护",
     "category": "Developer-Tools",
     "score": 7,
-    "reason": "自动文档维护",
+    "reason": "文档自动化",
     "source": "[GitHub]",
-    "stars": 9707,
+    "stars": 9832,
     "url": "https://github.com/langchain-ai/openwiki",
-    "growth": 9707,
+    "growth": 9832,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 9707
+        "day": "2026-07-09",
+        "stars": 9832
       }
     ]
   },
   {
     "id": 4,
-    "title": "improve",
-    "summary": "强模型审计弱模型执行",
+    "title": "shadcn/improve",
+    "summary": "大模型审计小模型执行",
     "category": "Developer-Tools",
     "score": 8,
-    "reason": "分层AI代码优化",
+    "reason": "分层AI协作",
     "source": "[GitHub]",
-    "stars": 7498,
+    "stars": 7519,
     "url": "https://github.com/shadcn/improve",
-    "growth": 7498,
+    "growth": 7519,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 7498
+        "day": "2026-07-09",
+        "stars": 7519
       }
     ]
   },
   {
     "id": 5,
-    "title": "omnigent",
-    "summary": "开源AI代理编排框架",
+    "title": "omnigent-ai/omnigent",
+    "summary": "开源多代理统一编排框架",
     "category": "AI",
-    "score": 7,
-    "reason": "多代理编排框架",
+    "score": 8,
+    "reason": "多代理编排",
     "source": "[GitHub]",
-    "stars": 6753,
+    "stars": 6794,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6753,
+    "growth": 6794,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 6753
+        "day": "2026-07-09",
+        "stars": 6794
       }
     ]
   },
   {
     "id": 6,
-    "title": "loop-engineering",
-    "summary": "AI编码代理循环工程",
-    "category": "Developer-Tools",
+    "title": "deepseek-ai/DeepSpec",
+    "summary": "推测解码训练与评估全栈",
+    "category": "AI",
     "score": 7,
-    "reason": "AI循环工程模式",
+    "reason": "推测解码方案",
     "source": "[GitHub]",
-    "stars": 6590,
-    "url": "https://github.com/cobusgreyling/loop-engineering",
-    "growth": 6590,
+    "stars": 6473,
+    "url": "https://github.com/deepseek-ai/DeepSpec",
+    "growth": 6473,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 6590
+        "day": "2026-07-09",
+        "stars": 6473
       }
     ]
   },
   {
     "id": 7,
-    "title": "DeepSpec",
-    "summary": "投机解码算法全栈",
-    "category": "AI",
-    "score": 7,
-    "reason": "DeepSeek投机解码",
+    "title": "zhongerxin/Cowart",
+    "summary": "项目描述缺失",
+    "category": "Other",
+    "score": 5,
+    "reason": "描述为空",
     "source": "[GitHub]",
-    "stars": 6459,
-    "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6459,
+    "stars": 4177,
+    "url": "https://github.com/zhongerxin/Cowart",
+    "growth": 4177,
     "history": [
       {
-        "day": "2026-07-08",
-        "stars": 6459
+        "day": "2026-07-09",
+        "stars": 4177
       }
     ]
   }
