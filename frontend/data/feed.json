@@ -2,144 +2,144 @@
   {
     "id": 0,
     "title": "DietrichGebert/ponytail",
-    "summary": "让AI像懒人高级开发者",
+    "summary": "Makes your AI agent ",
     "category": "AI",
-    "score": 9,
-    "reason": "懒人哲学走红",
-    "source": "[GitHub]",
-    "stars": 78157,
+    "score": 10,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 79160,
     "url": "https://github.com/DietrichGebert/ponytail",
-    "growth": 78157,
+    "growth": 79160,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 78157
+        "stars": 79160
       }
     ]
   },
   {
     "id": 1,
     "title": "baidu/Unlimited-OCR",
-    "summary": "百度开源一次性长视域OCR",
+    "summary": "Unlimited OCR Works:",
     "category": "AI",
-    "score": 8,
-    "reason": "OCR突破",
-    "source": "[GitHub]",
-    "stars": 13720,
+    "score": 10,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 13821,
     "url": "https://github.com/baidu/Unlimited-OCR",
-    "growth": 13720,
+    "growth": 13821,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 13720
+        "stars": 13821
       }
     ]
   },
   {
     "id": 2,
     "title": "XiaomiMiMo/MiMo-Code",
-    "summary": "模型与代理联合进化框架",
+    "summary": "MiMo Code: Where Mod",
     "category": "AI",
-    "score": 7,
-    "reason": "代理模型协作",
-    "source": "[GitHub]",
-    "stars": 11667,
+    "score": 10,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 11704,
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
-    "growth": 11667,
+    "growth": 11704,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 11667
+        "stars": 11704
       }
     ]
   },
   {
     "id": 3,
     "title": "langchain-ai/openwiki",
-    "summary": "CLI自动化代码文档维护",
-    "category": "Developer-Tools",
-    "score": 7,
-    "reason": "文档自动化",
-    "source": "[GitHub]",
-    "stars": 9832,
+    "summary": "OpenWiki is a CLI th",
+    "category": "AI",
+    "score": 10,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 10085,
     "url": "https://github.com/langchain-ai/openwiki",
-    "growth": 9832,
+    "growth": 10085,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 9832
+        "stars": 10085
       }
     ]
   },
   {
     "id": 4,
     "title": "shadcn/improve",
-    "summary": "大模型审计小模型执行",
-    "category": "Developer-Tools",
-    "score": 8,
-    "reason": "分层AI协作",
-    "source": "[GitHub]",
-    "stars": 7519,
+    "summary": "Use your most capabl",
+    "category": "AI",
+    "score": 10,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 7563,
     "url": "https://github.com/shadcn/improve",
-    "growth": 7519,
+    "growth": 7563,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 7519
+        "stars": 7563
       }
     ]
   },
   {
     "id": 5,
     "title": "omnigent-ai/omnigent",
-    "summary": "开源多代理统一编排框架",
+    "summary": "Omnigent is an open-",
     "category": "AI",
-    "score": 8,
-    "reason": "多代理编排",
-    "source": "[GitHub]",
-    "stars": 6794,
+    "score": 10,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 6924,
     "url": "https://github.com/omnigent-ai/omnigent",
-    "growth": 6794,
+    "growth": 6924,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 6794
+        "stars": 6924
       }
     ]
   },
   {
     "id": 6,
     "title": "deepseek-ai/DeepSpec",
-    "summary": "推测解码训练与评估全栈",
+    "summary": "DeepSpec: a full-sta",
     "category": "AI",
-    "score": 7,
-    "reason": "推测解码方案",
-    "source": "[GitHub]",
-    "stars": 6473,
+    "score": 10,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 6496,
     "url": "https://github.com/deepseek-ai/DeepSpec",
-    "growth": 6473,
+    "growth": 6496,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 6473
+        "stars": 6496
       }
     ]
   },
   {
     "id": 7,
     "title": "zhongerxin/Cowart",
-    "summary": "项目描述缺失",
+    "summary": "zhongerxin/Cowart",
     "category": "Other",
-    "score": 5,
-    "reason": "描述为空",
-    "source": "[GitHub]",
-    "stars": 4177,
+    "score": 9.2,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 4233,
     "url": "https://github.com/zhongerxin/Cowart",
-    "growth": 4177,
+    "growth": 4233,
     "history": [
       {
         "day": "2026-07-09",
-        "stars": 4177
+        "stars": 4233
       }
     ]
   }
