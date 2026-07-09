@@ -11,6 +11,32 @@ sys.path.insert(0, str(ROOT))
 from scripts import generate
 
 
+def test_fetch_github_queries_repositories_created_within_last_7_days(monkeypatch):
+    captured = {}
+
+    class FakeResponse:
+        def raise_for_status(self):
+            pass
+
+        def json(self):
+            return {"items": []}
+
+    def fake_get(url, params, headers, timeout):
+        captured["params"] = params
+        return FakeResponse()
+
+    monkeypatch.setattr(generate.requests, "get", fake_get)
+
+    generate.fetch_github()
+
+    query = captured["params"]["q"]
+    created_after = query.split("created:>", 1)[1].split(" ", 1)[0]
+    created_date = generate.datetime.strptime(created_after, "%Y-%m-%d").date()
+    today = generate.datetime.now(generate.timezone.utc).date()
+
+    assert (today - created_date).days == 7
+
+
 def test_ai_analyze_uses_local_fallback_when_openai_returns_non_json():
     items = [
         {
