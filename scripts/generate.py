@@ -36,6 +36,8 @@ def fetch_github():
             "stars": i["stargazers_count"],
             "url": i["html_url"],
             "source": "GitHub",
+            "language": i.get("language") or "",
+            "topics": i.get("topics", []),
         })
     print(f"[github] got {len(repos)} repos")
     return repos
@@ -136,8 +138,13 @@ def fetch_ph_scrape():
 
 # ---- AI Analysis ----
 
+def _fmt_stars(n):
+    """Format star count like '1,234'."""
+    return f"{n:,}"
+
+
 def local_analyze(items):
-    """Rich deterministic fallback — category, highlights, reason based on keywords & stars."""
+    """Rich deterministic fallback with core_features, use_cases, tech_stack, highlights."""
     CAT_RULES = [
         ("ai", "AI"), ("llm", "AI"), ("agent", "AI"), ("model", "AI"), ("gpt", "AI"),
         ("chatgpt", "AI"), ("openai", "AI"), ("machine learning", "AI"),
@@ -152,12 +159,34 @@ def local_analyze(items):
         ("mac", "macOS"), ("ios", "iOS"), ("app", "macOS"),
         ("chrome", "Browser-Extension"), ("extension", "Browser-Extension"),
     ]
+    CAT_CN = {
+        "AI": "AI", "Developer-Tools": "开发者工具", "Design": "设计",
+        "Learning": "学习", "SaaS": "SaaS", "Productivity": "效率工具",
+        "macOS": "macOS", "iOS": "iOS", "Browser-Extension": "浏览器扩展",
+        "Other": "其他",
+    }
+    USE_CASE_MAP = {
+        "AI": "AI 应用开发、智能客服、自动化流程、内容生成",
+        "Developer-Tools": "日常开发、DevOps 自动化、代码质量提升",
+        "Design": "UI/UX 设计、原型制作、设计系统管理",
+        "Learning": "在线学习、技能培训、知识管理",
+        "SaaS": "企业服务、团队协作、数据分析",
+        "Productivity": "个人效率管理、团队协作、文档管理",
+        "macOS": "mac 桌面应用、效率工具",
+        "iOS": "iOS 移动应用、工具类 App",
+        "Browser-Extension": "浏览器功能扩展、网页自动化",
+        "Other": "通用工具、开源项目",
+    }
+
     analyzed = []
     for idx, it in enumerate(items):
         desc = (it.get("desc") or "").strip()
         title = it.get("title", "")
         text_lower = f"{title} {desc}".lower()
         repo_name = title.split("/")[-1] if "/" in title else title
+        lang = it.get("language") or ""
+        topics = it.get("topics", [])
+        stars = int(it.get("stars") or 0)
 
         # Category
         category = "Other"
@@ -166,27 +195,52 @@ def local_analyze(items):
                 category = cat
                 break
 
-        stars = int(it.get("stars") or 0)
-
-        # Summary: full desc if available, else derive from repo name
-        summary = desc if desc else f"{repo_name} — {category.lower()} project"
-        if len(summary) > 120:
-            summary = summary[:117] + "..."
-
-        # Score: 1-10, stars-based with diminishing returns
+        cat_cn = CAT_CN.get(category, category)
         score = max(1, min(10, round(3.5 + (min(stars, 10000) ** 0.35) * 0.7, 1)))
 
-        # Reason: what makes it stand out
-        if stars >= 500:
-            reason = f"🔥 爆款！⭐{stars}，近期增长极快"
-        elif stars >= 200:
-            reason = f"⭐{stars} 高热度，社群关注度高"
-        elif stars >= 100:
-            reason = f"⭐{stars} 热门项目，值得关注"
-        elif stars >= 50:
-            reason = f"⭐{stars} 增长中"
+        # core_features — expand desc into a full sentence
+        if desc:
+            core_features = f"{desc}。项目名称 {repo_name}，属于 {cat_cn} 类别。"
         else:
-            reason = f"⭐{stars} 新项目"
+            core_features = f"{repo_name} 是一个 {cat_cn} 开源项目。"
+
+        # use_cases
+        use_cases = USE_CASE_MAP.get(category, "通用工具、开源社区使用")
+
+        # tech_stack
+        if lang:
+            topic_tags = "、".join(t[:12] for t in topics[:4]) if topics else ""
+            tech_stack = lang
+            if topic_tags:
+                tech_stack += f" + {topic_tags}"
+        else:
+            tech_stack = "多语言支持"
+
+        # highlights
+        if stars >= 1000:
+            highlights = f"Star 数突破 {_fmt_stars(stars)}，社区活跃度高，增长迅猛"
+        elif stars >= 300:
+            highlights = f"Star 数 {_fmt_stars(stars)}，功能完善，获得开发者广泛认可"
+        elif stars >= 100:
+            highlights = f"Star 数 {_fmt_stars(stars)}，近期热门项目，值得关注"
+        else:
+            highlights = f"新晋项目，Star 数 {_fmt_stars(stars)}，发展潜力大"
+
+        # reason — used as summary line at top of rich format
+        if stars >= 500:
+            reason = f"🔥 爆款！⭐{_fmt_stars(stars)}"
+        elif stars >= 200:
+            reason = f"⭐{_fmt_stars(stars)} 高热度项目"
+        elif stars >= 100:
+            reason = f"⭐{_fmt_stars(stars)} 热门项目"
+        elif stars >= 50:
+            reason = f"⭐{_fmt_stars(stars)} 增长中"
+        else:
+            reason = f"⭐{_fmt_stars(stars)} 新项目"
+
+        summary = desc if desc else f"{repo_name} — {cat_cn} 开源项目"
+        if len(summary) > 80:
+            summary = summary[:77] + "..."
 
         analyzed.append({
             "id": idx,
@@ -198,6 +252,13 @@ def local_analyze(items):
             "source": it.get("source", ""),
             "stars": stars,
             "url": it.get("url", ""),
+            "language": lang,
+            "topics": topics,
+            "core_features": core_features,
+            "use_cases": use_cases,
+            "tech_stack": tech_stack,
+            "highlights": highlights,
+            "stars_fmt": _fmt_stars(stars),
         })
     print(f"[ai] fallback analyzed {len(analyzed)} items")
     return analyzed
@@ -213,6 +274,8 @@ def ai_analyze(items):
             f"ID:{idx} | {src_tag} | {it['title']}\n"
             f"  描述: {it['desc']}\n"
             f"  热度: {it['stars']}\n"
+            f"  语言: {it.get('language','')}\n"
+            f"  标签: {', '.join(it.get('topics',[]))}\n"
             f"  链接: {it['url']}"
         )
     prompt = f"""分析以下 GitHub + Product Hunt 热门项目，逐条输出 JSON 数组。
@@ -220,11 +283,15 @@ def ai_analyze(items):
 每个对象字段:
 - id: 整数(ID编号)
 - title: 字符串(项目名)
-- summary: 字符串(中文一句话总结，20字内)
+- summary: 字符串(中文一句话总结)
 - category: 字符串(分类: AI/Developer-Tools/Productivity/Design/Learning/SaaS/DevOps/Other)
 - score: 数字(0-10综合评分)
-- reason: 字符串(为什么火，15字内)
+- reason: 字符串(为什么火)
 - source: 字符串(保持输入里的source值)
+- core_features: 字符串(核心功能介绍，50-120字中文)
+- use_cases: 字符串(适用场景，20-60字中文)
+- tech_stack: 字符串(技术栈，20-60字)
+- highlights: 字符串(亮点特色，40-80字中文)
 
 输入:
 {chr(10).join(lines)}
@@ -239,12 +306,16 @@ def ai_analyze(items):
         text = resp.choices[0].message.content.strip()
         json_text = re.sub(r'^```(?:json)?\s*|\s*```$', '', text).strip()
         result = json.loads(json_text)
-        # Merge stars + url from original items (AI may not output these)
+        # Merge metadata from original items
         for r in result:
             idx = r.get("id")
             if idx is not None and 0 <= idx < len(items):
-                r.setdefault("stars", items[idx].get("stars", 0))
-                r.setdefault("url", items[idx].get("url", ""))
+                orig = items[idx]
+                r.setdefault("stars", orig.get("stars", 0))
+                r.setdefault("url", orig.get("url", ""))
+                r.setdefault("language", orig.get("language", ""))
+                r.setdefault("topics", orig.get("topics", []))
+                r.setdefault("stars_fmt", _fmt_stars(orig.get("stars", 0)))
         print(f"[ai] analyzed {len(result)} items")
         return result
     except Exception as exc:
@@ -307,14 +378,31 @@ def send_telegram(items):
         return
     now = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
     lines = [f"🤖 <b>AI Trend Radar</b> — {now}\n"]
-    for it in items[:10]:
-        src_emoji = "🐙" if it.get("source") == "GitHub" else "🟠"
+    for idx, it in enumerate(items[:10], 1):
         lines.append(
-            f"{src_emoji} <b>{it['title']}</b>\n"
-            f"  {it.get('summary','')}\n"
-            f"  {it.get('reason','')} | 🏷️{it.get('category','')} | ⭐{it.get('score','?')}\n"
-            f"  <a href='{it.get('url','')}'>🔗 链接</a>\n"
+            f"{idx}. <b>{it['title']}</b>\n"
+            f"Star 数量：{it.get('stars_fmt', it.get('stars', ''))}\n"
+            f"核心功能：{it.get('core_features', it.get('summary', ''))}\n"
+            f"适用场景：{it.get('use_cases', '')}\n"
+            f"技术栈：{it.get('tech_stack', '')}\n"
+            f"亮点特色：{it.get('highlights', '')}\n"
+            f"项目地址：{it.get('url', '')}\n"
         )
+    text = "\n".join(lines)
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    max_len = 4000
+    while len(text) > max_len:
+        split_at = text.rfind("\n", 0, max_len)
+        if split_at == -1:
+            split_at = max_len
+        requests.post(url, json={
+            "chat_id": chat_id, "text": text[:split_at], "parse_mode": "HTML"
+        }, timeout=15)
+        text = text[split_at:]
+    requests.post(url, json={
+        "chat_id": chat_id, "text": text, "parse_mode": "HTML"
+    }, timeout=15)
+    print("[tg] sent")
     text = "\n".join(lines)
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     max_len = 4000

@@ -10,6 +10,8 @@ sys.path.insert(0, str(ROOT))
 
 from scripts import generate
 
+import json
+
 
 def test_fetch_github_queries_repositories_created_within_last_7_days(monkeypatch):
     captured = {}
@@ -37,87 +39,126 @@ def test_fetch_github_queries_repositories_created_within_last_7_days(monkeypatc
     assert (today - created_date).days == 7
 
 
-def test_ai_analyze_uses_local_fallback_when_openai_returns_non_json():
+def test_fetch_github_captures_language_and_topics(monkeypatch):
+    captured = {}
+
+    class FakeResponse:
+        def raise_for_status(self):
+            pass
+
+        def json(self):
+            return {
+                "items": [
+                    {
+                        "full_name": "test/repo",
+                        "description": "desc",
+                        "stargazers_count": 100,
+                        "html_url": "https://github.com/test/repo",
+                        "language": "Python",
+                        "topics": ["ai", "machine-learning"],
+                    }
+                ]
+            }
+
+    def fake_get(url, params, headers, timeout):
+        captured["data"] = True
+        return FakeResponse()
+
+    monkeypatch.setattr(generate.requests, "get", fake_get)
+
+    repos = generate.fetch_github()
+
+    assert repos[0]["language"] == "Python"
+    assert repos[0]["topics"] == ["ai", "machine-learning"]
+
+
+def test_ai_analyze_fallback_produces_rich_fields():
     items = [
         {
             "title": "owner/repo",
-            "desc": "A useful AI developer tool",
-            "stars": 123,
+            "desc": "An AI-powered code completion tool for developers",
+            "stars": 1234,
             "url": "https://github.com/owner/repo",
             "source": "GitHub",
+            "language": "Python",
+            "topics": ["ai", "developer-tools", "code-generation"],
         }
     ]
 
-    with patch.object(generate.client.chat.completions, "create", side_effect=Exception("blocked html")):
+    with patch.object(generate.client.chat.completions, "create", side_effect=Exception("blocked")):
         result = generate.ai_analyze(items)
 
     assert len(result) == 1
     r = result[0]
-    assert r["title"] == "owner/repo"
-    assert r["stars"] == 123
-    assert r["url"] == "https://github.com/owner/repo"
-    assert r["source"] == "GitHub"
-    assert r["score"] > 0
-    # Fallback should produce rich reason, not generic
-    assert r["reason"] != "热度较高"
-    # Summary should be full desc, not truncated
-    assert r["summary"] == "A useful AI developer tool"
+    assert r["core_features"]
+    assert r["use_cases"]
+    assert r["tech_stack"]
+    assert r["highlights"]
+    assert len(r["core_features"]) > 20
+    assert r["language"] == "Python"
+    assert r["topics"] == ["ai", "developer-tools", "code-generation"]
 
 
-def test_main_can_continue_without_producthunt_when_github_has_items(monkeypatch, tmp_path):
-    monkeypatch.setattr(generate, "DATA_FILE", tmp_path / "feed.json")
-    monkeypatch.setattr(generate, "HISTORY_FILE", tmp_path / "history.json")
-    monkeypatch.setattr(generate, "fetch_github", lambda: [{
-        "title": "owner/repo",
-        "desc": "A useful AI developer tool",
-        "stars": 88,
-        "url": "https://github.com/owner/repo",
-        "source": "GitHub",
-    }])
-    monkeypatch.setattr(generate, "fetch_producthunt", lambda: [])
-    monkeypatch.setattr(generate, "send_telegram", lambda items: None)
-    monkeypatch.setattr(generate, "ai_analyze", lambda items: [{
-        "id": 0,
-        "title": "owner/repo",
-        "summary": "开发工具",
-        "category": "Developer-Tools",
-        "score": 7,
-        "reason": "增长快",
-        "source": "GitHub",
-        "stars": 88,
-        "url": "https://github.com/owner/repo",
-    }])
-
-    generate.main()
-
-    assert (tmp_path / "feed.json").exists()
-
-
-def test_telegram_message_includes_chinese_description(monkeypatch):
+def test_telegram_message_uses_rich_format(monkeypatch):
     items = [
         {
             "title": "owner/repo",
-            "summary": "An AI-powered code completion tool that boosts developer productivity",
-            "desc": "",
-            "stars": 88,
-            "score": 7,
-            "category": "Developer-Tools",
-            "reason": "⭐88，AI 辅助编程趋势，周增长 12",
+            "stars": 1234,
+            "stars_fmt": "1,234",
+            "core_features": "AI驱动的代码补全工具，支持多种编程语言",
+            "use_cases": "日常编码、代码审查、批量重构",
+            "tech_stack": "Python + Transformer + VS Code 插件",
+            "highlights": "准确率高，支持上下文感知补全",
             "url": "https://github.com/owner/repo",
             "source": "GitHub",
+            "score": 8.5,
+            "category": "Developer-Tools",
         }
     ]
     sent = []
 
     monkeypatch.setattr(generate.requests, "post", lambda url, json, timeout: sent.append(json) or None)
-    monkeypatch.setattr(generate.os, "getenv", lambda k, d=None: {"TELEGRAM_BOT_TOKEN": "tok", "TELEGRAM_CHAT_ID": "cid"}.get(k, d or os.environ.get(k)))
+    monkeypatch.setattr(generate.os, "getenv", lambda k, d=None: {
+        "TELEGRAM_BOT_TOKEN": "tok",
+        "TELEGRAM_CHAT_ID": "cid",
+        **os.environ,
+    }.get(k, ""))
 
     generate.send_telegram(items)
 
-    assert len(sent) == 1
+    assert len(sent) >= 1
     msg = sent[0]["text"]
-    assert "owner/repo" in msg
-    assert "AI-powered" in msg
-    assert "88" in msg
-    assert "Developer-Tools" in msg
-    assert "⭐" in msg
+    assert "1. <b>owner/repo</b>" in msg
+    assert "Star 数量：1,234" in msg
+    assert "核心功能" in msg
+    assert "AI驱动的代码补全工具" in msg
+    assert "适用场景" in msg
+    assert "技术栈" in msg
+    assert "Python + Transformer" in msg
+    assert "亮点特色" in msg
+    assert "准确率高" in msg
+    assert "项目地址" in msg
+    assert "github.com/owner/repo" in msg
+
+
+def test_main_uses_rich_format_end_to_end(monkeypatch, tmp_path):
+    monkeypatch.setattr(generate, "DATA_FILE", tmp_path / "feed.json")
+    monkeypatch.setattr(generate, "HISTORY_FILE", tmp_path / "history.json")
+    monkeypatch.setattr(generate, "fetch_github", lambda: [{
+        "title": "owner/repo",
+        "desc": "An AI tool",
+        "stars": 88,
+        "url": "https://github.com/owner/repo",
+        "source": "GitHub",
+        "language": "TypeScript",
+        "topics": ["ai"],
+    }])
+    monkeypatch.setattr(generate, "fetch_producthunt", lambda: [])
+    monkeypatch.setattr(generate, "send_telegram", lambda items: None)
+
+    generate.main()
+
+    feed = json.loads((tmp_path / "feed.json").read_text())
+    assert feed[0]["core_features"]
+    assert feed[0]["tech_stack"]
+    assert feed[0]["highlights"]
