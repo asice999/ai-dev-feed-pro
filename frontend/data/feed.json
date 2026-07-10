@@ -7,139 +7,139 @@
     "score": 8.4,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 3370,
+    "stars": 3422,
     "url": "https://github.com/x4gKing/X4G",
-    "growth": 3370,
+    "growth": 3422,
     "history": [
       {
-        "day": "2026-07-09",
-        "stars": 3370
+        "day": "2026-07-10",
+        "stars": 3422
       }
     ]
   },
   {
     "id": 1,
-    "title": "synthetic-sciences/openscience",
-    "summary": "The open-source AI w",
-    "category": "AI",
-    "score": 6.9,
-    "reason": "热度较高",
-    "source": "GitHub",
-    "stars": 1936,
-    "url": "https://github.com/synthetic-sciences/openscience",
-    "growth": 1936,
-    "history": [
-      {
-        "day": "2026-07-09",
-        "stars": 1936
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "xuchonglang/investing-for-beginners",
-    "summary": "小隐寺投资百科官方公开索引：美股、期权与",
-    "category": "Other",
-    "score": 6.6,
-    "reason": "热度较高",
-    "source": "GitHub",
-    "stars": 1626,
-    "url": "https://github.com/xuchonglang/investing-for-beginners",
-    "growth": 1626,
-    "history": [
-      {
-        "day": "2026-07-09",
-        "stars": 1626
-      }
-    ]
-  },
-  {
-    "id": 3,
     "title": "Shpigford/knockoff",
     "summary": "Chrome extension tha",
     "category": "Other",
     "score": 6.6,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 1564,
+    "stars": 1577,
     "url": "https://github.com/Shpigford/knockoff",
-    "growth": 1564,
+    "growth": 1577,
     "history": [
       {
-        "day": "2026-07-09",
-        "stars": 1564
+        "day": "2026-07-10",
+        "stars": 1577
       }
     ]
   },
   {
-    "id": 4,
+    "id": 2,
+    "title": "withmarbleapp/os-taxonomy",
+    "summary": "withmarbleapp/os-tax",
+    "category": "Other",
+    "score": 6.5,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 1502,
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "growth": 1502,
+    "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 1502
+      }
+    ]
+  },
+  {
+    "id": 3,
     "title": "ammaarreshi/Generals-Mac-iOS-iPad",
     "summary": "Command & Conquer Ge",
     "category": "Other",
     "score": 6.4,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 1393,
+    "stars": 1394,
     "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
-    "growth": 1393,
+    "growth": 1394,
     "history": [
       {
-        "day": "2026-07-09",
-        "stars": 1393
+        "day": "2026-07-10",
+        "stars": 1394
       }
     ]
   },
   {
-    "id": 5,
-    "title": "withmarbleapp/os-taxonomy",
-    "summary": "withmarbleapp/os-tax",
-    "category": "Other",
-    "score": 6.3,
-    "reason": "热度较高",
-    "source": "GitHub",
-    "stars": 1332,
-    "url": "https://github.com/withmarbleapp/os-taxonomy",
-    "growth": 1332,
-    "history": [
-      {
-        "day": "2026-07-09",
-        "stars": 1332
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "jamesob/local-llm",
-    "summary": "Everything I know ab",
-    "category": "AI",
-    "score": 6.3,
-    "reason": "热度较高",
-    "source": "GitHub",
-    "stars": 1299,
-    "url": "https://github.com/jamesob/local-llm",
-    "growth": 1299,
-    "history": [
-      {
-        "day": "2026-07-09",
-        "stars": 1299
-      }
-    ]
-  },
-  {
-    "id": 7,
+    "id": 4,
     "title": "MaximeRivest/riddle",
     "summary": "The diary of Tom Rid",
     "category": "Other",
     "score": 6.3,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 1280,
+    "stars": 1286,
     "url": "https://github.com/MaximeRivest/riddle",
-    "growth": 1280,
+    "growth": 1286,
     "history": [
       {
-        "day": "2026-07-09",
-        "stars": 1280
+        "day": "2026-07-10",
+        "stars": 1286
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "514-labs/dnsglobe",
+    "summary": "Global DNS propagati",
+    "category": "Design",
+    "score": 5.8,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 774,
+    "url": "https://github.com/514-labs/dnsglobe",
+    "growth": 774,
+    "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 774
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "wouterdebie/davit",
+    "summary": "A native macOS UI fo",
+    "category": "Design",
+    "score": 5.7,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 738,
+    "url": "https://github.com/wouterdebie/davit",
+    "growth": 738,
+    "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 738
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "yynxxxxx/Codex-X",
+    "summary": "Codex Switch & Instr",
+    "category": "Developer-Tools",
+    "score": 5.7,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 705,
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "growth": 705,
+    "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 705
       }
     ]
   }
