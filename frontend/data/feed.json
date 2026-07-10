@@ -2,69 +2,85 @@
   {
     "id": 0,
     "title": "x4gKing/X4G",
-    "summary": "x4gKing/X4G",
+    "summary": "X4G — other project",
     "category": "Other",
-    "score": 8.8,
-    "reason": "热度较高",
+    "score": 10,
+    "reason": "🔥 爆款！⭐3783，近期增长极快",
     "source": "GitHub",
-    "stars": 3779,
+    "stars": 3783,
     "url": "https://github.com/x4gKing/X4G",
-    "growth": 3779,
+    "growth": 0,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 3779
+        "stars": 3783
+      },
+      {
+        "day": "2026-07-10",
+        "stars": 3783
       }
     ]
   },
   {
     "id": 1,
     "title": "withmarbleapp/os-taxonomy",
-    "summary": "withmarbleapp/os-tax",
-    "category": "Other",
-    "score": 6.9,
-    "reason": "热度较高",
+    "summary": "os-taxonomy — macos project",
+    "category": "macOS",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1947，近期增长极快",
     "source": "GitHub",
-    "stars": 1943,
+    "stars": 1947,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
-    "growth": 1943,
+    "growth": 0,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 1943
+        "stars": 1947
+      },
+      {
+        "day": "2026-07-10",
+        "stars": 1947
       }
     ]
   },
   {
     "id": 2,
     "title": "Shpigford/knockoff",
-    "summary": "Chrome extension tha",
-    "category": "Other",
-    "score": 6.7,
-    "reason": "热度较高",
+    "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+    "category": "Browser-Extension",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1652，近期增长极快",
     "source": "GitHub",
-    "stars": 1651,
+    "stars": 1652,
     "url": "https://github.com/Shpigford/knockoff",
-    "growth": 1651,
+    "growth": 0,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 1651
+        "stars": 1652
+      },
+      {
+        "day": "2026-07-10",
+        "stars": 1652
       }
     ]
   },
   {
     "id": 3,
     "title": "ammaarreshi/Generals-Mac-iOS-iPad",
-    "summary": "Command & Conquer Ge",
-    "category": "Other",
-    "score": 6.4,
-    "reason": "热度较高",
+    "summary": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via G...",
+    "category": "macOS",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1401，近期增长极快",
     "source": "GitHub",
     "stars": 1401,
     "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
-    "growth": 1401,
+    "growth": 0,
     "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 1401
+      },
       {
         "day": "2026-07-10",
         "stars": 1401
@@ -74,33 +90,41 @@
   {
     "id": 4,
     "title": "MaximeRivest/riddle",
-    "summary": "The diary of Tom Rid",
+    "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a...",
     "category": "Other",
-    "score": 6.3,
-    "reason": "热度较高",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1321，近期增长极快",
     "source": "GitHub",
-    "stars": 1320,
+    "stars": 1321,
     "url": "https://github.com/MaximeRivest/riddle",
-    "growth": 1320,
+    "growth": 0,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 1320
+        "stars": 1321
+      },
+      {
+        "day": "2026-07-10",
+        "stars": 1321
       }
     ]
   },
   {
     "id": 5,
     "title": "wouterdebie/davit",
-    "summary": "A native macOS UI fo",
+    "summary": "A native macOS UI for Apple's platform",
     "category": "Design",
-    "score": 5.8,
-    "reason": "热度较高",
+    "score": 10,
+    "reason": "🔥 爆款！⭐789，近期增长极快",
     "source": "GitHub",
     "stars": 789,
     "url": "https://github.com/wouterdebie/davit",
-    "growth": 789,
+    "growth": 0,
     "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 789
+      },
       {
         "day": "2026-07-10",
         "stars": 789
@@ -110,15 +134,19 @@
   {
     "id": 6,
     "title": "514-labs/dnsglobe",
-    "summary": "Global DNS propagati",
-    "category": "Design",
-    "score": 5.8,
-    "reason": "热度较高",
+    "summary": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world ma...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐788，近期增长极快",
     "source": "GitHub",
     "stars": 788,
     "url": "https://github.com/514-labs/dnsglobe",
-    "growth": 788,
+    "growth": 0,
     "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 788
+      },
       {
         "day": "2026-07-10",
         "stars": 788
@@ -128,15 +156,19 @@
   {
     "id": 7,
     "title": "yynxxxxx/Codex-X",
-    "summary": "Codex Switch & Instr",
+    "summary": "Codex Switch & Instruct desktop manager",
     "category": "Developer-Tools",
-    "score": 5.7,
-    "reason": "热度较高",
+    "score": 10,
+    "reason": "🔥 爆款！⭐741，近期增长极快",
     "source": "GitHub",
     "stars": 741,
     "url": "https://github.com/yynxxxxx/Codex-X",
-    "growth": 741,
+    "growth": 0,
     "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 741
+      },
       {
         "day": "2026-07-10",
         "stars": 741
