@@ -52,11 +52,16 @@ def test_ai_analyze_uses_local_fallback_when_openai_returns_non_json():
         result = generate.ai_analyze(items)
 
     assert len(result) == 1
-    assert result[0]["title"] == "owner/repo"
-    assert result[0]["stars"] == 123
-    assert result[0]["url"] == "https://github.com/owner/repo"
-    assert result[0]["source"] == "GitHub"
-    assert result[0]["score"] > 0
+    r = result[0]
+    assert r["title"] == "owner/repo"
+    assert r["stars"] == 123
+    assert r["url"] == "https://github.com/owner/repo"
+    assert r["source"] == "GitHub"
+    assert r["score"] > 0
+    # Fallback should produce rich reason, not generic
+    assert r["reason"] != "热度较高"
+    # Summary should be full desc, not truncated
+    assert r["summary"] == "A useful AI developer tool"
 
 
 def test_main_can_continue_without_producthunt_when_github_has_items(monkeypatch, tmp_path):
@@ -92,12 +97,12 @@ def test_telegram_message_includes_chinese_description(monkeypatch):
     items = [
         {
             "title": "owner/repo",
-            "summary": "开发者工具",
-            "desc": "An AI-powered code completion tool",
+            "summary": "An AI-powered code completion tool that boosts developer productivity",
+            "desc": "",
             "stars": 88,
             "score": 7,
             "category": "Developer-Tools",
-            "reason": "增长迅速",
+            "reason": "⭐88，AI 辅助编程趋势，周增长 12",
             "url": "https://github.com/owner/repo",
             "source": "GitHub",
         }
@@ -111,7 +116,8 @@ def test_telegram_message_includes_chinese_description(monkeypatch):
 
     assert len(sent) == 1
     msg = sent[0]["text"]
-    assert "开发者工具" in msg
-    assert "增长迅速" in msg
-    assert "An AI-powered code completion tool" in msg
     assert "owner/repo" in msg
+    assert "AI-powered" in msg
+    assert "88" in msg
+    assert "Developer-Tools" in msg
+    assert "⭐" in msg

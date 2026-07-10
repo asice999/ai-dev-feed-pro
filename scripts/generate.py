@@ -137,34 +137,64 @@ def fetch_ph_scrape():
 # ---- AI Analysis ----
 
 def local_analyze(items):
-    """Deterministic fallback so the feed still updates when the AI endpoint is down."""
+    """Rich deterministic fallback — category, highlights, reason based on keywords & stars."""
+    CAT_RULES = [
+        ("ai", "AI"), ("llm", "AI"), ("agent", "AI"), ("model", "AI"), ("gpt", "AI"),
+        ("chatgpt", "AI"), ("openai", "AI"), ("machine learning", "AI"),
+        ("dev", "Developer-Tools"), ("code", "Developer-Tools"), ("github", "Developer-Tools"),
+        ("api", "Developer-Tools"), ("tool", "Developer-Tools"), ("cli", "Developer-Tools"),
+        ("sdk", "Developer-Tools"), ("programming", "Developer-Tools"), ("ide", "Developer-Tools"),
+        ("compiler", "Developer-Tools"), ("terminal", "Developer-Tools"),
+        ("design", "Design"), ("ui", "Design"), ("figma", "Design"), ("ux", "Design"),
+        ("learn", "Learning"), ("course", "Learning"), ("tutorial", "Learning"),
+        ("saas", "SaaS"), ("startup", "SaaS"),
+        ("productivity", "Productivity"), ("note", "Productivity"), ("organize", "Productivity"),
+        ("mac", "macOS"), ("ios", "iOS"), ("app", "macOS"),
+        ("chrome", "Browser-Extension"), ("extension", "Browser-Extension"),
+    ]
     analyzed = []
     for idx, it in enumerate(items):
         desc = (it.get("desc") or "").strip()
         title = it.get("title", "")
-        text = f"{title} {desc}".lower()
-        if any(k in text for k in ("ai", "llm", "agent", "model", "gpt")):
-            category = "AI"
-        elif any(k in text for k in ("dev", "code", "github", "api", "tool", "cli", "sdk")):
-            category = "Developer-Tools"
-        elif any(k in text for k in ("design", "ui", "figma")):
-            category = "Design"
-        elif any(k in text for k in ("learn", "course", "tutorial")):
-            category = "Learning"
-        elif any(k in text for k in ("saas", "startup")):
-            category = "SaaS"
-        else:
-            category = "Other"
+        text_lower = f"{title} {desc}".lower()
+        repo_name = title.split("/")[-1] if "/" in title else title
+
+        # Category
+        category = "Other"
+        for kw, cat in CAT_RULES:
+            if kw in text_lower:
+                category = cat
+                break
+
         stars = int(it.get("stars") or 0)
-        score = max(1, min(10, round(5 + min(stars, 5000) / 1000, 1)))
-        summary = desc[:20] if desc else title[:20]
+
+        # Summary: full desc if available, else derive from repo name
+        summary = desc if desc else f"{repo_name} — {category.lower()} project"
+        if len(summary) > 120:
+            summary = summary[:117] + "..."
+
+        # Score: 1-10, stars-based with diminishing returns
+        score = max(1, min(10, round(3.5 + (min(stars, 10000) ** 0.35) * 0.7, 1)))
+
+        # Reason: what makes it stand out
+        if stars >= 500:
+            reason = f"🔥 爆款！⭐{stars}，近期增长极快"
+        elif stars >= 200:
+            reason = f"⭐{stars} 高热度，社群关注度高"
+        elif stars >= 100:
+            reason = f"⭐{stars} 热门项目，值得关注"
+        elif stars >= 50:
+            reason = f"⭐{stars} 增长中"
+        else:
+            reason = f"⭐{stars} 新项目"
+
         analyzed.append({
             "id": idx,
             "title": title,
             "summary": summary,
             "category": category,
             "score": score,
-            "reason": "热度较高" if stars else "值得关注",
+            "reason": reason,
             "source": it.get("source", ""),
             "stars": stars,
             "url": it.get("url", ""),
@@ -281,9 +311,8 @@ def send_telegram(items):
         src_emoji = "🐙" if it.get("source") == "GitHub" else "🟠"
         lines.append(
             f"{src_emoji} <b>{it['title']}</b>\n"
-            f"  {it.get('desc','')}\n"
-            f"  {it.get('summary','')} | ⭐{it.get('score','?')} | {it.get('category','')}\n"
-            f"  {it.get('reason','')}\n"
+            f"  {it.get('summary','')}\n"
+            f"  {it.get('reason','')} | 🏷️{it.get('category','')} | ⭐{it.get('score','?')}\n"
             f"  <a href='{it.get('url','')}'>🔗 链接</a>\n"
         )
     text = "\n".join(lines)
