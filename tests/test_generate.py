@@ -86,3 +86,32 @@ def test_main_can_continue_without_producthunt_when_github_has_items(monkeypatch
     generate.main()
 
     assert (tmp_path / "feed.json").exists()
+
+
+def test_telegram_message_includes_chinese_description(monkeypatch):
+    items = [
+        {
+            "title": "owner/repo",
+            "summary": "开发者工具",
+            "desc": "An AI-powered code completion tool",
+            "stars": 88,
+            "score": 7,
+            "category": "Developer-Tools",
+            "reason": "增长迅速",
+            "url": "https://github.com/owner/repo",
+            "source": "GitHub",
+        }
+    ]
+    sent = []
+
+    monkeypatch.setattr(generate.requests, "post", lambda url, json, timeout: sent.append(json) or None)
+    monkeypatch.setattr(generate.os, "getenv", lambda k, d=None: {"TELEGRAM_BOT_TOKEN": "tok", "TELEGRAM_CHAT_ID": "cid"}.get(k, d or os.environ.get(k)))
+
+    generate.send_telegram(items)
+
+    assert len(sent) == 1
+    msg = sent[0]["text"]
+    assert "开发者工具" in msg
+    assert "增长迅速" in msg
+    assert "An AI-powered code completion tool" in msg
+    assert "owner/repo" in msg

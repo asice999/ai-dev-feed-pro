@@ -281,6 +281,7 @@ def send_telegram(items):
         src_emoji = "🐙" if it.get("source") == "GitHub" else "🟠"
         lines.append(
             f"{src_emoji} <b>{it['title']}</b>\n"
+            f"  {it.get('desc','')}\n"
             f"  {it.get('summary','')} | ⭐{it.get('score','?')} | {it.get('category','')}\n"
             f"  {it.get('reason','')}\n"
             f"  <a href='{it.get('url','')}'>🔗 链接</a>\n"
