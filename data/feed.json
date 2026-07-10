@@ -5,18 +5,18 @@
     "summary": "X4G — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,786",
+    "reason": "🔥 爆款！⭐3,891",
     "source": "GitHub",
-    "stars": 3786,
+    "stars": 3891,
     "url": "https://github.com/x4gKing/X4G",
     "language": "Python",
     "topics": [],
     "core_features": "X4G 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 3,786，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,786",
-    "growth": 3,
+    "highlights": "Star 数突破 3,891，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,891",
+    "growth": 108,
     "history": [
       {
         "day": "2026-07-10",
@@ -24,7 +24,7 @@
       },
       {
         "day": "2026-07-10",
-        "stars": 3786
+        "stars": 3891
       }
     ]
   },
@@ -34,18 +34,18 @@
     "summary": "os-taxonomy — macOS 开源项目",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,954",
+    "reason": "🔥 爆款！⭐2,033",
     "source": "GitHub",
-    "stars": 1954,
+    "stars": 2033,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
     "language": "JavaScript",
     "topics": [],
     "core_features": "os-taxonomy 是一个 macOS 开源项目。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,954，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,954",
-    "growth": 7,
+    "highlights": "Star 数突破 2,033，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,033",
+    "growth": 86,
     "history": [
       {
         "day": "2026-07-10",
@@ -53,7 +53,7 @@
       },
       {
         "day": "2026-07-10",
-        "stars": 1954
+        "stars": 2033
       }
     ]
   },
@@ -63,9 +63,9 @@
     "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real,...",
     "category": "Browser-Extension",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,652",
+    "reason": "🔥 爆款！⭐1,670",
     "source": "GitHub",
-    "stars": 1652,
+    "stars": 1670,
     "url": "https://github.com/Shpigford/knockoff",
     "language": "JavaScript",
     "topics": [
@@ -76,9 +76,9 @@
     "core_features": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.。项目名称 knockoff，属于 浏览器扩展 类别。",
     "use_cases": "浏览器功能扩展、网页自动化",
     "tech_stack": "JavaScript + amazon、browser-exte、chrome-exten",
-    "highlights": "Star 数突破 1,652，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,652",
-    "growth": 0,
+    "highlights": "Star 数突破 1,670，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,670",
+    "growth": 18,
     "history": [
       {
         "day": "2026-07-10",
@@ -86,7 +86,7 @@
       },
       {
         "day": "2026-07-10",
-        "stars": 1652
+        "stars": 1670
       }
     ]
   },
@@ -96,9 +96,9 @@
     "summary": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPa...",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,401",
+    "reason": "🔥 爆款！⭐1,402",
     "source": "GitHub",
-    "stars": 1401,
+    "stars": 1402,
     "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
     "language": "C++",
     "topics": [
@@ -118,9 +118,9 @@
     "core_features": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.。项目名称 Generals-Mac-iOS-iPad，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "C++ + apple-silico、command-and-、dxvk、game-port",
-    "highlights": "Star 数突破 1,401，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,401",
-    "growth": 0,
+    "highlights": "Star 数突破 1,402，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,402",
+    "growth": 1,
     "history": [
       {
         "day": "2026-07-10",
@@ -128,7 +128,7 @@
       },
       {
         "day": "2026-07-10",
-        "stars": 1401
+        "stars": 1402
       }
     ]
   },
@@ -138,18 +138,18 @@
     "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, t...",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,323",
+    "reason": "🔥 爆款！⭐1,330",
     "source": "GitHub",
-    "stars": 1323,
+    "stars": 1330,
     "url": "https://github.com/MaximeRivest/riddle",
     "language": "Rust",
     "topics": [],
     "core_features": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand。项目名称 riddle，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,323，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,323",
-    "growth": 2,
+    "highlights": "Star 数突破 1,330，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,330",
+    "growth": 9,
     "history": [
       {
         "day": "2026-07-10",
@@ -157,48 +157,19 @@
       },
       {
         "day": "2026-07-10",
-        "stars": 1323
+        "stars": 1330
       }
     ]
   },
   {
     "id": 5,
-    "title": "wouterdebie/davit",
-    "summary": "A native macOS UI for Apple's platform",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐789",
-    "source": "GitHub",
-    "stars": 789,
-    "url": "https://github.com/wouterdebie/davit",
-    "language": "Swift",
-    "topics": [],
-    "core_features": "A native macOS UI for Apple's platform。项目名称 davit，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "Swift",
-    "highlights": "Star 数 789，功能完善，获得开发者广泛认可",
-    "stars_fmt": "789",
-    "growth": 0,
-    "history": [
-      {
-        "day": "2026-07-10",
-        "stars": 789
-      },
-      {
-        "day": "2026-07-10",
-        "stars": 789
-      }
-    ]
-  },
-  {
-    "id": 6,
     "title": "514-labs/dnsglobe",
     "summary": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 p...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐789",
+    "reason": "🔥 爆款！⭐793",
     "source": "GitHub",
-    "stars": 789,
+    "stars": 793,
     "url": "https://github.com/514-labs/dnsglobe",
     "language": "Rust",
     "topics": [
@@ -213,9 +184,9 @@
     "core_features": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal。项目名称 dnsglobe，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Rust + cli、dns、dns-checker、dns-propagat",
-    "highlights": "Star 数 789，功能完善，获得开发者广泛认可",
-    "stars_fmt": "789",
-    "growth": 1,
+    "highlights": "Star 数 793，功能完善，获得开发者广泛认可",
+    "stars_fmt": "793",
+    "growth": 5,
     "history": [
       {
         "day": "2026-07-10",
@@ -223,7 +194,36 @@
       },
       {
         "day": "2026-07-10",
+        "stars": 793
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "wouterdebie/davit",
+    "summary": "A native macOS UI for Apple's platform",
+    "category": "Design",
+    "score": 10,
+    "reason": "🔥 爆款！⭐792",
+    "source": "GitHub",
+    "stars": 792,
+    "url": "https://github.com/wouterdebie/davit",
+    "language": "Swift",
+    "topics": [],
+    "core_features": "A native macOS UI for Apple's platform。项目名称 davit，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "Swift",
+    "highlights": "Star 数 792，功能完善，获得开发者广泛认可",
+    "stars_fmt": "792",
+    "growth": 3,
+    "history": [
+      {
+        "day": "2026-07-10",
         "stars": 789
+      },
+      {
+        "day": "2026-07-10",
+        "stars": 792
       }
     ]
   },
@@ -233,18 +233,18 @@
     "summary": "Codex Switch & Instruct desktop manager",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐741",
+    "reason": "🔥 爆款！⭐750",
     "source": "GitHub",
-    "stars": 741,
+    "stars": 750,
     "url": "https://github.com/yynxxxxx/Codex-X",
     "language": "Rust",
     "topics": [],
     "core_features": "Codex Switch & Instruct desktop manager。项目名称 Codex-X，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Rust",
-    "highlights": "Star 数 741，功能完善，获得开发者广泛认可",
-    "stars_fmt": "741",
-    "growth": 0,
+    "highlights": "Star 数 750，功能完善，获得开发者广泛认可",
+    "stars_fmt": "750",
+    "growth": 9,
     "history": [
       {
         "day": "2026-07-10",
@@ -252,7 +252,7 @@
       },
       {
         "day": "2026-07-10",
-        "stars": 741
+        "stars": 750
       }
     ]
   }
