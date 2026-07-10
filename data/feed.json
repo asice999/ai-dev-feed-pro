@@ -4,52 +4,52 @@
     "title": "x4gKing/X4G",
     "summary": "x4gKing/X4G",
     "category": "Other",
-    "score": 8.4,
+    "score": 8.6,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 3422,
+    "stars": 3552,
     "url": "https://github.com/x4gKing/X4G",
-    "growth": 3422,
+    "growth": 3552,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 3422
+        "stars": 3552
       }
     ]
   },
   {
     "id": 1,
+    "title": "withmarbleapp/os-taxonomy",
+    "summary": "withmarbleapp/os-tax",
+    "category": "Other",
+    "score": 6.8,
+    "reason": "热度较高",
+    "source": "GitHub",
+    "stars": 1760,
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "growth": 1760,
+    "history": [
+      {
+        "day": "2026-07-10",
+        "stars": 1760
+      }
+    ]
+  },
+  {
+    "id": 2,
     "title": "Shpigford/knockoff",
     "summary": "Chrome extension tha",
     "category": "Other",
     "score": 6.6,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 1577,
+    "stars": 1606,
     "url": "https://github.com/Shpigford/knockoff",
-    "growth": 1577,
+    "growth": 1606,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 1577
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "withmarbleapp/os-taxonomy",
-    "summary": "withmarbleapp/os-tax",
-    "category": "Other",
-    "score": 6.5,
-    "reason": "热度较高",
-    "source": "GitHub",
-    "stars": 1502,
-    "url": "https://github.com/withmarbleapp/os-taxonomy",
-    "growth": 1502,
-    "history": [
-      {
-        "day": "2026-07-10",
-        "stars": 1502
+        "stars": 1606
       }
     ]
   },
@@ -61,13 +61,13 @@
     "score": 6.4,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 1394,
+    "stars": 1398,
     "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
-    "growth": 1394,
+    "growth": 1398,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 1394
+        "stars": 1398
       }
     ]
   },
@@ -79,13 +79,13 @@
     "score": 6.3,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 1286,
+    "stars": 1300,
     "url": "https://github.com/MaximeRivest/riddle",
-    "growth": 1286,
+    "growth": 1300,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 1286
+        "stars": 1300
       }
     ]
   },
@@ -97,13 +97,13 @@
     "score": 5.8,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 774,
+    "stars": 778,
     "url": "https://github.com/514-labs/dnsglobe",
-    "growth": 774,
+    "growth": 778,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 774
+        "stars": 778
       }
     ]
   },
@@ -112,16 +112,16 @@
     "title": "wouterdebie/davit",
     "summary": "A native macOS UI fo",
     "category": "Design",
-    "score": 5.7,
+    "score": 5.8,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 738,
+    "stars": 768,
     "url": "https://github.com/wouterdebie/davit",
-    "growth": 738,
+    "growth": 768,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 738
+        "stars": 768
       }
     ]
   },
@@ -133,13 +133,13 @@
     "score": 5.7,
     "reason": "热度较高",
     "source": "GitHub",
-    "stars": 705,
+    "stars": 724,
     "url": "https://github.com/yynxxxxx/Codex-X",
-    "growth": 705,
+    "growth": 724,
     "history": [
       {
         "day": "2026-07-10",
-        "stars": 705
+        "stars": 724
       }
     ]
   }
