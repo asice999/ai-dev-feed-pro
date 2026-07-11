@@ -5,18 +5,18 @@
     "summary": "os-taxonomy — macOS 开源项目",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,244",
+    "reason": "🔥 爆款！⭐2,296",
     "source": "GitHub",
-    "stars": 2244,
+    "stars": 2296,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
     "language": "JavaScript",
     "topics": [],
     "core_features": "os-taxonomy 是一个 macOS 开源项目。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 2,244，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,244",
-    "growth": 297,
+    "highlights": "Star 数突破 2,296，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,296",
+    "growth": 349,
     "history": [
       {
         "day": "2026-07-10",
@@ -24,7 +24,7 @@
       },
       {
         "day": "2026-07-11",
-        "stars": 2244
+        "stars": 2296
       }
     ]
   },
@@ -34,9 +34,9 @@
     "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real,...",
     "category": "Browser-Extension",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,721",
+    "reason": "🔥 爆款！⭐1,738",
     "source": "GitHub",
-    "stars": 1721,
+    "stars": 1738,
     "url": "https://github.com/Shpigford/knockoff",
     "language": "JavaScript",
     "topics": [
@@ -47,9 +47,9 @@
     "core_features": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.。项目名称 knockoff，属于 浏览器扩展 类别。",
     "use_cases": "浏览器功能扩展、网页自动化",
     "tech_stack": "JavaScript + amazon、browser-exte、chrome-exten",
-    "highlights": "Star 数突破 1,721，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,721",
-    "growth": 69,
+    "highlights": "Star 数突破 1,738，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,738",
+    "growth": 86,
     "history": [
       {
         "day": "2026-07-10",
@@ -57,7 +57,7 @@
       },
       {
         "day": "2026-07-11",
-        "stars": 1721
+        "stars": 1738
       }
     ]
   },
@@ -67,18 +67,18 @@
     "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, t...",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,356",
+    "reason": "🔥 爆款！⭐1,374",
     "source": "GitHub",
-    "stars": 1356,
+    "stars": 1374,
     "url": "https://github.com/MaximeRivest/riddle",
     "language": "Rust",
     "topics": [],
     "core_features": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand。项目名称 riddle，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,356，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,356",
-    "growth": 35,
+    "highlights": "Star 数突破 1,374，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,374",
+    "growth": 53,
     "history": [
       {
         "day": "2026-07-10",
@@ -86,7 +86,7 @@
       },
       {
         "day": "2026-07-11",
-        "stars": 1356
+        "stars": 1374
       }
     ]
   },
@@ -96,9 +96,9 @@
     "summary": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 p...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐800",
+    "reason": "🔥 爆款！⭐807",
     "source": "GitHub",
-    "stars": 800,
+    "stars": 807,
     "url": "https://github.com/514-labs/dnsglobe",
     "language": "Rust",
     "topics": [
@@ -113,9 +113,9 @@
     "core_features": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal。项目名称 dnsglobe，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Rust + cli、dns、dns-checker、dns-propagat",
-    "highlights": "Star 数 800，功能完善，获得开发者广泛认可",
-    "stars_fmt": "800",
-    "growth": 12,
+    "highlights": "Star 数 807，功能完善，获得开发者广泛认可",
+    "stars_fmt": "807",
+    "growth": 19,
     "history": [
       {
         "day": "2026-07-10",
@@ -123,57 +123,57 @@
       },
       {
         "day": "2026-07-11",
-        "stars": 800
+        "stars": 807
       }
     ]
   },
   {
     "id": 4,
-    "title": "Robbyant/lingbot-world-v2",
-    "summary": "Infinite Worlds with Versatile Interactions",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐727",
-    "source": "GitHub",
-    "stars": 727,
-    "url": "https://github.com/Robbyant/lingbot-world-v2",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "Python",
-    "highlights": "Star 数 727，功能完善，获得开发者广泛认可",
-    "stars_fmt": "727",
-    "growth": 727,
-    "history": [
-      {
-        "day": "2026-07-11",
-        "stars": 727
-      }
-    ]
-  },
-  {
-    "id": 5,
     "title": "oso95/scroll-world",
     "summary": "A skill that turn any brand into a scrollable 3D world",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐711",
+    "reason": "🔥 爆款！⭐775",
     "source": "GitHub",
-    "stars": 711,
+    "stars": 775,
     "url": "https://github.com/oso95/scroll-world",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A skill that turn any brand into a scrollable 3D world。项目名称 scroll-world，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 711，功能完善，获得开发者广泛认可",
-    "stars_fmt": "711",
-    "growth": 711,
+    "highlights": "Star 数 775，功能完善，获得开发者广泛认可",
+    "stars_fmt": "775",
+    "growth": 775,
     "history": [
       {
         "day": "2026-07-11",
-        "stars": 711
+        "stars": 775
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Robbyant/lingbot-world-v2",
+    "summary": "Infinite Worlds with Versatile Interactions",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐753",
+    "source": "GitHub",
+    "stars": 753,
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "Python",
+    "highlights": "Star 数 753，功能完善，获得开发者广泛认可",
+    "stars_fmt": "753",
+    "growth": 753,
+    "history": [
+      {
+        "day": "2026-07-11",
+        "stars": 753
       }
     ]
   },
@@ -183,9 +183,9 @@
     "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐701",
+    "reason": "🔥 爆款！⭐709",
     "source": "GitHub",
-    "stars": 701,
+    "stars": 709,
     "url": "https://github.com/simonlin1212/Vibe-Research",
     "language": "TypeScript",
     "topics": [
@@ -207,43 +207,38 @@
     "core_features": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。。项目名称 Vibe-Research，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + a-stock、ai-agent、dashboard、fastapi",
-    "highlights": "Star 数 701，功能完善，获得开发者广泛认可",
-    "stars_fmt": "701",
-    "growth": 701,
+    "highlights": "Star 数 709，功能完善，获得开发者广泛认可",
+    "stars_fmt": "709",
+    "growth": 709,
     "history": [
       {
         "day": "2026-07-11",
-        "stars": 701
+        "stars": 709
       }
     ]
   },
   {
     "id": 7,
-    "title": "Robbyant/lingbot-video",
-    "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-    "category": "AI",
+    "title": "x4gKing/3x-ui-Upgrade",
+    "summary": "3x-ui-Upgrade — 设计 开源项目",
+    "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐655",
+    "reason": "🔥 爆款！⭐707",
     "source": "GitHub",
-    "stars": 655,
-    "url": "https://github.com/Robbyant/lingbot-video",
-    "language": "Python",
-    "topics": [
-      "image-to-video",
-      "lingbot-video",
-      "video-generation",
-      "world-models"
-    ],
-    "core_features": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence。项目名称 lingbot-video，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + image-to-vid、lingbot-vide、video-genera、world-models",
-    "highlights": "Star 数 655，功能完善，获得开发者广泛认可",
-    "stars_fmt": "655",
-    "growth": 655,
+    "stars": 707,
+    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+    "language": "HTML",
+    "topics": [],
+    "core_features": "3x-ui-Upgrade 是一个 设计 开源项目。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "HTML",
+    "highlights": "Star 数 707，功能完善，获得开发者广泛认可",
+    "stars_fmt": "707",
+    "growth": 707,
     "history": [
       {
         "day": "2026-07-11",
-        "stars": 655
+        "stars": 707
       }
     ]
   }
