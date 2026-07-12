@@ -5,18 +5,18 @@
     "summary": "os-taxonomy — macOS 开源项目",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,428",
+    "reason": "🔥 爆款！⭐2,513",
     "source": "GitHub",
-    "stars": 2428,
+    "stars": 2513,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
     "language": "JavaScript",
     "topics": [],
     "core_features": "os-taxonomy 是一个 macOS 开源项目。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 2,428，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,428",
-    "growth": 481,
+    "highlights": "Star 数突破 2,513，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,513",
+    "growth": 566,
     "history": [
       {
         "day": "2026-07-10",
@@ -24,7 +24,7 @@
       },
       {
         "day": "2026-07-12",
-        "stars": 2428
+        "stars": 2513
       }
     ]
   },
@@ -34,9 +34,9 @@
     "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real,...",
     "category": "Browser-Extension",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,774",
+    "reason": "🔥 爆款！⭐1,787",
     "source": "GitHub",
-    "stars": 1774,
+    "stars": 1787,
     "url": "https://github.com/Shpigford/knockoff",
     "language": "JavaScript",
     "topics": [
@@ -47,9 +47,9 @@
     "core_features": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.。项目名称 knockoff，属于 浏览器扩展 类别。",
     "use_cases": "浏览器功能扩展、网页自动化",
     "tech_stack": "JavaScript + amazon、browser-exte、chrome-exten",
-    "highlights": "Star 数突破 1,774，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,774",
-    "growth": 122,
+    "highlights": "Star 数突破 1,787，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,787",
+    "growth": 135,
     "history": [
       {
         "day": "2026-07-10",
@@ -57,7 +57,7 @@
       },
       {
         "day": "2026-07-12",
-        "stars": 1774
+        "stars": 1787
       }
     ]
   },
@@ -67,72 +67,72 @@
     "summary": "A skill that turn any brand into a scrollable 3D world",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐903",
+    "reason": "🔥 爆款！⭐975",
     "source": "GitHub",
-    "stars": 903,
+    "stars": 975,
     "url": "https://github.com/oso95/scroll-world",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A skill that turn any brand into a scrollable 3D world。项目名称 scroll-world，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 903，功能完善，获得开发者广泛认可",
-    "stars_fmt": "903",
-    "growth": 903,
+    "highlights": "Star 数 975，功能完善，获得开发者广泛认可",
+    "stars_fmt": "975",
+    "growth": 975,
     "history": [
       {
         "day": "2026-07-12",
-        "stars": 903
+        "stars": 975
       }
     ]
   },
   {
     "id": 3,
-    "title": "x4gKing/3x-ui-Upgrade",
-    "summary": "3x-ui-Upgrade — 设计 开源项目",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐801",
-    "source": "GitHub",
-    "stars": 801,
-    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
-    "language": "HTML",
-    "topics": [],
-    "core_features": "3x-ui-Upgrade 是一个 设计 开源项目。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "HTML",
-    "highlights": "Star 数 801，功能完善，获得开发者广泛认可",
-    "stars_fmt": "801",
-    "growth": 801,
-    "history": [
-      {
-        "day": "2026-07-12",
-        "stars": 801
-      }
-    ]
-  },
-  {
-    "id": 4,
     "title": "Robbyant/lingbot-world-v2",
     "summary": "Infinite Worlds with Versatile Interactions",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐800",
+    "reason": "🔥 爆款！⭐842",
     "source": "GitHub",
-    "stars": 800,
+    "stars": 842,
     "url": "https://github.com/Robbyant/lingbot-world-v2",
     "language": "Python",
     "topics": [],
     "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数 800，功能完善，获得开发者广泛认可",
-    "stars_fmt": "800",
-    "growth": 800,
+    "highlights": "Star 数 842，功能完善，获得开发者广泛认可",
+    "stars_fmt": "842",
+    "growth": 842,
     "history": [
       {
         "day": "2026-07-12",
-        "stars": 800
+        "stars": 842
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "x4gKing/3x-ui-Upgrade",
+    "summary": "3x-ui-Upgrade — 设计 开源项目",
+    "category": "Design",
+    "score": 10,
+    "reason": "🔥 爆款！⭐815",
+    "source": "GitHub",
+    "stars": 815,
+    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+    "language": "HTML",
+    "topics": [],
+    "core_features": "3x-ui-Upgrade 是一个 设计 开源项目。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "HTML",
+    "highlights": "Star 数 815，功能完善，获得开发者广泛认可",
+    "stars_fmt": "815",
+    "growth": 815,
+    "history": [
+      {
+        "day": "2026-07-12",
+        "stars": 815
       }
     ]
   },
@@ -142,9 +142,9 @@
     "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐681",
+    "reason": "🔥 爆款！⭐694",
     "source": "GitHub",
-    "stars": 681,
+    "stars": 694,
     "url": "https://github.com/Robbyant/lingbot-video",
     "language": "Python",
     "topics": [
@@ -156,13 +156,13 @@
     "core_features": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence。项目名称 lingbot-video，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + image-to-vid、lingbot-vide、video-genera、world-models",
-    "highlights": "Star 数 681，功能完善，获得开发者广泛认可",
-    "stars_fmt": "681",
-    "growth": 681,
+    "highlights": "Star 数 694，功能完善，获得开发者广泛认可",
+    "stars_fmt": "694",
+    "growth": 694,
     "history": [
       {
         "day": "2026-07-12",
-        "stars": 681
+        "stars": 694
       }
     ]
   },
@@ -172,22 +172,22 @@
     "summary": "Self-supervised learning for spatial perception",
     "category": "Learning",
     "score": 10,
-    "reason": "🔥 爆款！⭐637",
+    "reason": "🔥 爆款！⭐645",
     "source": "GitHub",
-    "stars": 637,
+    "stars": 645,
     "url": "https://github.com/Robbyant/lingbot-vision",
     "language": "Python",
     "topics": [],
     "core_features": "Self-supervised learning for spatial perception。项目名称 lingbot-vision，属于 学习 类别。",
     "use_cases": "在线学习、技能培训、知识管理",
     "tech_stack": "Python",
-    "highlights": "Star 数 637，功能完善，获得开发者广泛认可",
-    "stars_fmt": "637",
-    "growth": 637,
+    "highlights": "Star 数 645，功能完善，获得开发者广泛认可",
+    "stars_fmt": "645",
+    "growth": 645,
     "history": [
       {
         "day": "2026-07-12",
-        "stars": 637
+        "stars": 645
       }
     ]
   },
@@ -196,10 +196,10 @@
     "title": "op7418/guizang-material-illustration",
     "summary": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
     "category": "Design",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐562",
+    "score": 10,
+    "reason": "🔥 爆款！⭐572",
     "source": "GitHub",
-    "stars": 562,
+    "stars": 572,
     "url": "https://github.com/op7418/guizang-material-illustration",
     "language": "",
     "topics": [
@@ -219,13 +219,13 @@
     "core_features": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。。项目名称 guizang-material-illustration，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数 562，功能完善，获得开发者广泛认可",
-    "stars_fmt": "562",
-    "growth": 562,
+    "highlights": "Star 数 572，功能完善，获得开发者广泛认可",
+    "stars_fmt": "572",
+    "growth": 572,
     "history": [
       {
         "day": "2026-07-12",
-        "stars": 562
+        "stars": 572
       }
     ]
   }
