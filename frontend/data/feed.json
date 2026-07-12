@@ -5,26 +5,26 @@
     "summary": "os-taxonomy — macOS 开源项目",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,344",
+    "reason": "🔥 爆款！⭐2,428",
     "source": "GitHub",
-    "stars": 2344,
+    "stars": 2428,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
     "language": "JavaScript",
     "topics": [],
     "core_features": "os-taxonomy 是一个 macOS 开源项目。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 2,344，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,344",
-    "growth": 397,
+    "highlights": "Star 数突破 2,428，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,428",
+    "growth": 481,
     "history": [
       {
         "day": "2026-07-10",
         "stars": 1947
       },
       {
-        "day": "2026-07-11",
-        "stars": 2344
+        "day": "2026-07-12",
+        "stars": 2428
       }
     ]
   },
@@ -34,9 +34,9 @@
     "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real,...",
     "category": "Browser-Extension",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,756",
+    "reason": "🔥 爆款！⭐1,774",
     "source": "GitHub",
-    "stars": 1756,
+    "stars": 1774,
     "url": "https://github.com/Shpigford/knockoff",
     "language": "JavaScript",
     "topics": [
@@ -47,198 +47,185 @@
     "core_features": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.。项目名称 knockoff，属于 浏览器扩展 类别。",
     "use_cases": "浏览器功能扩展、网页自动化",
     "tech_stack": "JavaScript + amazon、browser-exte、chrome-exten",
-    "highlights": "Star 数突破 1,756，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,756",
-    "growth": 104,
+    "highlights": "Star 数突破 1,774，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,774",
+    "growth": 122,
     "history": [
       {
         "day": "2026-07-10",
         "stars": 1652
       },
       {
-        "day": "2026-07-11",
-        "stars": 1756
+        "day": "2026-07-12",
+        "stars": 1774
       }
     ]
   },
   {
     "id": 2,
-    "title": "MaximeRivest/riddle",
-    "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, t...",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,391",
-    "source": "GitHub",
-    "stars": 1391,
-    "url": "https://github.com/MaximeRivest/riddle",
-    "language": "Rust",
-    "topics": [],
-    "core_features": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand。项目名称 riddle，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,391，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,391",
-    "growth": 70,
-    "history": [
-      {
-        "day": "2026-07-10",
-        "stars": 1321
-      },
-      {
-        "day": "2026-07-11",
-        "stars": 1391
-      }
-    ]
-  },
-  {
-    "id": 3,
     "title": "oso95/scroll-world",
     "summary": "A skill that turn any brand into a scrollable 3D world",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐820",
+    "reason": "🔥 爆款！⭐903",
     "source": "GitHub",
-    "stars": 820,
+    "stars": 903,
     "url": "https://github.com/oso95/scroll-world",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A skill that turn any brand into a scrollable 3D world。项目名称 scroll-world，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 820，功能完善，获得开发者广泛认可",
-    "stars_fmt": "820",
-    "growth": 820,
+    "highlights": "Star 数 903，功能完善，获得开发者广泛认可",
+    "stars_fmt": "903",
+    "growth": 903,
     "history": [
       {
-        "day": "2026-07-11",
-        "stars": 820
+        "day": "2026-07-12",
+        "stars": 903
       }
     ]
   },
   {
-    "id": 4,
-    "title": "514-labs/dnsglobe",
-    "summary": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 p...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐813",
-    "source": "GitHub",
-    "stars": 813,
-    "url": "https://github.com/514-labs/dnsglobe",
-    "language": "Rust",
-    "topics": [
-      "cli",
-      "dns",
-      "dns-checker",
-      "dns-propagation",
-      "ratatui",
-      "rust",
-      "tui"
-    ],
-    "core_features": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal。项目名称 dnsglobe，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Rust + cli、dns、dns-checker、dns-propagat",
-    "highlights": "Star 数 813，功能完善，获得开发者广泛认可",
-    "stars_fmt": "813",
-    "growth": 25,
-    "history": [
-      {
-        "day": "2026-07-10",
-        "stars": 788
-      },
-      {
-        "day": "2026-07-11",
-        "stars": 813
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Robbyant/lingbot-world-v2",
-    "summary": "Infinite Worlds with Versatile Interactions",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐782",
-    "source": "GitHub",
-    "stars": 782,
-    "url": "https://github.com/Robbyant/lingbot-world-v2",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "Python",
-    "highlights": "Star 数 782，功能完善，获得开发者广泛认可",
-    "stars_fmt": "782",
-    "growth": 782,
-    "history": [
-      {
-        "day": "2026-07-11",
-        "stars": 782
-      }
-    ]
-  },
-  {
-    "id": 6,
+    "id": 3,
     "title": "x4gKing/3x-ui-Upgrade",
     "summary": "3x-ui-Upgrade — 设计 开源项目",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐767",
+    "reason": "🔥 爆款！⭐801",
     "source": "GitHub",
-    "stars": 767,
+    "stars": 801,
     "url": "https://github.com/x4gKing/3x-ui-Upgrade",
     "language": "HTML",
     "topics": [],
     "core_features": "3x-ui-Upgrade 是一个 设计 开源项目。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "HTML",
-    "highlights": "Star 数 767，功能完善，获得开发者广泛认可",
-    "stars_fmt": "767",
-    "growth": 767,
+    "highlights": "Star 数 801，功能完善，获得开发者广泛认可",
+    "stars_fmt": "801",
+    "growth": 801,
     "history": [
       {
-        "day": "2026-07-11",
-        "stars": 767
+        "day": "2026-07-12",
+        "stars": 801
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Robbyant/lingbot-world-v2",
+    "summary": "Infinite Worlds with Versatile Interactions",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐800",
+    "source": "GitHub",
+    "stars": 800,
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "Python",
+    "highlights": "Star 数 800，功能完善，获得开发者广泛认可",
+    "stars_fmt": "800",
+    "growth": 800,
+    "history": [
+      {
+        "day": "2026-07-12",
+        "stars": 800
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Robbyant/lingbot-video",
+    "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐681",
+    "source": "GitHub",
+    "stars": 681,
+    "url": "https://github.com/Robbyant/lingbot-video",
+    "language": "Python",
+    "topics": [
+      "image-to-video",
+      "lingbot-video",
+      "video-generation",
+      "world-models"
+    ],
+    "core_features": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence。项目名称 lingbot-video，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + image-to-vid、lingbot-vide、video-genera、world-models",
+    "highlights": "Star 数 681，功能完善，获得开发者广泛认可",
+    "stars_fmt": "681",
+    "growth": 681,
+    "history": [
+      {
+        "day": "2026-07-12",
+        "stars": 681
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Robbyant/lingbot-vision",
+    "summary": "Self-supervised learning for spatial perception",
+    "category": "Learning",
+    "score": 10,
+    "reason": "🔥 爆款！⭐637",
+    "source": "GitHub",
+    "stars": 637,
+    "url": "https://github.com/Robbyant/lingbot-vision",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Self-supervised learning for spatial perception。项目名称 lingbot-vision，属于 学习 类别。",
+    "use_cases": "在线学习、技能培训、知识管理",
+    "tech_stack": "Python",
+    "highlights": "Star 数 637，功能完善，获得开发者广泛认可",
+    "stars_fmt": "637",
+    "growth": 637,
+    "history": [
+      {
+        "day": "2026-07-12",
+        "stars": 637
       }
     ]
   },
   {
     "id": 7,
-    "title": "simonlin1212/Vibe-Research",
-    "summary": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐721",
+    "title": "op7418/guizang-material-illustration",
+    "summary": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+    "category": "Design",
+    "score": 9.9,
+    "reason": "🔥 爆款！⭐562",
     "source": "GitHub",
-    "stars": 721,
-    "url": "https://github.com/simonlin1212/Vibe-Research",
-    "language": "TypeScript",
+    "stars": 562,
+    "url": "https://github.com/op7418/guizang-material-illustration",
+    "language": "",
     "topics": [
-      "a-stock",
-      "ai-agent",
-      "dashboard",
-      "fastapi",
-      "fintech",
-      "hk-stocks",
-      "investment-research",
-      "llm",
-      "mcp",
-      "python",
-      "react",
-      "stock-market",
-      "trading",
-      "us-stocks"
+      "agent",
+      "chart-visualization",
+      "chinese",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "explainer",
+      "illustration",
+      "image-generation",
+      "material-illustration",
+      "skill",
+      "social-media"
     ],
-    "core_features": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。。项目名称 Vibe-Research，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + a-stock、ai-agent、dashboard、fastapi",
-    "highlights": "Star 数 721，功能完善，获得开发者广泛认可",
-    "stars_fmt": "721",
-    "growth": 721,
+    "core_features": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。。项目名称 guizang-material-illustration，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 562，功能完善，获得开发者广泛认可",
+    "stars_fmt": "562",
+    "growth": 562,
     "history": [
       {
-        "day": "2026-07-11",
-        "stars": 721
+        "day": "2026-07-12",
+        "stars": 562
       }
     ]
   }
