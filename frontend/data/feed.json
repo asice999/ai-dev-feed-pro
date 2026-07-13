@@ -5,18 +5,18 @@
     "summary": "os-taxonomy — macOS 开源项目",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,733",
+    "reason": "🔥 爆款！⭐2,815",
     "source": "GitHub",
-    "stars": 2733,
+    "stars": 2815,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
     "language": "JavaScript",
     "topics": [],
     "core_features": "os-taxonomy 是一个 macOS 开源项目。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 2,733，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,733",
-    "growth": 786,
+    "highlights": "Star 数突破 2,815，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,815",
+    "growth": 868,
     "history": [
       {
         "day": "2026-07-10",
@@ -24,7 +24,7 @@
       },
       {
         "day": "2026-07-13",
-        "stars": 2733
+        "stars": 2815
       }
     ]
   },
@@ -34,22 +34,22 @@
     "summary": "Infinite Worlds with Versatile Interactions",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐936",
+    "reason": "🔥 爆款！⭐978",
     "source": "GitHub",
-    "stars": 936,
+    "stars": 978,
     "url": "https://github.com/Robbyant/lingbot-world-v2",
     "language": "Python",
     "topics": [],
     "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数 936，功能完善，获得开发者广泛认可",
-    "stars_fmt": "936",
-    "growth": 936,
+    "highlights": "Star 数 978，功能完善，获得开发者广泛认可",
+    "stars_fmt": "978",
+    "growth": 978,
     "history": [
       {
         "day": "2026-07-13",
-        "stars": 936
+        "stars": 978
       }
     ]
   },
@@ -59,34 +59,59 @@
     "summary": "3x-ui-Upgrade — 设计 开源项目",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐890",
+    "reason": "🔥 爆款！⭐900",
     "source": "GitHub",
-    "stars": 890,
+    "stars": 900,
     "url": "https://github.com/x4gKing/3x-ui-Upgrade",
     "language": "HTML",
     "topics": [],
     "core_features": "3x-ui-Upgrade 是一个 设计 开源项目。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "HTML",
-    "highlights": "Star 数 890，功能完善，获得开发者广泛认可",
-    "stars_fmt": "890",
-    "growth": 890,
+    "highlights": "Star 数 900，功能完善，获得开发者广泛认可",
+    "stars_fmt": "900",
+    "growth": 900,
     "history": [
       {
         "day": "2026-07-13",
-        "stars": 890
+        "stars": 900
       }
     ]
   },
   {
     "id": 3,
+    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "summary": "Codex plugin that turns attached object images into code-only, animation-read...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐751",
+    "source": "GitHub",
+    "stars": 751,
+    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.。项目名称 Three.js-Object-Sculptor-Codex-Plugin，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 751，功能完善，获得开发者广泛认可",
+    "stars_fmt": "751",
+    "growth": 751,
+    "history": [
+      {
+        "day": "2026-07-13",
+        "stars": 751
+      }
+    ]
+  },
+  {
+    "id": 4,
     "title": "Robbyant/lingbot-video",
     "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐714",
+    "reason": "🔥 爆款！⭐733",
     "source": "GitHub",
-    "stars": 714,
+    "stars": 733,
     "url": "https://github.com/Robbyant/lingbot-video",
     "language": "Python",
     "topics": [
@@ -98,38 +123,13 @@
     "core_features": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence。项目名称 lingbot-video，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + image-to-vid、lingbot-vide、video-genera、world-models",
-    "highlights": "Star 数 714，功能完善，获得开发者广泛认可",
-    "stars_fmt": "714",
-    "growth": 714,
+    "highlights": "Star 数 733，功能完善，获得开发者广泛认可",
+    "stars_fmt": "733",
+    "growth": 733,
     "history": [
       {
         "day": "2026-07-13",
-        "stars": 714
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "summary": "Codex plugin that turns attached object images into code-only, animation-read...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐642",
-    "source": "GitHub",
-    "stars": 642,
-    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.。项目名称 Three.js-Object-Sculptor-Codex-Plugin，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 642，功能完善，获得开发者广泛认可",
-    "stars_fmt": "642",
-    "growth": 642,
-    "history": [
-      {
-        "day": "2026-07-13",
-        "stars": 642
+        "stars": 733
       }
     ]
   },
@@ -139,9 +139,9 @@
     "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software develo...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐641",
+    "reason": "🔥 爆款！⭐691",
     "source": "GitHub",
-    "stars": 641,
+    "stars": 691,
     "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
     "language": "TypeScript",
     "topics": [
@@ -158,13 +158,13 @@
     "core_features": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.。项目名称 clodex-ide，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agentic-ai、agentic-ide、ai-agents、developer-to",
-    "highlights": "Star 数 641，功能完善，获得开发者广泛认可",
-    "stars_fmt": "641",
-    "growth": 641,
+    "highlights": "Star 数 691，功能完善，获得开发者广泛认可",
+    "stars_fmt": "691",
+    "growth": 691,
     "history": [
       {
         "day": "2026-07-13",
-        "stars": 641
+        "stars": 691
       }
     ]
   },
@@ -174,9 +174,9 @@
     "summary": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐595",
+    "reason": "🔥 爆款！⭐615",
     "source": "GitHub",
-    "stars": 595,
+    "stars": 615,
     "url": "https://github.com/op7418/guizang-material-illustration",
     "language": "",
     "topics": [
@@ -196,38 +196,38 @@
     "core_features": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。。项目名称 guizang-material-illustration，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数 595，功能完善，获得开发者广泛认可",
-    "stars_fmt": "595",
-    "growth": 595,
+    "highlights": "Star 数 615，功能完善，获得开发者广泛认可",
+    "stars_fmt": "615",
+    "growth": 615,
     "history": [
       {
         "day": "2026-07-13",
-        "stars": 595
+        "stars": 615
       }
     ]
   },
   {
     "id": 7,
-    "title": "xiaotianfotos/homerail",
-    "summary": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-    "category": "AI",
-    "score": 9.6,
-    "reason": "⭐489 高热度项目",
+    "title": "Robbyant/lingbot-vla-v2",
+    "summary": "From Foundation to Application",
+    "category": "macOS",
+    "score": 9.7,
+    "reason": "⭐499 高热度项目",
     "source": "GitHub",
-    "stars": 489,
-    "url": "https://github.com/xiaotianfotos/homerail",
-    "language": "TypeScript",
+    "stars": 499,
+    "url": "https://github.com/Robbyant/lingbot-vla-v2",
+    "language": "Python",
     "topics": [],
-    "core_features": "Voice-first local agent orchestration runtime for auditable DAG workflows.。项目名称 homerail，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数 489，功能完善，获得开发者广泛认可",
-    "stars_fmt": "489",
-    "growth": 489,
+    "core_features": "From Foundation to Application。项目名称 lingbot-vla-v2，属于 macOS 类别。",
+    "use_cases": "mac 桌面应用、效率工具",
+    "tech_stack": "Python",
+    "highlights": "Star 数 499，功能完善，获得开发者广泛认可",
+    "stars_fmt": "499",
+    "growth": 499,
     "history": [
       {
         "day": "2026-07-13",
-        "stars": 489
+        "stars": 499
       }
     ]
   }
