@@ -5,26 +5,26 @@
     "summary": "os-taxonomy — macOS 开源项目",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,881",
+    "reason": "🔥 爆款！⭐2,932",
     "source": "GitHub",
-    "stars": 2881,
+    "stars": 2932,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
     "language": "JavaScript",
     "topics": [],
     "core_features": "os-taxonomy 是一个 macOS 开源项目。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 2,881，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,881",
-    "growth": 934,
+    "highlights": "Star 数突破 2,932，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,932",
+    "growth": 985,
     "history": [
       {
         "day": "2026-07-10",
         "stars": 1947
       },
       {
-        "day": "2026-07-13",
-        "stars": 2881
+        "day": "2026-07-14",
+        "stars": 2932
       }
     ]
   },
@@ -34,22 +34,22 @@
     "summary": "Infinite Worlds with Versatile Interactions",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,016",
+    "reason": "🔥 爆款！⭐1,038",
     "source": "GitHub",
-    "stars": 1016,
+    "stars": 1038,
     "url": "https://github.com/Robbyant/lingbot-world-v2",
     "language": "Python",
     "topics": [],
     "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,016，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,016",
-    "growth": 1016,
+    "highlights": "Star 数突破 1,038，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,038",
+    "growth": 1038,
     "history": [
       {
-        "day": "2026-07-13",
-        "stars": 1016
+        "day": "2026-07-14",
+        "stars": 1038
       }
     ]
   },
@@ -59,22 +59,22 @@
     "summary": "3x-ui-Upgrade — 设计 开源项目",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐932",
+    "reason": "🔥 爆款！⭐959",
     "source": "GitHub",
-    "stars": 932,
+    "stars": 959,
     "url": "https://github.com/x4gKing/3x-ui-Upgrade",
     "language": "HTML",
     "topics": [],
     "core_features": "3x-ui-Upgrade 是一个 设计 开源项目。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "HTML",
-    "highlights": "Star 数 932，功能完善，获得开发者广泛认可",
-    "stars_fmt": "932",
-    "growth": 932,
+    "highlights": "Star 数 959，功能完善，获得开发者广泛认可",
+    "stars_fmt": "959",
+    "growth": 959,
     "history": [
       {
-        "day": "2026-07-13",
-        "stars": 932
+        "day": "2026-07-14",
+        "stars": 959
       }
     ]
   },
@@ -84,22 +84,22 @@
     "summary": "Codex plugin that turns attached object images into code-only, animation-read...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐829",
+    "reason": "🔥 爆款！⭐865",
     "source": "GitHub",
-    "stars": 829,
+    "stars": 865,
     "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
     "language": "Python",
     "topics": [],
     "core_features": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.。项目名称 Three.js-Object-Sculptor-Codex-Plugin，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 829，功能完善，获得开发者广泛认可",
-    "stars_fmt": "829",
-    "growth": 829,
+    "highlights": "Star 数 865，功能完善，获得开发者广泛认可",
+    "stars_fmt": "865",
+    "growth": 865,
     "history": [
       {
-        "day": "2026-07-13",
-        "stars": 829
+        "day": "2026-07-14",
+        "stars": 865
       }
     ]
   },
@@ -109,9 +109,9 @@
     "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐751",
+    "reason": "🔥 爆款！⭐762",
     "source": "GitHub",
-    "stars": 751,
+    "stars": 762,
     "url": "https://github.com/Robbyant/lingbot-video",
     "language": "Python",
     "topics": [
@@ -123,18 +123,68 @@
     "core_features": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence。项目名称 lingbot-video，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + image-to-vid、lingbot-vide、video-genera、world-models",
-    "highlights": "Star 数 751，功能完善，获得开发者广泛认可",
-    "stars_fmt": "751",
-    "growth": 751,
+    "highlights": "Star 数 762，功能完善，获得开发者广泛认可",
+    "stars_fmt": "762",
+    "growth": 762,
     "history": [
       {
-        "day": "2026-07-13",
-        "stars": 751
+        "day": "2026-07-14",
+        "stars": 762
       }
     ]
   },
   {
     "id": 5,
+    "title": "littledivy/mimic",
+    "summary": "Intercept any app, then call it from Python like a library",
+    "category": "macOS",
+    "score": 10,
+    "reason": "🔥 爆款！⭐714",
+    "source": "GitHub",
+    "stars": 714,
+    "url": "https://github.com/littledivy/mimic",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
+    "use_cases": "mac 桌面应用、效率工具",
+    "tech_stack": "Python",
+    "highlights": "Star 数 714，功能完善，获得开发者广泛认可",
+    "stars_fmt": "714",
+    "growth": 714,
+    "history": [
+      {
+        "day": "2026-07-14",
+        "stars": 714
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "MDX-Tom/gpt-5.6-instruct",
+    "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐712",
+    "source": "GitHub",
+    "stars": 712,
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "language": "Python",
+    "topics": [],
+    "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 712，功能完善，获得开发者广泛认可",
+    "stars_fmt": "712",
+    "growth": 712,
+    "history": [
+      {
+        "day": "2026-07-14",
+        "stars": 712
+      }
+    ]
+  },
+  {
+    "id": 7,
     "title": "mereyabdenbekuly-ctrl/clodex-ide",
     "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software develo...",
     "category": "AI",
@@ -163,71 +213,8 @@
     "growth": 696,
     "history": [
       {
-        "day": "2026-07-13",
+        "day": "2026-07-14",
         "stars": 696
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "MDX-Tom/gpt-5.6-instruct",
-    "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐645",
-    "source": "GitHub",
-    "stars": 645,
-    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-    "language": "Python",
-    "topics": [],
-    "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 645，功能完善，获得开发者广泛认可",
-    "stars_fmt": "645",
-    "growth": 645,
-    "history": [
-      {
-        "day": "2026-07-13",
-        "stars": 645
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "op7418/guizang-material-illustration",
-    "summary": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐628",
-    "source": "GitHub",
-    "stars": 628,
-    "url": "https://github.com/op7418/guizang-material-illustration",
-    "language": "",
-    "topics": [
-      "agent",
-      "chart-visualization",
-      "chinese",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "explainer",
-      "illustration",
-      "image-generation",
-      "material-illustration",
-      "skill",
-      "social-media"
-    ],
-    "core_features": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。。项目名称 guizang-material-illustration，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "多语言支持",
-    "highlights": "Star 数 628，功能完善，获得开发者广泛认可",
-    "stars_fmt": "628",
-    "growth": 628,
-    "history": [
-      {
-        "day": "2026-07-13",
-        "stars": 628
       }
     ]
   }
