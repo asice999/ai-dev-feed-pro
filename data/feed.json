@@ -5,18 +5,18 @@
     "summary": "os-taxonomy — macOS 开源项目",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,014",
+    "reason": "🔥 爆款！⭐3,034",
     "source": "GitHub",
-    "stars": 3014,
+    "stars": 3034,
     "url": "https://github.com/withmarbleapp/os-taxonomy",
     "language": "JavaScript",
     "topics": [],
     "core_features": "os-taxonomy 是一个 macOS 开源项目。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 3,014，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,014",
-    "growth": 1067,
+    "highlights": "Star 数突破 3,034，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,034",
+    "growth": 1087,
     "history": [
       {
         "day": "2026-07-10",
@@ -24,7 +24,7 @@
       },
       {
         "day": "2026-07-14",
-        "stars": 3014
+        "stars": 3034
       }
     ]
   },
@@ -34,22 +34,22 @@
     "summary": "Infinite Worlds with Versatile Interactions",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,083",
+    "reason": "🔥 爆款！⭐1,098",
     "source": "GitHub",
-    "stars": 1083,
+    "stars": 1098,
     "url": "https://github.com/Robbyant/lingbot-world-v2",
     "language": "Python",
     "topics": [],
     "core_features": "Infinite Worlds with Versatile Interactions。项目名称 lingbot-world-v2，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,083，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,083",
-    "growth": 1083,
+    "highlights": "Star 数突破 1,098，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,098",
+    "growth": 1098,
     "history": [
       {
         "day": "2026-07-14",
-        "stars": 1083
+        "stars": 1098
       }
     ]
   },
@@ -59,72 +59,72 @@
     "summary": "3x-ui-Upgrade — 设计 开源项目",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,004",
+    "reason": "🔥 爆款！⭐1,024",
     "source": "GitHub",
-    "stars": 1004,
+    "stars": 1024,
     "url": "https://github.com/x4gKing/3x-ui-Upgrade",
     "language": "HTML",
     "topics": [],
     "core_features": "3x-ui-Upgrade 是一个 设计 开源项目。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 1,004，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,004",
-    "growth": 1004,
+    "highlights": "Star 数突破 1,024，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,024",
+    "growth": 1024,
     "history": [
       {
         "day": "2026-07-14",
-        "stars": 1004
+        "stars": 1024
       }
     ]
   },
   {
     "id": 3,
-    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "summary": "Codex plugin that turns attached object images into code-only, animation-read...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐951",
-    "source": "GitHub",
-    "stars": 951,
-    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.。项目名称 Three.js-Object-Sculptor-Codex-Plugin，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 951，功能完善，获得开发者广泛认可",
-    "stars_fmt": "951",
-    "growth": 951,
-    "history": [
-      {
-        "day": "2026-07-14",
-        "stars": 951
-      }
-    ]
-  },
-  {
-    "id": 4,
     "title": "MDX-Tom/gpt-5.6-instruct",
     "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐940",
+    "reason": "🔥 爆款！⭐986",
     "source": "GitHub",
-    "stars": 940,
+    "stars": 986,
     "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "language": "Python",
     "topics": [],
     "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 940，功能完善，获得开发者广泛认可",
-    "stars_fmt": "940",
-    "growth": 940,
+    "highlights": "Star 数 986，功能完善，获得开发者广泛认可",
+    "stars_fmt": "986",
+    "growth": 986,
     "history": [
       {
         "day": "2026-07-14",
-        "stars": 940
+        "stars": 986
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "summary": "Codex plugin that turns attached object images into code-only, animation-read...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐961",
+    "source": "GitHub",
+    "stars": 961,
+    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.。项目名称 Three.js-Object-Sculptor-Codex-Plugin，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 961，功能完善，获得开发者广泛认可",
+    "stars_fmt": "961",
+    "growth": 961,
+    "history": [
+      {
+        "day": "2026-07-14",
+        "stars": 961
       }
     ]
   },
@@ -134,22 +134,22 @@
     "summary": "Intercept any app, then call it from Python like a library",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐857",
+    "reason": "🔥 爆款！⭐893",
     "source": "GitHub",
-    "stars": 857,
+    "stars": 893,
     "url": "https://github.com/littledivy/mimic",
     "language": "Python",
     "topics": [],
     "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "Python",
-    "highlights": "Star 数 857，功能完善，获得开发者广泛认可",
-    "stars_fmt": "857",
-    "growth": 857,
+    "highlights": "Star 数 893，功能完善，获得开发者广泛认可",
+    "stars_fmt": "893",
+    "growth": 893,
     "history": [
       {
         "day": "2026-07-14",
-        "stars": 857
+        "stars": 893
       }
     ]
   },
@@ -159,9 +159,9 @@
     "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software develo...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐799",
+    "reason": "🔥 爆款！⭐800",
     "source": "GitHub",
-    "stars": 799,
+    "stars": 800,
     "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
     "language": "TypeScript",
     "topics": [
@@ -178,13 +178,13 @@
     "core_features": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.。项目名称 clodex-ide，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agentic-ai、agentic-ide、ai-agents、developer-to",
-    "highlights": "Star 数 799，功能完善，获得开发者广泛认可",
-    "stars_fmt": "799",
-    "growth": 799,
+    "highlights": "Star 数 800，功能完善，获得开发者广泛认可",
+    "stars_fmt": "800",
+    "growth": 800,
     "history": [
       {
         "day": "2026-07-14",
-        "stars": 799
+        "stars": 800
       }
     ]
   },
@@ -194,9 +194,9 @@
     "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐781",
+    "reason": "🔥 爆款！⭐784",
     "source": "GitHub",
-    "stars": 781,
+    "stars": 784,
     "url": "https://github.com/Robbyant/lingbot-video",
     "language": "Python",
     "topics": [
@@ -208,13 +208,13 @@
     "core_features": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence。项目名称 lingbot-video，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + image-to-vid、lingbot-vide、video-genera、world-models",
-    "highlights": "Star 数 781，功能完善，获得开发者广泛认可",
-    "stars_fmt": "781",
-    "growth": 781,
+    "highlights": "Star 数 784，功能完善，获得开发者广泛认可",
+    "stars_fmt": "784",
+    "growth": 784,
     "history": [
       {
         "day": "2026-07-14",
-        "stars": 781
+        "stars": 784
       }
     ]
   }
