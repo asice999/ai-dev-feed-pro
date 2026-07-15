@@ -5,22 +5,22 @@
     "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,023",
+    "reason": "🔥 爆款！⭐1,121",
     "source": "GitHub",
-    "stars": 1023,
+    "stars": 1121,
     "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "language": "Python",
     "topics": [],
     "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,023，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,023",
-    "growth": 1023,
+    "highlights": "Star 数突破 1,121，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,121",
+    "growth": 1121,
     "history": [
       {
         "day": "2026-07-15",
-        "stars": 1023
+        "stars": 1121
       }
     ]
   },
@@ -30,22 +30,22 @@
     "summary": "Codex plugin that turns attached object images into code-only, animation-read...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐966",
+    "reason": "🔥 爆款！⭐978",
     "source": "GitHub",
-    "stars": 966,
+    "stars": 978,
     "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
     "language": "Python",
     "topics": [],
     "core_features": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.。项目名称 Three.js-Object-Sculptor-Codex-Plugin，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 966，功能完善，获得开发者广泛认可",
-    "stars_fmt": "966",
-    "growth": 966,
+    "highlights": "Star 数 978，功能完善，获得开发者广泛认可",
+    "stars_fmt": "978",
+    "growth": 978,
     "history": [
       {
         "day": "2026-07-15",
-        "stars": 966
+        "stars": 978
       }
     ]
   },
@@ -55,22 +55,22 @@
     "summary": "Intercept any app, then call it from Python like a library",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐909",
+    "reason": "🔥 爆款！⭐919",
     "source": "GitHub",
-    "stars": 909,
+    "stars": 919,
     "url": "https://github.com/littledivy/mimic",
     "language": "Python",
     "topics": [],
     "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "Python",
-    "highlights": "Star 数 909，功能完善，获得开发者广泛认可",
-    "stars_fmt": "909",
-    "growth": 909,
+    "highlights": "Star 数 919，功能完善，获得开发者广泛认可",
+    "stars_fmt": "919",
+    "growth": 919,
     "history": [
       {
         "day": "2026-07-15",
-        "stars": 909
+        "stars": 919
       }
     ]
   },
@@ -80,9 +80,9 @@
     "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software develo...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐801",
+    "reason": "🔥 爆款！⭐803",
     "source": "GitHub",
-    "stars": 801,
+    "stars": 803,
     "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
     "language": "TypeScript",
     "topics": [
@@ -99,13 +99,13 @@
     "core_features": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.。项目名称 clodex-ide，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agentic-ai、agentic-ide、ai-agents、developer-to",
-    "highlights": "Star 数 801，功能完善，获得开发者广泛认可",
-    "stars_fmt": "801",
-    "growth": 801,
+    "highlights": "Star 数 803，功能完善，获得开发者广泛认可",
+    "stars_fmt": "803",
+    "growth": 803,
     "history": [
       {
         "day": "2026-07-15",
-        "stars": 801
+        "stars": 803
       }
     ]
   },
@@ -115,9 +115,9 @@
     "summary": "A practical, open-source guide to mastering WorkBuddy through real-world work...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐704",
+    "reason": "🔥 爆款！⭐744",
     "source": "GitHub",
-    "stars": 704,
+    "stars": 744,
     "url": "https://github.com/AlephAITech/WorkBuddyGuide",
     "language": "Python",
     "topics": [
@@ -129,13 +129,13 @@
     "core_features": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。。项目名称 WorkBuddyGuide，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + codex、guide、llm、workbuddy",
-    "highlights": "Star 数 704，功能完善，获得开发者广泛认可",
-    "stars_fmt": "704",
-    "growth": 704,
+    "highlights": "Star 数 744，功能完善，获得开发者广泛认可",
+    "stars_fmt": "744",
+    "growth": 744,
     "history": [
       {
         "day": "2026-07-15",
-        "stars": 704
+        "stars": 744
       }
     ]
   },
@@ -145,34 +145,66 @@
     "summary": "Marzban-Panel — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐670",
+    "reason": "🔥 爆款！⭐688",
     "source": "GitHub",
-    "stars": 670,
+    "stars": 688,
     "url": "https://github.com/x4gKing/Marzban-Panel",
     "language": "Dockerfile",
     "topics": [],
     "core_features": "Marzban-Panel 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Dockerfile",
-    "highlights": "Star 数 670，功能完善，获得开发者广泛认可",
-    "stars_fmt": "670",
-    "growth": 670,
+    "highlights": "Star 数 688，功能完善，获得开发者广泛认可",
+    "stars_fmt": "688",
+    "growth": 688,
     "history": [
       {
         "day": "2026-07-15",
-        "stars": 670
+        "stars": 688
       }
     ]
   },
   {
     "id": 6,
+    "title": "Kappaemme-git/codex-first-customer-finder-skill",
+    "summary": "A Codex skill that finds evidence-backed potential first customers from recen...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐646",
+    "source": "GitHub",
+    "stars": 646,
+    "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+    "language": "Python",
+    "topics": [
+      "codex",
+      "codex-skill",
+      "customer-discovery",
+      "early-adopters",
+      "prospecting",
+      "startup"
+    ],
+    "core_features": "A Codex skill that finds evidence-backed potential first customers from recent public signals.。项目名称 codex-first-customer-finder-skill，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Python + codex、codex-skill、customer-dis、early-adopte",
+    "highlights": "Star 数 646，功能完善，获得开发者广泛认可",
+    "stars_fmt": "646",
+    "growth": 646,
+    "history": [
+      {
+        "day": "2026-07-15",
+        "stars": 646
+      }
+    ]
+  },
+  {
+    "id": 7,
     "title": "William-Lu-stack/Flawless",
     "summary": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐617",
+    "reason": "🔥 爆款！⭐620",
     "source": "GitHub",
-    "stars": 617,
+    "stars": 620,
     "url": "https://github.com/William-Lu-stack/Flawless",
     "language": "Python",
     "topics": [
@@ -192,45 +224,13 @@
     "core_features": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.。项目名称 Flawless，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agenticops、ai、aiops、aisre",
-    "highlights": "Star 数 617，功能完善，获得开发者广泛认可",
-    "stars_fmt": "617",
-    "growth": 617,
+    "highlights": "Star 数 620，功能完善，获得开发者广泛认可",
+    "stars_fmt": "620",
+    "growth": 620,
     "history": [
       {
         "day": "2026-07-15",
-        "stars": 617
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Kappaemme-git/codex-first-customer-finder-skill",
-    "summary": "A Codex skill that finds evidence-backed potential first customers from recen...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐605",
-    "source": "GitHub",
-    "stars": 605,
-    "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-    "language": "Python",
-    "topics": [
-      "codex",
-      "codex-skill",
-      "customer-discovery",
-      "early-adopters",
-      "prospecting",
-      "startup"
-    ],
-    "core_features": "A Codex skill that finds evidence-backed potential first customers from recent public signals.。项目名称 codex-first-customer-finder-skill，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Python + codex、codex-skill、customer-dis、early-adopte",
-    "highlights": "Star 数 605，功能完善，获得开发者广泛认可",
-    "stars_fmt": "605",
-    "growth": 605,
-    "history": [
-      {
-        "day": "2026-07-15",
-        "stars": 605
+        "stars": 620
       }
     ]
   }
