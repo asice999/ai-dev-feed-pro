@@ -1,51 +1,51 @@
 [
   {
     "id": 0,
+    "title": "xai-org/grok-build",
+    "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, exten...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐4,297",
+    "source": "GitHub",
+    "stars": 4297,
+    "url": "https://github.com/xai-org/grok-build",
+    "language": "Rust",
+    "topics": [],
+    "core_features": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.。项目名称 grok-build，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 4,297，社区活跃度高，增长迅猛",
+    "stars_fmt": "4,297",
+    "growth": 4297,
+    "history": [
+      {
+        "day": "2026-07-16",
+        "stars": 4297
+      }
+    ]
+  },
+  {
+    "id": 1,
     "title": "MDX-Tom/gpt-5.6-instruct",
     "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,304",
+    "reason": "🔥 爆款！⭐1,376",
     "source": "GitHub",
-    "stars": 1304,
+    "stars": 1376,
     "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "language": "Python",
     "topics": [],
     "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,304，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,304",
-    "growth": 1304,
+    "highlights": "Star 数突破 1,376，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,376",
+    "growth": 1376,
     "history": [
       {
-        "day": "2026-07-15",
-        "stars": 1304
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "summary": "Codex plugin that turns attached object images into code-only, animation-read...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,003",
-    "source": "GitHub",
-    "stars": 1003,
-    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.。项目名称 Three.js-Object-Sculptor-Codex-Plugin，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数突破 1,003，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,003",
-    "growth": 1003,
-    "history": [
-      {
-        "day": "2026-07-15",
-        "stars": 1003
+        "day": "2026-07-16",
+        "stars": 1376
       }
     ]
   },
@@ -55,34 +55,64 @@
     "summary": "Intercept any app, then call it from Python like a library",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐985",
+    "reason": "🔥 爆款！⭐1,025",
     "source": "GitHub",
-    "stars": 985,
+    "stars": 1025,
     "url": "https://github.com/littledivy/mimic",
     "language": "Python",
     "topics": [],
     "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "Python",
-    "highlights": "Star 数 985，功能完善，获得开发者广泛认可",
-    "stars_fmt": "985",
-    "growth": 985,
+    "highlights": "Star 数突破 1,025，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,025",
+    "growth": 1025,
     "history": [
       {
-        "day": "2026-07-15",
-        "stars": 985
+        "day": "2026-07-16",
+        "stars": 1025
       }
     ]
   },
   {
     "id": 3,
+    "title": "AlephAITech/WorkBuddyGuide",
+    "summary": "A practical, open-source guide to mastering WorkBuddy through real-world work...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐820",
+    "source": "GitHub",
+    "stars": 820,
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "language": "Python",
+    "topics": [
+      "codex",
+      "guide",
+      "llm",
+      "workbuddy"
+    ],
+    "core_features": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。。项目名称 WorkBuddyGuide，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + codex、guide、llm、workbuddy",
+    "highlights": "Star 数 820，功能完善，获得开发者广泛认可",
+    "stars_fmt": "820",
+    "growth": 820,
+    "history": [
+      {
+        "day": "2026-07-16",
+        "stars": 820
+      }
+    ]
+  },
+  {
+    "id": 4,
     "title": "mereyabdenbekuly-ctrl/clodex-ide",
     "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software develo...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐810",
+    "reason": "🔥 爆款！⭐812",
     "source": "GitHub",
-    "stars": 810,
+    "stars": 812,
     "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
     "language": "TypeScript",
     "topics": [
@@ -99,43 +129,13 @@
     "core_features": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.。项目名称 clodex-ide，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agentic-ai、agentic-ide、ai-agents、developer-to",
-    "highlights": "Star 数 810，功能完善，获得开发者广泛认可",
-    "stars_fmt": "810",
-    "growth": 810,
+    "highlights": "Star 数 812，功能完善，获得开发者广泛认可",
+    "stars_fmt": "812",
+    "growth": 812,
     "history": [
       {
-        "day": "2026-07-15",
-        "stars": 810
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "AlephAITech/WorkBuddyGuide",
-    "summary": "A practical, open-source guide to mastering WorkBuddy through real-world work...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐780",
-    "source": "GitHub",
-    "stars": 780,
-    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-    "language": "Python",
-    "topics": [
-      "codex",
-      "guide",
-      "llm",
-      "workbuddy"
-    ],
-    "core_features": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。。项目名称 WorkBuddyGuide，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + codex、guide、llm、workbuddy",
-    "highlights": "Star 数 780，功能完善，获得开发者广泛认可",
-    "stars_fmt": "780",
-    "growth": 780,
-    "history": [
-      {
-        "day": "2026-07-15",
-        "stars": 780
+        "day": "2026-07-16",
+        "stars": 812
       }
     ]
   },
@@ -145,22 +145,22 @@
     "summary": "Marzban-Panel — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐753",
+    "reason": "🔥 爆款！⭐775",
     "source": "GitHub",
-    "stars": 753,
+    "stars": 775,
     "url": "https://github.com/x4gKing/Marzban-Panel",
     "language": "Dockerfile",
     "topics": [],
     "core_features": "Marzban-Panel 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Dockerfile",
-    "highlights": "Star 数 753，功能完善，获得开发者广泛认可",
-    "stars_fmt": "753",
-    "growth": 753,
+    "highlights": "Star 数 775，功能完善，获得开发者广泛认可",
+    "stars_fmt": "775",
+    "growth": 775,
     "history": [
       {
-        "day": "2026-07-15",
-        "stars": 753
+        "day": "2026-07-16",
+        "stars": 775
       }
     ]
   },
@@ -170,9 +170,9 @@
     "summary": "A Codex skill that finds evidence-backed potential first customers from recen...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐699",
+    "reason": "🔥 爆款！⭐712",
     "source": "GitHub",
-    "stars": 699,
+    "stars": 712,
     "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
     "language": "Python",
     "topics": [
@@ -186,38 +186,44 @@
     "core_features": "A Codex skill that finds evidence-backed potential first customers from recent public signals.。项目名称 codex-first-customer-finder-skill，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python + codex、codex-skill、customer-dis、early-adopte",
-    "highlights": "Star 数 699，功能完善，获得开发者广泛认可",
-    "stars_fmt": "699",
-    "growth": 699,
+    "highlights": "Star 数 712，功能完善，获得开发者广泛认可",
+    "stars_fmt": "712",
+    "growth": 712,
     "history": [
       {
-        "day": "2026-07-15",
-        "stars": 699
+        "day": "2026-07-16",
+        "stars": 712
       }
     ]
   },
   {
     "id": 7,
-    "title": "cosmtrek/mindwalk",
-    "summary": "A visualization tool that replays coding-agent sessions on a 3D map of your c...",
+    "title": "pengchujin/jzsub",
+    "summary": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐676",
+    "reason": "🔥 爆款！⭐679",
     "source": "GitHub",
-    "stars": 676,
-    "url": "https://github.com/cosmtrek/mindwalk",
-    "language": "Go",
-    "topics": [],
-    "core_features": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.。项目名称 mindwalk，属于 AI 类别。",
+    "stars": 679,
+    "url": "https://github.com/pengchujin/jzsub",
+    "language": "Python",
+    "topics": [
+      "bilingual",
+      "codex",
+      "subtitles",
+      "video",
+      "yt-dlp"
+    ],
+    "core_features": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。。项目名称 jzsub，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Go",
-    "highlights": "Star 数 676，功能完善，获得开发者广泛认可",
-    "stars_fmt": "676",
-    "growth": 676,
+    "tech_stack": "Python + bilingual、codex、subtitles、video",
+    "highlights": "Star 数 679，功能完善，获得开发者广泛认可",
+    "stars_fmt": "679",
+    "growth": 679,
     "history": [
       {
-        "day": "2026-07-15",
-        "stars": 676
+        "day": "2026-07-16",
+        "stars": 679
       }
     ]
   }
