@@ -5,22 +5,22 @@
     "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, exten...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐13,872",
+    "reason": "🔥 爆款！⭐14,988",
     "source": "GitHub",
-    "stars": 13872,
+    "stars": 14988,
     "url": "https://github.com/xai-org/grok-build",
     "language": "Rust",
     "topics": [],
     "core_features": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.。项目名称 grok-build，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 13,872，社区活跃度高，增长迅猛",
-    "stars_fmt": "13,872",
-    "growth": 13872,
+    "highlights": "Star 数突破 14,988，社区活跃度高，增长迅猛",
+    "stars_fmt": "14,988",
+    "growth": 14988,
     "history": [
       {
         "day": "2026-07-17",
-        "stars": 13872
+        "stars": 14988
       }
     ]
   },
@@ -30,22 +30,22 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐7,437",
+    "reason": "🔥 爆款！⭐8,287",
     "source": "GitHub",
-    "stars": 7437,
+    "stars": 8287,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 7,437，社区活跃度高，增长迅猛",
-    "stars_fmt": "7,437",
-    "growth": 7437,
+    "highlights": "Star 数突破 8,287，社区活跃度高，增长迅猛",
+    "stars_fmt": "8,287",
+    "growth": 8287,
     "history": [
       {
         "day": "2026-07-17",
-        "stars": 7437
+        "stars": 8287
       }
     ]
   },
@@ -55,72 +55,72 @@
     "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,776",
+    "reason": "🔥 爆款！⭐1,835",
     "source": "GitHub",
-    "stars": 1776,
+    "stars": 1835,
     "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "language": "Python",
     "topics": [],
     "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,776，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,776",
-    "growth": 1776,
+    "highlights": "Star 数突破 1,835，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,835",
+    "growth": 1835,
     "history": [
       {
         "day": "2026-07-17",
-        "stars": 1776
+        "stars": 1835
       }
     ]
   },
   {
     "id": 3,
-    "title": "littledivy/mimic",
-    "summary": "Intercept any app, then call it from Python like a library",
-    "category": "macOS",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,117",
-    "source": "GitHub",
-    "stars": 1117,
-    "url": "https://github.com/littledivy/mimic",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
-    "use_cases": "mac 桌面应用、效率工具",
-    "tech_stack": "Python",
-    "highlights": "Star 数突破 1,117，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,117",
-    "growth": 1117,
-    "history": [
-      {
-        "day": "2026-07-17",
-        "stars": 1117
-      }
-    ]
-  },
-  {
-    "id": 4,
     "title": "pixel-point/aval",
     "summary": "A new open-source format for interactive video on the web, with a built-in st...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,101",
+    "reason": "🔥 爆款！⭐1,133",
     "source": "GitHub",
-    "stars": 1101,
+    "stars": 1133,
     "url": "https://github.com/pixel-point/aval",
     "language": "TypeScript",
     "topics": [],
     "core_features": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.。项目名称 aval，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,101，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,101",
-    "growth": 1101,
+    "highlights": "Star 数突破 1,133，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,133",
+    "growth": 1133,
     "history": [
       {
         "day": "2026-07-17",
-        "stars": 1101
+        "stars": 1133
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "littledivy/mimic",
+    "summary": "Intercept any app, then call it from Python like a library",
+    "category": "macOS",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,128",
+    "source": "GitHub",
+    "stars": 1128,
+    "url": "https://github.com/littledivy/mimic",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
+    "use_cases": "mac 桌面应用、效率工具",
+    "tech_stack": "Python",
+    "highlights": "Star 数突破 1,128，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,128",
+    "growth": 1128,
+    "history": [
+      {
+        "day": "2026-07-17",
+        "stars": 1128
       }
     ]
   },
@@ -130,22 +130,22 @@
     "summary": "Aether — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐971",
+    "reason": "🔥 爆款！⭐1,019",
     "source": "GitHub",
-    "stars": 971,
+    "stars": 1019,
     "url": "https://github.com/CluvexStudio/Aether",
     "language": "Rust",
     "topics": [],
     "core_features": "Aether 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust",
-    "highlights": "Star 数 971，功能完善，获得开发者广泛认可",
-    "stars_fmt": "971",
-    "growth": 971,
+    "highlights": "Star 数突破 1,019，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,019",
+    "growth": 1019,
     "history": [
       {
         "day": "2026-07-17",
-        "stars": 971
+        "stars": 1019
       }
     ]
   },
@@ -155,22 +155,22 @@
     "summary": "Marzban-Panel — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐856",
+    "reason": "🔥 爆款！⭐880",
     "source": "GitHub",
-    "stars": 856,
+    "stars": 880,
     "url": "https://github.com/x4gKing/Marzban-Panel",
     "language": "Dockerfile",
     "topics": [],
     "core_features": "Marzban-Panel 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Dockerfile",
-    "highlights": "Star 数 856，功能完善，获得开发者广泛认可",
-    "stars_fmt": "856",
-    "growth": 856,
+    "highlights": "Star 数 880，功能完善，获得开发者广泛认可",
+    "stars_fmt": "880",
+    "growth": 880,
     "history": [
       {
         "day": "2026-07-17",
-        "stars": 856
+        "stars": 880
       }
     ]
   },
