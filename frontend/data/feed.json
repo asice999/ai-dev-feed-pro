@@ -5,22 +5,22 @@
     "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, exten...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐11,406",
+    "reason": "🔥 爆款！⭐12,732",
     "source": "GitHub",
-    "stars": 11406,
+    "stars": 12732,
     "url": "https://github.com/xai-org/grok-build",
     "language": "Rust",
     "topics": [],
     "core_features": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.。项目名称 grok-build，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 11,406，社区活跃度高，增长迅猛",
-    "stars_fmt": "11,406",
-    "growth": 11406,
+    "highlights": "Star 数突破 12,732，社区活跃度高，增长迅猛",
+    "stars_fmt": "12,732",
+    "growth": 12732,
     "history": [
       {
-        "day": "2026-07-16",
-        "stars": 11406
+        "day": "2026-07-17",
+        "stars": 12732
       }
     ]
   },
@@ -30,22 +30,22 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐5,178",
+    "reason": "🔥 爆款！⭐5,929",
     "source": "GitHub",
-    "stars": 5178,
+    "stars": 5929,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-    "language": "PowerShell",
+    "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "PowerShell",
-    "highlights": "Star 数突破 5,178，社区活跃度高，增长迅猛",
-    "stars_fmt": "5,178",
-    "growth": 5178,
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数突破 5,929，社区活跃度高，增长迅猛",
+    "stars_fmt": "5,929",
+    "growth": 5929,
     "history": [
       {
-        "day": "2026-07-16",
-        "stars": 5178
+        "day": "2026-07-17",
+        "stars": 5929
       }
     ]
   },
@@ -55,22 +55,22 @@
     "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,651",
+    "reason": "🔥 爆款！⭐1,699",
     "source": "GitHub",
-    "stars": 1651,
+    "stars": 1699,
     "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
     "language": "Python",
     "topics": [],
     "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,651，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,651",
-    "growth": 1651,
+    "highlights": "Star 数突破 1,699，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,699",
+    "growth": 1699,
     "history": [
       {
-        "day": "2026-07-16",
-        "stars": 1651
+        "day": "2026-07-17",
+        "stars": 1699
       }
     ]
   },
@@ -80,22 +80,22 @@
     "summary": "Intercept any app, then call it from Python like a library",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,091",
+    "reason": "🔥 爆款！⭐1,107",
     "source": "GitHub",
-    "stars": 1091,
+    "stars": 1107,
     "url": "https://github.com/littledivy/mimic",
     "language": "Python",
     "topics": [],
     "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,091，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,091",
-    "growth": 1091,
+    "highlights": "Star 数突破 1,107，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,107",
+    "growth": 1107,
     "history": [
       {
-        "day": "2026-07-16",
-        "stars": 1091
+        "day": "2026-07-17",
+        "stars": 1107
       }
     ]
   },
@@ -105,102 +105,107 @@
     "summary": "A new open-source format for interactive video on the web, with a built-in st...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,005",
+    "reason": "🔥 爆款！⭐1,059",
     "source": "GitHub",
-    "stars": 1005,
+    "stars": 1059,
     "url": "https://github.com/pixel-point/aval",
     "language": "TypeScript",
     "topics": [],
     "core_features": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.。项目名称 aval，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,005，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,005",
-    "growth": 1005,
+    "highlights": "Star 数突破 1,059，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,059",
+    "growth": 1059,
     "history": [
       {
-        "day": "2026-07-16",
-        "stars": 1005
+        "day": "2026-07-17",
+        "stars": 1059
       }
     ]
   },
   {
     "id": 5,
-    "title": "AlephAITech/WorkBuddyGuide",
-    "summary": "A practical, open-source guide to mastering WorkBuddy through real-world work...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐981",
-    "source": "GitHub",
-    "stars": 981,
-    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
-    "language": "Python",
-    "topics": [
-      "codex",
-      "guide",
-      "llm",
-      "workbuddy"
-    ],
-    "core_features": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。。项目名称 WorkBuddyGuide，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + codex、guide、llm、workbuddy",
-    "highlights": "Star 数 981，功能完善，获得开发者广泛认可",
-    "stars_fmt": "981",
-    "growth": 981,
-    "history": [
-      {
-        "day": "2026-07-16",
-        "stars": 981
-      }
-    ]
-  },
-  {
-    "id": 6,
     "title": "CluvexStudio/Aether",
     "summary": "Aether — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐865",
+    "reason": "🔥 爆款！⭐937",
     "source": "GitHub",
-    "stars": 865,
+    "stars": 937,
     "url": "https://github.com/CluvexStudio/Aether",
     "language": "Rust",
     "topics": [],
     "core_features": "Aether 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust",
-    "highlights": "Star 数 865，功能完善，获得开发者广泛认可",
-    "stars_fmt": "865",
-    "growth": 865,
+    "highlights": "Star 数 937，功能完善，获得开发者广泛认可",
+    "stars_fmt": "937",
+    "growth": 937,
     "history": [
       {
-        "day": "2026-07-16",
-        "stars": 865
+        "day": "2026-07-17",
+        "stars": 937
       }
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "x4gKing/Marzban-Panel",
     "summary": "Marzban-Panel — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐832",
+    "reason": "🔥 爆款！⭐846",
     "source": "GitHub",
-    "stars": 832,
+    "stars": 846,
     "url": "https://github.com/x4gKing/Marzban-Panel",
     "language": "Dockerfile",
     "topics": [],
     "core_features": "Marzban-Panel 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Dockerfile",
-    "highlights": "Star 数 832，功能完善，获得开发者广泛认可",
-    "stars_fmt": "832",
-    "growth": 832,
+    "highlights": "Star 数 846，功能完善，获得开发者广泛认可",
+    "stars_fmt": "846",
+    "growth": 846,
     "history": [
       {
-        "day": "2026-07-16",
-        "stars": 832
+        "day": "2026-07-17",
+        "stars": 846
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "mereyabdenbekuly-ctrl/clodex-ide",
+    "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software develo...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐829",
+    "source": "GitHub",
+    "stars": 829,
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agentic-ide",
+      "ai-agents",
+      "developer-tools",
+      "electron",
+      "ide",
+      "local-first",
+      "typescript",
+      "zero-trust"
+    ],
+    "core_features": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.。项目名称 clodex-ide，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript + agentic-ai、agentic-ide、ai-agents、developer-to",
+    "highlights": "Star 数 829，功能完善，获得开发者广泛认可",
+    "stars_fmt": "829",
+    "growth": 829,
+    "history": [
+      {
+        "day": "2026-07-17",
+        "stars": 829
       }
     ]
   }
