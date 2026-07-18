@@ -346,6 +346,14 @@ def _cooldown_hours(stars, forks):
         return 168
     return 720
 
+def _type_label(stars, forks):
+    """返回项目类型标签"""
+    if stars >= 5000 and forks >= 100:
+        return "📌 收藏和fork"
+    if stars >= 1000:
+        return "🔥 每周热点"
+    return "🌙 每月热点"
+
 def _hours_since_last(now_iso, last_shown):
     """计算上次推送后过了几小时。"""
     if not last_shown:
@@ -393,12 +401,13 @@ def merge_history(analyzed):
             continue
 
         # 推送
+        type_label = _type_label(stars, forks)
         prev_stars = history[-1]["stars"] if history else 0
         growth = stars - prev_stars
         history.append({"day": today, "stars": stars})
         if len(history) > 90:
             history = history[-90:]
-        result.append({**it, "growth": growth, "history": history})
+        result.append({**it, "growth": growth, "history": history, "type_label": type_label})
         old[key] = {
             "stars": stars, "history": history,
             "forks": forks, "source": it.get("source", ""),
@@ -430,8 +439,9 @@ def send_telegram(items):
     now = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
     lines = [f"🤖 <b>AI Trend Radar</b> — {now}\n"]
     for idx, it in enumerate(items[:10], 1):
+        tl = it.get("type_label", "")
         lines.append(
-            f"{idx}. <b>{it['title']}</b>\n"
+            f"{idx}. {tl} <b>{it['title']}</b>\n"
             f"Star 数量：{it.get('stars_fmt', it.get('stars', ''))}\n"
             f"核心功能：{it.get('core_features', it.get('summary', ''))}\n"
             f"适用场景：{it.get('use_cases', '')}\n"
