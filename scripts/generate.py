@@ -260,6 +260,7 @@ def local_analyze(items):
             "tech_stack": tech_stack,
             "highlights": highlights,
             "stars_fmt": _fmt_stars(stars),
+            "forks": it.get("forks", 0),
         })
     print(f"[ai] fallback analyzed {len(analyzed)} items")
     return analyzed
@@ -317,6 +318,7 @@ def ai_analyze(items):
                 r.setdefault("language", orig.get("language", ""))
                 r.setdefault("topics", orig.get("topics", []))
                 r.setdefault("stars_fmt", _fmt_stars(orig.get("stars", 0)))
+                r.setdefault("forks", orig.get("forks", 0))
         print(f"[ai] analyzed {len(result)} items")
         return result
     except Exception as exc:
