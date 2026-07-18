@@ -337,26 +337,75 @@ def save_history(h):
     HISTORY_FILE.write_text(json.dumps(h, ensure_ascii=False), encoding="utf-8")
 
 
+def _cooldown_days(stars):
+    """推送频率：≥5000 star → 3天, ≥1000 star → 7天(每周), <1000 star → 30天(每月)."""
+    if stars >= 5000:
+        return 3
+    if stars >= 1000:
+        return 7
+    return 30
+
+def _days_since_last(d, last_shown):
+    """计算上次推送到今天差几天。"""
+    if not last_shown:
+        return 999
+    fmt = "%Y-%m-%d"
+    last = datetime.strptime(last_shown, fmt)
+    now = datetime.strptime(d, fmt)
+    return (now - last).days
+
 def merge_history(analyzed):
     old = load_history()
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     result = []
     for it in analyzed:
         key = it.get("title", "")
+        stars = it.get("stars", 0)
         prev = old.get(key, {})
         history = prev.get("history", [])
+        last_shown = prev.get("last_shown")
+        cooldown = _cooldown_days(stars)
+        days_since = _days_since_last(today, last_shown)
+
+        # 冷却期内 → 跳过本次推送（只更新历史不加入结果）
+        if days_since < cooldown:
+            # 只追加星数历史，不推
+            prev_stars = history[-1]["stars"] if history else 0
+            if prev_stars != stars:
+                history.append({"day": today, "stars": stars})
+                keep = []
+                for h in history:
+                    if len(keep) < 2 or h["day"] != keep[-1]["day"]:
+                        keep.append(h)
+                    else:
+                        keep[-1]["stars"] = max(keep[-1]["stars"], h["stars"])
+                history = keep[-90:]
+            old[key] = {
+                "stars": stars,
+                "history": history,
+                "source": it.get("source", ""),
+                "last_shown": last_shown,
+            }
+            print(f"[freq] skip {key} (cooldown {cooldown}d, last shown {last_shown})")
+            continue
+
+        # 推送达标 → 加入结果，记录 last_shown
         prev_stars = history[-1]["stars"] if history else 0
-        growth = it.get("stars", 0) - prev_stars
-        history.append({"day": today, "stars": it.get("stars", 0)})
+        growth = stars - prev_stars
+        history.append({"day": today, "stars": stars})
         if len(history) > 90:
             history = history[-90:]
         result.append({**it, "growth": growth, "history": history})
         old[key] = {
-            "stars": it.get("stars", 0),
+            "stars": stars,
             "history": history,
             "source": it.get("source", ""),
+            "last_shown": today,
         }
+        print(f"[freq] push {key} (cooldown {cooldown}d, stars {stars})")
+
     save_history(old)
+    print(f"[freq] result: {len(result)} pushed, {len(analyzed) - len(result)} skipped")
     return result
 
 
