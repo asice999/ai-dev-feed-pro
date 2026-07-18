@@ -34,6 +34,7 @@ def fetch_github():
             "title": i["full_name"],
             "desc": i.get("description") or "",
             "stars": i["stargazers_count"],
+            "forks": i.get("forks_count", 0),
             "url": i["html_url"],
             "source": "GitHub",
             "language": i.get("language") or "",
@@ -337,42 +338,45 @@ def save_history(h):
     HISTORY_FILE.write_text(json.dumps(h, ensure_ascii=False), encoding="utf-8")
 
 
-def _cooldown_days(stars):
-    """推送频率：≥5000 star → 3天, ≥1000 star → 7天(每周), <1000 star → 30天(每月)."""
-    if stars >= 5000:
-        return 3
+def _cooldown_hours(stars, forks):
+    """推送频率：收藏和fork项目(≥5000★+≥100 fork) → 12h, 每周热点(≥1000★) → 168h(7d), 每月热点(<1000★) → 720h(30d)."""
+    if stars >= 5000 and forks >= 100:
+        return 12
     if stars >= 1000:
-        return 7
-    return 30
+        return 168
+    return 720
 
-def _days_since_last(d, last_shown):
-    """计算上次推送到今天差几天。"""
+def _hours_since_last(now_iso, last_shown):
+    """计算上次推送后过了几小时。"""
     if not last_shown:
-        return 999
-    fmt = "%Y-%m-%d"
-    last = datetime.strptime(last_shown, fmt)
-    now = datetime.strptime(d, fmt)
-    return (now - last).days
+        return 9999
+    fmt = "%Y-%m-%dT%H"
+    last = datetime.strptime(last_shown[:13], fmt)
+    now = datetime.strptime(now_iso[:13], fmt)
+    return (now - last).total_seconds() / 3600
 
 def merge_history(analyzed):
     old = load_history()
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    now = datetime.now(timezone.utc)
+    now_iso = now.strftime("%Y-%m-%dT%H")
+    today = now.strftime("%Y-%m-%d")
     result = []
     for it in analyzed:
         key = it.get("title", "")
         stars = it.get("stars", 0)
+        forks = it.get("forks", 0)
         prev = old.get(key, {})
         history = prev.get("history", [])
         last_shown = prev.get("last_shown")
-        cooldown = _cooldown_days(stars)
-        days_since = _days_since_last(today, last_shown)
+        cd = _cooldown_hours(stars, forks)
+        hours_since = _hours_since_last(now_iso, last_shown)
 
-        # 冷却期内 → 跳过本次推送（只更新历史不加入结果）
-        if days_since < cooldown:
-            # 只追加星数历史，不推
+        # 冷却期内 → 跳过本次推送（只更新星数历史）
+        if hours_since < cd:
             prev_stars = history[-1]["stars"] if history else 0
             if prev_stars != stars:
                 history.append({"day": today, "stars": stars})
+                # dedup same-day entries
                 keep = []
                 for h in history:
                     if len(keep) < 2 or h["day"] != keep[-1]["day"]:
@@ -381,15 +385,14 @@ def merge_history(analyzed):
                         keep[-1]["stars"] = max(keep[-1]["stars"], h["stars"])
                 history = keep[-90:]
             old[key] = {
-                "stars": stars,
-                "history": history,
-                "source": it.get("source", ""),
+                "stars": stars, "history": history,
+                "forks": forks, "source": it.get("source", ""),
                 "last_shown": last_shown,
             }
-            print(f"[freq] skip {key} (cooldown {cooldown}d, last shown {last_shown})")
+            print(f"[freq] skip {key} (cooldown {cd}h, last {last_shown})")
             continue
 
-        # 推送达标 → 加入结果，记录 last_shown
+        # 推送
         prev_stars = history[-1]["stars"] if history else 0
         growth = stars - prev_stars
         history.append({"day": today, "stars": stars})
@@ -397,15 +400,14 @@ def merge_history(analyzed):
             history = history[-90:]
         result.append({**it, "growth": growth, "history": history})
         old[key] = {
-            "stars": stars,
-            "history": history,
-            "source": it.get("source", ""),
-            "last_shown": today,
+            "stars": stars, "history": history,
+            "forks": forks, "source": it.get("source", ""),
+            "last_shown": now_iso,
         }
-        print(f"[freq] push {key} (cooldown {cooldown}d, stars {stars})")
+        print(f"[freq] push {key} (cooldown {cd}h, stars {stars})")
 
     save_history(old)
-    print(f"[freq] result: {len(result)} pushed, {len(analyzed) - len(result)} skipped")
+    print(f"[freq] {len(result)} pushed, {len(analyzed) - len(result)} skipped (cooldown)")
     return result
 
 
