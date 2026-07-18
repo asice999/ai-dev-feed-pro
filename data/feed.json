@@ -5,22 +5,22 @@
     "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, exten...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐15,979",
+    "reason": "🔥 爆款！⭐16,638",
     "source": "GitHub",
-    "stars": 15979,
+    "stars": 16638,
     "url": "https://github.com/xai-org/grok-build",
     "language": "Rust",
     "topics": [],
     "core_features": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.。项目名称 grok-build，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 15,979，社区活跃度高，增长迅猛",
-    "stars_fmt": "15,979",
-    "growth": 15979,
+    "highlights": "Star 数突破 16,638，社区活跃度高，增长迅猛",
+    "stars_fmt": "16,638",
+    "growth": 16638,
     "history": [
       {
-        "day": "2026-07-17",
-        "stars": 15979
+        "day": "2026-07-18",
+        "stars": 16638
       }
     ]
   },
@@ -30,172 +30,182 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐8,606",
+    "reason": "🔥 爆款！⭐8,757",
     "source": "GitHub",
-    "stars": 8606,
+    "stars": 8757,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 8,606，社区活跃度高，增长迅猛",
-    "stars_fmt": "8,606",
-    "growth": 8606,
+    "highlights": "Star 数突破 8,757，社区活跃度高，增长迅猛",
+    "stars_fmt": "8,757",
+    "growth": 8757,
     "history": [
       {
-        "day": "2026-07-17",
-        "stars": 8606
+        "day": "2026-07-18",
+        "stars": 8757
       }
     ]
   },
   {
     "id": 2,
-    "title": "MDX-Tom/gpt-5.6-instruct",
-    "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Co...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,866",
-    "source": "GitHub",
-    "stars": 1866,
-    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-    "language": "Python",
-    "topics": [],
-    "core_features": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。。项目名称 gpt-5.6-instruct，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数突破 1,866，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,866",
-    "growth": 1866,
-    "history": [
-      {
-        "day": "2026-07-17",
-        "stars": 1866
-      }
-    ]
-  },
-  {
-    "id": 3,
     "title": "pixel-point/aval",
     "summary": "A new open-source format for interactive video on the web, with a built-in st...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,156",
+    "reason": "🔥 爆款！⭐1,164",
     "source": "GitHub",
-    "stars": 1156,
+    "stars": 1164,
     "url": "https://github.com/pixel-point/aval",
     "language": "TypeScript",
     "topics": [],
     "core_features": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.。项目名称 aval，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,156，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,156",
-    "growth": 1156,
+    "highlights": "Star 数突破 1,164，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,164",
+    "growth": 1164,
     "history": [
       {
-        "day": "2026-07-17",
-        "stars": 1156
+        "day": "2026-07-18",
+        "stars": 1164
       }
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "littledivy/mimic",
     "summary": "Intercept any app, then call it from Python like a library",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,141",
+    "reason": "🔥 爆款！⭐1,149",
     "source": "GitHub",
-    "stars": 1141,
+    "stars": 1149,
     "url": "https://github.com/littledivy/mimic",
     "language": "Python",
     "topics": [],
     "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,141，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,141",
-    "growth": 1141,
+    "highlights": "Star 数突破 1,149，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,149",
+    "growth": 1149,
     "history": [
       {
-        "day": "2026-07-17",
-        "stars": 1141
+        "day": "2026-07-18",
+        "stars": 1149
       }
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "CluvexStudio/Aether",
     "summary": "Aether — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,074",
+    "reason": "🔥 爆款！⭐1,144",
     "source": "GitHub",
-    "stars": 1074,
+    "stars": 1144,
     "url": "https://github.com/CluvexStudio/Aether",
     "language": "Rust",
     "topics": [],
     "core_features": "Aether 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,074，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,074",
-    "growth": 1074,
+    "highlights": "Star 数突破 1,144，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,144",
+    "growth": 1144,
     "history": [
       {
-        "day": "2026-07-17",
-        "stars": 1074
+        "day": "2026-07-18",
+        "stars": 1144
       }
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "x4gKing/Marzban-Panel",
     "summary": "Marzban-Panel — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐904",
+    "reason": "🔥 爆款！⭐914",
     "source": "GitHub",
-    "stars": 904,
+    "stars": 914,
     "url": "https://github.com/x4gKing/Marzban-Panel",
     "language": "Dockerfile",
     "topics": [],
     "core_features": "Marzban-Panel 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Dockerfile",
-    "highlights": "Star 数 904，功能完善，获得开发者广泛认可",
-    "stars_fmt": "904",
-    "growth": 904,
+    "highlights": "Star 数 914，功能完善，获得开发者广泛认可",
+    "stars_fmt": "914",
+    "growth": 914,
     "history": [
       {
-        "day": "2026-07-17",
-        "stars": 904
+        "day": "2026-07-18",
+        "stars": 914
       }
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "tandpfun/wardrobe",
     "summary": "Your clothes, extracted and organized with gpt-image.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐850",
+    "reason": "🔥 爆款！⭐905",
     "source": "GitHub",
-    "stars": 850,
+    "stars": 905,
     "url": "https://github.com/tandpfun/wardrobe",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 850，功能完善，获得开发者广泛认可",
-    "stars_fmt": "850",
-    "growth": 850,
+    "highlights": "Star 数 905，功能完善，获得开发者广泛认可",
+    "stars_fmt": "905",
+    "growth": 905,
     "history": [
       {
-        "day": "2026-07-17",
-        "stars": 850
+        "day": "2026-07-18",
+        "stars": 905
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "mereyabdenbekuly-ctrl/clodex-ide",
+    "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software develo...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐833",
+    "source": "GitHub",
+    "stars": 833,
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agentic-ide",
+      "ai-agents",
+      "developer-tools",
+      "electron",
+      "ide",
+      "local-first",
+      "typescript",
+      "zero-trust"
+    ],
+    "core_features": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.。项目名称 clodex-ide，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript + agentic-ai、agentic-ide、ai-agents、developer-to",
+    "highlights": "Star 数 833，功能完善，获得开发者广泛认可",
+    "stars_fmt": "833",
+    "growth": 833,
+    "history": [
+      {
+        "day": "2026-07-18",
+        "stars": 833
       }
     ]
   }
