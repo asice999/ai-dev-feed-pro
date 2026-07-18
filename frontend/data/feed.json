@@ -5,25 +5,26 @@
     "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, exten...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐17,813",
+    "reason": "🔥 爆款！⭐17,815",
     "source": "GitHub",
-    "stars": 17813,
+    "stars": 17815,
     "url": "https://github.com/xai-org/grok-build",
     "language": "Rust",
     "topics": [],
     "core_features": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.。项目名称 grok-build，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 17,813，社区活跃度高，增长迅猛",
-    "stars_fmt": "17,813",
-    "growth": 17813,
+    "highlights": "Star 数突破 17,815，社区活跃度高，增长迅猛",
+    "stars_fmt": "17,815",
+    "forks": 3250,
+    "growth": 17815,
     "history": [
       {
         "day": "2026-07-18",
-        "stars": 17813
+        "stars": 17815
       }
     ],
-    "type_label": "🔥 每周热点"
+    "type_label": "📌 收藏和fork"
   },
   {
     "id": 1,
@@ -31,25 +32,26 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐9,430",
+    "reason": "🔥 爆款！⭐9,431",
     "source": "GitHub",
-    "stars": 9430,
+    "stars": 9431,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 9,430，社区活跃度高，增长迅猛",
-    "stars_fmt": "9,430",
-    "growth": 9430,
+    "highlights": "Star 数突破 9,431，社区活跃度高，增长迅猛",
+    "stars_fmt": "9,431",
+    "forks": 994,
+    "growth": 9431,
     "history": [
       {
         "day": "2026-07-18",
-        "stars": 9430
+        "stars": 9431
       }
     ],
-    "type_label": "🔥 每周热点"
+    "type_label": "📌 收藏和fork"
   },
   {
     "id": 2,
@@ -68,6 +70,7 @@
     "tech_stack": "Rust",
     "highlights": "Star 数突破 1,208，社区活跃度高，增长迅猛",
     "stars_fmt": "1,208",
+    "forks": 70,
     "growth": 1208,
     "history": [
       {
@@ -94,6 +97,7 @@
     "tech_stack": "TypeScript",
     "highlights": "Star 数突破 1,187，社区活跃度高，增长迅猛",
     "stars_fmt": "1,187",
+    "forks": 65,
     "growth": 1187,
     "history": [
       {
@@ -120,6 +124,7 @@
     "tech_stack": "Python",
     "highlights": "Star 数突破 1,154，社区活跃度高，增长迅猛",
     "stars_fmt": "1,154",
+    "forks": 69,
     "growth": 1154,
     "history": [
       {
@@ -146,6 +151,7 @@
     "tech_stack": "JavaScript",
     "highlights": "Star 数 983，功能完善，获得开发者广泛认可",
     "stars_fmt": "983",
+    "forks": 149,
     "growth": 983,
     "history": [
       {
@@ -182,6 +188,7 @@
     "tech_stack": "TypeScript + agentic-ai、agentic-ide、ai-agents、developer-to",
     "highlights": "Star 数 835，功能完善，获得开发者广泛认可",
     "stars_fmt": "835",
+    "forks": 150,
     "growth": 835,
     "history": [
       {
@@ -208,6 +215,7 @@
     "tech_stack": "Dockerfile",
     "highlights": "Star 数 827，功能完善，获得开发者广泛认可",
     "stars_fmt": "827",
+    "forks": 1530,
     "growth": 827,
     "history": [
       {
