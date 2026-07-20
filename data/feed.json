@@ -5,23 +5,23 @@
     "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, exten...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐20,601",
+    "reason": "🔥 爆款！⭐20,731",
     "source": "GitHub",
-    "stars": 20601,
+    "stars": 20731,
     "url": "https://github.com/xai-org/grok-build",
     "language": "Rust",
     "topics": [],
     "core_features": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.。项目名称 grok-build，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 20,601，社区活跃度高，增长迅猛",
-    "stars_fmt": "20,601",
-    "forks": 3771,
-    "growth": 20601,
+    "highlights": "Star 数突破 20,731，社区活跃度高，增长迅猛",
+    "stars_fmt": "20,731",
+    "forks": 3808,
+    "growth": 20731,
     "history": [
       {
         "day": "2026-07-20",
-        "stars": 20601
+        "stars": 20731
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐10,991",
+    "reason": "🔥 爆款！⭐11,049",
     "source": "GitHub",
-    "stars": 10991,
+    "stars": 11049,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 10,991，社区活跃度高，增长迅猛",
-    "stars_fmt": "10,991",
-    "forks": 1124,
-    "growth": 10991,
+    "highlights": "Star 数突破 11,049，社区活跃度高，增长迅猛",
+    "stars_fmt": "11,049",
+    "forks": 1133,
+    "growth": 11049,
     "history": [
       {
         "day": "2026-07-20",
-        "stars": 10991
+        "stars": 11049
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -59,23 +59,23 @@
     "summary": "Aether — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,365",
+    "reason": "🔥 爆款！⭐1,383",
     "source": "GitHub",
-    "stars": 1365,
+    "stars": 1383,
     "url": "https://github.com/CluvexStudio/Aether",
     "language": "Rust",
     "topics": [],
     "core_features": "Aether 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,365，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,365",
-    "forks": 81,
-    "growth": 1365,
+    "highlights": "Star 数突破 1,383，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,383",
+    "forks": 82,
+    "growth": 1383,
     "history": [
       {
         "day": "2026-07-20",
-        "stars": 1365
+        "stars": 1383
       }
     ],
     "type_label": "🔥 每周热点"
@@ -86,93 +86,36 @@
     "summary": "Your clothes, extracted and organized with gpt-image.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,191",
+    "reason": "🔥 爆款！⭐1,206",
     "source": "GitHub",
-    "stars": 1191,
+    "stars": 1206,
     "url": "https://github.com/tandpfun/wardrobe",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,191，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,191",
+    "highlights": "Star 数突破 1,206，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,206",
     "forks": 174,
-    "growth": 1191,
+    "growth": 1206,
     "history": [
       {
         "day": "2026-07-20",
-        "stars": 1191
+        "stars": 1206
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 4,
-    "title": "nethical6/conversation-steganography",
-    "summary": "Use LLMs to hide messages inside normal looking conversations",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐851",
-    "source": "GitHub",
-    "stars": 851,
-    "url": "https://github.com/nethical6/conversation-steganography",
-    "language": "Go",
-    "topics": [
-      "llm-tools",
-      "steganography"
-    ],
-    "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数 851，功能完善，获得开发者广泛认可",
-    "stars_fmt": "851",
-    "forks": 49,
-    "growth": 851,
-    "history": [
-      {
-        "day": "2026-07-20",
-        "stars": 851
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "pablostanley/yoinks",
-    "summary": "yoink any video from your terminal. no shady ads.",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐825",
-    "source": "GitHub",
-    "stars": 825,
-    "url": "https://github.com/pablostanley/yoinks",
-    "language": "TypeScript",
-    "topics": [],
-    "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数 825，功能完善，获得开发者广泛认可",
-    "stars_fmt": "825",
-    "forks": 89,
-    "growth": 825,
-    "history": [
-      {
-        "day": "2026-07-20",
-        "stars": 825
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
     "title": "hoainho/img2threejs",
     "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-g...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐753",
+    "reason": "🔥 爆款！⭐901",
     "source": "GitHub",
-    "stars": 753,
+    "stars": 901,
     "url": "https://github.com/hoainho/img2threejs",
     "language": "Python",
     "topics": [
@@ -190,41 +133,98 @@
     "core_features": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.。项目名称 img2threejs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + 3d、ai-agents、claude-code、computer-gra",
-    "highlights": "Star 数 753，功能完善，获得开发者广泛认可",
-    "stars_fmt": "753",
-    "forks": 64,
-    "growth": 753,
+    "highlights": "Star 数 901，功能完善，获得开发者广泛认可",
+    "stars_fmt": "901",
+    "forks": 77,
+    "growth": 901,
     "history": [
       {
         "day": "2026-07-20",
-        "stars": 753
+        "stars": 901
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "nethical6/conversation-steganography",
+    "summary": "Use LLMs to hide messages inside normal looking conversations",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐868",
+    "source": "GitHub",
+    "stars": 868,
+    "url": "https://github.com/nethical6/conversation-steganography",
+    "language": "Go",
+    "topics": [
+      "llm-tools",
+      "steganography"
+    ],
+    "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Go + llm-tools、steganograph",
+    "highlights": "Star 数 868，功能完善，获得开发者广泛认可",
+    "stars_fmt": "868",
+    "forks": 51,
+    "growth": 868,
+    "history": [
+      {
+        "day": "2026-07-20",
+        "stars": 868
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "pablostanley/yoinks",
+    "summary": "yoink any video from your terminal. no shady ads.",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐854",
+    "source": "GitHub",
+    "stars": 854,
+    "url": "https://github.com/pablostanley/yoinks",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数 854，功能完善，获得开发者广泛认可",
+    "stars_fmt": "854",
+    "forks": 92,
+    "growth": 854,
+    "history": [
+      {
+        "day": "2026-07-20",
+        "stars": 854
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "v-modal/vmodal_sdk_flutter",
-    "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
+    "title": "lopopolo/harness-engineering",
+    "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐645",
+    "reason": "🔥 爆款！⭐659",
     "source": "GitHub",
-    "stars": 645,
-    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-    "language": "Dart",
+    "stars": 659,
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "language": "Python",
     "topics": [],
-    "core_features": "V- Modal AI: Search anything anywhere SDK Flutter。项目名称 vmodal_sdk_flutter，属于 AI 类别。",
+    "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Dart",
-    "highlights": "Star 数 645，功能完善，获得开发者广泛认可",
-    "stars_fmt": "645",
-    "forks": 1,
-    "growth": 645,
+    "tech_stack": "Python",
+    "highlights": "Star 数 659，功能完善，获得开发者广泛认可",
+    "stars_fmt": "659",
+    "forks": 28,
+    "growth": 659,
     "history": [
       {
         "day": "2026-07-20",
-        "stars": 645
+        "stars": 659
       }
     ],
     "type_label": "🌙 每月热点"
