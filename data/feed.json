@@ -5,23 +5,23 @@
     "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, exten...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐19,914",
+    "reason": "🔥 爆款！⭐20,238",
     "source": "GitHub",
-    "stars": 19914,
+    "stars": 20238,
     "url": "https://github.com/xai-org/grok-build",
     "language": "Rust",
     "topics": [],
     "core_features": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.。项目名称 grok-build，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 19,914，社区活跃度高，增长迅猛",
-    "stars_fmt": "19,914",
-    "forks": 3588,
-    "growth": 19914,
+    "highlights": "Star 数突破 20,238，社区活跃度高，增长迅猛",
+    "stars_fmt": "20,238",
+    "forks": 3681,
+    "growth": 20238,
     "history": [
       {
-        "day": "2026-07-19",
-        "stars": 19914
+        "day": "2026-07-20",
+        "stars": 20238
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐10,259",
+    "reason": "🔥 爆款！⭐10,516",
     "source": "GitHub",
-    "stars": 10259,
+    "stars": 10516,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 10,259，社区活跃度高，增长迅猛",
-    "stars_fmt": "10,259",
-    "forks": 1070,
-    "growth": 10259,
+    "highlights": "Star 数突破 10,516，社区活跃度高，增长迅猛",
+    "stars_fmt": "10,516",
+    "forks": 1088,
+    "growth": 10516,
     "history": [
       {
-        "day": "2026-07-19",
-        "stars": 10259
+        "day": "2026-07-20",
+        "stars": 10516
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -59,150 +59,63 @@
     "summary": "Aether — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,303",
+    "reason": "🔥 爆款！⭐1,318",
     "source": "GitHub",
-    "stars": 1303,
+    "stars": 1318,
     "url": "https://github.com/CluvexStudio/Aether",
     "language": "Rust",
     "topics": [],
     "core_features": "Aether 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,303，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,303",
+    "highlights": "Star 数突破 1,318，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,318",
     "forks": 78,
-    "growth": 1303,
+    "growth": 1318,
     "history": [
       {
-        "day": "2026-07-19",
-        "stars": 1303
+        "day": "2026-07-20",
+        "stars": 1318
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
-    "title": "pixel-point/aval",
-    "summary": "A new open-source format for interactive video on the web, with a built-in st...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,235",
-    "source": "GitHub",
-    "stars": 1235,
-    "url": "https://github.com/pixel-point/aval",
-    "language": "TypeScript",
-    "topics": [],
-    "core_features": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.。项目名称 aval，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,235，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,235",
-    "forks": 67,
-    "growth": 1235,
-    "history": [
-      {
-        "day": "2026-07-19",
-        "stars": 1235
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 4,
-    "title": "littledivy/mimic",
-    "summary": "Intercept any app, then call it from Python like a library",
-    "category": "macOS",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,204",
-    "source": "GitHub",
-    "stars": 1204,
-    "url": "https://github.com/littledivy/mimic",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Intercept any app, then call it from Python like a library。项目名称 mimic，属于 macOS 类别。",
-    "use_cases": "mac 桌面应用、效率工具",
-    "tech_stack": "Python",
-    "highlights": "Star 数突破 1,204，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,204",
-    "forks": 79,
-    "growth": 1204,
-    "history": [
-      {
-        "day": "2026-07-19",
-        "stars": 1204
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 5,
     "title": "tandpfun/wardrobe",
     "summary": "Your clothes, extracted and organized with gpt-image.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,141",
+    "reason": "🔥 爆款！⭐1,163",
     "source": "GitHub",
-    "stars": 1141,
+    "stars": 1163,
     "url": "https://github.com/tandpfun/wardrobe",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,141，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,141",
-    "forks": 166,
-    "growth": 1141,
+    "highlights": "Star 数突破 1,163，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,163",
+    "forks": 168,
+    "growth": 1163,
     "history": [
       {
-        "day": "2026-07-19",
-        "stars": 1141
+        "day": "2026-07-20",
+        "stars": 1163
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 6,
-    "title": "oil-oil/beautify-github-readme",
-    "summary": "Design clear, theme-specific GitHub README homepages with SVG titles, real pr...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐852",
-    "source": "GitHub",
-    "stars": 852,
-    "url": "https://github.com/oil-oil/beautify-github-readme",
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "codex-skill",
-      "github-readme",
-      "readme-design",
-      "svg"
-    ],
-    "core_features": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown。项目名称 beautify-github-readme，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + agent-skill、codex-skill、github-readm、readme-desig",
-    "highlights": "Star 数 852，功能完善，获得开发者广泛认可",
-    "stars_fmt": "852",
-    "forks": 47,
-    "growth": 852,
-    "history": [
-      {
-        "day": "2026-07-19",
-        "stars": 852
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
+    "id": 4,
     "title": "nethical6/conversation-steganography",
     "summary": "Use LLMs to hide messages inside normal looking conversations",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐805",
+    "reason": "🔥 爆款！⭐829",
     "source": "GitHub",
-    "stars": 805,
+    "stars": 829,
     "url": "https://github.com/nethical6/conversation-steganography",
     "language": "Go",
     "topics": [
@@ -212,14 +125,104 @@
     "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数 805，功能完善，获得开发者广泛认可",
-    "stars_fmt": "805",
-    "forks": 47,
-    "growth": 805,
+    "highlights": "Star 数 829，功能完善，获得开发者广泛认可",
+    "stars_fmt": "829",
+    "forks": 48,
+    "growth": 829,
     "history": [
       {
-        "day": "2026-07-19",
-        "stars": 805
+        "day": "2026-07-20",
+        "stars": 829
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "pablostanley/yoinks",
+    "summary": "yoink any video from your terminal. no shady ads.",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐771",
+    "source": "GitHub",
+    "stars": 771,
+    "url": "https://github.com/pablostanley/yoinks",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数 771，功能完善，获得开发者广泛认可",
+    "stars_fmt": "771",
+    "forks": 80,
+    "growth": 771,
+    "history": [
+      {
+        "day": "2026-07-20",
+        "stars": 771
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "MatinSenPai/Aether-GUI",
+    "summary": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri ...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐628",
+    "source": "GitHub",
+    "stars": 628,
+    "url": "https://github.com/MatinSenPai/Aether-GUI",
+    "language": "TypeScript",
+    "topics": [
+      "anti-censorship",
+      "censorship-circumvention",
+      "desktop-app",
+      "proxy",
+      "react",
+      "rust",
+      "tauri",
+      "typescript"
+    ],
+    "core_features": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust。项目名称 Aether-GUI，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript + anti-censors、censorship-c、desktop-app、proxy",
+    "highlights": "Star 数 628，功能完善，获得开发者广泛认可",
+    "stars_fmt": "628",
+    "forks": 28,
+    "growth": 628,
+    "history": [
+      {
+        "day": "2026-07-20",
+        "stars": 628
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "Blueturboguy07/cue",
+    "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your me...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐618",
+    "source": "GitHub",
+    "stars": 618,
+    "url": "https://github.com/Blueturboguy07/cue",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.。项目名称 cue，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 618，功能完善，获得开发者广泛认可",
+    "stars_fmt": "618",
+    "forks": 134,
+    "growth": 618,
+    "history": [
+      {
+        "day": "2026-07-20",
+        "stars": 618
       }
     ],
     "type_label": "🌙 每月热点"
