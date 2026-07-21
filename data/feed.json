@@ -5,63 +5,36 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐11,323",
+    "reason": "🔥 爆款！⭐11,434",
     "source": "GitHub",
-    "stars": 11323,
+    "stars": 11434,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 11,323，社区活跃度高，增长迅猛",
-    "stars_fmt": "11,323",
-    "forks": 1151,
-    "growth": 11323,
+    "highlights": "Star 数突破 11,434，社区活跃度高，增长迅猛",
+    "stars_fmt": "11,434",
+    "forks": 1163,
+    "growth": 11434,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 11323
+        "stars": 11434
       }
     ],
     "type_label": "📌 收藏和fork"
   },
   {
     "id": 1,
-    "title": "tandpfun/wardrobe",
-    "summary": "Your clothes, extracted and organized with gpt-image.",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,236",
-    "source": "GitHub",
-    "stars": 1236,
-    "url": "https://github.com/tandpfun/wardrobe",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,236，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,236",
-    "forks": 179,
-    "growth": 1236,
-    "history": [
-      {
-        "day": "2026-07-21",
-        "stars": 1236
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
     "title": "hoainho/img2threejs",
     "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-g...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,196",
+    "reason": "🔥 爆款！⭐1,305",
     "source": "GitHub",
-    "stars": 1196,
+    "stars": 1305,
     "url": "https://github.com/hoainho/img2threejs",
     "language": "Python",
     "topics": [
@@ -79,14 +52,41 @@
     "core_features": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.。项目名称 img2threejs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + 3d、ai-agents、claude-code、computer-gra",
-    "highlights": "Star 数突破 1,196，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,196",
-    "forks": 95,
-    "growth": 1196,
+    "highlights": "Star 数突破 1,305，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,305",
+    "forks": 106,
+    "growth": 1305,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 1196
+        "stars": 1305
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 2,
+    "title": "tandpfun/wardrobe",
+    "summary": "Your clothes, extracted and organized with gpt-image.",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,253",
+    "source": "GitHub",
+    "stars": 1253,
+    "url": "https://github.com/tandpfun/wardrobe",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数突破 1,253，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,253",
+    "forks": 182,
+    "growth": 1253,
+    "history": [
+      {
+        "day": "2026-07-21",
+        "stars": 1253
       }
     ],
     "type_label": "🔥 每周热点"
@@ -97,26 +97,26 @@
     "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐953",
+    "reason": "🔥 爆款！⭐1,104",
     "source": "GitHub",
-    "stars": 953,
+    "stars": 1104,
     "url": "https://github.com/lopopolo/harness-engineering",
     "language": "Python",
     "topics": [],
     "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 953，功能完善，获得开发者广泛认可",
-    "stars_fmt": "953",
-    "forks": 59,
-    "growth": 953,
+    "highlights": "Star 数突破 1,104，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,104",
+    "forks": 84,
+    "growth": 1104,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 953
+        "stars": 1104
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 4,
@@ -124,23 +124,23 @@
     "summary": "yoink any video from your terminal. no shady ads.",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐897",
+    "reason": "🔥 爆款！⭐919",
     "source": "GitHub",
-    "stars": 897,
+    "stars": 919,
     "url": "https://github.com/pablostanley/yoinks",
     "language": "TypeScript",
     "topics": [],
     "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 897，功能完善，获得开发者广泛认可",
-    "stars_fmt": "897",
-    "forks": 96,
-    "growth": 897,
+    "highlights": "Star 数 919，功能完善，获得开发者广泛认可",
+    "stars_fmt": "919",
+    "forks": 99,
+    "growth": 919,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 897
+        "stars": 919
       }
     ],
     "type_label": "🌙 每月热点"
@@ -151,9 +151,9 @@
     "summary": "Use LLMs to hide messages inside normal looking conversations",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐885",
+    "reason": "🔥 爆款！⭐894",
     "source": "GitHub",
-    "stars": 885,
+    "stars": 894,
     "url": "https://github.com/nethical6/conversation-steganography",
     "language": "Go",
     "topics": [
@@ -163,14 +163,14 @@
     "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数 885，功能完善，获得开发者广泛认可",
-    "stars_fmt": "885",
-    "forks": 53,
-    "growth": 885,
+    "highlights": "Star 数 894，功能完善，获得开发者广泛认可",
+    "stars_fmt": "894",
+    "forks": 54,
+    "growth": 894,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 885
+        "stars": 894
       }
     ],
     "type_label": "🌙 每月热点"
@@ -181,23 +181,23 @@
     "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your me...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐676",
+    "reason": "🔥 爆款！⭐690",
     "source": "GitHub",
-    "stars": 676,
+    "stars": 690,
     "url": "https://github.com/Blueturboguy07/cue",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.。项目名称 cue，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 676，功能完善，获得开发者广泛认可",
-    "stars_fmt": "676",
-    "forks": 144,
-    "growth": 676,
+    "highlights": "Star 数 690，功能完善，获得开发者广泛认可",
+    "stars_fmt": "690",
+    "forks": 145,
+    "growth": 690,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 676
+        "stars": 690
       }
     ],
     "type_label": "🌙 每月热点"
@@ -208,23 +208,23 @@
     "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐623",
+    "reason": "🔥 爆款！⭐679",
     "source": "GitHub",
-    "stars": 623,
+    "stars": 679,
     "url": "https://github.com/v-modal/vmodal_sdk_flutter",
     "language": "Dart",
     "topics": [],
     "core_features": "V- Modal AI: Search anything anywhere SDK Flutter。项目名称 vmodal_sdk_flutter，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Dart",
-    "highlights": "Star 数 623，功能完善，获得开发者广泛认可",
-    "stars_fmt": "623",
+    "highlights": "Star 数 679，功能完善，获得开发者广泛认可",
+    "stars_fmt": "679",
     "forks": 1,
-    "growth": 623,
+    "growth": 679,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 623
+        "stars": 679
       }
     ],
     "type_label": "🌙 每月热点"
