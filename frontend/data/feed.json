@@ -5,23 +5,23 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐11,126",
+    "reason": "🔥 爆款！⭐11,323",
     "source": "GitHub",
-    "stars": 11126,
+    "stars": 11323,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 11,126，社区活跃度高，增长迅猛",
-    "stars_fmt": "11,126",
-    "forks": 1140,
-    "growth": 11126,
+    "highlights": "Star 数突破 11,323，社区活跃度高，增长迅猛",
+    "stars_fmt": "11,323",
+    "forks": 1151,
+    "growth": 11323,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 11126
+        "stars": 11323
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "Your clothes, extracted and organized with gpt-image.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,220",
+    "reason": "🔥 爆款！⭐1,236",
     "source": "GitHub",
-    "stars": 1220,
+    "stars": 1236,
     "url": "https://github.com/tandpfun/wardrobe",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,220，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,220",
-    "forks": 174,
-    "growth": 1220,
+    "highlights": "Star 数突破 1,236，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,236",
+    "forks": 179,
+    "growth": 1236,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 1220
+        "stars": 1236
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,9 +59,9 @@
     "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-g...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,061",
+    "reason": "🔥 爆款！⭐1,196",
     "source": "GitHub",
-    "stars": 1061,
+    "stars": 1196,
     "url": "https://github.com/hoainho/img2threejs",
     "language": "Python",
     "topics": [
@@ -79,44 +79,41 @@
     "core_features": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.。项目名称 img2threejs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + 3d、ai-agents、claude-code、computer-gra",
-    "highlights": "Star 数突破 1,061，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,061",
-    "forks": 90,
-    "growth": 1061,
+    "highlights": "Star 数突破 1,196，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,196",
+    "forks": 95,
+    "growth": 1196,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 1061
+        "stars": 1196
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
-    "title": "nethical6/conversation-steganography",
-    "summary": "Use LLMs to hide messages inside normal looking conversations",
+    "title": "lopopolo/harness-engineering",
+    "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐884",
+    "reason": "🔥 爆款！⭐953",
     "source": "GitHub",
-    "stars": 884,
-    "url": "https://github.com/nethical6/conversation-steganography",
-    "language": "Go",
-    "topics": [
-      "llm-tools",
-      "steganography"
-    ],
-    "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
+    "stars": 953,
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "language": "Python",
+    "topics": [],
+    "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数 884，功能完善，获得开发者广泛认可",
-    "stars_fmt": "884",
-    "forks": 53,
-    "growth": 884,
+    "tech_stack": "Python",
+    "highlights": "Star 数 953，功能完善，获得开发者广泛认可",
+    "stars_fmt": "953",
+    "forks": 59,
+    "growth": 953,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 884
+        "stars": 953
       }
     ],
     "type_label": "🌙 每月热点"
@@ -127,50 +124,53 @@
     "summary": "yoink any video from your terminal. no shady ads.",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐873",
+    "reason": "🔥 爆款！⭐897",
     "source": "GitHub",
-    "stars": 873,
+    "stars": 897,
     "url": "https://github.com/pablostanley/yoinks",
     "language": "TypeScript",
     "topics": [],
     "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 873，功能完善，获得开发者广泛认可",
-    "stars_fmt": "873",
-    "forks": 94,
-    "growth": 873,
+    "highlights": "Star 数 897，功能完善，获得开发者广泛认可",
+    "stars_fmt": "897",
+    "forks": 96,
+    "growth": 897,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 873
+        "stars": 897
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 5,
-    "title": "lopopolo/harness-engineering",
-    "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
+    "title": "nethical6/conversation-steganography",
+    "summary": "Use LLMs to hide messages inside normal looking conversations",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐823",
+    "reason": "🔥 爆款！⭐885",
     "source": "GitHub",
-    "stars": 823,
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "language": "Python",
-    "topics": [],
-    "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
+    "stars": 885,
+    "url": "https://github.com/nethical6/conversation-steganography",
+    "language": "Go",
+    "topics": [
+      "llm-tools",
+      "steganography"
+    ],
+    "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 823，功能完善，获得开发者广泛认可",
-    "stars_fmt": "823",
-    "forks": 39,
-    "growth": 823,
+    "tech_stack": "Go + llm-tools、steganograph",
+    "highlights": "Star 数 885，功能完善，获得开发者广泛认可",
+    "stars_fmt": "885",
+    "forks": 53,
+    "growth": 885,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 823
+        "stars": 885
       }
     ],
     "type_label": "🌙 每月热点"
@@ -181,23 +181,23 @@
     "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your me...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐662",
+    "reason": "🔥 爆款！⭐676",
     "source": "GitHub",
-    "stars": 662,
+    "stars": 676,
     "url": "https://github.com/Blueturboguy07/cue",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.。项目名称 cue，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 662，功能完善，获得开发者广泛认可",
-    "stars_fmt": "662",
+    "highlights": "Star 数 676，功能完善，获得开发者广泛认可",
+    "stars_fmt": "676",
     "forks": 144,
-    "growth": 662,
+    "growth": 676,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 662
+        "stars": 676
       }
     ],
     "type_label": "🌙 每月热点"
