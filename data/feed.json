@@ -5,23 +5,23 @@
     "summary": "Codex Dream Skin",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐11,434",
+    "reason": "🔥 爆款！⭐11,490",
     "source": "GitHub",
-    "stars": 11434,
+    "stars": 11490,
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 11,434，社区活跃度高，增长迅猛",
-    "stars_fmt": "11,434",
-    "forks": 1163,
-    "growth": 11434,
+    "highlights": "Star 数突破 11,490，社区活跃度高，增长迅猛",
+    "stars_fmt": "11,490",
+    "forks": 1165,
+    "growth": 11490,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 11434
+        "stars": 11490
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,9 +32,9 @@
     "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-g...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,305",
+    "reason": "🔥 爆款！⭐1,398",
     "source": "GitHub",
-    "stars": 1305,
+    "stars": 1398,
     "url": "https://github.com/hoainho/img2threejs",
     "language": "Python",
     "topics": [
@@ -52,68 +52,68 @@
     "core_features": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.。项目名称 img2threejs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + 3d、ai-agents、claude-code、computer-gra",
-    "highlights": "Star 数突破 1,305，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,305",
-    "forks": 106,
-    "growth": 1305,
+    "highlights": "Star 数突破 1,398，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,398",
+    "forks": 113,
+    "growth": 1398,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 1305
+        "stars": 1398
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
-    "title": "tandpfun/wardrobe",
-    "summary": "Your clothes, extracted and organized with gpt-image.",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,253",
-    "source": "GitHub",
-    "stars": 1253,
-    "url": "https://github.com/tandpfun/wardrobe",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,253，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,253",
-    "forks": 182,
-    "growth": 1253,
-    "history": [
-      {
-        "day": "2026-07-21",
-        "stars": 1253
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
     "title": "lopopolo/harness-engineering",
     "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,104",
+    "reason": "🔥 爆款！⭐1,323",
     "source": "GitHub",
-    "stars": 1104,
+    "stars": 1323,
     "url": "https://github.com/lopopolo/harness-engineering",
     "language": "Python",
     "topics": [],
     "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,104，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,104",
-    "forks": 84,
-    "growth": 1104,
+    "highlights": "Star 数突破 1,323，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,323",
+    "forks": 105,
+    "growth": 1323,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 1104
+        "stars": 1323
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
+    "title": "tandpfun/wardrobe",
+    "summary": "Your clothes, extracted and organized with gpt-image.",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,270",
+    "source": "GitHub",
+    "stars": 1270,
+    "url": "https://github.com/tandpfun/wardrobe",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数突破 1,270，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,270",
+    "forks": 184,
+    "growth": 1270,
+    "history": [
+      {
+        "day": "2026-07-21",
+        "stars": 1270
       }
     ],
     "type_label": "🔥 每周热点"
@@ -124,23 +124,23 @@
     "summary": "yoink any video from your terminal. no shady ads.",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐919",
+    "reason": "🔥 爆款！⭐947",
     "source": "GitHub",
-    "stars": 919,
+    "stars": 947,
     "url": "https://github.com/pablostanley/yoinks",
     "language": "TypeScript",
     "topics": [],
     "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 919，功能完善，获得开发者广泛认可",
-    "stars_fmt": "919",
+    "highlights": "Star 数 947，功能完善，获得开发者广泛认可",
+    "stars_fmt": "947",
     "forks": 99,
-    "growth": 919,
+    "growth": 947,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 919
+        "stars": 947
       }
     ],
     "type_label": "🌙 每月热点"
@@ -151,9 +151,9 @@
     "summary": "Use LLMs to hide messages inside normal looking conversations",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐894",
+    "reason": "🔥 爆款！⭐908",
     "source": "GitHub",
-    "stars": 894,
+    "stars": 908,
     "url": "https://github.com/nethical6/conversation-steganography",
     "language": "Go",
     "topics": [
@@ -163,68 +163,68 @@
     "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数 894，功能完善，获得开发者广泛认可",
-    "stars_fmt": "894",
+    "highlights": "Star 数 908，功能完善，获得开发者广泛认可",
+    "stars_fmt": "908",
     "forks": 54,
-    "growth": 894,
+    "growth": 908,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 894
+        "stars": 908
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 6,
-    "title": "Blueturboguy07/cue",
-    "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your me...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐690",
-    "source": "GitHub",
-    "stars": 690,
-    "url": "https://github.com/Blueturboguy07/cue",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.。项目名称 cue，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数 690，功能完善，获得开发者广泛认可",
-    "stars_fmt": "690",
-    "forks": 145,
-    "growth": 690,
-    "history": [
-      {
-        "day": "2026-07-21",
-        "stars": 690
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
     "title": "v-modal/vmodal_sdk_flutter",
     "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐679",
+    "reason": "🔥 爆款！⭐750",
     "source": "GitHub",
-    "stars": 679,
+    "stars": 750,
     "url": "https://github.com/v-modal/vmodal_sdk_flutter",
     "language": "Dart",
     "topics": [],
     "core_features": "V- Modal AI: Search anything anywhere SDK Flutter。项目名称 vmodal_sdk_flutter，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Dart",
-    "highlights": "Star 数 679，功能完善，获得开发者广泛认可",
-    "stars_fmt": "679",
-    "forks": 1,
-    "growth": 679,
+    "highlights": "Star 数 750，功能完善，获得开发者广泛认可",
+    "stars_fmt": "750",
+    "forks": 2,
+    "growth": 750,
     "history": [
       {
         "day": "2026-07-21",
-        "stars": 679
+        "stars": 750
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "Blueturboguy07/cue",
+    "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your me...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐697",
+    "source": "GitHub",
+    "stars": 697,
+    "url": "https://github.com/Blueturboguy07/cue",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.。项目名称 cue，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 697，功能完善，获得开发者广泛认可",
+    "stars_fmt": "697",
+    "forks": 145,
+    "growth": 697,
+    "history": [
+      {
+        "day": "2026-07-21",
+        "stars": 697
       }
     ],
     "type_label": "🌙 每月热点"
