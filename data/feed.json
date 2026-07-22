@@ -5,23 +5,23 @@
     "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,914",
+    "reason": "🔥 爆款！⭐2,063",
     "source": "GitHub",
-    "stars": 1914,
+    "stars": 2063,
     "url": "https://github.com/lopopolo/harness-engineering",
     "language": "Python",
     "topics": [],
     "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,914，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,914",
-    "forks": 190,
-    "growth": 1914,
+    "highlights": "Star 数突破 2,063，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,063",
+    "forks": 206,
+    "growth": 2063,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 1914
+        "stars": 2063
       }
     ],
     "type_label": "🔥 每周热点"
@@ -32,23 +32,23 @@
     "summary": "Your clothes, extracted and organized with gpt-image.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,307",
+    "reason": "🔥 爆款！⭐1,323",
     "source": "GitHub",
-    "stars": 1307,
+    "stars": 1323,
     "url": "https://github.com/tandpfun/wardrobe",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,307，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,307",
-    "forks": 188,
-    "growth": 1307,
+    "highlights": "Star 数突破 1,323，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,323",
+    "forks": 190,
+    "growth": 1323,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 1307
+        "stars": 1323
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,26 +59,26 @@
     "summary": "yoink any video from your terminal. no shady ads.",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐995",
+    "reason": "🔥 爆款！⭐1,023",
     "source": "GitHub",
-    "stars": 995,
+    "stars": 1023,
     "url": "https://github.com/pablostanley/yoinks",
     "language": "TypeScript",
     "topics": [],
     "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 995，功能完善，获得开发者广泛认可",
-    "stars_fmt": "995",
-    "forks": 101,
-    "growth": 995,
+    "highlights": "Star 数突破 1,023，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,023",
+    "forks": 102,
+    "growth": 1023,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 995
+        "stars": 1023
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
@@ -86,9 +86,9 @@
     "summary": "Use LLMs to hide messages inside normal looking conversations",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐927",
+    "reason": "🔥 爆款！⭐938",
     "source": "GitHub",
-    "stars": 927,
+    "stars": 938,
     "url": "https://github.com/nethical6/conversation-steganography",
     "language": "Go",
     "topics": [
@@ -98,14 +98,14 @@
     "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数 927，功能完善，获得开发者广泛认可",
-    "stars_fmt": "927",
+    "highlights": "Star 数 938，功能完善，获得开发者广泛认可",
+    "stars_fmt": "938",
     "forks": 55,
-    "growth": 927,
+    "growth": 938,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 927
+        "stars": 938
       }
     ],
     "type_label": "🌙 每月热点"
@@ -116,23 +116,23 @@
     "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐811",
+    "reason": "🔥 爆款！⭐851",
     "source": "GitHub",
-    "stars": 811,
+    "stars": 851,
     "url": "https://github.com/v-modal/vmodal_sdk_flutter",
     "language": "Dart",
     "topics": [],
     "core_features": "V- Modal AI: Search anything anywhere SDK Flutter。项目名称 vmodal_sdk_flutter，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Dart",
-    "highlights": "Star 数 811，功能完善，获得开发者广泛认可",
-    "stars_fmt": "811",
-    "forks": 2,
-    "growth": 811,
+    "highlights": "Star 数 851，功能完善，获得开发者广泛认可",
+    "stars_fmt": "851",
+    "forks": 3,
+    "growth": 851,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 811
+        "stars": 851
       }
     ],
     "type_label": "🌙 每月热点"
@@ -143,9 +143,9 @@
     "summary": "An arbitrage bot is a smart contract connected to an external automation scri...",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐739",
+    "reason": "🔥 爆款！⭐801",
     "source": "GitHub",
-    "stars": 739,
+    "stars": 801,
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "language": "Solidity",
     "topics": [
@@ -162,14 +162,14 @@
     "core_features": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.。项目名称 MEV-Arbitrage-Bot，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Solidity + ai、aitradingbot、bot、btc",
-    "highlights": "Star 数 739，功能完善，获得开发者广泛认可",
-    "stars_fmt": "739",
-    "forks": 497,
-    "growth": 739,
+    "highlights": "Star 数 801，功能完善，获得开发者广泛认可",
+    "stars_fmt": "801",
+    "forks": 548,
+    "growth": 801,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 739
+        "stars": 801
       }
     ],
     "type_label": "🌙 每月热点"
@@ -180,23 +180,23 @@
     "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models fr...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐671",
+    "reason": "🔥 爆款！⭐703",
     "source": "GitHub",
-    "stars": 671,
+    "stars": 703,
     "url": "https://github.com/Blaizzy/nativ",
     "language": "Swift",
     "topics": [],
     "core_features": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.。项目名称 nativ，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Swift",
-    "highlights": "Star 数 671，功能完善，获得开发者广泛认可",
-    "stars_fmt": "671",
-    "forks": 36,
-    "growth": 671,
+    "highlights": "Star 数 703，功能完善，获得开发者广泛认可",
+    "stars_fmt": "703",
+    "forks": 37,
+    "growth": 703,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 671
+        "stars": 703
       }
     ],
     "type_label": "🌙 每月热点"
@@ -207,23 +207,23 @@
     "summary": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐608",
+    "reason": "🔥 爆款！⭐611",
     "source": "GitHub",
-    "stars": 608,
+    "stars": 611,
     "url": "https://github.com/xiejunjie524/handdraw-story-video",
     "language": "Python",
     "topics": [],
     "core_features": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.。项目名称 handdraw-story-video，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python",
-    "highlights": "Star 数 608，功能完善，获得开发者广泛认可",
-    "stars_fmt": "608",
-    "forks": 93,
-    "growth": 608,
+    "highlights": "Star 数 611，功能完善，获得开发者广泛认可",
+    "stars_fmt": "611",
+    "forks": 94,
+    "growth": 611,
     "history": [
       {
         "day": "2026-07-22",
-        "stars": 608
+        "stars": 611
       }
     ],
     "type_label": "🌙 每月热点"
