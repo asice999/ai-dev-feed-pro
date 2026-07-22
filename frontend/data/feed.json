@@ -1,159 +1,94 @@
 [
   {
     "id": 0,
-    "title": "Fei-Away/Codex-Dream-Skin",
-    "summary": "Codex Dream Skin",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐11,490",
-    "source": "GitHub",
-    "stars": 11490,
-    "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Codex Dream Skin。项目名称 Codex-Dream-Skin，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 11,490，社区活跃度高，增长迅猛",
-    "stars_fmt": "11,490",
-    "forks": 1165,
-    "growth": 11490,
-    "history": [
-      {
-        "day": "2026-07-21",
-        "stars": 11490
-      }
-    ],
-    "type_label": "📌 收藏和fork"
-  },
-  {
-    "id": 1,
-    "title": "hoainho/img2threejs",
-    "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-g...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,398",
-    "source": "GitHub",
-    "stars": 1398,
-    "url": "https://github.com/hoainho/img2threejs",
-    "language": "Python",
-    "topics": [
-      "3d",
-      "ai-agents",
-      "claude-code",
-      "computer-graphics",
-      "generative",
-      "image-to-3d",
-      "procedural-generation",
-      "threejs",
-      "typescript",
-      "webgl"
-    ],
-    "core_features": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.。项目名称 img2threejs，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + 3d、ai-agents、claude-code、computer-gra",
-    "highlights": "Star 数突破 1,398，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,398",
-    "forks": 113,
-    "growth": 1398,
-    "history": [
-      {
-        "day": "2026-07-21",
-        "stars": 1398
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
     "title": "lopopolo/harness-engineering",
     "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,323",
+    "reason": "🔥 爆款！⭐1,662",
     "source": "GitHub",
-    "stars": 1323,
+    "stars": 1662,
     "url": "https://github.com/lopopolo/harness-engineering",
     "language": "Python",
     "topics": [],
     "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,323，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,323",
-    "forks": 105,
-    "growth": 1323,
+    "highlights": "Star 数突破 1,662，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,662",
+    "forks": 148,
+    "growth": 1662,
     "history": [
       {
-        "day": "2026-07-21",
-        "stars": 1323
+        "day": "2026-07-22",
+        "stars": 1662
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 3,
+    "id": 1,
     "title": "tandpfun/wardrobe",
     "summary": "Your clothes, extracted and organized with gpt-image.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,270",
+    "reason": "🔥 爆款！⭐1,287",
     "source": "GitHub",
-    "stars": 1270,
+    "stars": 1287,
     "url": "https://github.com/tandpfun/wardrobe",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Your clothes, extracted and organized with gpt-image.。项目名称 wardrobe，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,270，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,270",
-    "forks": 184,
-    "growth": 1270,
+    "highlights": "Star 数突破 1,287，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,287",
+    "forks": 186,
+    "growth": 1287,
     "history": [
       {
-        "day": "2026-07-21",
-        "stars": 1270
+        "day": "2026-07-22",
+        "stars": 1287
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 4,
+    "id": 2,
     "title": "pablostanley/yoinks",
     "summary": "yoink any video from your terminal. no shady ads.",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐947",
+    "reason": "🔥 爆款！⭐968",
     "source": "GitHub",
-    "stars": 947,
+    "stars": 968,
     "url": "https://github.com/pablostanley/yoinks",
     "language": "TypeScript",
     "topics": [],
     "core_features": "yoink any video from your terminal. no shady ads.。项目名称 yoinks，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 947，功能完善，获得开发者广泛认可",
-    "stars_fmt": "947",
-    "forks": 99,
-    "growth": 947,
+    "highlights": "Star 数 968，功能完善，获得开发者广泛认可",
+    "stars_fmt": "968",
+    "forks": 101,
+    "growth": 968,
     "history": [
       {
-        "day": "2026-07-21",
-        "stars": 947
+        "day": "2026-07-22",
+        "stars": 968
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 5,
+    "id": 3,
     "title": "nethical6/conversation-steganography",
     "summary": "Use LLMs to hide messages inside normal looking conversations",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐908",
+    "reason": "🔥 爆款！⭐914",
     "source": "GitHub",
-    "stars": 908,
+    "stars": 914,
     "url": "https://github.com/nethical6/conversation-steganography",
     "language": "Go",
     "topics": [
@@ -163,68 +98,132 @@
     "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数 908，功能完善，获得开发者广泛认可",
-    "stars_fmt": "908",
-    "forks": 54,
-    "growth": 908,
+    "highlights": "Star 数 914，功能完善，获得开发者广泛认可",
+    "stars_fmt": "914",
+    "forks": 55,
+    "growth": 914,
     "history": [
       {
-        "day": "2026-07-21",
-        "stars": 908
+        "day": "2026-07-22",
+        "stars": 914
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 6,
+    "id": 4,
     "title": "v-modal/vmodal_sdk_flutter",
     "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐750",
+    "reason": "🔥 爆款！⭐780",
     "source": "GitHub",
-    "stars": 750,
+    "stars": 780,
     "url": "https://github.com/v-modal/vmodal_sdk_flutter",
     "language": "Dart",
     "topics": [],
     "core_features": "V- Modal AI: Search anything anywhere SDK Flutter。项目名称 vmodal_sdk_flutter，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Dart",
-    "highlights": "Star 数 750，功能完善，获得开发者广泛认可",
-    "stars_fmt": "750",
+    "highlights": "Star 数 780，功能完善，获得开发者广泛认可",
+    "stars_fmt": "780",
     "forks": 2,
-    "growth": 750,
+    "growth": 780,
     "history": [
       {
-        "day": "2026-07-21",
-        "stars": 750
+        "day": "2026-07-22",
+        "stars": 780
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "summary": "An arbitrage bot is a smart contract connected to an external automation scri...",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐739",
+    "source": "GitHub",
+    "stars": 739,
+    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "language": "Solidity",
+    "topics": [
+      "ai",
+      "aitradingbot",
+      "bot",
+      "btc",
+      "claude",
+      "eth",
+      "etherlab",
+      "mev",
+      "mevbots"
+    ],
+    "core_features": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.。项目名称 MEV-Arbitrage-Bot，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "Solidity + ai、aitradingbot、bot、btc",
+    "highlights": "Star 数 739，功能完善，获得开发者广泛认可",
+    "stars_fmt": "739",
+    "forks": 497,
+    "growth": 739,
+    "history": [
+      {
+        "day": "2026-07-22",
+        "stars": 739
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "Blaizzy/nativ",
+    "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models fr...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐633",
+    "source": "GitHub",
+    "stars": 633,
+    "url": "https://github.com/Blaizzy/nativ",
+    "language": "Swift",
+    "topics": [],
+    "core_features": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.。项目名称 nativ，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Swift",
+    "highlights": "Star 数 633，功能完善，获得开发者广泛认可",
+    "stars_fmt": "633",
+    "forks": 35,
+    "growth": 633,
+    "history": [
+      {
+        "day": "2026-07-22",
+        "stars": 633
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "Blueturboguy07/cue",
-    "summary": "Open-source macOS AI copilot that floats over your screen, sees/hears your me...",
-    "category": "AI",
+    "title": "xiejunjie524/handdraw-story-video",
+    "summary": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual...",
+    "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐697",
+    "reason": "🔥 爆款！⭐592",
     "source": "GitHub",
-    "stars": 697,
-    "url": "https://github.com/Blueturboguy07/cue",
-    "language": "JavaScript",
+    "stars": 592,
+    "url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "language": "Python",
     "topics": [],
-    "core_features": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.。项目名称 cue，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数 697，功能完善，获得开发者广泛认可",
-    "stars_fmt": "697",
-    "forks": 145,
-    "growth": 697,
+    "core_features": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.。项目名称 handdraw-story-video，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Python",
+    "highlights": "Star 数 592，功能完善，获得开发者广泛认可",
+    "stars_fmt": "592",
+    "forks": 92,
+    "growth": 592,
     "history": [
       {
-        "day": "2026-07-21",
-        "stars": 697
+        "day": "2026-07-22",
+        "stars": 592
       }
     ],
     "type_label": "🌙 每月热点"
