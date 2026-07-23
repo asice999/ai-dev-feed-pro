@@ -5,23 +5,23 @@
     "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,215",
+    "reason": "🔥 爆款！⭐2,238",
     "source": "GitHub",
-    "stars": 2215,
+    "stars": 2238,
     "url": "https://github.com/lopopolo/harness-engineering",
     "language": "Python",
     "topics": [],
     "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 2,215，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,215",
-    "forks": 222,
-    "growth": 2215,
+    "highlights": "Star 数突破 2,238，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,238",
+    "forks": 226,
+    "growth": 2238,
     "history": [
       {
         "day": "2026-07-23",
-        "stars": 2215
+        "stars": 2238
       }
     ],
     "type_label": "🔥 每周热点"
@@ -32,9 +32,9 @@
     "summary": "Use LLMs to hide messages inside normal looking conversations",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,023",
+    "reason": "🔥 爆款！⭐1,054",
     "source": "GitHub",
-    "stars": 1023,
+    "stars": 1054,
     "url": "https://github.com/nethical6/conversation-steganography",
     "language": "Go",
     "topics": [
@@ -44,14 +44,14 @@
     "core_features": "Use LLMs to hide messages inside normal looking conversations。项目名称 conversation-steganography，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Go + llm-tools、steganograph",
-    "highlights": "Star 数突破 1,023，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,023",
-    "forks": 71,
-    "growth": 1023,
+    "highlights": "Star 数突破 1,054，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,054",
+    "forks": 75,
+    "growth": 1054,
     "history": [
       {
         "day": "2026-07-23",
-        "stars": 1023
+        "stars": 1054
       }
     ],
     "type_label": "🔥 每周热点"
@@ -62,9 +62,9 @@
     "summary": "An arbitrage bot is a smart contract connected to an external automation scri...",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐921",
+    "reason": "🔥 爆款！⭐993",
     "source": "GitHub",
-    "stars": 921,
+    "stars": 993,
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "language": "Solidity",
     "topics": [
@@ -81,135 +81,108 @@
     "core_features": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.。项目名称 MEV-Arbitrage-Bot，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Solidity + ai、aitradingbot、bot、btc",
-    "highlights": "Star 数 921，功能完善，获得开发者广泛认可",
-    "stars_fmt": "921",
-    "forks": 651,
-    "growth": 921,
+    "highlights": "Star 数 993，功能完善，获得开发者广泛认可",
+    "stars_fmt": "993",
+    "forks": 691,
+    "growth": 993,
     "history": [
       {
         "day": "2026-07-23",
-        "stars": 921
+        "stars": 993
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 3,
-    "title": "Blaizzy/nativ",
-    "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models fr...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐778",
-    "source": "GitHub",
-    "stars": 778,
-    "url": "https://github.com/Blaizzy/nativ",
-    "language": "Swift",
-    "topics": [],
-    "core_features": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.。项目名称 nativ，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Swift",
-    "highlights": "Star 数 778，功能完善，获得开发者广泛认可",
-    "stars_fmt": "778",
-    "forks": 41,
-    "growth": 778,
-    "history": [
-      {
-        "day": "2026-07-23",
-        "stars": 778
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 4,
-    "title": "Jakubantalik/thinking-orbs",
-    "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, ...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐702",
-    "source": "GitHub",
-    "stars": 702,
-    "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "language": "TypeScript",
-    "topics": [],
-    "core_features": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light。项目名称 thinking-orbs，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数 702，功能完善，获得开发者广泛认可",
-    "stars_fmt": "702",
-    "forks": 45,
-    "growth": 702,
-    "history": [
-      {
-        "day": "2026-07-23",
-        "stars": 702
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
     "title": "nyblnet/bento",
     "summary": "bento — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐701",
+    "reason": "🔥 爆款！⭐879",
     "source": "GitHub",
-    "stars": 701,
+    "stars": 879,
     "url": "https://github.com/nyblnet/bento",
     "language": "TypeScript",
     "topics": [],
     "core_features": "bento 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 701，功能完善，获得开发者广泛认可",
-    "stars_fmt": "701",
-    "forks": 45,
-    "growth": 701,
+    "highlights": "Star 数 879，功能完善，获得开发者广泛认可",
+    "stars_fmt": "879",
+    "forks": 50,
+    "growth": 879,
     "history": [
       {
         "day": "2026-07-23",
-        "stars": 701
+        "stars": 879
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 4,
+    "title": "Blaizzy/nativ",
+    "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models fr...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐793",
+    "source": "GitHub",
+    "stars": 793,
+    "url": "https://github.com/Blaizzy/nativ",
+    "language": "Swift",
+    "topics": [],
+    "core_features": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.。项目名称 nativ，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Swift",
+    "highlights": "Star 数 793，功能完善，获得开发者广泛认可",
+    "stars_fmt": "793",
+    "forks": 41,
+    "growth": 793,
+    "history": [
+      {
+        "day": "2026-07-23",
+        "stars": 793
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "Jakubantalik/thinking-orbs",
+    "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, ...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐765",
+    "source": "GitHub",
+    "stars": 765,
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light。项目名称 thinking-orbs，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数 765，功能完善，获得开发者广泛认可",
+    "stars_fmt": "765",
+    "forks": 50,
+    "growth": 765,
+    "history": [
+      {
+        "day": "2026-07-23",
+        "stars": 765
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 6,
-    "title": "xiejunjie524/handdraw-story-video",
-    "summary": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐625",
-    "source": "GitHub",
-    "stars": 625,
-    "url": "https://github.com/xiejunjie524/handdraw-story-video",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.。项目名称 handdraw-story-video，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Python",
-    "highlights": "Star 数 625，功能完善，获得开发者广泛认可",
-    "stars_fmt": "625",
-    "forks": 95,
-    "growth": 625,
-    "history": [
-      {
-        "day": "2026-07-23",
-        "stars": 625
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
     "title": "Vincentwei1021/video-shotcraft",
     "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remoti...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐592",
+    "reason": "🔥 爆款！⭐716",
     "source": "GitHub",
-    "stars": 592,
+    "stars": 716,
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "topics": [
@@ -231,14 +204,41 @@
     "core_features": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template。项目名称 video-shotcraft，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent-skills、ai-agents、ai-video、claude-code",
-    "highlights": "Star 数 592，功能完善，获得开发者广泛认可",
-    "stars_fmt": "592",
-    "forks": 46,
-    "growth": 592,
+    "highlights": "Star 数 716，功能完善，获得开发者广泛认可",
+    "stars_fmt": "716",
+    "forks": 54,
+    "growth": 716,
     "history": [
       {
         "day": "2026-07-23",
-        "stars": 592
+        "stars": 716
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "xiejunjie524/handdraw-story-video",
+    "summary": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐630",
+    "source": "GitHub",
+    "stars": 630,
+    "url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.。项目名称 handdraw-story-video，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Python",
+    "highlights": "Star 数 630，功能完善，获得开发者广泛认可",
+    "stars_fmt": "630",
+    "forks": 95,
+    "growth": 630,
+    "history": [
+      {
+        "day": "2026-07-23",
+        "stars": 630
       }
     ],
     "type_label": "🌙 每月热点"
