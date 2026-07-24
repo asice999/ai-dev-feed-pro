@@ -5,23 +5,23 @@
     "summary": "openworker — 其他 开源项目",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,723",
+    "reason": "🔥 爆款！⭐3,193",
     "source": "GitHub",
-    "stars": 2723,
+    "stars": 3193,
     "url": "https://github.com/andrewyng/openworker",
     "language": "Python",
     "topics": [],
     "core_features": "openworker 是一个 其他 开源项目。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 2,723，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,723",
-    "forks": 365,
-    "growth": 2723,
+    "highlights": "Star 数突破 3,193，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,193",
+    "forks": 419,
+    "growth": 3193,
     "history": [
       {
         "day": "2026-07-24",
-        "stars": 2723
+        "stars": 3193
       }
     ],
     "type_label": "🔥 每周热点"
@@ -32,23 +32,23 @@
     "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harnes...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,306",
+    "reason": "🔥 爆款！⭐2,314",
     "source": "GitHub",
-    "stars": 2306,
+    "stars": 2314,
     "url": "https://github.com/lopopolo/harness-engineering",
     "language": "Python",
     "topics": [],
     "core_features": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering。项目名称 harness-engineering，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 2,306，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,306",
-    "forks": 234,
-    "growth": 2306,
+    "highlights": "Star 数突破 2,314，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,314",
+    "forks": 236,
+    "growth": 2314,
     "history": [
       {
         "day": "2026-07-24",
-        "stars": 2306
+        "stars": 2314
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,9 +59,9 @@
     "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remoti...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,285",
+    "reason": "🔥 爆款！⭐1,385",
     "source": "GitHub",
-    "stars": 1285,
+    "stars": 1385,
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "topics": [
@@ -83,14 +83,14 @@
     "core_features": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template。项目名称 video-shotcraft，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent-skills、ai-agents、ai-video、claude-code",
-    "highlights": "Star 数突破 1,285，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,285",
-    "forks": 95,
-    "growth": 1285,
+    "highlights": "Star 数突破 1,385，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,385",
+    "forks": 106,
+    "growth": 1385,
     "history": [
       {
         "day": "2026-07-24",
-        "stars": 1285
+        "stars": 1385
       }
     ],
     "type_label": "🔥 每周热点"
@@ -101,23 +101,23 @@
     "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, ...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐900",
+    "reason": "🔥 爆款！⭐924",
     "source": "GitHub",
-    "stars": 900,
+    "stars": 924,
     "url": "https://github.com/Jakubantalik/thinking-orbs",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light。项目名称 thinking-orbs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 900，功能完善，获得开发者广泛认可",
-    "stars_fmt": "900",
-    "forks": 66,
-    "growth": 900,
+    "highlights": "Star 数 924，功能完善，获得开发者广泛认可",
+    "stars_fmt": "924",
+    "forks": 68,
+    "growth": 924,
     "history": [
       {
         "day": "2026-07-24",
-        "stars": 900
+        "stars": 924
       }
     ],
     "type_label": "🌙 每月热点"
@@ -128,23 +128,23 @@
     "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models fr...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐837",
+    "reason": "🔥 爆款！⭐853",
     "source": "GitHub",
-    "stars": 837,
+    "stars": 853,
     "url": "https://github.com/Blaizzy/nativ",
     "language": "Swift",
     "topics": [],
     "core_features": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.。项目名称 nativ，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Swift",
-    "highlights": "Star 数 837，功能完善，获得开发者广泛认可",
-    "stars_fmt": "837",
+    "highlights": "Star 数 853，功能完善，获得开发者广泛认可",
+    "stars_fmt": "853",
     "forks": 44,
-    "growth": 837,
+    "growth": 853,
     "history": [
       {
         "day": "2026-07-24",
-        "stars": 837
+        "stars": 853
       }
     ],
     "type_label": "🌙 每月热点"
@@ -155,9 +155,9 @@
     "summary": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐773",
+    "reason": "🔥 爆款！⭐799",
     "source": "GitHub",
-    "stars": 773,
+    "stars": 799,
     "url": "https://github.com/powerycy/goutoujunshi",
     "language": "Python",
     "topics": [
@@ -172,14 +172,14 @@
     "core_features": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。。项目名称 goutoujunshi，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python + ai-agent、chinese、codex、codex-skill",
-    "highlights": "Star 数 773，功能完善，获得开发者广泛认可",
-    "stars_fmt": "773",
-    "forks": 88,
-    "growth": 773,
+    "highlights": "Star 数 799，功能完善，获得开发者广泛认可",
+    "stars_fmt": "799",
+    "forks": 89,
+    "growth": 799,
     "history": [
       {
         "day": "2026-07-24",
-        "stars": 773
+        "stars": 799
       }
     ],
     "type_label": "🌙 每月热点"
@@ -190,9 +190,9 @@
     "summary": "Open-source, backend-free AI video editor for talking-head video — storyboard...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐695",
+    "reason": "🔥 爆款！⭐706",
     "source": "GitHub",
-    "stars": 695,
+    "stars": 706,
     "url": "https://github.com/pireel/pireel",
     "language": "TypeScript",
     "topics": [
@@ -207,14 +207,14 @@
     "core_features": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.。项目名称 pireel，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai-video、capcut、captions、chatcut",
-    "highlights": "Star 数 695，功能完善，获得开发者广泛认可",
-    "stars_fmt": "695",
-    "forks": 54,
-    "growth": 695,
+    "highlights": "Star 数 706，功能完善，获得开发者广泛认可",
+    "stars_fmt": "706",
+    "forks": 55,
+    "growth": 706,
     "history": [
       {
         "day": "2026-07-24",
-        "stars": 695
+        "stars": 706
       }
     ],
     "type_label": "🌙 每月热点"
