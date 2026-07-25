@@ -452,30 +452,8 @@ def save_data(items):
 
 # ---- Telegram ----
 
-def send_telegram(items):
-    token = os.getenv("TELEGRAM_BOT_TOKEN")
-    chat_id = os.getenv("TELEGRAM_CHAT_ID")
-    if not token or not chat_id:
-        print("[tg] not configured, skip")
-        return
-    now = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
-    lines = [f"🤖 <b>AI Trend Radar</b> — {now}\n"]
-    for idx, it in enumerate(items[:10], 1):
-        tl = it.get("type_label", "")
-        stars_fmt = it.get('stars_fmt', it.get('stars', ''))
-        growth = it.get("growth", 0)
-        history = it.get("history", [])
-        growth_str = f"  📈 +{growth}" if growth > 0 and len(history) > 1 else ""
-        lines.append(
-            f"{idx}. {tl} <b>{it['title']}</b>\n"
-            f"Star 数量：{stars_fmt}{growth_str}\n"
-            f"核心功能：{it.get('core_features', it.get('summary', ''))}\n"
-            f"适用场景：{it.get('use_cases', '')}\n"
-            f"技术栈：{it.get('tech_stack', '')}\n"
-            f"亮点特色：{it.get('highlights', '')}\n"
-            f"项目地址：{it.get('url', '')}\n"
-        )
-    text = "\n".join(lines)
+def _send_tg_msg(token, chat_id, text):
+    """发送一条 TG 消息（超 4000 字自动分段）。"""
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     max_len = 4000
     while len(text) > max_len:
@@ -489,7 +467,55 @@ def send_telegram(items):
     requests.post(url, json={
         "chat_id": chat_id, "text": text, "parse_mode": "HTML"
     }, timeout=15)
-    print("[tg] sent")
+
+def send_telegram(items):
+    token = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        print("[tg] not configured, skip")
+        return
+    now = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
+
+    # 按 type_label 分组
+    groups = {}
+    for it in items:
+        tl = it.get("type_label", "其他")
+        groups.setdefault(tl, []).append(it)
+
+    order = ["📌 收藏和fork", "🔥 今日热门", "🔥 每周热点", "🌙 每月热点"]
+    sent = 0
+    for cat in order:
+        cat_items = groups.pop(cat, [])
+        if not cat_items:
+            continue
+        lines = [f"🤖 <b>AI Trend Radar</b> — {now}\n"]
+        lines.append(f"━━━ {cat} ━━━\n")
+        for idx, it in enumerate(cat_items[:10], 1):
+            stars_fmt = it.get('stars_fmt', it.get('stars', ''))
+            growth = it.get("growth", 0)
+            history = it.get("history", [])
+            growth_str = f"  📈 +{growth}" if growth > 0 and len(history) > 1 else ""
+            lines.append(
+                f"{idx}. <b>{it['title']}</b>\n"
+                f"Star 数量：{stars_fmt}{growth_str}\n"
+                f"核心功能：{it.get('core_features', it.get('summary', ''))}\n"
+                f"适用场景：{it.get('use_cases', '')}\n"
+                f"技术栈：{it.get('tech_stack', '')}\n"
+                f"亮点特色：{it.get('highlights', '')}\n"
+                f"项目地址：{it.get('url', '')}\n"
+            )
+        _send_tg_msg(token, chat_id, "\n".join(lines))
+        sent += 1
+    # 剩余未分类的
+    for cat, cat_items in groups.items():
+        lines = [f"🤖 <b>AI Trend Radar</b> — {now}\n"]
+        lines.append(f"━━━ {cat} ━━━\n")
+        for idx, it in enumerate(cat_items[:10], 1):
+            stars_fmt = it.get('stars_fmt', it.get('stars', ''))
+            lines.append(f"{idx}. <b>{it['title']}</b>\nStar: {stars_fmt}\n链接: {it.get('url', '')}\n")
+        _send_tg_msg(token, chat_id, "\n".join(lines))
+        sent += 1
+    print(f"[tg] sent {sent} message(s)")
 
 
 # ---- Main ----
