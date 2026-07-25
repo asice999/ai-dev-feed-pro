@@ -486,21 +486,6 @@ def send_telegram(items):
         "chat_id": chat_id, "text": text, "parse_mode": "HTML"
     }, timeout=15)
     print("[tg] sent")
-    text = "\n".join(lines)
-    url = f"https://api.telegram.org/bot{token}/sendMessage"
-    max_len = 4000
-    while len(text) > max_len:
-        split_at = text.rfind("\n", 0, max_len)
-        if split_at == -1:
-            split_at = max_len
-        requests.post(url, json={
-            "chat_id": chat_id, "text": text[:split_at], "parse_mode": "HTML"
-        }, timeout=15)
-        text = text[split_at:]
-    requests.post(url, json={
-        "chat_id": chat_id, "text": text, "parse_mode": "HTML"
-    }, timeout=15)
-    print("[tg] sent")
 
 
 # ---- Main ----
