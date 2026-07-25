@@ -361,7 +361,7 @@ def save_history(h):
 
 
 def _cooldown_hours(stars, forks):
-    """推送频率：收藏和fork项目(≥5000★+≥100 fork) → 12h, 每周热点(≥1000★) → 168h(7d), 每月热点(<1000★) → 720h(30d)."""
+    """推送频率：收藏和fork项目(≥5000★+≥100 fork) → 6h, 每周热点(≥1000★) → 168h(7d), 每月热点(<1000★) → 720h(30d)."""
     if stars >= 5000 and forks >= 100:
         return 6
     if stars >= 1000:
