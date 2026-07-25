@@ -18,18 +18,38 @@ client = OpenAI(
 
 # ---- GitHub ----
 
+def _is_spam(i):
+    """过滤刷量垃圾项目：fork/star倒挂、无人watch、空描述、极小仓库。"""
+    stars = i.get("stargazers_count", 0)
+    forks = i.get("forks_count", 0)
+    subs = i.get("subscribers_count", 0)
+    desc = i.get("description") or ""
+    size = i.get("size", 0)
+    if forks > stars * 1.5:
+        return True  # fork农场
+    if subs < 2 and stars > 200:
+        return True  # 几百star但无人watch
+    if not desc.strip() or len(desc.strip()) < 5:
+        return True  # 空描述
+    if size < 10 and stars > 300:
+        return True  # 极小仓库但高star
+    return False
+
 def fetch_github():
     print("[github] fetching trending repos...")
     url = "https://api.github.com/search/repositories"
     gh_token = os.getenv("GITHUB_TOKEN")
     headers = {"Authorization": f"Bearer {gh_token}"} if gh_token else {}
     since = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
-    params = {"q": f"created:>{since} stars:>50", "sort": "stars", "order": "desc", "per_page": 8}
+    params = {"q": f"created:>{since} stars:>200", "sort": "stars", "order": "desc", "per_page": 15}
     r = requests.get(url, params=params, headers=headers, timeout=30)
     r.raise_for_status()
     items = r.json().get("items", [])
     repos = []
     for i in items:
+        if _is_spam(i):
+            print(f"[github] spam skip {i['full_name']} (★{i['stargazers_count']} f{i['forks_count']} sub{i.get('subscribers_count',0)} sz{i.get('size',0)}K)")
+            continue
         repos.append({
             "title": i["full_name"],
             "desc": i.get("description") or "",
@@ -40,8 +60,8 @@ def fetch_github():
             "language": i.get("language") or "",
             "topics": i.get("topics", []),
         })
-    print(f"[github] got {len(repos)} repos")
-    return repos
+    print(f"[github] got {len(repos)} repos (filtered from {len(items)})")
+    return repos[:8]
 
 
 # ---- Product Hunt ----
