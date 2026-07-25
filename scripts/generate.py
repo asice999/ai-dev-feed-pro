@@ -19,16 +19,13 @@ client = OpenAI(
 # ---- GitHub ----
 
 def _is_spam(i):
-    """过滤刷量垃圾项目：fork/star倒挂、无人watch、空描述、极小仓库。"""
+    """过滤刷量垃圾项目：fork/star倒挂、空描述、极小仓库。"""
     stars = i.get("stargazers_count", 0)
     forks = i.get("forks_count", 0)
-    subs = i.get("subscribers_count", 0)
     desc = i.get("description") or ""
     size = i.get("size", 0)
     if forks > stars * 1.5:
         return True  # fork农场
-    if subs < 2 and stars > 200:
-        return True  # 几百star但无人watch
     if not desc.strip() or len(desc.strip()) < 5:
         return True  # 空描述
     if size < 10 and stars > 300:
@@ -108,6 +105,7 @@ def fetch_ph_api(token):
             "source": "ProductHunt",
             "topics": topics,
             "comments": node.get("commentsCount", 0),
+            "forks": 0,
         })
     print(f"[ph] got {len(items)} products via API")
     return items
@@ -149,6 +147,7 @@ def fetch_ph_scrape():
                 "source": "ProductHunt",
                 "topics": topics,
                 "comments": val.get("commentsCount", 0),
+                "forks": 0,
             })
         print(f"[ph] scraped {len(items)} products")
         return items
@@ -360,16 +359,20 @@ def save_history(h):
     HISTORY_FILE.write_text(json.dumps(h, ensure_ascii=False), encoding="utf-8")
 
 
-def _cooldown_hours(stars, forks):
-    """推送频率：收藏和fork项目(≥5000★+≥100 fork) → 6h, 每周热点(≥1000★) → 168h(7d), 每月热点(<1000★) → 720h(30d)."""
+def _cooldown_hours(stars, forks, source=""):
+    """推送频率：收藏和fork(≥5000★+≥100 fork) → 6h, 今日热门(PH) → 24h, 每周热点(≥1000★) → 168h(7d), 每月热点(<1000★) → 720h(30d)."""
+    if source == "ProductHunt":
+        return 24
     if stars >= 5000 and forks >= 100:
         return 6
     if stars >= 1000:
         return 168
     return 720
 
-def _type_label(stars, forks):
+def _type_label(stars, forks, source=""):
     """返回项目类型标签"""
+    if source == "ProductHunt":
+        return "🔥 今日热门"
     if stars >= 5000 and forks >= 100:
         return "📌 收藏和fork"
     if stars >= 1000:
@@ -395,35 +398,32 @@ def merge_history(analyzed):
         key = it.get("title", "")
         stars = it.get("stars", 0)
         forks = it.get("forks", 0)
+        source = it.get("source", "")
         prev = old.get(key, {})
         history = prev.get("history", [])
         last_shown = prev.get("last_shown")
-        cd = _cooldown_hours(stars, forks)
+        cd = _cooldown_hours(stars, forks, source)
         hours_since = _hours_since_last(now_iso, last_shown)
 
         # 冷却期内 → 跳过本次推送（只更新星数历史）
         if hours_since < cd:
-            prev_stars = history[-1]["stars"] if history else 0
-            if prev_stars != stars:
+            if history and history[-1]["stars"] != stars:
                 history.append({"day": today, "stars": stars})
-                # dedup same-day entries
-                keep = []
+                # 同一天多条记录只保留最后一条
+                day_max = {}
                 for h in history:
-                    if len(keep) < 2 or h["day"] != keep[-1]["day"]:
-                        keep.append(h)
-                    else:
-                        keep[-1]["stars"] = max(keep[-1]["stars"], h["stars"])
-                history = keep[-90:]
+                    day_max[h["day"]] = max(day_max.get(h["day"], 0), h["stars"])
+                history = [{"day": d, "stars": s} for d, s in sorted(day_max.items())][-90:]
             old[key] = {
                 "stars": stars, "history": history,
-                "forks": forks, "source": it.get("source", ""),
+                "forks": forks, "source": source,
                 "last_shown": last_shown,
             }
             print(f"[freq] skip {key} (cooldown {cd}h, last {last_shown})")
             continue
 
         # 推送
-        type_label = _type_label(stars, forks)
+        type_label = _type_label(stars, forks, source)
         prev_stars = history[-1]["stars"] if history else 0
         growth = stars - prev_stars
         history.append({"day": today, "stars": stars})
@@ -432,7 +432,7 @@ def merge_history(analyzed):
         result.append({**it, "growth": growth, "history": history, "type_label": type_label})
         old[key] = {
             "stars": stars, "history": history,
-            "forks": forks, "source": it.get("source", ""),
+            "forks": forks, "source": source,
             "last_shown": now_iso,
         }
         print(f"[freq] push {key} (cooldown {cd}h, stars {stars})")
@@ -462,9 +462,13 @@ def send_telegram(items):
     lines = [f"🤖 <b>AI Trend Radar</b> — {now}\n"]
     for idx, it in enumerate(items[:10], 1):
         tl = it.get("type_label", "")
+        stars_fmt = it.get('stars_fmt', it.get('stars', ''))
+        growth = it.get("growth", 0)
+        history = it.get("history", [])
+        growth_str = f"  📈 +{growth}" if growth > 0 and len(history) > 1 else ""
         lines.append(
             f"{idx}. {tl} <b>{it['title']}</b>\n"
-            f"Star 数量：{it.get('stars_fmt', it.get('stars', ''))}\n"
+            f"Star 数量：{stars_fmt}{growth_str}\n"
             f"核心功能：{it.get('core_features', it.get('summary', ''))}\n"
             f"适用场景：{it.get('use_cases', '')}\n"
             f"技术栈：{it.get('tech_stack', '')}\n"
