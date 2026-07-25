@@ -1,40 +1,13 @@
 [
   {
     "id": 0,
-    "title": "andrewyng/openworker",
-    "summary": "openworker — 其他 开源项目",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐3,482",
-    "source": "GitHub",
-    "stars": 3482,
-    "url": "https://github.com/andrewyng/openworker",
-    "language": "Python",
-    "topics": [],
-    "core_features": "openworker 是一个 其他 开源项目。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "Python",
-    "highlights": "Star 数突破 3,482，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,482",
-    "forks": 465,
-    "growth": 3482,
-    "history": [
-      {
-        "day": "2026-07-25",
-        "stars": 3482
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 1,
     "title": "Vincentwei1021/video-shotcraft",
     "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remoti...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,467",
+    "reason": "🔥 爆款！⭐1,542",
     "source": "GitHub",
-    "stars": 1467,
+    "stars": 1542,
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "topics": [
@@ -56,81 +29,81 @@
     "core_features": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template。项目名称 video-shotcraft，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent-skills、ai-agents、ai-video、claude-code",
-    "highlights": "Star 数突破 1,467，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,467",
-    "forks": 118,
-    "growth": 1467,
+    "highlights": "Star 数突破 1,542，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,542",
+    "forks": 124,
+    "growth": 1542,
     "history": [
       {
         "day": "2026-07-25",
-        "stars": 1467
+        "stars": 1542
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 2,
+    "id": 1,
     "title": "Jakubantalik/thinking-orbs",
     "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, ...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐934",
+    "reason": "🔥 爆款！⭐942",
     "source": "GitHub",
-    "stars": 934,
+    "stars": 942,
     "url": "https://github.com/Jakubantalik/thinking-orbs",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light。项目名称 thinking-orbs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 934，功能完善，获得开发者广泛认可",
-    "stars_fmt": "934",
-    "forks": 69,
-    "growth": 934,
+    "highlights": "Star 数 942，功能完善，获得开发者广泛认可",
+    "stars_fmt": "942",
+    "forks": 71,
+    "growth": 942,
     "history": [
       {
         "day": "2026-07-25",
-        "stars": 934
+        "stars": 942
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Blaizzy/nativ",
     "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models fr...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐863",
+    "reason": "🔥 爆款！⭐866",
     "source": "GitHub",
-    "stars": 863,
+    "stars": 866,
     "url": "https://github.com/Blaizzy/nativ",
     "language": "Swift",
     "topics": [],
     "core_features": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.。项目名称 nativ，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Swift",
-    "highlights": "Star 数 863，功能完善，获得开发者广泛认可",
-    "stars_fmt": "863",
+    "highlights": "Star 数 866，功能完善，获得开发者广泛认可",
+    "stars_fmt": "866",
     "forks": 45,
-    "growth": 863,
+    "growth": 866,
     "history": [
       {
         "day": "2026-07-25",
-        "stars": 863
+        "stars": 866
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "powerycy/goutoujunshi",
     "summary": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐809",
+    "reason": "🔥 爆款！⭐818",
     "source": "GitHub",
-    "stars": 809,
+    "stars": 818,
     "url": "https://github.com/powerycy/goutoujunshi",
     "language": "Python",
     "topics": [
@@ -145,27 +118,27 @@
     "core_features": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。。项目名称 goutoujunshi，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python + ai-agent、chinese、codex、codex-skill",
-    "highlights": "Star 数 809，功能完善，获得开发者广泛认可",
-    "stars_fmt": "809",
+    "highlights": "Star 数 818，功能完善，获得开发者广泛认可",
+    "stars_fmt": "818",
     "forks": 93,
-    "growth": 809,
+    "growth": 818,
     "history": [
       {
         "day": "2026-07-25",
-        "stars": 809
+        "stars": 818
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "pireel/pireel",
     "summary": "Open-source, backend-free AI video editor for talking-head video — storyboard...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐714",
+    "reason": "🔥 爆款！⭐718",
     "source": "GitHub",
-    "stars": 714,
+    "stars": 718,
     "url": "https://github.com/pireel/pireel",
     "language": "TypeScript",
     "topics": [
@@ -180,54 +153,54 @@
     "core_features": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.。项目名称 pireel，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai-video、capcut、captions、chatcut",
-    "highlights": "Star 数 714，功能完善，获得开发者广泛认可",
-    "stars_fmt": "714",
+    "highlights": "Star 数 718，功能完善，获得开发者广泛认可",
+    "stars_fmt": "718",
     "forks": 56,
-    "growth": 714,
+    "growth": 718,
     "history": [
       {
         "day": "2026-07-25",
-        "stars": 714
+        "stars": 718
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "gnipbao/story-to-handdrawn-video",
     "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn d...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐609",
+    "reason": "🔥 爆款！⭐612",
     "source": "GitHub",
-    "stars": 609,
+    "stars": 612,
     "url": "https://github.com/gnipbao/story-to-handdrawn-video",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).。项目名称 story-to-handdrawn-video，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 609，功能完善，获得开发者广泛认可",
-    "stars_fmt": "609",
+    "highlights": "Star 数 612，功能完善，获得开发者广泛认可",
+    "stars_fmt": "612",
     "forks": 69,
-    "growth": 609,
+    "growth": 612,
     "history": [
       {
         "day": "2026-07-25",
-        "stars": 609
+        "stars": 612
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "CatsJuice/sticker-forge",
     "summary": "A tactile WebGL sticker maker with rich text, image uploads, and interactive ...",
     "category": "Design",
     "score": 9.8,
-    "reason": "🔥 爆款！⭐526",
+    "reason": "🔥 爆款！⭐534",
     "source": "GitHub",
-    "stars": 526,
+    "stars": 534,
     "url": "https://github.com/CatsJuice/sticker-forge",
     "language": "JavaScript",
     "topics": [
@@ -237,14 +210,41 @@
     "core_features": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.。项目名称 sticker-forge，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript + sticker、webgl",
-    "highlights": "Star 数 526，功能完善，获得开发者广泛认可",
-    "stars_fmt": "526",
-    "forks": 46,
-    "growth": 526,
+    "highlights": "Star 数 534，功能完善，获得开发者广泛认可",
+    "stars_fmt": "534",
+    "forks": 47,
+    "growth": 534,
     "history": [
       {
         "day": "2026-07-25",
-        "stars": 526
+        "stars": 534
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "0xhype/hyperliquid-tracker",
+    "summary": "Get notified when big trades happen on Hyperliquid.",
+    "category": "Design",
+    "score": 9.7,
+    "reason": "🔥 爆款！⭐509",
+    "source": "GitHub",
+    "stars": 509,
+    "url": "https://github.com/0xhype/hyperliquid-tracker",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "Get notified when big trades happen on Hyperliquid.。项目名称 hyperliquid-tracker，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数 509，功能完善，获得开发者广泛认可",
+    "stars_fmt": "509",
+    "forks": 1,
+    "growth": 509,
+    "history": [
+      {
+        "day": "2026-07-25",
+        "stars": 509
       }
     ],
     "type_label": "🌙 每月热点"
