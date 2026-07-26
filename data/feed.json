@@ -1,109 +1,67 @@
 [
   {
     "id": 0,
-    "title": "Vincentwei1021/video-shotcraft",
-    "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remoti...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,704",
-    "source": "GitHub",
-    "stars": 1704,
-    "url": "https://github.com/Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex",
-      "motion-design",
-      "motion-graphics",
-      "product-video",
-      "promo-video",
-      "remotion",
-      "video-generation",
-      "video-production"
-    ],
-    "core_features": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template。项目名称 video-shotcraft，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + agent-skills、ai-agents、ai-video、claude-code",
-    "highlights": "Star 数突破 1,704，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,704",
-    "forks": 140,
-    "growth": 1704,
-    "history": [
-      {
-        "day": "2026-07-25",
-        "stars": 1704
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 1,
     "title": "Jakubantalik/thinking-orbs",
     "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, ...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐982",
+    "reason": "🔥 爆款！⭐1,016",
     "source": "GitHub",
-    "stars": 982,
+    "stars": 1016,
     "url": "https://github.com/Jakubantalik/thinking-orbs",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light。项目名称 thinking-orbs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 982，功能完善，获得开发者广泛认可",
-    "stars_fmt": "982",
-    "forks": 73,
-    "growth": 982,
+    "highlights": "Star 数突破 1,016，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,016",
+    "forks": 76,
+    "growth": 1016,
     "history": [
       {
-        "day": "2026-07-25",
-        "stars": 982
+        "day": "2026-07-26",
+        "stars": 1016
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
-    "id": 2,
+    "id": 1,
     "title": "Blaizzy/nativ",
     "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models fr...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐883",
+    "reason": "🔥 爆款！⭐885",
     "source": "GitHub",
-    "stars": 883,
+    "stars": 885,
     "url": "https://github.com/Blaizzy/nativ",
     "language": "Swift",
     "topics": [],
     "core_features": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.。项目名称 nativ，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Swift",
-    "highlights": "Star 数 883，功能完善，获得开发者广泛认可",
-    "stars_fmt": "883",
+    "highlights": "Star 数 885，功能完善，获得开发者广泛认可",
+    "stars_fmt": "885",
     "forks": 46,
-    "growth": 883,
+    "growth": 885,
     "history": [
       {
-        "day": "2026-07-25",
-        "stars": 883
+        "day": "2026-07-26",
+        "stars": 885
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "powerycy/goutoujunshi",
     "summary": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐868",
+    "reason": "🔥 爆款！⭐880",
     "source": "GitHub",
-    "stars": 868,
+    "stars": 880,
     "url": "https://github.com/powerycy/goutoujunshi",
     "language": "Python",
     "topics": [
@@ -118,27 +76,27 @@
     "core_features": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。。项目名称 goutoujunshi，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python + ai-agent、chinese、codex、codex-skill",
-    "highlights": "Star 数 868，功能完善，获得开发者广泛认可",
-    "stars_fmt": "868",
-    "forks": 96,
-    "growth": 868,
+    "highlights": "Star 数 880，功能完善，获得开发者广泛认可",
+    "stars_fmt": "880",
+    "forks": 97,
+    "growth": 880,
     "history": [
       {
-        "day": "2026-07-25",
-        "stars": 868
+        "day": "2026-07-26",
+        "stars": 880
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "pireel/pireel",
     "summary": "Open-source, backend-free AI video editor for talking-head video — storyboard...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐741",
+    "reason": "🔥 爆款！⭐754",
     "source": "GitHub",
-    "stars": 741,
+    "stars": 754,
     "url": "https://github.com/pireel/pireel",
     "language": "TypeScript",
     "topics": [
@@ -153,41 +111,68 @@
     "core_features": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.。项目名称 pireel，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai-video、capcut、captions、chatcut",
-    "highlights": "Star 数 741，功能完善，获得开发者广泛认可",
-    "stars_fmt": "741",
+    "highlights": "Star 数 754，功能完善，获得开发者广泛认可",
+    "stars_fmt": "754",
     "forks": 61,
-    "growth": 741,
+    "growth": 754,
     "history": [
       {
-        "day": "2026-07-25",
-        "stars": 741
+        "day": "2026-07-26",
+        "stars": 754
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "gnipbao/story-to-handdrawn-video",
     "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn d...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐621",
+    "reason": "🔥 爆款！⭐627",
     "source": "GitHub",
-    "stars": 621,
+    "stars": 627,
     "url": "https://github.com/gnipbao/story-to-handdrawn-video",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).。项目名称 story-to-handdrawn-video，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 621，功能完善，获得开发者广泛认可",
-    "stars_fmt": "621",
+    "highlights": "Star 数 627，功能完善，获得开发者广泛认可",
+    "stars_fmt": "627",
     "forks": 70,
-    "growth": 621,
+    "growth": 627,
     "history": [
       {
-        "day": "2026-07-25",
-        "stars": 621
+        "day": "2026-07-26",
+        "stars": 627
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "mikiarlo3/ai-copywriter",
+    "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐597",
+    "source": "GitHub",
+    "stars": 597,
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "language": "Python",
+    "topics": [],
+    "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 597，功能完善，获得开发者广泛认可",
+    "stars_fmt": "597",
+    "forks": 7,
+    "growth": 597,
+    "history": [
+      {
+        "day": "2026-07-26",
+        "stars": 597
       }
     ],
     "type_label": "🌙 每月热点"
@@ -197,10 +182,10 @@
     "title": "CatsJuice/sticker-forge",
     "summary": "A tactile WebGL sticker maker with rich text, image uploads, and interactive ...",
     "category": "Design",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐559",
+    "score": 10,
+    "reason": "🔥 爆款！⭐576",
     "source": "GitHub",
-    "stars": 559,
+    "stars": 576,
     "url": "https://github.com/CatsJuice/sticker-forge",
     "language": "JavaScript",
     "topics": [
@@ -210,14 +195,14 @@
     "core_features": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.。项目名称 sticker-forge，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript + sticker、webgl",
-    "highlights": "Star 数 559，功能完善，获得开发者广泛认可",
-    "stars_fmt": "559",
+    "highlights": "Star 数 576，功能完善，获得开发者广泛认可",
+    "stars_fmt": "576",
     "forks": 51,
-    "growth": 559,
+    "growth": 576,
     "history": [
       {
-        "day": "2026-07-25",
-        "stars": 559
+        "day": "2026-07-26",
+        "stars": 576
       }
     ],
     "type_label": "🌙 每月热点"
@@ -228,9 +213,9 @@
     "summary": "A high-performance, serverless VLESS network proxy management panel deployed ...",
     "category": "Other",
     "score": 9.8,
-    "reason": "🔥 爆款！⭐522",
+    "reason": "🔥 爆款！⭐538",
     "source": "GitHub",
-    "stars": 522,
+    "stars": 538,
     "url": "https://github.com/zeus-panel/ZEUS-PANEL",
     "language": "JavaScript",
     "topics": [
@@ -244,14 +229,14 @@
     "core_features": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.。项目名称 ZEUS-PANEL，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "JavaScript + cloudflare-w、panel、vless、workers",
-    "highlights": "Star 数 522，功能完善，获得开发者广泛认可",
-    "stars_fmt": "522",
+    "highlights": "Star 数 538，功能完善，获得开发者广泛认可",
+    "stars_fmt": "538",
     "forks": 30,
-    "growth": 522,
+    "growth": 538,
     "history": [
       {
-        "day": "2026-07-25",
-        "stars": 522
+        "day": "2026-07-26",
+        "stars": 538
       }
     ],
     "type_label": "🌙 每月热点"
