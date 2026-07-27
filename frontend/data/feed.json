@@ -5,23 +5,23 @@
     "summary": "TypeScript-to-Native Compiler",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,344",
+    "reason": "🔥 爆款！⭐1,581",
     "source": "GitHub",
-    "stars": 1344,
+    "stars": 1581,
     "url": "https://github.com/vercel-labs/scriptc",
     "language": "TypeScript",
     "topics": [],
     "core_features": "TypeScript-to-Native Compiler。项目名称 scriptc，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,344，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,344",
-    "forks": 18,
-    "growth": 1344,
+    "highlights": "Star 数突破 1,581，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,581",
+    "forks": 23,
+    "growth": 1581,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 1344
+        "stars": 1581
       }
     ],
     "type_label": "🔥 每周热点"
@@ -32,90 +32,117 @@
     "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, ...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,140",
+    "reason": "🔥 爆款！⭐1,158",
     "source": "GitHub",
-    "stars": 1140,
+    "stars": 1158,
     "url": "https://github.com/Jakubantalik/thinking-orbs",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light。项目名称 thinking-orbs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,140，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,140",
+    "highlights": "Star 数突破 1,158，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,158",
     "forks": 82,
-    "growth": 1140,
+    "growth": 1158,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 1140
+        "stars": 1158
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
-    "title": "mikiarlo3/ai-copywriter",
-    "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐896",
-    "source": "GitHub",
-    "stars": 896,
-    "url": "https://github.com/mikiarlo3/ai-copywriter",
-    "language": "Python",
-    "topics": [],
-    "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 896，功能完善，获得开发者广泛认可",
-    "stars_fmt": "896",
-    "forks": 16,
-    "growth": 896,
-    "history": [
-      {
-        "day": "2026-07-27",
-        "stars": 896
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 3,
     "title": "mshumer/Claude-of-Duty",
     "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐892",
+    "reason": "🔥 爆款！⭐975",
     "source": "GitHub",
-    "stars": 892,
+    "stars": 975,
     "url": "https://github.com/mshumer/Claude-of-Duty",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 892，功能完善，获得开发者广泛认可",
-    "stars_fmt": "892",
-    "forks": 181,
-    "growth": 892,
+    "highlights": "Star 数 975，功能完善，获得开发者广泛认可",
+    "stars_fmt": "975",
+    "forks": 193,
+    "growth": 975,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 892
+        "stars": 975
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 3,
+    "title": "mikiarlo3/ai-copywriter",
+    "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐928",
+    "source": "GitHub",
+    "stars": 928,
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "language": "Python",
+    "topics": [],
+    "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 928，功能完善，获得开发者广泛认可",
+    "stars_fmt": "928",
+    "forks": 18,
+    "growth": 928,
+    "history": [
+      {
+        "day": "2026-07-27",
+        "stars": 928
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 4,
+    "title": "MoonshotAI/Kimi-K3",
+    "summary": "Open Frontier Intelligence",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐882",
+    "source": "GitHub",
+    "stars": 882,
+    "url": "https://github.com/MoonshotAI/Kimi-K3",
+    "language": "",
+    "topics": [],
+    "core_features": "Open Frontier Intelligence。项目名称 Kimi-K3，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 882，功能完善，获得开发者广泛认可",
+    "stars_fmt": "882",
+    "forks": 66,
+    "growth": 882,
+    "history": [
+      {
+        "day": "2026-07-27",
+        "stars": 882
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
     "title": "makecindy/cindy",
     "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐796",
+    "reason": "🔥 爆款！⭐824",
     "source": "GitHub",
-    "stars": 796,
+    "stars": 824,
     "url": "https://github.com/makecindy/cindy",
     "language": "TypeScript",
     "topics": [
@@ -136,75 +163,41 @@
     "core_features": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。。项目名称 cindy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent、ai-agent、ai-assistant、android",
-    "highlights": "Star 数 796，功能完善，获得开发者广泛认可",
-    "stars_fmt": "796",
-    "forks": 99,
-    "growth": 796,
+    "highlights": "Star 数 824，功能完善，获得开发者广泛认可",
+    "stars_fmt": "824",
+    "forks": 104,
+    "growth": 824,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 796
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "gnipbao/story-to-handdrawn-video",
-    "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn d...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐662",
-    "source": "GitHub",
-    "stars": 662,
-    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).。项目名称 story-to-handdrawn-video，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数 662，功能完善，获得开发者广泛认可",
-    "stars_fmt": "662",
-    "forks": 75,
-    "growth": 662,
-    "history": [
-      {
-        "day": "2026-07-27",
-        "stars": 662
+        "stars": 824
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 6,
-    "title": "hahhforest/pi-textbook",
-    "summary": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+    "title": "gnipbao/story-to-handdrawn-video",
+    "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn d...",
     "category": "AI",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐568",
+    "score": 10,
+    "reason": "🔥 爆款！⭐667",
     "source": "GitHub",
-    "stars": 568,
-    "url": "https://github.com/hahhforest/pi-textbook",
-    "language": "TypeScript",
-    "topics": [
-      "agent-engineering",
-      "ai-agent",
-      "chinese",
-      "llm",
-      "textbook",
-      "typescript"
-    ],
-    "core_features": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent。项目名称 pi-textbook，属于 AI 类别。",
+    "stars": 667,
+    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).。项目名称 story-to-handdrawn-video，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + agent-engine、ai-agent、chinese、llm",
-    "highlights": "Star 数 568，功能完善，获得开发者广泛认可",
-    "stars_fmt": "568",
-    "forks": 34,
-    "growth": 568,
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 667，功能完善，获得开发者广泛认可",
+    "stars_fmt": "667",
+    "forks": 75,
+    "growth": 667,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 568
+        "stars": 667
       }
     ],
     "type_label": "🌙 每月热点"
@@ -214,24 +207,24 @@
     "title": "VictorTaelin/OptMem",
     "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "category": "AI",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐558",
+    "score": 10,
+    "reason": "🔥 爆款！⭐615",
     "source": "GitHub",
-    "stars": 558,
+    "stars": 615,
     "url": "https://github.com/VictorTaelin/OptMem",
     "language": "Python",
     "topics": [],
     "core_features": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.。项目名称 OptMem，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 558，功能完善，获得开发者广泛认可",
-    "stars_fmt": "558",
-    "forks": 28,
-    "growth": 558,
+    "highlights": "Star 数 615，功能完善，获得开发者广泛认可",
+    "stars_fmt": "615",
+    "forks": 32,
+    "growth": 615,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 558
+        "stars": 615
       }
     ],
     "type_label": "🌙 每月热点"
