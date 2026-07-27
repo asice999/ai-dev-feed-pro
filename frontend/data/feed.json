@@ -5,104 +5,104 @@
     "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, ...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,104",
+    "reason": "🔥 爆款！⭐1,126",
     "source": "GitHub",
-    "stars": 1104,
+    "stars": 1126,
     "url": "https://github.com/Jakubantalik/thinking-orbs",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light。项目名称 thinking-orbs，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,104，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,104",
+    "highlights": "Star 数突破 1,126，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,126",
     "forks": 82,
-    "growth": 1104,
+    "growth": 1126,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 1104
+        "stars": 1126
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 1,
+    "title": "vercel-labs/scriptc",
+    "summary": "TypeScript-to-Native Compiler",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,014",
+    "source": "GitHub",
+    "stars": 1014,
+    "url": "https://github.com/vercel-labs/scriptc",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "TypeScript-to-Native Compiler。项目名称 scriptc，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数突破 1,014，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,014",
+    "forks": 12,
+    "growth": 1014,
+    "history": [
+      {
+        "day": "2026-07-27",
+        "stars": 1014
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 2,
     "title": "mikiarlo3/ai-copywriter",
     "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐859",
+    "reason": "🔥 爆款！⭐880",
     "source": "GitHub",
-    "stars": 859,
+    "stars": 880,
     "url": "https://github.com/mikiarlo3/ai-copywriter",
     "language": "Python",
     "topics": [],
     "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 859，功能完善，获得开发者广泛认可",
-    "stars_fmt": "859",
-    "forks": 13,
-    "growth": 859,
+    "highlights": "Star 数 880，功能完善，获得开发者广泛认可",
+    "stars_fmt": "880",
+    "forks": 16,
+    "growth": 880,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 859
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 2,
-    "title": "mshumer/Claude-of-Duty",
-    "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐689",
-    "source": "GitHub",
-    "stars": 689,
-    "url": "https://github.com/mshumer/Claude-of-Duty",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数 689，功能完善，获得开发者广泛认可",
-    "stars_fmt": "689",
-    "forks": 139,
-    "growth": 689,
-    "history": [
-      {
-        "day": "2026-07-27",
-        "stars": 689
+        "stars": 880
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 3,
-    "title": "gnipbao/story-to-handdrawn-video",
-    "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn d...",
-    "category": "AI",
+    "title": "mshumer/Claude-of-Duty",
+    "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+    "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐654",
+    "reason": "🔥 爆款！⭐820",
     "source": "GitHub",
-    "stars": 654,
-    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "stars": 820,
+    "url": "https://github.com/mshumer/Claude-of-Duty",
     "language": "JavaScript",
     "topics": [],
-    "core_features": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).。项目名称 story-to-handdrawn-video，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 654，功能完善，获得开发者广泛认可",
-    "stars_fmt": "654",
-    "forks": 73,
-    "growth": 654,
+    "highlights": "Star 数 820，功能完善，获得开发者广泛认可",
+    "stars_fmt": "820",
+    "forks": 168,
+    "growth": 820,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 654
+        "stars": 820
       }
     ],
     "type_label": "🌙 每月热点"
@@ -112,10 +112,10 @@
     "title": "makecindy/cindy",
     "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做...",
     "category": "AI",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐558",
+    "score": 10,
+    "reason": "🔥 爆款！⭐746",
     "source": "GitHub",
-    "stars": 558,
+    "stars": 746,
     "url": "https://github.com/makecindy/cindy",
     "language": "TypeScript",
     "topics": [
@@ -136,41 +136,41 @@
     "core_features": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。。项目名称 cindy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent、ai-agent、ai-assistant、android",
-    "highlights": "Star 数 558，功能完善，获得开发者广泛认可",
-    "stars_fmt": "558",
-    "forks": 61,
-    "growth": 558,
+    "highlights": "Star 数 746，功能完善，获得开发者广泛认可",
+    "stars_fmt": "746",
+    "forks": 92,
+    "growth": 746,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 558
+        "stars": 746
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 5,
-    "title": "0xhype/hyperliquid-tracker",
-    "summary": "Get notified when big trades happen on Hyperliquid.",
-    "category": "Design",
-    "score": 9.7,
-    "reason": "🔥 爆款！⭐511",
+    "title": "gnipbao/story-to-handdrawn-video",
+    "summary": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn d...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐659",
     "source": "GitHub",
-    "stars": 511,
-    "url": "https://github.com/0xhype/hyperliquid-tracker",
-    "language": "TypeScript",
+    "stars": 659,
+    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "language": "JavaScript",
     "topics": [],
-    "core_features": "Get notified when big trades happen on Hyperliquid.。项目名称 hyperliquid-tracker，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数 511，功能完善，获得开发者广泛认可",
-    "stars_fmt": "511",
-    "forks": 2,
-    "growth": 511,
+    "core_features": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).。项目名称 story-to-handdrawn-video，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 659，功能完善，获得开发者广泛认可",
+    "stars_fmt": "659",
+    "forks": 74,
+    "growth": 659,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 511
+        "stars": 659
       }
     ],
     "type_label": "🌙 每月热点"
@@ -180,10 +180,10 @@
     "title": "hahhforest/pi-textbook",
     "summary": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
     "category": "AI",
-    "score": 9.6,
-    "reason": "⭐479 高热度项目",
+    "score": 9.8,
+    "reason": "🔥 爆款！⭐544",
     "source": "GitHub",
-    "stars": 479,
+    "stars": 544,
     "url": "https://github.com/hahhforest/pi-textbook",
     "language": "TypeScript",
     "topics": [
@@ -197,41 +197,41 @@
     "core_features": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent。项目名称 pi-textbook，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent-engine、ai-agent、chinese、llm",
-    "highlights": "Star 数 479，功能完善，获得开发者广泛认可",
-    "stars_fmt": "479",
-    "forks": 28,
-    "growth": 479,
+    "highlights": "Star 数 544，功能完善，获得开发者广泛认可",
+    "stars_fmt": "544",
+    "forks": 33,
+    "growth": 544,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 479
+        "stars": 544
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "vercel-labs/scriptc",
-    "summary": "TypeScript-to-Native Compiler",
-    "category": "Developer-Tools",
-    "score": 9.4,
-    "reason": "⭐443 高热度项目",
+    "title": "0xhype/hyperliquid-tracker",
+    "summary": "Get notified when big trades happen on Hyperliquid.",
+    "category": "Design",
+    "score": 9.7,
+    "reason": "🔥 爆款！⭐513",
     "source": "GitHub",
-    "stars": 443,
-    "url": "https://github.com/vercel-labs/scriptc",
+    "stars": 513,
+    "url": "https://github.com/0xhype/hyperliquid-tracker",
     "language": "TypeScript",
     "topics": [],
-    "core_features": "TypeScript-to-Native Compiler。项目名称 scriptc，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "core_features": "Get notified when big trades happen on Hyperliquid.。项目名称 hyperliquid-tracker，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 443，功能完善，获得开发者广泛认可",
-    "stars_fmt": "443",
-    "forks": 5,
-    "growth": 443,
+    "highlights": "Star 数 513，功能完善，获得开发者广泛认可",
+    "stars_fmt": "513",
+    "forks": 2,
+    "growth": 513,
     "history": [
       {
         "day": "2026-07-27",
-        "stars": 443
+        "stars": 513
       }
     ],
     "type_label": "🌙 每月热点"
