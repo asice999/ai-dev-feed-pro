@@ -1,121 +1,148 @@
 [
   {
     "id": 0,
-    "title": "vercel-labs/scriptc",
-    "summary": "TypeScript-to-Native Compiler",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,790",
-    "source": "GitHub",
-    "stars": 1790,
-    "url": "https://github.com/vercel-labs/scriptc",
-    "language": "TypeScript",
-    "topics": [],
-    "core_features": "TypeScript-to-Native Compiler。项目名称 scriptc，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,790，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,790",
-    "forks": 29,
-    "growth": 1790,
-    "history": [
-      {
-        "day": "2026-07-28",
-        "stars": 1790
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 1,
     "title": "MoonshotAI/Kimi-K3",
     "summary": "Open Frontier Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,667",
+    "reason": "🔥 爆款！⭐2,615",
     "source": "GitHub",
-    "stars": 1667,
+    "stars": 2615,
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "language": "",
     "topics": [],
     "core_features": "Open Frontier Intelligence。项目名称 Kimi-K3，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,667，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,667",
-    "forks": 127,
-    "growth": 1667,
+    "highlights": "Star 数突破 2,615，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,615",
+    "forks": 195,
+    "growth": 2615,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 1667
+        "stars": 2615
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 1,
+    "title": "vercel-labs/scriptc",
+    "summary": "TypeScript-to-Native Compiler",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,916",
+    "source": "GitHub",
+    "stars": 1916,
+    "url": "https://github.com/vercel-labs/scriptc",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "TypeScript-to-Native Compiler。项目名称 scriptc，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数突破 1,916，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,916",
+    "forks": 34,
+    "growth": 1916,
+    "history": [
+      {
+        "day": "2026-07-28",
+        "stars": 1916
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
-    "title": "mshumer/Claude-of-Duty",
-    "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "category": "Design",
+    "title": "kvcache-ai/AgentENV",
+    "summary": "AgentENV (AENV) is a distributed platform for running agent environments at s...",
+    "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,041",
+    "reason": "🔥 爆款！⭐1,164",
     "source": "GitHub",
-    "stars": 1041,
-    "url": "https://github.com/mshumer/Claude-of-Duty",
-    "language": "JavaScript",
+    "stars": 1164,
+    "url": "https://github.com/kvcache-ai/AgentENV",
+    "language": "Rust",
     "topics": [],
-    "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,041，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,041",
-    "forks": 206,
-    "growth": 1041,
+    "core_features": "AgentENV (AENV) is a distributed platform for running agent environments at scale.。项目名称 AgentENV，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 1,164，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,164",
+    "forks": 93,
+    "growth": 1164,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 1041
+        "stars": 1164
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
+    "title": "mshumer/Claude-of-Duty",
+    "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+    "category": "Design",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,096",
+    "source": "GitHub",
+    "stars": 1096,
+    "url": "https://github.com/mshumer/Claude-of-Duty",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数突破 1,096，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,096",
+    "forks": 211,
+    "growth": 1096,
+    "history": [
+      {
+        "day": "2026-07-28",
+        "stars": 1096
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
     "title": "mikiarlo3/ai-copywriter",
     "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐939",
+    "reason": "🔥 爆款！⭐958",
     "source": "GitHub",
-    "stars": 939,
+    "stars": 958,
     "url": "https://github.com/mikiarlo3/ai-copywriter",
     "language": "Python",
     "topics": [],
     "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 939，功能完善，获得开发者广泛认可",
-    "stars_fmt": "939",
-    "forks": 18,
-    "growth": 939,
+    "highlights": "Star 数 958，功能完善，获得开发者广泛认可",
+    "stars_fmt": "958",
+    "forks": 19,
+    "growth": 958,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 939
+        "stars": 958
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "makecindy/cindy",
     "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐867",
+    "reason": "🔥 爆款！⭐932",
     "source": "GitHub",
-    "stars": 867,
+    "stars": 932,
     "url": "https://github.com/makecindy/cindy",
     "language": "TypeScript",
     "topics": [
@@ -136,41 +163,14 @@
     "core_features": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。。项目名称 cindy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent、ai-agent、ai-assistant、android",
-    "highlights": "Star 数 867，功能完善，获得开发者广泛认可",
-    "stars_fmt": "867",
-    "forks": 106,
-    "growth": 867,
+    "highlights": "Star 数 932，功能完善，获得开发者广泛认可",
+    "stars_fmt": "932",
+    "forks": 115,
+    "growth": 932,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 867
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "kvcache-ai/AgentENV",
-    "summary": "AgentENV (AENV) is a distributed platform for running agent environments at s...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐771",
-    "source": "GitHub",
-    "stars": 771,
-    "url": "https://github.com/kvcache-ai/AgentENV",
-    "language": "Rust",
-    "topics": [],
-    "core_features": "AgentENV (AENV) is a distributed platform for running agent environments at scale.。项目名称 AgentENV，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Rust",
-    "highlights": "Star 数 771，功能完善，获得开发者广泛认可",
-    "stars_fmt": "771",
-    "forks": 69,
-    "growth": 771,
-    "history": [
-      {
-        "day": "2026-07-28",
-        "stars": 771
+        "stars": 932
       }
     ],
     "type_label": "🌙 每月热点"
@@ -181,70 +181,50 @@
     "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐651",
+    "reason": "🔥 爆款！⭐679",
     "source": "GitHub",
-    "stars": 651,
+    "stars": 679,
     "url": "https://github.com/VictorTaelin/OptMem",
     "language": "Python",
     "topics": [],
     "core_features": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.。项目名称 OptMem，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 651，功能完善，获得开发者广泛认可",
-    "stars_fmt": "651",
+    "highlights": "Star 数 679，功能完善，获得开发者广泛认可",
+    "stars_fmt": "679",
     "forks": 35,
-    "growth": 651,
+    "growth": 679,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 651
+        "stars": 679
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "0xwilliamortiz/openclaude-improved",
-    "summary": "runs anywhere. uses anything",
-    "category": "Other",
-    "score": 9.8,
-    "reason": "🔥 爆款！⭐535",
+    "title": "MoonshotAI/MoonEP",
+    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐659",
     "source": "GitHub",
-    "stars": 535,
-    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "language": "TypeScript",
-    "topics": [
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-coding",
-      "ai-coding-agent",
-      "ai-coding-agents",
-      "ai-coding-assistant",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "coding-agent",
-      "gemini",
-      "gemini-ai",
-      "gemini-cli",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "openrouter"
-    ],
-    "core_features": "runs anywhere. uses anything。项目名称 openclaude-improved，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "TypeScript + agentic-ai、ai、ai-agent、ai-coding",
-    "highlights": "Star 数 535，功能完善，获得开发者广泛认可",
-    "stars_fmt": "535",
-    "forks": 80,
-    "growth": 535,
+    "stars": 659,
+    "url": "https://github.com/MoonshotAI/MoonEP",
+    "language": "Python",
+    "topics": [],
+    "core_features": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts。项目名称 MoonEP，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 659，功能完善，获得开发者广泛认可",
+    "stars_fmt": "659",
+    "forks": 65,
+    "growth": 659,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 535
+        "stars": 659
       }
     ],
     "type_label": "🌙 每月热点"
