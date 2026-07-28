@@ -5,23 +5,23 @@
     "summary": "Open Frontier Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,042",
+    "reason": "🔥 爆款！⭐3,265",
     "source": "GitHub",
-    "stars": 3042,
+    "stars": 3265,
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "language": "",
     "topics": [],
     "core_features": "Open Frontier Intelligence。项目名称 Kimi-K3，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 3,042，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,042",
-    "forks": 230,
-    "growth": 3042,
+    "highlights": "Star 数突破 3,265，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,265",
+    "forks": 261,
+    "growth": 3265,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 3042
+        "stars": 3265
       }
     ],
     "type_label": "🔥 每周热点"
@@ -32,117 +32,90 @@
     "summary": "TypeScript-to-Native Compiler",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,002",
+    "reason": "🔥 爆款！⭐2,076",
     "source": "GitHub",
-    "stars": 2002,
+    "stars": 2076,
     "url": "https://github.com/vercel-labs/scriptc",
     "language": "TypeScript",
     "topics": [],
     "core_features": "TypeScript-to-Native Compiler。项目名称 scriptc，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 2,002，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,002",
-    "forks": 35,
-    "growth": 2002,
+    "highlights": "Star 数突破 2,076，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,076",
+    "forks": 36,
+    "growth": 2076,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 2002
+        "stars": 2076
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
-    "title": "kvcache-ai/AgentENV",
-    "summary": "AgentENV (AENV) is a distributed platform for running agent environments at s...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,329",
-    "source": "GitHub",
-    "stars": 1329,
-    "url": "https://github.com/kvcache-ai/AgentENV",
-    "language": "Rust",
-    "topics": [],
-    "core_features": "AgentENV (AENV) is a distributed platform for running agent environments at scale.。项目名称 AgentENV，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,329，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,329",
-    "forks": 113,
-    "growth": 1329,
-    "history": [
-      {
-        "day": "2026-07-28",
-        "stars": 1329
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
     "title": "mshumer/Claude-of-Duty",
     "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,284",
+    "reason": "🔥 爆款！⭐1,543",
     "source": "GitHub",
-    "stars": 1284,
+    "stars": 1543,
     "url": "https://github.com/mshumer/Claude-of-Duty",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,284，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,284",
-    "forks": 226,
-    "growth": 1284,
+    "highlights": "Star 数突破 1,543，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,543",
+    "forks": 253,
+    "growth": 1543,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 1284
+        "stars": 1543
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
+    "title": "kvcache-ai/AgentENV",
+    "summary": "AgentENV (AENV) is a distributed platform for running agent environments at s...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,396",
+    "source": "GitHub",
+    "stars": 1396,
+    "url": "https://github.com/kvcache-ai/AgentENV",
+    "language": "Rust",
+    "topics": [],
+    "core_features": "AgentENV (AENV) is a distributed platform for running agent environments at scale.。项目名称 AgentENV，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 1,396，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,396",
+    "forks": 121,
+    "growth": 1396,
+    "history": [
+      {
+        "day": "2026-07-28",
+        "stars": 1396
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 4,
-    "title": "mikiarlo3/ai-copywriter",
-    "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐975",
-    "source": "GitHub",
-    "stars": 975,
-    "url": "https://github.com/mikiarlo3/ai-copywriter",
-    "language": "Python",
-    "topics": [],
-    "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 975，功能完善，获得开发者广泛认可",
-    "stars_fmt": "975",
-    "forks": 19,
-    "growth": 975,
-    "history": [
-      {
-        "day": "2026-07-28",
-        "stars": 975
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
     "title": "makecindy/cindy",
     "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐966",
+    "reason": "🔥 爆款！⭐987",
     "source": "GitHub",
-    "stars": 966,
+    "stars": 987,
     "url": "https://github.com/makecindy/cindy",
     "language": "TypeScript",
     "topics": [
@@ -163,68 +136,95 @@
     "core_features": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。。项目名称 cindy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent、ai-agent、ai-assistant、android",
-    "highlights": "Star 数 966，功能完善，获得开发者广泛认可",
-    "stars_fmt": "966",
-    "forks": 121,
-    "growth": 966,
+    "highlights": "Star 数 987，功能完善，获得开发者广泛认可",
+    "stars_fmt": "987",
+    "forks": 123,
+    "growth": 987,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 966
+        "stars": 987
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "mikiarlo3/ai-copywriter",
+    "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐984",
+    "source": "GitHub",
+    "stars": 984,
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "language": "Python",
+    "topics": [],
+    "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 984，功能完善，获得开发者广泛认可",
+    "stars_fmt": "984",
+    "forks": 19,
+    "growth": 984,
+    "history": [
+      {
+        "day": "2026-07-28",
+        "stars": 984
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 6,
-    "title": "MoonshotAI/MoonEP",
-    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐723",
-    "source": "GitHub",
-    "stars": 723,
-    "url": "https://github.com/MoonshotAI/MoonEP",
-    "language": "Python",
-    "topics": [],
-    "core_features": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts。项目名称 MoonEP，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 723，功能完善，获得开发者广泛认可",
-    "stars_fmt": "723",
-    "forks": 70,
-    "growth": 723,
-    "history": [
-      {
-        "day": "2026-07-28",
-        "stars": 723
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
     "title": "VictorTaelin/OptMem",
     "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐720",
+    "reason": "🔥 爆款！⭐772",
     "source": "GitHub",
-    "stars": 720,
+    "stars": 772,
     "url": "https://github.com/VictorTaelin/OptMem",
     "language": "Python",
     "topics": [],
     "core_features": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.。项目名称 OptMem，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 720，功能完善，获得开发者广泛认可",
-    "stars_fmt": "720",
-    "forks": 40,
-    "growth": 720,
+    "highlights": "Star 数 772，功能完善，获得开发者广泛认可",
+    "stars_fmt": "772",
+    "forks": 48,
+    "growth": 772,
     "history": [
       {
         "day": "2026-07-28",
-        "stars": 720
+        "stars": 772
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "MoonshotAI/MoonEP",
+    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐764",
+    "source": "GitHub",
+    "stars": 764,
+    "url": "https://github.com/MoonshotAI/MoonEP",
+    "language": "Python",
+    "topics": [],
+    "core_features": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts。项目名称 MoonEP，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 764，功能完善，获得开发者广泛认可",
+    "stars_fmt": "764",
+    "forks": 75,
+    "growth": 764,
+    "history": [
+      {
+        "day": "2026-07-28",
+        "stars": 764
       }
     ],
     "type_label": "🌙 每月热点"
