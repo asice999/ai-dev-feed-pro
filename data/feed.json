@@ -5,23 +5,23 @@
     "summary": "Open Frontier Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,511",
+    "reason": "🔥 爆款！⭐3,754",
     "source": "GitHub",
-    "stars": 3511,
+    "stars": 3754,
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "language": "",
     "topics": [],
     "core_features": "Open Frontier Intelligence。项目名称 Kimi-K3，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 3,511，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,511",
-    "forks": 285,
-    "growth": 3511,
+    "highlights": "Star 数突破 3,754，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,754",
+    "forks": 314,
+    "growth": 3754,
     "history": [
       {
         "day": "2026-07-29",
-        "stars": 3511
+        "stars": 3754
       }
     ],
     "type_label": "🔥 每周热点"
@@ -32,23 +32,23 @@
     "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,781",
+    "reason": "🔥 爆款！⭐2,004",
     "source": "GitHub",
-    "stars": 1781,
+    "stars": 2004,
     "url": "https://github.com/mshumer/Claude-of-Duty",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,781，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,781",
-    "forks": 267,
-    "growth": 1781,
+    "highlights": "Star 数突破 2,004，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,004",
+    "forks": 287,
+    "growth": 2004,
     "history": [
       {
         "day": "2026-07-29",
-        "stars": 1781
+        "stars": 2004
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,23 +59,23 @@
     "summary": "AgentENV (AENV) is a distributed platform for running agent environments at s...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,467",
+    "reason": "🔥 爆款！⭐1,551",
     "source": "GitHub",
-    "stars": 1467,
+    "stars": 1551,
     "url": "https://github.com/kvcache-ai/AgentENV",
     "language": "Rust",
     "topics": [],
     "core_features": "AgentENV (AENV) is a distributed platform for running agent environments at scale.。项目名称 AgentENV，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 1,467，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,467",
-    "forks": 128,
-    "growth": 1467,
+    "highlights": "Star 数突破 1,551，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,551",
+    "forks": 137,
+    "growth": 1551,
     "history": [
       {
         "day": "2026-07-29",
-        "stars": 1467
+        "stars": 1551
       }
     ],
     "type_label": "🔥 每周热点"
@@ -86,104 +86,104 @@
     "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐992",
+    "reason": "🔥 爆款！⭐1,001",
     "source": "GitHub",
-    "stars": 992,
+    "stars": 1001,
     "url": "https://github.com/mikiarlo3/ai-copywriter",
     "language": "Python",
     "topics": [],
     "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 992，功能完善，获得开发者广泛认可",
-    "stars_fmt": "992",
+    "highlights": "Star 数突破 1,001，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,001",
     "forks": 19,
-    "growth": 992,
+    "growth": 1001,
     "history": [
       {
         "day": "2026-07-29",
-        "stars": 992
+        "stars": 1001
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 4,
-    "title": "VictorTaelin/OptMem",
-    "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐811",
-    "source": "GitHub",
-    "stars": 811,
-    "url": "https://github.com/VictorTaelin/OptMem",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.。项目名称 OptMem，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 811，功能完善，获得开发者广泛认可",
-    "stars_fmt": "811",
-    "forks": 48,
-    "growth": 811,
-    "history": [
-      {
-        "day": "2026-07-29",
-        "stars": 811
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "MoonshotAI/MoonEP",
-    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐799",
-    "source": "GitHub",
-    "stars": 799,
-    "url": "https://github.com/MoonshotAI/MoonEP",
-    "language": "Python",
-    "topics": [],
-    "core_features": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts。项目名称 MoonEP，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 799，功能完善，获得开发者广泛认可",
-    "stars_fmt": "799",
-    "forks": 79,
-    "growth": 799,
-    "history": [
-      {
-        "day": "2026-07-29",
-        "stars": 799
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
     "title": "fuadmefleh/Shared-Claude-Chats",
     "summary": "An archive of public Claude and Grok conversations, exported from their share...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐693",
+    "reason": "🔥 爆款！⭐834",
     "source": "GitHub",
-    "stars": 693,
+    "stars": 834,
     "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
     "language": "Python",
     "topics": [],
     "core_features": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.。项目名称 Shared-Claude-Chats，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 693，功能完善，获得开发者广泛认可",
-    "stars_fmt": "693",
-    "forks": 115,
-    "growth": 693,
+    "highlights": "Star 数 834，功能完善，获得开发者广泛认可",
+    "stars_fmt": "834",
+    "forks": 138,
+    "growth": 834,
     "history": [
       {
         "day": "2026-07-29",
-        "stars": 693
+        "stars": 834
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "VictorTaelin/OptMem",
+    "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐832",
+    "source": "GitHub",
+    "stars": 832,
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.。项目名称 OptMem，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 832，功能完善，获得开发者广泛认可",
+    "stars_fmt": "832",
+    "forks": 50,
+    "growth": 832,
+    "history": [
+      {
+        "day": "2026-07-29",
+        "stars": 832
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "MoonshotAI/MoonEP",
+    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐828",
+    "source": "GitHub",
+    "stars": 828,
+    "url": "https://github.com/MoonshotAI/MoonEP",
+    "language": "Python",
+    "topics": [],
+    "core_features": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts。项目名称 MoonEP，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 828，功能完善，获得开发者广泛认可",
+    "stars_fmt": "828",
+    "forks": 84,
+    "growth": 828,
+    "history": [
+      {
+        "day": "2026-07-29",
+        "stars": 828
       }
     ],
     "type_label": "🌙 每月热点"
@@ -194,23 +194,23 @@
     "summary": "Ultraminimalist macOS recording + transcription.",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐589",
+    "reason": "🔥 爆款！⭐686",
     "source": "GitHub",
-    "stars": 589,
+    "stars": 686,
     "url": "https://github.com/digimata/quill",
     "language": "Swift",
     "topics": [],
     "core_features": "Ultraminimalist macOS recording + transcription.。项目名称 quill，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Swift",
-    "highlights": "Star 数 589，功能完善，获得开发者广泛认可",
-    "stars_fmt": "589",
-    "forks": 31,
-    "growth": 589,
+    "highlights": "Star 数 686，功能完善，获得开发者广泛认可",
+    "stars_fmt": "686",
+    "forks": 38,
+    "growth": 686,
     "history": [
       {
         "day": "2026-07-29",
-        "stars": 589
+        "stars": 686
       }
     ],
     "type_label": "🌙 每月热点"
