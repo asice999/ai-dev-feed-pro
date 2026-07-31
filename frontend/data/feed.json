@@ -5,23 +5,23 @@
     "summary": "Open Frontier Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐7,616",
+    "reason": "🔥 爆款！⭐7,658",
     "source": "GitHub",
-    "stars": 7616,
+    "stars": 7658,
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "language": "",
     "topics": [],
     "core_features": "Open Frontier Intelligence。项目名称 Kimi-K3，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 7,616，社区活跃度高，增长迅猛",
-    "stars_fmt": "7,616",
-    "forks": 518,
-    "growth": 7616,
+    "highlights": "Star 数突破 7,658，社区活跃度高，增长迅猛",
+    "stars_fmt": "7,658",
+    "forks": 523,
+    "growth": 7658,
     "history": [
       {
         "day": "2026-07-31",
-        "stars": 7616
+        "stars": 7658
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,438",
+    "reason": "🔥 爆款！⭐2,467",
     "source": "GitHub",
-    "stars": 2438,
+    "stars": 2467,
     "url": "https://github.com/mshumer/Claude-of-Duty",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 2,438，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,438",
-    "forks": 360,
-    "growth": 2438,
+    "highlights": "Star 数突破 2,467，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,467",
+    "forks": 363,
+    "growth": 2467,
     "history": [
       {
         "day": "2026-07-31",
-        "stars": 2438
+        "stars": 2467
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,23 +59,23 @@
     "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐959",
+    "reason": "🔥 爆款！⭐984",
     "source": "GitHub",
-    "stars": 959,
+    "stars": 984,
     "url": "https://github.com/VictorTaelin/OptMem",
     "language": "Python",
     "topics": [],
     "core_features": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.。项目名称 OptMem，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 959，功能完善，获得开发者广泛认可",
-    "stars_fmt": "959",
-    "forks": 56,
-    "growth": 959,
+    "highlights": "Star 数 984，功能完善，获得开发者广泛认可",
+    "stars_fmt": "984",
+    "forks": 57,
+    "growth": 984,
     "history": [
       {
         "day": "2026-07-31",
-        "stars": 959
+        "stars": 984
       }
     ],
     "type_label": "🌙 每月热点"
@@ -86,36 +86,69 @@
     "summary": "Bringing real-time voice to life.",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐690",
+    "reason": "🔥 爆款！⭐700",
     "source": "GitHub",
-    "stars": 690,
+    "stars": 700,
     "url": "https://github.com/xikhar/persona",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Bringing real-time voice to life.。项目名称 persona，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 690，功能完善，获得开发者广泛认可",
-    "stars_fmt": "690",
-    "forks": 58,
-    "growth": 690,
+    "highlights": "Star 数 700，功能完善，获得开发者广泛认可",
+    "stars_fmt": "700",
+    "forks": 59,
+    "growth": 700,
     "history": [
       {
         "day": "2026-07-31",
-        "stars": 690
+        "stars": 700
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 4,
+    "title": "QwenAudio/qwen-audio-agent",
+    "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Re...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐576",
+    "source": "GitHub",
+    "stars": 576,
+    "url": "https://github.com/QwenAudio/qwen-audio-agent",
+    "language": "JavaScript",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "voice-agent",
+      "voice-ai",
+      "voice-chat"
+    ],
+    "core_features": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents。项目名称 qwen-audio-agent，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript + agent、agentic-ai、voice-agent、voice-ai",
+    "highlights": "Star 数 576，功能完善，获得开发者广泛认可",
+    "stars_fmt": "576",
+    "forks": 41,
+    "growth": 576,
+    "history": [
+      {
+        "day": "2026-07-31",
+        "stars": 576
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
     "title": "0xwilliamortiz/ponytail-improved",
     "summary": "Makes your AI agent think like the laziest senior dev in the room. The best c...",
     "category": "AI",
     "score": 9.9,
-    "reason": "🔥 爆款！⭐566",
+    "reason": "🔥 爆款！⭐569",
     "source": "GitHub",
-    "stars": 566,
+    "stars": 569,
     "url": "https://github.com/0xwilliamortiz/ponytail-improved",
     "language": "JavaScript",
     "topics": [
@@ -133,20 +166,20 @@
     "core_features": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.。项目名称 ponytail-improved，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript + agent-skills、claude-code、claude-code-、claude-code-",
-    "highlights": "Star 数 566，功能完善，获得开发者广泛认可",
-    "stars_fmt": "566",
+    "highlights": "Star 数 569，功能完善，获得开发者广泛认可",
+    "stars_fmt": "569",
     "forks": 127,
-    "growth": 566,
+    "growth": 569,
     "history": [
       {
         "day": "2026-07-31",
-        "stars": 566
+        "stars": 569
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "0xwilliamortiz/openclaude-improved",
     "summary": "runs anywhere. uses anything",
     "category": "Other",
@@ -193,75 +226,33 @@
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 6,
-    "title": "QwenAudio/qwen-audio-agent",
-    "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Re...",
-    "category": "AI",
-    "score": 9.7,
-    "reason": "🔥 爆款！⭐518",
-    "source": "GitHub",
-    "stars": 518,
-    "url": "https://github.com/QwenAudio/qwen-audio-agent",
-    "language": "JavaScript",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "voice-agent",
-      "voice-ai",
-      "voice-chat"
-    ],
-    "core_features": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents。项目名称 qwen-audio-agent，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript + agent、agentic-ai、voice-agent、voice-ai",
-    "highlights": "Star 数 518，功能完善，获得开发者广泛认可",
-    "stars_fmt": "518",
-    "forks": 38,
-    "growth": 518,
-    "history": [
-      {
-        "day": "2026-07-31",
-        "stars": 518
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
     "id": 7,
-    "title": "talivia-group/talivia",
-    "summary": "Open-source, self-hosted revenue-first analytics for founders: web analytics,...",
-    "category": "Other",
-    "score": 9.7,
-    "reason": "🔥 爆款！⭐504",
+    "title": "gavamedia/deltafin",
+    "summary": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for ...",
+    "category": "AI",
+    "score": 9.8,
+    "reason": "🔥 爆款！⭐525",
     "source": "GitHub",
-    "stars": 504,
-    "url": "https://github.com/talivia-group/talivia",
-    "language": "TypeScript",
+    "stars": 525,
+    "url": "https://github.com/gavamedia/deltafin",
+    "language": "Python",
     "topics": [
-      "analytics",
-      "bing",
-      "datafast",
-      "dodopayments",
-      "google-search",
-      "lemonsqueezy",
-      "polar",
-      "product-analytics",
-      "revenue-analytics",
-      "revenue-attribution",
-      "session-replay",
-      "stripe",
-      "web-analytics"
+      "kimi",
+      "kimi-k3",
+      "local-ai",
+      "local-llm"
     ],
-    "core_features": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative。项目名称 talivia，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "TypeScript + analytics、bing、datafast、dodopayments",
-    "highlights": "Star 数 504，功能完善，获得开发者广泛认可",
-    "stars_fmt": "504",
-    "forks": 41,
-    "growth": 504,
+    "core_features": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.。项目名称 deltafin，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + kimi、kimi-k3、local-ai、local-llm",
+    "highlights": "Star 数 525，功能完善，获得开发者广泛认可",
+    "stars_fmt": "525",
+    "forks": 61,
+    "growth": 525,
     "history": [
       {
         "day": "2026-07-31",
-        "stars": 504
+        "stars": 525
       }
     ],
     "type_label": "🌙 每月热点"
