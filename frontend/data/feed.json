@@ -5,23 +5,23 @@
     "summary": "Open Frontier Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐7,502",
+    "reason": "🔥 爆款！⭐7,554",
     "source": "GitHub",
-    "stars": 7502,
+    "stars": 7554,
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "language": "",
     "topics": [],
     "core_features": "Open Frontier Intelligence。项目名称 Kimi-K3，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 7,502，社区活跃度高，增长迅猛",
-    "stars_fmt": "7,502",
-    "forks": 499,
-    "growth": 7502,
+    "highlights": "Star 数突破 7,554，社区活跃度高，增长迅猛",
+    "stars_fmt": "7,554",
+    "forks": 508,
+    "growth": 7554,
     "history": [
       {
-        "day": "2026-07-30",
-        "stars": 7502
+        "day": "2026-07-31",
+        "stars": 7554
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,171 +32,128 @@
     "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,381",
+    "reason": "🔥 爆款！⭐2,411",
     "source": "GitHub",
-    "stars": 2381,
+    "stars": 2411,
     "url": "https://github.com/mshumer/Claude-of-Duty",
     "language": "JavaScript",
     "topics": [],
     "core_features": "A Call of Duty-quality FPS in Three.js, built from a single prompt.。项目名称 Claude-of-Duty，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 2,381，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,381",
-    "forks": 348,
-    "growth": 2381,
+    "highlights": "Star 数突破 2,411，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,411",
+    "forks": 355,
+    "growth": 2411,
     "history": [
       {
-        "day": "2026-07-30",
-        "stars": 2381
+        "day": "2026-07-31",
+        "stars": 2411
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
-    "title": "digimata/quill",
-    "summary": "Ultra-minimalist macOS recording + transcription.",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐2,210",
-    "source": "GitHub",
-    "stars": 2210,
-    "url": "https://github.com/digimata/quill",
-    "language": "Swift",
-    "topics": [],
-    "core_features": "Ultra-minimalist macOS recording + transcription.。项目名称 quill，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "Swift",
-    "highlights": "Star 数突破 2,210，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,210",
-    "forks": 142,
-    "growth": 2210,
-    "history": [
-      {
-        "day": "2026-07-30",
-        "stars": 2210
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
-    "title": "mikiarlo3/ai-copywriter",
-    "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐986",
-    "source": "GitHub",
-    "stars": 986,
-    "url": "https://github.com/mikiarlo3/ai-copywriter",
-    "language": "Python",
-    "topics": [],
-    "core_features": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.。项目名称 ai-copywriter，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 986，功能完善，获得开发者广泛认可",
-    "stars_fmt": "986",
-    "forks": 23,
-    "growth": 986,
-    "history": [
-      {
-        "day": "2026-07-30",
-        "stars": 986
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 4,
     "title": "VictorTaelin/OptMem",
     "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐922",
+    "reason": "🔥 爆款！⭐934",
     "source": "GitHub",
-    "stars": 922,
+    "stars": 934,
     "url": "https://github.com/VictorTaelin/OptMem",
     "language": "Python",
     "topics": [],
     "core_features": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.。项目名称 OptMem，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 922，功能完善，获得开发者广泛认可",
-    "stars_fmt": "922",
-    "forks": 52,
-    "growth": 922,
+    "highlights": "Star 数 934，功能完善，获得开发者广泛认可",
+    "stars_fmt": "934",
+    "forks": 54,
+    "growth": 934,
     "history": [
       {
-        "day": "2026-07-30",
-        "stars": 922
+        "day": "2026-07-31",
+        "stars": 934
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 5,
-    "title": "MoonshotAI/MoonEP",
-    "summary": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐915",
-    "source": "GitHub",
-    "stars": 915,
-    "url": "https://github.com/MoonshotAI/MoonEP",
-    "language": "Python",
-    "topics": [],
-    "core_features": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts。项目名称 MoonEP，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 915，功能完善，获得开发者广泛认可",
-    "stars_fmt": "915",
-    "forks": 96,
-    "growth": 915,
-    "history": [
-      {
-        "day": "2026-07-30",
-        "stars": 915
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
+    "id": 3,
     "title": "xikhar/persona",
     "summary": "Bringing real-time voice to life.",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐667",
+    "reason": "🔥 爆款！⭐677",
     "source": "GitHub",
-    "stars": 667,
+    "stars": 677,
     "url": "https://github.com/xikhar/persona",
     "language": "JavaScript",
     "topics": [],
     "core_features": "Bringing real-time voice to life.。项目名称 persona，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 667，功能完善，获得开发者广泛认可",
-    "stars_fmt": "667",
-    "forks": 55,
-    "growth": 667,
+    "highlights": "Star 数 677，功能完善，获得开发者广泛认可",
+    "stars_fmt": "677",
+    "forks": 56,
+    "growth": 677,
     "history": [
       {
-        "day": "2026-07-30",
-        "stars": 667
+        "day": "2026-07-31",
+        "stars": 677
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 7,
+    "id": 4,
+    "title": "0xwilliamortiz/ponytail-improved",
+    "summary": "Makes your AI agent think like the laziest senior dev in the room. The best c...",
+    "category": "AI",
+    "score": 9.9,
+    "reason": "🔥 爆款！⭐564",
+    "source": "GitHub",
+    "stars": 564,
+    "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+    "language": "JavaScript",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-skills",
+      "cursor-rules",
+      "ponytail",
+      "prompt-engineering",
+      "prompt-optimization",
+      "yagni"
+    ],
+    "core_features": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.。项目名称 ponytail-improved，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript + agent-skills、claude-code、claude-code-、claude-code-",
+    "highlights": "Star 数 564，功能完善，获得开发者广泛认可",
+    "stars_fmt": "564",
+    "forks": 126,
+    "growth": 564,
+    "history": [
+      {
+        "day": "2026-07-31",
+        "stars": 564
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
     "title": "0xwilliamortiz/openclaude-improved",
     "summary": "runs anywhere. uses anything",
     "category": "Other",
     "score": 9.9,
-    "reason": "🔥 爆款！⭐561",
+    "reason": "🔥 爆款！⭐562",
     "source": "GitHub",
-    "stars": 561,
+    "stars": 562,
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
     "language": "TypeScript",
     "topics": [
@@ -223,14 +180,87 @@
     "core_features": "runs anywhere. uses anything。项目名称 openclaude-improved，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "TypeScript + agentic-ai、ai、ai-agent、ai-coding",
-    "highlights": "Star 数 561，功能完善，获得开发者广泛认可",
-    "stars_fmt": "561",
+    "highlights": "Star 数 562，功能完善，获得开发者广泛认可",
+    "stars_fmt": "562",
     "forks": 80,
-    "growth": 561,
+    "growth": 562,
     "history": [
       {
-        "day": "2026-07-30",
-        "stars": 561
+        "day": "2026-07-31",
+        "stars": 562
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "talivia-group/talivia",
+    "summary": "Open-source, self-hosted revenue-first analytics for founders: web analytics,...",
+    "category": "Other",
+    "score": 9.6,
+    "reason": "⭐490 高热度项目",
+    "source": "GitHub",
+    "stars": 490,
+    "url": "https://github.com/talivia-group/talivia",
+    "language": "TypeScript",
+    "topics": [
+      "analytics",
+      "bing",
+      "datafast",
+      "dodopayments",
+      "google-search",
+      "lemonsqueezy",
+      "polar",
+      "product-analytics",
+      "revenue-analytics",
+      "revenue-attribution",
+      "session-replay",
+      "stripe",
+      "web-analytics"
+    ],
+    "core_features": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative。项目名称 talivia，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "TypeScript + analytics、bing、datafast、dodopayments",
+    "highlights": "Star 数 490，功能完善，获得开发者广泛认可",
+    "stars_fmt": "490",
+    "forks": 38,
+    "growth": 490,
+    "history": [
+      {
+        "day": "2026-07-31",
+        "stars": 490
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "gavamedia/deltafin",
+    "summary": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for ...",
+    "category": "AI",
+    "score": 9.6,
+    "reason": "⭐485 高热度项目",
+    "source": "GitHub",
+    "stars": 485,
+    "url": "https://github.com/gavamedia/deltafin",
+    "language": "Python",
+    "topics": [
+      "kimi",
+      "kimi-k3",
+      "local-ai",
+      "local-llm"
+    ],
+    "core_features": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.。项目名称 deltafin，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + kimi、kimi-k3、local-ai、local-llm",
+    "highlights": "Star 数 485，功能完善，获得开发者广泛认可",
+    "stars_fmt": "485",
+    "forks": 50,
+    "growth": 485,
+    "history": [
+      {
+        "day": "2026-07-31",
+        "stars": 485
       }
     ],
     "type_label": "🌙 每月热点"
