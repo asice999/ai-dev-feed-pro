@@ -5,23 +5,23 @@
     "summary": "Open Frontier Intelligence",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐7,871",
+    "reason": "🔥 爆款！⭐7,889",
     "source": "GitHub",
-    "stars": 7871,
+    "stars": 7889,
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "language": "",
     "topics": [],
     "core_features": "Open Frontier Intelligence。项目名称 Kimi-K3，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 7,871，社区活跃度高，增长迅猛",
-    "stars_fmt": "7,871",
-    "forks": 569,
-    "growth": 7871,
+    "highlights": "Star 数突破 7,889，社区活跃度高，增长迅猛",
+    "stars_fmt": "7,889",
+    "forks": 574,
+    "growth": 7889,
     "history": [
       {
         "day": "2026-08-02",
-        "stars": 7871
+        "stars": 7889
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "Multiplayer agent harness for work",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐6,050",
+    "reason": "🔥 爆款！⭐6,749",
     "source": "GitHub",
-    "stars": 6050,
+    "stars": 6749,
     "url": "https://github.com/yc-software/qm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Multiplayer agent harness for work。项目名称 qm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 6,050，社区活跃度高，增长迅猛",
-    "stars_fmt": "6,050",
-    "forks": 635,
-    "growth": 6050,
+    "highlights": "Star 数突破 6,749，社区活跃度高，增长迅猛",
+    "stars_fmt": "6,749",
+    "forks": 709,
+    "growth": 6749,
     "history": [
       {
         "day": "2026-08-02",
-        "stars": 6050
+        "stars": 6749
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -59,9 +59,9 @@
     "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Re...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,699",
+    "reason": "🔥 爆款！⭐1,721",
     "source": "GitHub",
-    "stars": 1699,
+    "stars": 1721,
     "url": "https://github.com/QwenAudio/qwen-audio-agent",
     "language": "JavaScript",
     "topics": [
@@ -74,54 +74,81 @@
     "core_features": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents。项目名称 qwen-audio-agent，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript + agent、agentic-ai、voice-agent、voice-ai",
-    "highlights": "Star 数突破 1,699，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,699",
+    "highlights": "Star 数突破 1,721，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,721",
     "forks": 108,
-    "growth": 1699,
+    "growth": 1721,
     "history": [
       {
         "day": "2026-08-02",
-        "stars": 1699
+        "stars": 1721
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
-    "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-    "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-    "category": "Design",
+    "title": "trycompai/crm",
+    "summary": "An open-source, agentic-first CRM.",
+    "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,383",
+    "reason": "🔥 爆款！⭐1,628",
     "source": "GitHub",
-    "stars": 1383,
-    "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-    "language": "",
+    "stars": 1628,
+    "url": "https://github.com/trycompai/crm",
+    "language": "TypeScript",
     "topics": [],
-    "core_features": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。项目名称 FDE-the-Guidance-Book-of-Forward-Deployed-Engineer，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,383，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,383",
-    "forks": 187,
-    "growth": 1383,
+    "core_features": "An open-source, agentic-first CRM.。项目名称 crm，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数突破 1,628，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,628",
+    "forks": 193,
+    "growth": 1628,
     "history": [
       {
         "day": "2026-08-02",
-        "stars": 1383
+        "stars": 1628
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 4,
+    "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+    "category": "Design",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,521",
+    "source": "GitHub",
+    "stars": 1521,
+    "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "language": "",
+    "topics": [],
+    "core_features": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。项目名称 FDE-the-Guidance-Book-of-Forward-Deployed-Engineer，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数突破 1,521，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,521",
+    "forks": 203,
+    "growth": 1521,
+    "history": [
+      {
+        "day": "2026-08-02",
+        "stars": 1521
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 5,
     "title": "WilonityDev/WilonityLoader",
     "summary": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector fo...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐814",
+    "reason": "🔥 爆款！⭐1,213",
     "source": "GitHub",
-    "stars": 814,
+    "stars": 1213,
     "url": "https://github.com/WilonityDev/WilonityLoader",
     "language": "",
     "topics": [
@@ -135,109 +162,68 @@
     "core_features": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.。项目名称 WilonityLoader，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数 814，功能完善，获得开发者广泛认可",
-    "stars_fmt": "814",
+    "highlights": "Star 数突破 1,213，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,213",
     "forks": 0,
-    "growth": 814,
+    "growth": 1213,
     "history": [
       {
         "day": "2026-08-02",
-        "stars": 814
+        "stars": 1213
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "sqliteai/waste",
     "summary": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by st...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐778",
+    "reason": "🔥 爆款！⭐920",
     "source": "GitHub",
-    "stars": 778,
+    "stars": 920,
     "url": "https://github.com/sqliteai/waste",
     "language": "C",
     "topics": [],
     "core_features": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.。项目名称 waste，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "C",
-    "highlights": "Star 数 778，功能完善，获得开发者广泛认可",
-    "stars_fmt": "778",
-    "forks": 75,
-    "growth": 778,
+    "highlights": "Star 数 920，功能完善，获得开发者广泛认可",
+    "stars_fmt": "920",
+    "forks": 86,
+    "growth": 920,
     "history": [
       {
         "day": "2026-08-02",
-        "stars": 778
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
-    "title": "xikhar/persona",
-    "summary": "Bringing real-time voice to life.",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐778",
-    "source": "GitHub",
-    "stars": 778,
-    "url": "https://github.com/xikhar/persona",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Bringing real-time voice to life.。项目名称 persona，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数 778，功能完善，获得开发者广泛认可",
-    "stars_fmt": "778",
-    "forks": 69,
-    "growth": 778,
-    "history": [
-      {
-        "day": "2026-08-02",
-        "stars": 778
+        "stars": 920
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "talivia-group/talivia",
-    "summary": "Open-source, self-hosted revenue-first analytics for founders: web analytics,...",
+    "title": "xikhar/persona",
+    "summary": "Bringing real-time voice to life.",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐616",
+    "reason": "🔥 爆款！⭐786",
     "source": "GitHub",
-    "stars": 616,
-    "url": "https://github.com/talivia-group/talivia",
-    "language": "TypeScript",
-    "topics": [
-      "analytics",
-      "bing",
-      "datafast",
-      "dodopayments",
-      "google-search",
-      "lemonsqueezy",
-      "polar",
-      "product-analytics",
-      "revenue-analytics",
-      "revenue-attribution",
-      "session-replay",
-      "stripe",
-      "web-analytics"
-    ],
-    "core_features": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative。项目名称 talivia，属于 其他 类别。",
+    "stars": 786,
+    "url": "https://github.com/xikhar/persona",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Bringing real-time voice to life.。项目名称 persona，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
-    "tech_stack": "TypeScript + analytics、bing、datafast、dodopayments",
-    "highlights": "Star 数 616，功能完善，获得开发者广泛认可",
-    "stars_fmt": "616",
-    "forks": 54,
-    "growth": 616,
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 786，功能完善，获得开发者广泛认可",
+    "stars_fmt": "786",
+    "forks": 71,
+    "growth": 786,
     "history": [
       {
         "day": "2026-08-02",
-        "stars": 616
+        "stars": 786
       }
     ],
     "type_label": "🌙 每月热点"
