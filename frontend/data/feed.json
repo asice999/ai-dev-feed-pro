@@ -5,23 +5,23 @@
     "summary": "Multiplayer agent harness for work",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐8,697",
+    "reason": "🔥 爆款！⭐9,290",
     "source": "GitHub",
-    "stars": 8697,
+    "stars": 9290,
     "url": "https://github.com/yc-software/qm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Multiplayer agent harness for work。项目名称 qm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 8,697，社区活跃度高，增长迅猛",
-    "stars_fmt": "8,697",
-    "forks": 918,
-    "growth": 8697,
+    "highlights": "Star 数突破 9,290，社区活跃度高，增长迅猛",
+    "stars_fmt": "9,290",
+    "forks": 971,
+    "growth": 9290,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 8697
+        "stars": 9290
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "An open-source, agentic-first CRM.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,515",
+    "reason": "🔥 爆款！⭐2,986",
     "source": "GitHub",
-    "stars": 2515,
+    "stars": 2986,
     "url": "https://github.com/trycompai/crm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An open-source, agentic-first CRM.。项目名称 crm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 2,515，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,515",
-    "forks": 294,
-    "growth": 2515,
+    "highlights": "Star 数突破 2,986，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,986",
+    "forks": 327,
+    "growth": 2986,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 2515
+        "stars": 2986
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,23 +59,23 @@
     "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,952",
+    "reason": "🔥 爆款！⭐2,017",
     "source": "GitHub",
-    "stars": 1952,
+    "stars": 2017,
     "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "language": "",
     "topics": [],
     "core_features": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。项目名称 FDE-the-Guidance-Book-of-Forward-Deployed-Engineer，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,952，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,952",
-    "forks": 246,
-    "growth": 1952,
+    "highlights": "Star 数突破 2,017，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,017",
+    "forks": 253,
+    "growth": 2017,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 1952
+        "stars": 2017
       }
     ],
     "type_label": "🔥 每周热点"
@@ -86,23 +86,23 @@
     "summary": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by st...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,418",
+    "reason": "🔥 爆款！⭐1,491",
     "source": "GitHub",
-    "stars": 1418,
+    "stars": 1491,
     "url": "https://github.com/sqliteai/waste",
     "language": "C",
     "topics": [],
     "core_features": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.。项目名称 waste，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "C",
-    "highlights": "Star 数突破 1,418，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,418",
-    "forks": 107,
-    "growth": 1418,
+    "highlights": "Star 数突破 1,491，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,491",
+    "forks": 111,
+    "growth": 1491,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 1418
+        "stars": 1491
       }
     ],
     "type_label": "🔥 每周热点"
@@ -113,9 +113,9 @@
     "summary": "Desktop app that records your on-screen work session and uses the GitHub Copi...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,271",
+    "reason": "🔥 爆款！⭐1,342",
     "source": "GitHub",
-    "stars": 1271,
+    "stars": 1342,
     "url": "https://github.com/microsoft/skill-recorder",
     "language": "TypeScript",
     "topics": [
@@ -133,14 +133,14 @@
     "core_features": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.。项目名称 skill-recorder，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript + agent-skills、ai-agents、automation、copilot",
-    "highlights": "Star 数突破 1,271，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,271",
-    "forks": 129,
-    "growth": 1271,
+    "highlights": "Star 数突破 1,342，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,342",
+    "forks": 139,
+    "growth": 1342,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 1271
+        "stars": 1342
       }
     ],
     "type_label": "🔥 每周热点"
@@ -181,40 +181,13 @@
   },
   {
     "id": 6,
-    "title": "DannyMac180/sol-advisor",
-    "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐877",
-    "source": "GitHub",
-    "stars": 877,
-    "url": "https://github.com/DannyMac180/sol-advisor",
-    "language": "Shell",
-    "topics": [],
-    "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Shell",
-    "highlights": "Star 数 877，功能完善，获得开发者广泛认可",
-    "stars_fmt": "877",
-    "forks": 63,
-    "growth": 877,
-    "history": [
-      {
-        "day": "2026-08-03",
-        "stars": 877
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
     "title": "FareedKhan-dev/kimi-k3-in-c",
     "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 G...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐831",
+    "reason": "🔥 爆款！⭐1,075",
     "source": "GitHub",
-    "stars": 831,
+    "stars": 1075,
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "language": "C",
     "topics": [
@@ -242,14 +215,41 @@
     "core_features": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.。项目名称 kimi-k3-in-c，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "C + avx2、c99、cpu-inferenc、deep-learnin",
-    "highlights": "Star 数 831，功能完善，获得开发者广泛认可",
-    "stars_fmt": "831",
-    "forks": 121,
-    "growth": 831,
+    "highlights": "Star 数突破 1,075，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,075",
+    "forks": 162,
+    "growth": 1075,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 831
+        "stars": 1075
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 7,
+    "title": "DannyMac180/sol-advisor",
+    "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐940",
+    "source": "GitHub",
+    "stars": 940,
+    "url": "https://github.com/DannyMac180/sol-advisor",
+    "language": "Shell",
+    "topics": [],
+    "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Shell",
+    "highlights": "Star 数 940，功能完善，获得开发者广泛认可",
+    "stars_fmt": "940",
+    "forks": 67,
+    "growth": 940,
+    "history": [
+      {
+        "day": "2026-08-03",
+        "stars": 940
       }
     ],
     "type_label": "🌙 每月热点"
