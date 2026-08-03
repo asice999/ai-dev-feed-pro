@@ -5,23 +5,23 @@
     "summary": "Multiplayer agent harness for work",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐7,442",
+    "reason": "🔥 爆款！⭐8,184",
     "source": "GitHub",
-    "stars": 7442,
+    "stars": 8184,
     "url": "https://github.com/yc-software/qm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Multiplayer agent harness for work。项目名称 qm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 7,442，社区活跃度高，增长迅猛",
-    "stars_fmt": "7,442",
-    "forks": 776,
-    "growth": 7442,
+    "highlights": "Star 数突破 8,184，社区活跃度高，增长迅猛",
+    "stars_fmt": "8,184",
+    "forks": 860,
+    "growth": 8184,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 7442
+        "stars": 8184
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "An open-source, agentic-first CRM.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,882",
+    "reason": "🔥 爆款！⭐2,099",
     "source": "GitHub",
-    "stars": 1882,
+    "stars": 2099,
     "url": "https://github.com/trycompai/crm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An open-source, agentic-first CRM.。项目名称 crm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,882，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,882",
-    "forks": 228,
-    "growth": 1882,
+    "highlights": "Star 数突破 2,099，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,099",
+    "forks": 258,
+    "growth": 2099,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 1882
+        "stars": 2099
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,36 +59,63 @@
     "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,633",
+    "reason": "🔥 爆款！⭐1,884",
     "source": "GitHub",
-    "stars": 1633,
+    "stars": 1884,
     "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "language": "",
     "topics": [],
     "core_features": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。项目名称 FDE-the-Guidance-Book-of-Forward-Deployed-Engineer，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,633，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,633",
-    "forks": 214,
-    "growth": 1633,
+    "highlights": "Star 数突破 1,884，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,884",
+    "forks": 236,
+    "growth": 1884,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 1633
+        "stars": 1884
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
+    "title": "sqliteai/waste",
+    "summary": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by st...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,326",
+    "source": "GitHub",
+    "stars": 1326,
+    "url": "https://github.com/sqliteai/waste",
+    "language": "C",
+    "topics": [],
+    "core_features": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.。项目名称 waste，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "C",
+    "highlights": "Star 数突破 1,326，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,326",
+    "forks": 103,
+    "growth": 1326,
+    "history": [
+      {
+        "day": "2026-08-03",
+        "stars": 1326
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
     "title": "WilonityDev/WilonityLoader",
     "summary": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector fo...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,216",
+    "reason": "🔥 爆款！⭐1,219",
     "source": "GitHub",
-    "stars": 1216,
+    "stars": 1219,
     "url": "https://github.com/WilonityDev/WilonityLoader",
     "language": "",
     "topics": [
@@ -102,41 +129,14 @@
     "core_features": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.。项目名称 WilonityLoader，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,216，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,216",
+    "highlights": "Star 数突破 1,219，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,219",
     "forks": 0,
-    "growth": 1216,
+    "growth": 1219,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 1216
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 4,
-    "title": "sqliteai/waste",
-    "summary": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by st...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,115",
-    "source": "GitHub",
-    "stars": 1115,
-    "url": "https://github.com/sqliteai/waste",
-    "language": "C",
-    "topics": [],
-    "core_features": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.。项目名称 waste，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "C",
-    "highlights": "Star 数突破 1,115，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,115",
-    "forks": 93,
-    "growth": 1115,
-    "history": [
-      {
-        "day": "2026-08-03",
-        "stars": 1115
+        "stars": 1219
       }
     ],
     "type_label": "🔥 每周热点"
@@ -147,9 +147,9 @@
     "summary": "Desktop app that records your on-screen work session and uses the GitHub Copi...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐858",
+    "reason": "🔥 爆款！⭐1,142",
     "source": "GitHub",
-    "stars": 858,
+    "stars": 1142,
     "url": "https://github.com/microsoft/skill-recorder",
     "language": "TypeScript",
     "topics": [
@@ -167,68 +167,68 @@
     "core_features": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.。项目名称 skill-recorder，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript + agent-skills、ai-agents、automation、copilot",
-    "highlights": "Star 数 858，功能完善，获得开发者广泛认可",
-    "stars_fmt": "858",
-    "forks": 94,
-    "growth": 858,
+    "highlights": "Star 数突破 1,142，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,142",
+    "forks": 116,
+    "growth": 1142,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 858
+        "stars": 1142
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 6,
-    "title": "xikhar/persona",
-    "summary": "Bringing real-time voice to life.",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐795",
-    "source": "GitHub",
-    "stars": 795,
-    "url": "https://github.com/xikhar/persona",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Bringing real-time voice to life.。项目名称 persona，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数 795，功能完善，获得开发者广泛认可",
-    "stars_fmt": "795",
-    "forks": 72,
-    "growth": 795,
-    "history": [
-      {
-        "day": "2026-08-03",
-        "stars": 795
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
     "title": "DannyMac180/sol-advisor",
     "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐703",
+    "reason": "🔥 爆款！⭐827",
     "source": "GitHub",
-    "stars": 703,
+    "stars": 827,
     "url": "https://github.com/DannyMac180/sol-advisor",
     "language": "Shell",
     "topics": [],
     "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Shell",
-    "highlights": "Star 数 703，功能完善，获得开发者广泛认可",
-    "stars_fmt": "703",
-    "forks": 45,
-    "growth": 703,
+    "highlights": "Star 数 827，功能完善，获得开发者广泛认可",
+    "stars_fmt": "827",
+    "forks": 58,
+    "growth": 827,
     "history": [
       {
         "day": "2026-08-03",
-        "stars": 703
+        "stars": 827
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "xikhar/persona",
+    "summary": "Bringing real-time voice to life.",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐801",
+    "source": "GitHub",
+    "stars": 801,
+    "url": "https://github.com/xikhar/persona",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Bringing real-time voice to life.。项目名称 persona，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 801，功能完善，获得开发者广泛认可",
+    "stars_fmt": "801",
+    "forks": 74,
+    "growth": 801,
+    "history": [
+      {
+        "day": "2026-08-03",
+        "stars": 801
       }
     ],
     "type_label": "🌙 每月热点"
