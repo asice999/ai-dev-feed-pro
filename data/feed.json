@@ -5,23 +5,23 @@
     "summary": "Multiplayer agent harness for work",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐10,824",
+    "reason": "🔥 爆款！⭐11,035",
     "source": "GitHub",
-    "stars": 10824,
+    "stars": 11035,
     "url": "https://github.com/yc-software/qm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Multiplayer agent harness for work。项目名称 qm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 10,824，社区活跃度高，增长迅猛",
-    "stars_fmt": "10,824",
-    "forks": 1157,
-    "growth": 10824,
+    "highlights": "Star 数突破 11,035，社区活跃度高，增长迅猛",
+    "stars_fmt": "11,035",
+    "forks": 1194,
+    "growth": 11035,
     "history": [
       {
         "day": "2026-08-04",
-        "stars": 10824
+        "stars": 11035
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "An open-source, agentic-first CRM.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐4,097",
+    "reason": "🔥 爆款！⭐4,453",
     "source": "GitHub",
-    "stars": 4097,
+    "stars": 4453,
     "url": "https://github.com/trycompai/crm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An open-source, agentic-first CRM.。项目名称 crm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 4,097，社区活跃度高，增长迅猛",
-    "stars_fmt": "4,097",
-    "forks": 433,
-    "growth": 4097,
+    "highlights": "Star 数突破 4,453，社区活跃度高，增长迅猛",
+    "stars_fmt": "4,453",
+    "forks": 468,
+    "growth": 4453,
     "history": [
       {
         "day": "2026-08-04",
-        "stars": 4097
+        "stars": 4453
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,74 +59,36 @@
     "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,691",
+    "reason": "🔥 爆款！⭐2,849",
     "source": "GitHub",
-    "stars": 2691,
+    "stars": 2849,
     "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "language": "",
     "topics": [],
     "core_features": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。项目名称 FDE-the-Guidance-Book-of-Forward-Deployed-Engineer，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 2,691，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,691",
-    "forks": 328,
-    "growth": 2691,
+    "highlights": "Star 数突破 2,849，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,849",
+    "forks": 346,
+    "growth": 2849,
     "history": [
       {
         "day": "2026-08-04",
-        "stars": 2691
+        "stars": 2849
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
-    "title": "microsoft/skill-recorder",
-    "summary": "Desktop app that records your on-screen work session and uses the GitHub Copi...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,674",
-    "source": "GitHub",
-    "stars": 1674,
-    "url": "https://github.com/microsoft/skill-recorder",
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "automation",
-      "copilot",
-      "copilot-cli",
-      "copilot-cowork",
-      "copilot-studio",
-      "electron",
-      "microsoft-scout",
-      "screen-recording"
-    ],
-    "core_features": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.。项目名称 skill-recorder，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "TypeScript + agent-skills、ai-agents、automation、copilot",
-    "highlights": "Star 数突破 1,674，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,674",
-    "forks": 174,
-    "growth": 1674,
-    "history": [
-      {
-        "day": "2026-08-04",
-        "stars": 1674
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 4,
     "title": "FareedKhan-dev/kimi-k3-in-c",
     "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 G...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,627",
+    "reason": "🔥 爆款！⭐1,866",
     "source": "GitHub",
-    "stars": 1627,
+    "stars": 1866,
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "language": "C",
     "topics": [
@@ -154,14 +116,52 @@
     "core_features": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.。项目名称 kimi-k3-in-c，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "C + avx2、c99、cpu-inferenc、deep-learnin",
-    "highlights": "Star 数突破 1,627，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,627",
-    "forks": 275,
-    "growth": 1627,
+    "highlights": "Star 数突破 1,866，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,866",
+    "forks": 310,
+    "growth": 1866,
     "history": [
       {
         "day": "2026-08-04",
-        "stars": 1627
+        "stars": 1866
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
+    "title": "microsoft/skill-recorder",
+    "summary": "Desktop app that records your on-screen work session and uses the GitHub Copi...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,744",
+    "source": "GitHub",
+    "stars": 1744,
+    "url": "https://github.com/microsoft/skill-recorder",
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "automation",
+      "copilot",
+      "copilot-cli",
+      "copilot-cowork",
+      "copilot-studio",
+      "electron",
+      "microsoft-scout",
+      "screen-recording"
+    ],
+    "core_features": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.。项目名称 skill-recorder，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "TypeScript + agent-skills、ai-agents、automation、copilot",
+    "highlights": "Star 数突破 1,744，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,744",
+    "forks": 176,
+    "growth": 1744,
+    "history": [
+      {
+        "day": "2026-08-04",
+        "stars": 1744
       }
     ],
     "type_label": "🔥 每周热点"
@@ -172,23 +172,23 @@
     "summary": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,576",
+    "reason": "🔥 爆款！⭐1,629",
     "source": "GitHub",
-    "stars": 1576,
+    "stars": 1629,
     "url": "https://github.com/imsai-sh/zhuzhiliao",
     "language": "HTML",
     "topics": [],
     "core_features": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。。项目名称 zhuzhiliao，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 1,576，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,576",
-    "forks": 206,
-    "growth": 1576,
+    "highlights": "Star 数突破 1,629，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,629",
+    "forks": 215,
+    "growth": 1629,
     "history": [
       {
         "day": "2026-08-04",
-        "stars": 1576
+        "stars": 1629
       }
     ],
     "type_label": "🔥 每周热点"
@@ -199,23 +199,23 @@
     "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,248",
+    "reason": "🔥 爆款！⭐1,287",
     "source": "GitHub",
-    "stars": 1248,
+    "stars": 1287,
     "url": "https://github.com/DannyMac180/sol-advisor",
     "language": "Shell",
     "topics": [],
     "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Shell",
-    "highlights": "Star 数突破 1,248，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,248",
-    "forks": 86,
-    "growth": 1248,
+    "highlights": "Star 数突破 1,287，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,287",
+    "forks": 90,
+    "growth": 1287,
     "history": [
       {
         "day": "2026-08-04",
-        "stars": 1248
+        "stars": 1287
       }
     ],
     "type_label": "🔥 每周热点"
@@ -226,9 +226,9 @@
     "summary": "An AI-native office suite for macOS and Windows: word processor, spreadsheet,...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,109",
+    "reason": "🔥 爆款！⭐1,237",
     "source": "GitHub",
-    "stars": 1109,
+    "stars": 1237,
     "url": "https://github.com/genspark-ai/genoffice",
     "language": "TypeScript",
     "topics": [
@@ -243,14 +243,14 @@
     "core_features": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.。项目名称 genoffice，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai、docx、electron、office-suite",
-    "highlights": "Star 数突破 1,109，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,109",
-    "forks": 163,
-    "growth": 1109,
+    "highlights": "Star 数突破 1,237，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,237",
+    "forks": 191,
+    "growth": 1237,
     "history": [
       {
         "day": "2026-08-04",
-        "stars": 1109
+        "stars": 1237
       }
     ],
     "type_label": "🔥 每周热点"
