@@ -5,77 +5,77 @@
     "summary": "An open-source, agentic-first CRM.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐5,244",
+    "reason": "🔥 爆款！⭐5,652",
     "source": "GitHub",
-    "stars": 5244,
+    "stars": 5652,
     "url": "https://github.com/trycompai/crm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An open-source, agentic-first CRM.。项目名称 crm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 5,244，社区活跃度高，增长迅猛",
-    "stars_fmt": "5,244",
-    "forks": 549,
-    "growth": 5244,
+    "highlights": "Star 数突破 5,652，社区活跃度高，增长迅猛",
+    "stars_fmt": "5,652",
+    "forks": 592,
+    "growth": 5652,
     "history": [
       {
         "day": "2026-08-05",
-        "stars": 5244
+        "stars": 5652
       }
     ],
     "type_label": "📌 收藏和fork"
   },
   {
     "id": 1,
-    "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-    "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐3,173",
-    "source": "GitHub",
-    "stars": 3173,
-    "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-    "language": "",
-    "topics": [],
-    "core_features": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。项目名称 FDE-the-Guidance-Book-of-Forward-Deployed-Engineer，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 3,173，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,173",
-    "forks": 389,
-    "growth": 3173,
-    "history": [
-      {
-        "day": "2026-08-05",
-        "stars": 3173
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
     "title": "firecrawl/anydoc",
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,521",
+    "reason": "🔥 爆款！⭐3,330",
     "source": "GitHub",
-    "stars": 2521,
+    "stars": 3330,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 2,521，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,521",
-    "forks": 106,
-    "growth": 2521,
+    "highlights": "Star 数突破 3,330，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,330",
+    "forks": 143,
+    "growth": 3330,
     "history": [
       {
         "day": "2026-08-05",
-        "stars": 2521
+        "stars": 3330
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 2,
+    "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+    "category": "Design",
+    "score": 10,
+    "reason": "🔥 爆款！⭐3,293",
+    "source": "GitHub",
+    "stars": 3293,
+    "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "language": "",
+    "topics": [],
+    "core_features": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。项目名称 FDE-the-Guidance-Book-of-Forward-Deployed-Engineer，属于 设计 类别。",
+    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数突破 3,293，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,293",
+    "forks": 400,
+    "growth": 3293,
+    "history": [
+      {
+        "day": "2026-08-05",
+        "stars": 3293
       }
     ],
     "type_label": "🔥 每周热点"
@@ -86,9 +86,9 @@
     "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 G...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,212",
+    "reason": "🔥 爆款！⭐2,389",
     "source": "GitHub",
-    "stars": 2212,
+    "stars": 2389,
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "language": "C",
     "topics": [
@@ -116,14 +116,14 @@
     "core_features": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.。项目名称 kimi-k3-in-c，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "C + avx2、c99、cpu-inferenc、deep-learnin",
-    "highlights": "Star 数突破 2,212，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,212",
-    "forks": 365,
-    "growth": 2212,
+    "highlights": "Star 数突破 2,389，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,389",
+    "forks": 390,
+    "growth": 2389,
     "history": [
       {
         "day": "2026-08-05",
-        "stars": 2212
+        "stars": 2389
       }
     ],
     "type_label": "🔥 每周热点"
@@ -134,23 +134,23 @@
     "summary": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,825",
+    "reason": "🔥 爆款！⭐1,955",
     "source": "GitHub",
-    "stars": 1825,
+    "stars": 1955,
     "url": "https://github.com/imsai-sh/zhuzhiliao",
     "language": "HTML",
     "topics": [],
     "core_features": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。。项目名称 zhuzhiliao，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 1,825，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,825",
-    "forks": 243,
-    "growth": 1825,
+    "highlights": "Star 数突破 1,955，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,955",
+    "forks": 255,
+    "growth": 1955,
     "history": [
       {
         "day": "2026-08-05",
-        "stars": 1825
+        "stars": 1955
       }
     ],
     "type_label": "🔥 每周热点"
@@ -161,9 +161,9 @@
     "summary": "An AI-native office suite for macOS and Windows: word processor, spreadsheet,...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,527",
+    "reason": "🔥 爆款！⭐1,637",
     "source": "GitHub",
-    "stars": 1527,
+    "stars": 1637,
     "url": "https://github.com/genspark-ai/genoffice",
     "language": "TypeScript",
     "topics": [
@@ -178,68 +178,68 @@
     "core_features": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.。项目名称 genoffice，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai、docx、electron、office-suite",
-    "highlights": "Star 数突破 1,527，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,527",
-    "forks": 248,
-    "growth": 1527,
+    "highlights": "Star 数突破 1,637，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,637",
+    "forks": 270,
+    "growth": 1637,
     "history": [
       {
         "day": "2026-08-05",
-        "stars": 1527
+        "stars": 1637
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 6,
-    "title": "DannyMac180/sol-advisor",
-    "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,360",
-    "source": "GitHub",
-    "stars": 1360,
-    "url": "https://github.com/DannyMac180/sol-advisor",
-    "language": "Shell",
-    "topics": [],
-    "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Shell",
-    "highlights": "Star 数突破 1,360，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,360",
-    "forks": 98,
-    "growth": 1360,
-    "history": [
-      {
-        "day": "2026-08-05",
-        "stars": 1360
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 7,
     "title": "thebuggeddev/anatomy",
     "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,321",
+    "reason": "🔥 爆款！⭐1,449",
     "source": "GitHub",
-    "stars": 1321,
+    "stars": 1449,
     "url": "https://github.com/thebuggeddev/anatomy",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol。项目名称 anatomy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,321，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,321",
-    "forks": 359,
-    "growth": 1321,
+    "highlights": "Star 数突破 1,449，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,449",
+    "forks": 389,
+    "growth": 1449,
     "history": [
       {
         "day": "2026-08-05",
-        "stars": 1321
+        "stars": 1449
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 7,
+    "title": "DannyMac180/sol-advisor",
+    "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,391",
+    "source": "GitHub",
+    "stars": 1391,
+    "url": "https://github.com/DannyMac180/sol-advisor",
+    "language": "Shell",
+    "topics": [],
+    "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Shell",
+    "highlights": "Star 数突破 1,391，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,391",
+    "forks": 98,
+    "growth": 1391,
+    "history": [
+      {
+        "day": "2026-08-05",
+        "stars": 1391
       }
     ],
     "type_label": "🔥 每周热点"
