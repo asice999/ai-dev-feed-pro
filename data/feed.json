@@ -5,23 +5,23 @@
     "summary": "An open-source, agentic-first CRM.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐6,740",
+    "reason": "🔥 爆款！⭐6,952",
     "source": "GitHub",
-    "stars": 6740,
+    "stars": 6952,
     "url": "https://github.com/trycompai/crm",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An open-source, agentic-first CRM.。项目名称 crm，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 6,740，社区活跃度高，增长迅猛",
-    "stars_fmt": "6,740",
-    "forks": 679,
-    "growth": 6740,
+    "highlights": "Star 数突破 6,952，社区活跃度高，增长迅猛",
+    "stars_fmt": "6,952",
+    "forks": 710,
+    "growth": 6952,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 6740
+        "stars": 6952
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐5,938",
+    "reason": "🔥 爆款！⭐6,863",
     "source": "GitHub",
-    "stars": 5938,
+    "stars": 6863,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 5,938，社区活跃度高，增长迅猛",
-    "stars_fmt": "5,938",
-    "forks": 281,
-    "growth": 5938,
+    "highlights": "Star 数突破 6,863，社区活跃度高，增长迅猛",
+    "stars_fmt": "6,863",
+    "forks": 320,
+    "growth": 6863,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 5938
+        "stars": 6863
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -59,9 +59,9 @@
     "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 G...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,668",
+    "reason": "🔥 爆款！⭐2,744",
     "source": "GitHub",
-    "stars": 2668,
+    "stars": 2744,
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "language": "C",
     "topics": [
@@ -89,14 +89,14 @@
     "core_features": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.。项目名称 kimi-k3-in-c，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "C + avx2、c99、cpu-inferenc、deep-learnin",
-    "highlights": "Star 数突破 2,668，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,668",
-    "forks": 447,
-    "growth": 2668,
+    "highlights": "Star 数突破 2,744，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,744",
+    "forks": 457,
+    "growth": 2744,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 2668
+        "stars": 2744
       }
     ],
     "type_label": "🔥 每周热点"
@@ -107,23 +107,23 @@
     "summary": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,191",
+    "reason": "🔥 爆款！⭐2,251",
     "source": "GitHub",
-    "stars": 2191,
+    "stars": 2251,
     "url": "https://github.com/imsai-sh/zhuzhiliao",
     "language": "HTML",
     "topics": [],
     "core_features": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。。项目名称 zhuzhiliao，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 2,191，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,191",
-    "forks": 283,
-    "growth": 2191,
+    "highlights": "Star 数突破 2,251，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,251",
+    "forks": 287,
+    "growth": 2251,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 2191
+        "stars": 2251
       }
     ],
     "type_label": "🔥 每周热点"
@@ -134,9 +134,9 @@
     "summary": "An AI-native office suite for macOS and Windows: word processor, spreadsheet,...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,904",
+    "reason": "🔥 爆款！⭐1,992",
     "source": "GitHub",
-    "stars": 1904,
+    "stars": 1992,
     "url": "https://github.com/genspark-ai/genoffice",
     "language": "TypeScript",
     "topics": [
@@ -151,14 +151,14 @@
     "core_features": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.。项目名称 genoffice，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai、docx、electron、office-suite",
-    "highlights": "Star 数突破 1,904，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,904",
-    "forks": 306,
-    "growth": 1904,
+    "highlights": "Star 数突破 1,992，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,992",
+    "forks": 322,
+    "growth": 1992,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 1904
+        "stars": 1992
       }
     ],
     "type_label": "🔥 每周热点"
@@ -169,23 +169,23 @@
     "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,710",
+    "reason": "🔥 爆款！⭐1,781",
     "source": "GitHub",
-    "stars": 1710,
+    "stars": 1781,
     "url": "https://github.com/thebuggeddev/anatomy",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol。项目名称 anatomy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,710，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,710",
-    "forks": 484,
-    "growth": 1710,
+    "highlights": "Star 数突破 1,781，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,781",
+    "forks": 515,
+    "growth": 1781,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 1710
+        "stars": 1781
       }
     ],
     "type_label": "🔥 每周热点"
@@ -196,23 +196,23 @@
     "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,551",
+    "reason": "🔥 爆款！⭐1,637",
     "source": "GitHub",
-    "stars": 1551,
+    "stars": 1637,
     "url": "https://github.com/DannyMac180/sol-advisor",
     "language": "Shell",
     "topics": [],
     "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Shell",
-    "highlights": "Star 数突破 1,551，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,551",
-    "forks": 115,
-    "growth": 1551,
+    "highlights": "Star 数突破 1,637，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,637",
+    "forks": 119,
+    "growth": 1637,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 1551
+        "stars": 1637
       }
     ],
     "type_label": "🔥 每周热点"
@@ -223,9 +223,9 @@
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,370",
+    "reason": "🔥 爆款！⭐1,472",
     "source": "GitHub",
-    "stars": 1370,
+    "stars": 1472,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -237,14 +237,14 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 1,370，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,370",
-    "forks": 121,
-    "growth": 1370,
+    "highlights": "Star 数突破 1,472，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,472",
+    "forks": 125,
+    "growth": 1472,
     "history": [
       {
         "day": "2026-08-06",
-        "stars": 1370
+        "stars": 1472
       }
     ],
     "type_label": "🔥 每周热点"
