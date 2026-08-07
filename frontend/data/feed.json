@@ -5,23 +5,23 @@
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐8,282",
+    "reason": "🔥 爆款！⭐9,334",
     "source": "GitHub",
-    "stars": 8282,
+    "stars": 9334,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 8,282，社区活跃度高，增长迅猛",
-    "stars_fmt": "8,282",
-    "forks": 383,
-    "growth": 8282,
+    "highlights": "Star 数突破 9,334，社区活跃度高，增长迅猛",
+    "stars_fmt": "9,334",
+    "forks": 436,
+    "growth": 9334,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 8282
+        "stars": 9334
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,9 +32,9 @@
     "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 G...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,823",
+    "reason": "🔥 爆款！⭐2,939",
     "source": "GitHub",
-    "stars": 2823,
+    "stars": 2939,
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "language": "C",
     "topics": [
@@ -62,14 +62,14 @@
     "core_features": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.。项目名称 kimi-k3-in-c，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "C + avx2、c99、cpu-inferenc、deep-learnin",
-    "highlights": "Star 数突破 2,823，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,823",
-    "forks": 470,
-    "growth": 2823,
+    "highlights": "Star 数突破 2,939，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,939",
+    "forks": 493,
+    "growth": 2939,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 2823
+        "stars": 2939
       }
     ],
     "type_label": "🔥 每周热点"
@@ -80,23 +80,23 @@
     "summary": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,291",
+    "reason": "🔥 爆款！⭐2,356",
     "source": "GitHub",
-    "stars": 2291,
+    "stars": 2356,
     "url": "https://github.com/imsai-sh/zhuzhiliao",
     "language": "HTML",
     "topics": [],
     "core_features": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。。项目名称 zhuzhiliao，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 2,291，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,291",
-    "forks": 292,
-    "growth": 2291,
+    "highlights": "Star 数突破 2,356，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,356",
+    "forks": 299,
+    "growth": 2356,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 2291
+        "stars": 2356
       }
     ],
     "type_label": "🔥 每周热点"
@@ -107,23 +107,23 @@
     "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,859",
+    "reason": "🔥 爆款！⭐1,902",
     "source": "GitHub",
-    "stars": 1859,
+    "stars": 1902,
     "url": "https://github.com/thebuggeddev/anatomy",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol。项目名称 anatomy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,859，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,859",
-    "forks": 532,
-    "growth": 1859,
+    "highlights": "Star 数突破 1,902，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,902",
+    "forks": 547,
+    "growth": 1902,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1859
+        "stars": 1902
       }
     ],
     "type_label": "🔥 每周热点"
@@ -134,23 +134,23 @@
     "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,700",
+    "reason": "🔥 爆款！⭐1,736",
     "source": "GitHub",
-    "stars": 1700,
+    "stars": 1736,
     "url": "https://github.com/DannyMac180/sol-advisor",
     "language": "Shell",
     "topics": [],
     "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Shell",
-    "highlights": "Star 数突破 1,700，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,700",
-    "forks": 122,
-    "growth": 1700,
+    "highlights": "Star 数突破 1,736，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,736",
+    "forks": 124,
+    "growth": 1736,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1700
+        "stars": 1736
       }
     ],
     "type_label": "🔥 每周热点"
@@ -161,9 +161,9 @@
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,559",
+    "reason": "🔥 爆款！⭐1,731",
     "source": "GitHub",
-    "stars": 1559,
+    "stars": 1731,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -175,14 +175,14 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 1,559，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,559",
-    "forks": 138,
-    "growth": 1559,
+    "highlights": "Star 数突破 1,731，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,731",
+    "forks": 156,
+    "growth": 1731,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1559
+        "stars": 1731
       }
     ],
     "type_label": "🔥 每周热点"
@@ -193,23 +193,23 @@
     "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kim...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,311",
+    "reason": "🔥 爆款！⭐1,569",
     "source": "GitHub",
-    "stars": 1311,
+    "stars": 1569,
     "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
     "language": "Python",
     "topics": [],
     "core_features": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor。项目名称 open-kimi-ppt-skill，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,311，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,311",
-    "forks": 346,
-    "growth": 1311,
+    "highlights": "Star 数突破 1,569，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,569",
+    "forks": 393,
+    "growth": 1569,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1311
+        "stars": 1569
       }
     ],
     "type_label": "🔥 每周热点"
@@ -220,23 +220,23 @@
     "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,036",
+    "reason": "🔥 爆款！⭐1,038",
     "source": "GitHub",
-    "stars": 1036,
+    "stars": 1038,
     "url": "https://github.com/Accio-org/RealReplicaBench",
     "language": "HTML",
     "topics": [],
     "core_features": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services。项目名称 RealReplicaBench，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 1,036，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,036",
-    "forks": 74,
-    "growth": 1036,
+    "highlights": "Star 数突破 1,038，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,038",
+    "forks": 77,
+    "growth": 1038,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1036
+        "stars": 1038
       }
     ],
     "type_label": "🔥 每周热点"
