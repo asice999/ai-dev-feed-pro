@@ -5,23 +5,23 @@
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐10,120",
+    "reason": "🔥 爆款！⭐10,666",
     "source": "GitHub",
-    "stars": 10120,
+    "stars": 10666,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 10,120，社区活跃度高，增长迅猛",
-    "stars_fmt": "10,120",
-    "forks": 474,
-    "growth": 10120,
+    "highlights": "Star 数突破 10,666，社区活跃度高，增长迅猛",
+    "stars_fmt": "10,666",
+    "forks": 496,
+    "growth": 10666,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 10120
+        "stars": 10666
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,9 +32,9 @@
     "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 G...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,022",
+    "reason": "🔥 爆款！⭐3,184",
     "source": "GitHub",
-    "stars": 3022,
+    "stars": 3184,
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "language": "C",
     "topics": [
@@ -62,14 +62,14 @@
     "core_features": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.。项目名称 kimi-k3-in-c，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "C + avx2、c99、cpu-inferenc、deep-learnin",
-    "highlights": "Star 数突破 3,022，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,022",
-    "forks": 509,
-    "growth": 3022,
+    "highlights": "Star 数突破 3,184，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,184",
+    "forks": 528,
+    "growth": 3184,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 3022
+        "stars": 3184
       }
     ],
     "type_label": "🔥 每周热点"
@@ -80,23 +80,23 @@
     "summary": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,400",
+    "reason": "🔥 爆款！⭐2,425",
     "source": "GitHub",
-    "stars": 2400,
+    "stars": 2425,
     "url": "https://github.com/imsai-sh/zhuzhiliao",
     "language": "HTML",
     "topics": [],
     "core_features": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。。项目名称 zhuzhiliao，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 2,400，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,400",
-    "forks": 304,
-    "growth": 2400,
+    "highlights": "Star 数突破 2,425，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,425",
+    "forks": 310,
+    "growth": 2425,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 2400
+        "stars": 2425
       }
     ],
     "type_label": "🔥 每周热点"
@@ -107,23 +107,23 @@
     "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,938",
+    "reason": "🔥 爆款！⭐1,960",
     "source": "GitHub",
-    "stars": 1938,
+    "stars": 1960,
     "url": "https://github.com/thebuggeddev/anatomy",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol。项目名称 anatomy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,938，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,938",
-    "forks": 557,
-    "growth": 1938,
+    "highlights": "Star 数突破 1,960，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,960",
+    "forks": 567,
+    "growth": 1960,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1938
+        "stars": 1960
       }
     ],
     "type_label": "🔥 每周热点"
@@ -134,9 +134,9 @@
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,820",
+    "reason": "🔥 爆款！⭐1,861",
     "source": "GitHub",
-    "stars": 1820,
+    "stars": 1861,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -148,14 +148,14 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 1,820，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,820",
-    "forks": 164,
-    "growth": 1820,
+    "highlights": "Star 数突破 1,861，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,861",
+    "forks": 165,
+    "growth": 1861,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1820
+        "stars": 1861
       }
     ],
     "type_label": "🔥 每周热点"
@@ -166,23 +166,23 @@
     "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,749",
+    "reason": "🔥 爆款！⭐1,768",
     "source": "GitHub",
-    "stars": 1749,
+    "stars": 1768,
     "url": "https://github.com/DannyMac180/sol-advisor",
     "language": "Shell",
     "topics": [],
     "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Shell",
-    "highlights": "Star 数突破 1,749，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,749",
-    "forks": 127,
-    "growth": 1749,
+    "highlights": "Star 数突破 1,768，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,768",
+    "forks": 128,
+    "growth": 1768,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1749
+        "stars": 1768
       }
     ],
     "type_label": "🔥 每周热点"
@@ -193,23 +193,23 @@
     "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,038",
+    "reason": "🔥 爆款！⭐1,040",
     "source": "GitHub",
-    "stars": 1038,
+    "stars": 1040,
     "url": "https://github.com/Accio-org/RealReplicaBench",
     "language": "HTML",
     "topics": [],
     "core_features": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services。项目名称 RealReplicaBench，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML",
-    "highlights": "Star 数突破 1,038，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,038",
-    "forks": 78,
-    "growth": 1038,
+    "highlights": "Star 数突破 1,040，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,040",
+    "forks": 79,
+    "growth": 1040,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 1038
+        "stars": 1040
       }
     ],
     "type_label": "🔥 每周热点"
@@ -220,9 +220,9 @@
     "summary": "Any icon morphs into any other — universal morphing for stroke-based icons wi...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐834",
+    "reason": "🔥 爆款！⭐848",
     "source": "GitHub",
-    "stars": 834,
+    "stars": 848,
     "url": "https://github.com/guillermolg00/morphicons",
     "language": "TypeScript",
     "topics": [
@@ -236,14 +236,14 @@
     "core_features": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.。项目名称 morphicons，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "TypeScript + animation、icons、morphing、react",
-    "highlights": "Star 数 834，功能完善，获得开发者广泛认可",
-    "stars_fmt": "834",
+    "highlights": "Star 数 848，功能完善，获得开发者广泛认可",
+    "stars_fmt": "848",
     "forks": 14,
-    "growth": 834,
+    "growth": 848,
     "history": [
       {
         "day": "2026-08-07",
-        "stars": 834
+        "stars": 848
       }
     ],
     "type_label": "🌙 每月热点"
