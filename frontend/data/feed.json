@@ -5,138 +5,63 @@
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐10,666",
+    "reason": "🔥 爆款！⭐11,066",
     "source": "GitHub",
-    "stars": 10666,
+    "stars": 11066,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 10,666，社区活跃度高，增长迅猛",
-    "stars_fmt": "10,666",
-    "forks": 496,
-    "growth": 10666,
+    "highlights": "Star 数突破 11,066，社区活跃度高，增长迅猛",
+    "stars_fmt": "11,066",
+    "forks": 515,
+    "growth": 11066,
     "history": [
       {
-        "day": "2026-08-07",
-        "stars": 10666
+        "day": "2026-08-08",
+        "stars": 11066
       }
     ],
     "type_label": "📌 收藏和fork"
   },
   {
     "id": 1,
-    "title": "FareedKhan-dev/kimi-k3-in-c",
-    "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 G...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐3,184",
-    "source": "GitHub",
-    "stars": 3184,
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "language": "C",
-    "topics": [
-      "avx2",
-      "c99",
-      "cpu-inference",
-      "deep-learning",
-      "from-scratch",
-      "inference-engine",
-      "kimi-k3",
-      "linear-attention",
-      "llm",
-      "llm-inference",
-      "machine-learning",
-      "memory-efficient",
-      "mixture-of-experts",
-      "moe",
-      "mxfp4",
-      "quantization",
-      "simd",
-      "systems-programming",
-      "transformer",
-      "zero-dependencies"
-    ],
-    "core_features": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.。项目名称 kimi-k3-in-c，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "C + avx2、c99、cpu-inferenc、deep-learnin",
-    "highlights": "Star 数突破 3,184，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,184",
-    "forks": 528,
-    "growth": 3184,
-    "history": [
-      {
-        "day": "2026-08-07",
-        "stars": 3184
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
-    "title": "imsai-sh/zhuzhiliao",
-    "summary": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐2,425",
-    "source": "GitHub",
-    "stars": 2425,
-    "url": "https://github.com/imsai-sh/zhuzhiliao",
-    "language": "HTML",
-    "topics": [],
-    "core_features": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。。项目名称 zhuzhiliao，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "HTML",
-    "highlights": "Star 数突破 2,425，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,425",
-    "forks": 310,
-    "growth": 2425,
-    "history": [
-      {
-        "day": "2026-08-07",
-        "stars": 2425
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
     "title": "thebuggeddev/anatomy",
     "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,960",
+    "reason": "🔥 爆款！⭐1,986",
     "source": "GitHub",
-    "stars": 1960,
+    "stars": 1986,
     "url": "https://github.com/thebuggeddev/anatomy",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol。项目名称 anatomy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,960，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,960",
-    "forks": 567,
-    "growth": 1960,
+    "highlights": "Star 数突破 1,986，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,986",
+    "forks": 569,
+    "growth": 1986,
     "history": [
       {
-        "day": "2026-08-07",
-        "stars": 1960
+        "day": "2026-08-08",
+        "stars": 1986
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 4,
+    "id": 2,
     "title": "KKKKhazix/human-writing",
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,861",
+    "reason": "🔥 爆款！⭐1,881",
     "source": "GitHub",
-    "stars": 1861,
+    "stars": 1881,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -148,47 +73,20 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 1,861，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,861",
+    "highlights": "Star 数突破 1,881，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,881",
     "forks": 165,
-    "growth": 1861,
+    "growth": 1881,
     "history": [
       {
-        "day": "2026-08-07",
-        "stars": 1861
+        "day": "2026-08-08",
+        "stars": 1881
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 5,
-    "title": "DannyMac180/sol-advisor",
-    "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,768",
-    "source": "GitHub",
-    "stars": 1768,
-    "url": "https://github.com/DannyMac180/sol-advisor",
-    "language": "Shell",
-    "topics": [],
-    "core_features": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.。项目名称 sol-advisor，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Shell",
-    "highlights": "Star 数突破 1,768，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,768",
-    "forks": 128,
-    "growth": 1768,
-    "history": [
-      {
-        "day": "2026-08-07",
-        "stars": 1768
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 6,
+    "id": 3,
     "title": "Accio-org/RealReplicaBench",
     "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful...",
     "category": "AI",
@@ -208,42 +106,136 @@
     "growth": 1040,
     "history": [
       {
-        "day": "2026-08-07",
+        "day": "2026-08-08",
         "stars": 1040
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 7,
-    "title": "guillermolg00/morphicons",
-    "summary": "Any icon morphs into any other — universal morphing for stroke-based icons wi...",
-    "category": "Design",
+    "id": 4,
+    "title": "mikiarlo3/awesome-growth-hacking-skills",
+    "summary": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+    "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐848",
+    "reason": "🔥 爆款！⭐726",
     "source": "GitHub",
-    "stars": 848,
-    "url": "https://github.com/guillermolg00/morphicons",
-    "language": "TypeScript",
-    "topics": [
-      "animation",
-      "icons",
-      "morphing",
-      "react",
-      "svg",
-      "typescript"
-    ],
-    "core_features": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.。项目名称 morphicons，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "TypeScript + animation、icons、morphing、react",
-    "highlights": "Star 数 848，功能完善，获得开发者广泛认可",
-    "stars_fmt": "848",
-    "forks": 14,
-    "growth": 848,
+    "stars": 726,
+    "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+    "language": "Shell",
+    "topics": [],
+    "core_features": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot。项目名称 awesome-growth-hacking-skills，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Shell",
+    "highlights": "Star 数 726，功能完善，获得开发者广泛认可",
+    "stars_fmt": "726",
+    "forks": 5,
+    "growth": 726,
     "history": [
       {
-        "day": "2026-08-07",
-        "stars": 848
+        "day": "2026-08-08",
+        "stars": 726
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "magicrew/doc7",
+    "summary": "Turn documents into AI-ready Markdown with visual understanding",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐611",
+    "source": "GitHub",
+    "stars": 611,
+    "url": "https://github.com/magicrew/doc7",
+    "language": "Go",
+    "topics": [
+      "document-ai",
+      "docx-to-markdown",
+      "local-ai",
+      "markdown",
+      "multimodal",
+      "open-source",
+      "pdf-to-markdown",
+      "vision-language-model"
+    ],
+    "core_features": "Turn documents into AI-ready Markdown with visual understanding。项目名称 doc7，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Go + document-ai、docx-to-mark、local-ai、markdown",
+    "highlights": "Star 数 611，功能完善，获得开发者广泛认可",
+    "stars_fmt": "611",
+    "forks": 16,
+    "growth": 611,
+    "history": [
+      {
+        "day": "2026-08-08",
+        "stars": 611
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "0xwilliamortiz/claude-red",
+    "summary": "claude-red is a curated library of offensive security skills designed for the...",
+    "category": "Developer-Tools",
+    "score": 9.9,
+    "reason": "🔥 爆款！⭐559",
+    "source": "GitHub",
+    "stars": 559,
+    "url": "https://github.com/0xwilliamortiz/claude-red",
+    "language": "JavaScript",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "redteam",
+      "redteaming",
+      "skill",
+      "skills"
+    ],
+    "core_features": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.。项目名称 claude-red，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "JavaScript + claude、claude-code、claude-code-、claude-skill",
+    "highlights": "Star 数 559，功能完善，获得开发者广泛认可",
+    "stars_fmt": "559",
+    "forks": 69,
+    "growth": 559,
+    "history": [
+      {
+        "day": "2026-08-08",
+        "stars": 559
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "MarcosSete/awesome-free-ai-course-notes",
+    "summary": "A curated collection of machine learning and AI lecture notes from the world'...",
+    "category": "AI",
+    "score": 9.8,
+    "reason": "🔥 爆款！⭐544",
+    "source": "GitHub",
+    "stars": 544,
+    "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+    "language": "",
+    "topics": [],
+    "core_features": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.。项目名称 awesome-free-ai-course-notes，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 544，功能完善，获得开发者广泛认可",
+    "stars_fmt": "544",
+    "forks": 45,
+    "growth": 544,
+    "history": [
+      {
+        "day": "2026-08-08",
+        "stars": 544
       }
     ],
     "type_label": "🌙 每月热点"
