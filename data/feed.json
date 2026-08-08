@@ -5,23 +5,23 @@
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐11,066",
+    "reason": "🔥 爆款！⭐11,373",
     "source": "GitHub",
-    "stars": 11066,
+    "stars": 11373,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 11,066，社区活跃度高，增长迅猛",
-    "stars_fmt": "11,066",
-    "forks": 515,
-    "growth": 11066,
+    "highlights": "Star 数突破 11,373，社区活跃度高，增长迅猛",
+    "stars_fmt": "11,373",
+    "forks": 528,
+    "growth": 11373,
     "history": [
       {
         "day": "2026-08-08",
-        "stars": 11066
+        "stars": 11373
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,23 +32,23 @@
     "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,986",
+    "reason": "🔥 爆款！⭐1,998",
     "source": "GitHub",
-    "stars": 1986,
+    "stars": 1998,
     "url": "https://github.com/thebuggeddev/anatomy",
     "language": "TypeScript",
     "topics": [],
     "core_features": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol。项目名称 anatomy，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,986，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,986",
-    "forks": 569,
-    "growth": 1986,
+    "highlights": "Star 数突破 1,998，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,998",
+    "forks": 575,
+    "growth": 1998,
     "history": [
       {
         "day": "2026-08-08",
-        "stars": 1986
+        "stars": 1998
       }
     ],
     "type_label": "🔥 每周热点"
@@ -59,9 +59,9 @@
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,881",
+    "reason": "🔥 爆款！⭐1,917",
     "source": "GitHub",
-    "stars": 1881,
+    "stars": 1917,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -73,14 +73,14 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 1,881，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,881",
-    "forks": 165,
-    "growth": 1881,
+    "highlights": "Star 数突破 1,917，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,917",
+    "forks": 167,
+    "growth": 1917,
     "history": [
       {
         "day": "2026-08-08",
-        "stars": 1881
+        "stars": 1917
       }
     ],
     "type_label": "🔥 每周热点"
@@ -118,23 +118,23 @@
     "summary": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐726",
+    "reason": "🔥 爆款！⭐732",
     "source": "GitHub",
-    "stars": 726,
+    "stars": 732,
     "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
     "language": "Shell",
     "topics": [],
     "core_features": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot。项目名称 awesome-growth-hacking-skills，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Shell",
-    "highlights": "Star 数 726，功能完善，获得开发者广泛认可",
-    "stars_fmt": "726",
+    "highlights": "Star 数 732，功能完善，获得开发者广泛认可",
+    "stars_fmt": "732",
     "forks": 5,
-    "growth": 726,
+    "growth": 732,
     "history": [
       {
         "day": "2026-08-08",
-        "stars": 726
+        "stars": 732
       }
     ],
     "type_label": "🌙 每月热点"
@@ -145,9 +145,9 @@
     "summary": "Turn documents into AI-ready Markdown with visual understanding",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐611",
+    "reason": "🔥 爆款！⭐716",
     "source": "GitHub",
-    "stars": 611,
+    "stars": 716,
     "url": "https://github.com/magicrew/doc7",
     "language": "Go",
     "topics": [
@@ -163,14 +163,14 @@
     "core_features": "Turn documents into AI-ready Markdown with visual understanding。项目名称 doc7，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Go + document-ai、docx-to-mark、local-ai、markdown",
-    "highlights": "Star 数 611，功能完善，获得开发者广泛认可",
-    "stars_fmt": "611",
-    "forks": 16,
-    "growth": 611,
+    "highlights": "Star 数 716，功能完善，获得开发者广泛认可",
+    "stars_fmt": "716",
+    "forks": 26,
+    "growth": 716,
     "history": [
       {
         "day": "2026-08-08",
-        "stars": 611
+        "stars": 716
       }
     ],
     "type_label": "🌙 每月热点"
@@ -181,9 +181,9 @@
     "summary": "claude-red is a curated library of offensive security skills designed for the...",
     "category": "Developer-Tools",
     "score": 9.9,
-    "reason": "🔥 爆款！⭐559",
+    "reason": "🔥 爆款！⭐567",
     "source": "GitHub",
-    "stars": 559,
+    "stars": 567,
     "url": "https://github.com/0xwilliamortiz/claude-red",
     "language": "JavaScript",
     "topics": [
@@ -201,14 +201,14 @@
     "core_features": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.。项目名称 claude-red，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript + claude、claude-code、claude-code-、claude-skill",
-    "highlights": "Star 数 559，功能完善，获得开发者广泛认可",
-    "stars_fmt": "559",
-    "forks": 69,
-    "growth": 559,
+    "highlights": "Star 数 567，功能完善，获得开发者广泛认可",
+    "stars_fmt": "567",
+    "forks": 71,
+    "growth": 567,
     "history": [
       {
         "day": "2026-08-08",
-        "stars": 559
+        "stars": 567
       }
     ],
     "type_label": "🌙 每月热点"
@@ -218,24 +218,24 @@
     "title": "MarcosSete/awesome-free-ai-course-notes",
     "summary": "A curated collection of machine learning and AI lecture notes from the world'...",
     "category": "AI",
-    "score": 9.8,
-    "reason": "🔥 爆款！⭐544",
+    "score": 9.9,
+    "reason": "🔥 爆款！⭐549",
     "source": "GitHub",
-    "stars": 544,
+    "stars": 549,
     "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
     "language": "",
     "topics": [],
     "core_features": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.。项目名称 awesome-free-ai-course-notes，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数 544，功能完善，获得开发者广泛认可",
-    "stars_fmt": "544",
-    "forks": 45,
-    "growth": 544,
+    "highlights": "Star 数 549，功能完善，获得开发者广泛认可",
+    "stars_fmt": "549",
+    "forks": 46,
+    "growth": 549,
     "history": [
       {
         "day": "2026-08-08",
-        "stars": 544
+        "stars": 549
       }
     ],
     "type_label": "🌙 每月热点"
