@@ -5,63 +5,36 @@
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐11,984",
+    "reason": "🔥 爆款！⭐12,143",
     "source": "GitHub",
-    "stars": 11984,
+    "stars": 12143,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 11,984，社区活跃度高，增长迅猛",
-    "stars_fmt": "11,984",
-    "forks": 569,
-    "growth": 11984,
+    "highlights": "Star 数突破 12,143，社区活跃度高，增长迅猛",
+    "stars_fmt": "12,143",
+    "forks": 581,
+    "growth": 12143,
     "history": [
       {
-        "day": "2026-08-08",
-        "stars": 11984
+        "day": "2026-08-09",
+        "stars": 12143
       }
     ],
     "type_label": "📌 收藏和fork"
   },
   {
     "id": 1,
-    "title": "thebuggeddev/anatomy",
-    "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐2,025",
-    "source": "GitHub",
-    "stars": 2025,
-    "url": "https://github.com/thebuggeddev/anatomy",
-    "language": "TypeScript",
-    "topics": [],
-    "core_features": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol。项目名称 anatomy，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 2,025，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,025",
-    "forks": 587,
-    "growth": 2025,
-    "history": [
-      {
-        "day": "2026-08-08",
-        "stars": 2025
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
     "title": "KKKKhazix/human-writing",
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,981",
+    "reason": "🔥 爆款！⭐1,989",
     "source": "GitHub",
-    "stars": 1981,
+    "stars": 1989,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -73,117 +46,54 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 1,981，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,981",
-    "forks": 173,
-    "growth": 1981,
+    "highlights": "Star 数突破 1,989，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,989",
+    "forks": 174,
+    "growth": 1989,
     "history": [
       {
-        "day": "2026-08-08",
-        "stars": 1981
+        "day": "2026-08-09",
+        "stars": 1989
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 3,
-    "title": "Accio-org/RealReplicaBench",
-    "summary": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,041",
-    "source": "GitHub",
-    "stars": 1041,
-    "url": "https://github.com/Accio-org/RealReplicaBench",
-    "language": "HTML",
-    "topics": [],
-    "core_features": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services。项目名称 RealReplicaBench，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "HTML",
-    "highlights": "Star 数突破 1,041，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,041",
-    "forks": 80,
-    "growth": 1041,
-    "history": [
-      {
-        "day": "2026-08-08",
-        "stars": 1041
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 4,
+    "id": 2,
     "title": "mikiarlo3/awesome-growth-hacking-skills",
     "summary": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐760",
+    "reason": "🔥 爆款！⭐765",
     "source": "GitHub",
-    "stars": 760,
+    "stars": 765,
     "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
     "language": "Shell",
     "topics": [],
     "core_features": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot。项目名称 awesome-growth-hacking-skills，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Shell",
-    "highlights": "Star 数 760，功能完善，获得开发者广泛认可",
-    "stars_fmt": "760",
-    "forks": 8,
-    "growth": 760,
+    "highlights": "Star 数 765，功能完善，获得开发者广泛认可",
+    "stars_fmt": "765",
+    "forks": 11,
+    "growth": 765,
     "history": [
       {
-        "day": "2026-08-08",
-        "stars": 760
+        "day": "2026-08-09",
+        "stars": 765
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 5,
-    "title": "magicrew/doc7",
-    "summary": "Turn documents into AI-ready Markdown with visual understanding",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐723",
-    "source": "GitHub",
-    "stars": 723,
-    "url": "https://github.com/magicrew/doc7",
-    "language": "Go",
-    "topics": [
-      "document-ai",
-      "docx-to-markdown",
-      "local-ai",
-      "markdown",
-      "multimodal",
-      "open-source",
-      "pdf-to-markdown",
-      "vision-language-model"
-    ],
-    "core_features": "Turn documents into AI-ready Markdown with visual understanding。项目名称 doc7，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Go + document-ai、docx-to-mark、local-ai、markdown",
-    "highlights": "Star 数 723，功能完善，获得开发者广泛认可",
-    "stars_fmt": "723",
-    "forks": 26,
-    "growth": 723,
-    "history": [
-      {
-        "day": "2026-08-08",
-        "stars": 723
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
+    "id": 3,
     "title": "0xwilliamortiz/claude-red",
     "summary": "claude-red is a curated library of offensive security skills designed for the...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐680",
+    "reason": "🔥 爆款！⭐681",
     "source": "GitHub",
-    "stars": 680,
+    "stars": 681,
     "url": "https://github.com/0xwilliamortiz/claude-red",
     "language": "JavaScript",
     "topics": [
@@ -201,41 +111,122 @@
     "core_features": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.。项目名称 claude-red，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript + claude、claude-code、claude-code-、claude-skill",
-    "highlights": "Star 数 680，功能完善，获得开发者广泛认可",
-    "stars_fmt": "680",
+    "highlights": "Star 数 681，功能完善，获得开发者广泛认可",
+    "stars_fmt": "681",
     "forks": 86,
-    "growth": 680,
+    "growth": 681,
     "history": [
       {
-        "day": "2026-08-08",
-        "stars": 680
+        "day": "2026-08-09",
+        "stars": 681
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 7,
+    "id": 4,
     "title": "wumingqi60/lingxi",
     "summary": "灵犀跨境-开源共建版",
     "category": "Other",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐567",
+    "score": 10,
+    "reason": "🔥 爆款！⭐571",
     "source": "GitHub",
-    "stars": 567,
+    "stars": 571,
     "url": "https://github.com/wumingqi60/lingxi",
     "language": "TypeScript",
     "topics": [],
     "core_features": "灵犀跨境-开源共建版。项目名称 lingxi，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 567，功能完善，获得开发者广泛认可",
-    "stars_fmt": "567",
+    "highlights": "Star 数 571，功能完善，获得开发者广泛认可",
+    "stars_fmt": "571",
     "forks": 9,
-    "growth": 567,
+    "growth": 571,
     "history": [
       {
-        "day": "2026-08-08",
-        "stars": 567
+        "day": "2026-08-09",
+        "stars": 571
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "MarcosSete/awesome-free-ai-course-notes",
+    "summary": "A curated collection of machine learning and AI lecture notes from the world'...",
+    "category": "AI",
+    "score": 9.9,
+    "reason": "🔥 爆款！⭐560",
+    "source": "GitHub",
+    "stars": 560,
+    "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+    "language": "",
+    "topics": [],
+    "core_features": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.。项目名称 awesome-free-ai-course-notes，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 560，功能完善，获得开发者广泛认可",
+    "stars_fmt": "560",
+    "forks": 48,
+    "growth": 560,
+    "history": [
+      {
+        "day": "2026-08-09",
+        "stars": 560
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "xoreaxeaxeax/asm-hall-of-shame",
+    "summary": "Racing to the bottom of CPU performance",
+    "category": "Other",
+    "score": 9.9,
+    "reason": "🔥 爆款！⭐550",
+    "source": "GitHub",
+    "stars": 550,
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "language": "C",
+    "topics": [],
+    "core_features": "Racing to the bottom of CPU performance。项目名称 asm-hall-of-shame，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "C",
+    "highlights": "Star 数 550，功能完善，获得开发者广泛认可",
+    "stars_fmt": "550",
+    "forks": 5,
+    "growth": 550,
+    "history": [
+      {
+        "day": "2026-08-09",
+        "stars": 550
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "nfzerox/VirtualMacOniPad",
+    "summary": "People have dreamed of running macOS on iPad for more than a decade. Today, t...",
+    "category": "AI",
+    "score": 9.8,
+    "reason": "🔥 爆款！⭐523",
+    "source": "GitHub",
+    "stars": 523,
+    "url": "https://github.com/nfzerox/VirtualMacOniPad",
+    "language": "Objective-C",
+    "topics": [],
+    "core_features": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.。项目名称 VirtualMacOniPad，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Objective-C",
+    "highlights": "Star 数 523，功能完善，获得开发者广泛认可",
+    "stars_fmt": "523",
+    "forks": 24,
+    "growth": 523,
+    "history": [
+      {
+        "day": "2026-08-09",
+        "stars": 523
       }
     ],
     "type_label": "🌙 每月热点"
