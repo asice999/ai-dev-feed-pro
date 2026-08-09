@@ -5,23 +5,23 @@
     "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to cle...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐12,143",
+    "reason": "🔥 爆款！⭐12,271",
     "source": "GitHub",
-    "stars": 12143,
+    "stars": 12271,
     "url": "https://github.com/firecrawl/anydoc",
     "language": "Rust",
     "topics": [],
     "core_features": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.。项目名称 anydoc，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "Rust",
-    "highlights": "Star 数突破 12,143，社区活跃度高，增长迅猛",
-    "stars_fmt": "12,143",
-    "forks": 581,
-    "growth": 12143,
+    "highlights": "Star 数突破 12,271，社区活跃度高，增长迅猛",
+    "stars_fmt": "12,271",
+    "forks": 593,
+    "growth": 12271,
     "history": [
       {
         "day": "2026-08-09",
-        "stars": 12143
+        "stars": 12271
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,9 +32,9 @@
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,989",
+    "reason": "🔥 爆款！⭐2,010",
     "source": "GitHub",
-    "stars": 1989,
+    "stars": 2010,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -46,14 +46,14 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 1,989，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,989",
-    "forks": 174,
-    "growth": 1989,
+    "highlights": "Star 数突破 2,010，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,010",
+    "forks": 178,
+    "growth": 2010,
     "history": [
       {
         "day": "2026-08-09",
-        "stars": 1989
+        "stars": 2010
       }
     ],
     "type_label": "🔥 每周热点"
@@ -64,23 +64,23 @@
     "summary": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐765",
+    "reason": "🔥 爆款！⭐771",
     "source": "GitHub",
-    "stars": 765,
+    "stars": 771,
     "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
     "language": "Shell",
     "topics": [],
     "core_features": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot。项目名称 awesome-growth-hacking-skills，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Shell",
-    "highlights": "Star 数 765，功能完善，获得开发者广泛认可",
-    "stars_fmt": "765",
+    "highlights": "Star 数 771，功能完善，获得开发者广泛认可",
+    "stars_fmt": "771",
     "forks": 11,
-    "growth": 765,
+    "growth": 771,
     "history": [
       {
         "day": "2026-08-09",
-        "stars": 765
+        "stars": 771
       }
     ],
     "type_label": "🌙 每月热点"
@@ -91,9 +91,9 @@
     "summary": "claude-red is a curated library of offensive security skills designed for the...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐681",
+    "reason": "🔥 爆款！⭐682",
     "source": "GitHub",
-    "stars": 681,
+    "stars": 682,
     "url": "https://github.com/0xwilliamortiz/claude-red",
     "language": "JavaScript",
     "topics": [
@@ -111,14 +111,14 @@
     "core_features": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.。项目名称 claude-red，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript + claude、claude-code、claude-code-、claude-skill",
-    "highlights": "Star 数 681，功能完善，获得开发者广泛认可",
-    "stars_fmt": "681",
+    "highlights": "Star 数 682，功能完善，获得开发者广泛认可",
+    "stars_fmt": "682",
     "forks": 86,
-    "growth": 681,
+    "growth": 682,
     "history": [
       {
         "day": "2026-08-09",
-        "stars": 681
+        "stars": 682
       }
     ],
     "type_label": "🌙 每月热点"
@@ -129,104 +129,104 @@
     "summary": "灵犀跨境-开源共建版",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐571",
+    "reason": "🔥 爆款！⭐612",
     "source": "GitHub",
-    "stars": 571,
+    "stars": 612,
     "url": "https://github.com/wumingqi60/lingxi",
     "language": "TypeScript",
     "topics": [],
     "core_features": "灵犀跨境-开源共建版。项目名称 lingxi，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 571，功能完善，获得开发者广泛认可",
-    "stars_fmt": "571",
-    "forks": 9,
-    "growth": 571,
+    "highlights": "Star 数 612，功能完善，获得开发者广泛认可",
+    "stars_fmt": "612",
+    "forks": 10,
+    "growth": 612,
     "history": [
       {
         "day": "2026-08-09",
-        "stars": 571
+        "stars": 612
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 5,
-    "title": "MarcosSete/awesome-free-ai-course-notes",
-    "summary": "A curated collection of machine learning and AI lecture notes from the world'...",
-    "category": "AI",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐560",
-    "source": "GitHub",
-    "stars": 560,
-    "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-    "language": "",
-    "topics": [],
-    "core_features": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.。项目名称 awesome-free-ai-course-notes，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "多语言支持",
-    "highlights": "Star 数 560，功能完善，获得开发者广泛认可",
-    "stars_fmt": "560",
-    "forks": 48,
-    "growth": 560,
-    "history": [
-      {
-        "day": "2026-08-09",
-        "stars": 560
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
     "title": "xoreaxeaxeax/asm-hall-of-shame",
     "summary": "Racing to the bottom of CPU performance",
     "category": "Other",
-    "score": 9.9,
-    "reason": "🔥 爆款！⭐550",
+    "score": 10,
+    "reason": "🔥 爆款！⭐572",
     "source": "GitHub",
-    "stars": 550,
+    "stars": 572,
     "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
     "language": "C",
     "topics": [],
     "core_features": "Racing to the bottom of CPU performance。项目名称 asm-hall-of-shame，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "C",
-    "highlights": "Star 数 550，功能完善，获得开发者广泛认可",
-    "stars_fmt": "550",
+    "highlights": "Star 数 572，功能完善，获得开发者广泛认可",
+    "stars_fmt": "572",
     "forks": 5,
-    "growth": 550,
+    "growth": 572,
     "history": [
       {
         "day": "2026-08-09",
-        "stars": 550
+        "stars": 572
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "MarcosSete/awesome-free-ai-course-notes",
+    "summary": "A curated collection of machine learning and AI lecture notes from the world'...",
+    "category": "AI",
+    "score": 9.9,
+    "reason": "🔥 爆款！⭐563",
+    "source": "GitHub",
+    "stars": 563,
+    "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+    "language": "",
+    "topics": [],
+    "core_features": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.。项目名称 awesome-free-ai-course-notes，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 563，功能完善，获得开发者广泛认可",
+    "stars_fmt": "563",
+    "forks": 48,
+    "growth": 563,
+    "history": [
+      {
+        "day": "2026-08-09",
+        "stars": 563
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "nfzerox/VirtualMacOniPad",
-    "summary": "People have dreamed of running macOS on iPad for more than a decade. Today, t...",
+    "title": "jd-opensource/JoyAI-Video-Edit",
+    "summary": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Aut...",
     "category": "AI",
     "score": 9.8,
-    "reason": "🔥 爆款！⭐523",
+    "reason": "🔥 爆款！⭐540",
     "source": "GitHub",
-    "stars": 523,
-    "url": "https://github.com/nfzerox/VirtualMacOniPad",
-    "language": "Objective-C",
+    "stars": 540,
+    "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+    "language": "Python",
     "topics": [],
-    "core_features": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.。项目名称 VirtualMacOniPad，属于 AI 类别。",
+    "core_features": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion。项目名称 JoyAI-Video-Edit，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Objective-C",
-    "highlights": "Star 数 523，功能完善，获得开发者广泛认可",
-    "stars_fmt": "523",
-    "forks": 24,
-    "growth": 523,
+    "tech_stack": "Python",
+    "highlights": "Star 数 540，功能完善，获得开发者广泛认可",
+    "stars_fmt": "540",
+    "forks": 22,
+    "growth": 540,
     "history": [
       {
         "day": "2026-08-09",
-        "stars": 523
+        "stars": 540
       }
     ],
     "type_label": "🌙 每月热点"
