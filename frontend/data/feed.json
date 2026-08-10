@@ -5,9 +5,9 @@
     "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,104",
+    "reason": "🔥 爆款！⭐2,161",
     "source": "GitHub",
-    "stars": 2104,
+    "stars": 2161,
     "url": "https://github.com/KKKKhazix/human-writing",
     "language": "Python",
     "topics": [
@@ -19,14 +19,14 @@
     "core_features": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。。项目名称 human-writing，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skills、chinese-writ、creative-wri、writing-skil",
-    "highlights": "Star 数突破 2,104，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,104",
-    "forks": 186,
-    "growth": 2104,
+    "highlights": "Star 数突破 2,161，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,161",
+    "forks": 190,
+    "growth": 2161,
     "history": [
       {
         "day": "2026-08-10",
-        "stars": 2104
+        "stars": 2161
       }
     ],
     "type_label": "🔥 每周热点"
@@ -37,26 +37,26 @@
     "summary": "let your agent control your phone",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐886",
+    "reason": "🔥 爆款！⭐1,048",
     "source": "GitHub",
-    "stars": 886,
+    "stars": 1048,
     "url": "https://github.com/ShawnPana/phone-harness",
     "language": "Python",
     "topics": [],
     "core_features": "let your agent control your phone。项目名称 phone-harness，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数 886，功能完善，获得开发者广泛认可",
-    "stars_fmt": "886",
-    "forks": 70,
-    "growth": 886,
+    "highlights": "Star 数突破 1,048，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,048",
+    "forks": 84,
+    "growth": 1048,
     "history": [
       {
         "day": "2026-08-10",
-        "stars": 886
+        "stars": 1048
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
@@ -64,23 +64,23 @@
     "summary": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐797",
+    "reason": "🔥 爆款！⭐803",
     "source": "GitHub",
-    "stars": 797,
+    "stars": 803,
     "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
     "language": "Shell",
     "topics": [],
     "core_features": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot。项目名称 awesome-growth-hacking-skills，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Shell",
-    "highlights": "Star 数 797，功能完善，获得开发者广泛认可",
-    "stars_fmt": "797",
+    "highlights": "Star 数 803，功能完善，获得开发者广泛认可",
+    "stars_fmt": "803",
     "forks": 14,
-    "growth": 797,
+    "growth": 803,
     "history": [
       {
         "day": "2026-08-10",
-        "stars": 797
+        "stars": 803
       }
     ],
     "type_label": "🌙 每月热点"
@@ -91,9 +91,9 @@
     "summary": "claude-red is a curated library of offensive security skills designed for the...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐707",
+    "reason": "🔥 爆款！⭐719",
     "source": "GitHub",
-    "stars": 707,
+    "stars": 719,
     "url": "https://github.com/0xwilliamortiz/claude-red",
     "language": "JavaScript",
     "topics": [
@@ -111,81 +111,27 @@
     "core_features": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.。项目名称 claude-red，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript + claude、claude-code、claude-code-、claude-skill",
-    "highlights": "Star 数 707，功能完善，获得开发者广泛认可",
-    "stars_fmt": "707",
-    "forks": 89,
-    "growth": 707,
+    "highlights": "Star 数 719，功能完善，获得开发者广泛认可",
+    "stars_fmt": "719",
+    "forks": 91,
+    "growth": 719,
     "history": [
       {
         "day": "2026-08-10",
-        "stars": 707
+        "stars": 719
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 4,
-    "title": "xoreaxeaxeax/asm-hall-of-shame",
-    "summary": "Racing to the bottom of CPU performance",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐662",
-    "source": "GitHub",
-    "stars": 662,
-    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-    "language": "C",
-    "topics": [],
-    "core_features": "Racing to the bottom of CPU performance。项目名称 asm-hall-of-shame，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "C",
-    "highlights": "Star 数 662，功能完善，获得开发者广泛认可",
-    "stars_fmt": "662",
-    "forks": 6,
-    "growth": 662,
-    "history": [
-      {
-        "day": "2026-08-10",
-        "stars": 662
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "jd-opensource/JoyAI-Video-Edit",
-    "summary": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Aut...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐614",
-    "source": "GitHub",
-    "stars": 614,
-    "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-    "language": "Python",
-    "topics": [],
-    "core_features": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion。项目名称 JoyAI-Video-Edit，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数 614，功能完善，获得开发者广泛认可",
-    "stars_fmt": "614",
-    "forks": 25,
-    "growth": 614,
-    "history": [
-      {
-        "day": "2026-08-10",
-        "stars": 614
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
     "title": "MengTo/kage",
     "summary": "An interactive five-chapter night walk through a Kyoto mountain temple, rende...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐597",
+    "reason": "🔥 爆款！⭐689",
     "source": "GitHub",
-    "stars": 597,
+    "stars": 689,
     "url": "https://github.com/MengTo/kage",
     "language": "HTML",
     "topics": [
@@ -199,41 +145,95 @@
     "core_features": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.。项目名称 kage，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML + creative-cod、generative-a、interactive-、japanese-des",
-    "highlights": "Star 数 597，功能完善，获得开发者广泛认可",
-    "stars_fmt": "597",
-    "forks": 105,
-    "growth": 597,
+    "highlights": "Star 数 689，功能完善，获得开发者广泛认可",
+    "stars_fmt": "689",
+    "forks": 117,
+    "growth": 689,
     "history": [
       {
         "day": "2026-08-10",
-        "stars": 597
+        "stars": 689
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
-    "id": 7,
+    "id": 5,
+    "title": "xoreaxeaxeax/asm-hall-of-shame",
+    "summary": "Racing to the bottom of CPU performance",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐679",
+    "source": "GitHub",
+    "stars": 679,
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "language": "C",
+    "topics": [],
+    "core_features": "Racing to the bottom of CPU performance。项目名称 asm-hall-of-shame，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "C",
+    "highlights": "Star 数 679，功能完善，获得开发者广泛认可",
+    "stars_fmt": "679",
+    "forks": 8,
+    "growth": 679,
+    "history": [
+      {
+        "day": "2026-08-10",
+        "stars": 679
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
     "title": "oil-oil/oil-motion",
     "summary": "Create smooth, responsive interactive web animations.",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐597",
+    "reason": "🔥 爆款！⭐657",
     "source": "GitHub",
-    "stars": 597,
+    "stars": 657,
     "url": "https://github.com/oil-oil/oil-motion",
     "language": "Python",
     "topics": [],
     "core_features": "Create smooth, responsive interactive web animations.。项目名称 oil-motion，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数 597，功能完善，获得开发者广泛认可",
-    "stars_fmt": "597",
-    "forks": 58,
-    "growth": 597,
+    "highlights": "Star 数 657，功能完善，获得开发者广泛认可",
+    "stars_fmt": "657",
+    "forks": 62,
+    "growth": 657,
     "history": [
       {
         "day": "2026-08-10",
-        "stars": 597
+        "stars": 657
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "jd-opensource/JoyAI-Video-Edit",
+    "summary": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Aut...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐655",
+    "source": "GitHub",
+    "stars": 655,
+    "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+    "language": "Python",
+    "topics": [],
+    "core_features": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion。项目名称 JoyAI-Video-Edit，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数 655，功能完善，获得开发者广泛认可",
+    "stars_fmt": "655",
+    "forks": 27,
+    "growth": 655,
+    "history": [
+      {
+        "day": "2026-08-10",
+        "stars": 655
       }
     ],
     "type_label": "🌙 每月热点"
