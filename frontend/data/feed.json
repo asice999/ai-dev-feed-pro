@@ -5,9 +5,9 @@
     "summary": "let your agent control your phone",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,581",
+    "reason": "🔥 爆款！⭐1,625",
     "source": "GitHub",
-    "stars": 1581,
+    "stars": 1625,
     "url": "https://github.com/ShawnPana/phone-harness",
     "language": "Python",
     "topics": [
@@ -19,14 +19,14 @@
     "core_features": "let your agent control your phone。项目名称 phone-harness，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent、ai、automation、developer-to",
-    "highlights": "Star 数突破 1,581，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,581",
-    "forks": 136,
-    "growth": 1581,
+    "highlights": "Star 数突破 1,625，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,625",
+    "forks": 141,
+    "growth": 1625,
     "history": [
       {
         "day": "2026-08-12",
-        "stars": 1581
+        "stars": 1625
       }
     ],
     "type_label": "🔥 每周热点"
@@ -37,90 +37,125 @@
     "summary": "Create smooth, responsive interactive web animations.",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,556",
+    "reason": "🔥 爆款！⭐1,594",
     "source": "GitHub",
-    "stars": 1556,
+    "stars": 1594,
     "url": "https://github.com/oil-oil/oil-motion",
     "language": "Python",
     "topics": [],
     "core_features": "Create smooth, responsive interactive web animations.。项目名称 oil-motion，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,556，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,556",
-    "forks": 118,
-    "growth": 1556,
+    "highlights": "Star 数突破 1,594，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,594",
+    "forks": 125,
+    "growth": 1594,
     "history": [
       {
         "day": "2026-08-12",
-        "stars": 1556
+        "stars": 1594
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
-    "title": "antirez/h3.c",
-    "summary": "MiniMax H3 inference engine for Mac computers",
-    "category": "macOS",
+    "title": "guillaumemeyer/watermarks-remover",
+    "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rew...",
+    "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,502",
+    "reason": "🔥 爆款！⭐1,583",
     "source": "GitHub",
-    "stars": 1502,
-    "url": "https://github.com/antirez/h3.c",
-    "language": "C",
-    "topics": [],
-    "core_features": "MiniMax H3 inference engine for Mac computers。项目名称 h3.c，属于 macOS 类别。",
-    "use_cases": "mac 桌面应用、效率工具",
-    "tech_stack": "C",
-    "highlights": "Star 数突破 1,502，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,502",
-    "forks": 75,
-    "growth": 1502,
+    "stars": 1583,
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "language": "Python",
+    "topics": [
+      "agent-skill",
+      "ai",
+      "c2pa",
+      "claude",
+      "provenance",
+      "synthid",
+      "watermark"
+    ],
+    "core_features": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD。项目名称 watermarks-remover，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + agent-skill、ai、c2pa、claude",
+    "highlights": "Star 数突破 1,583，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,583",
+    "forks": 150,
+    "growth": 1583,
     "history": [
       {
         "day": "2026-08-12",
-        "stars": 1502
+        "stars": 1583
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
-    "title": "eternityspring/shuohao-skills",
-    "summary": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production —...",
-    "category": "AI",
+    "title": "antirez/h3.c",
+    "summary": "MiniMax H3 inference engine for Mac computers",
+    "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,083",
+    "reason": "🔥 爆款！⭐1,571",
     "source": "GitHub",
-    "stars": 1083,
-    "url": "https://github.com/eternityspring/shuohao-skills",
-    "language": "JavaScript",
+    "stars": 1571,
+    "url": "https://github.com/antirez/h3.c",
+    "language": "C",
     "topics": [],
-    "core_features": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.。项目名称 shuohao-skills，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,083，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,083",
-    "forks": 125,
-    "growth": 1083,
+    "core_features": "MiniMax H3 inference engine for Mac computers。项目名称 h3.c，属于 macOS 类别。",
+    "use_cases": "mac 桌面应用、效率工具",
+    "tech_stack": "C",
+    "highlights": "Star 数突破 1,571，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,571",
+    "forks": 85,
+    "growth": 1571,
     "history": [
       {
         "day": "2026-08-12",
-        "stars": 1083
+        "stars": 1571
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 4,
+    "title": "eternityspring/shuohao-skills",
+    "summary": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama prod...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,154",
+    "source": "GitHub",
+    "stars": 1154,
+    "url": "https://github.com/eternityspring/shuohao-skills",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.。项目名称 shuohao-skills，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数突破 1,154，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,154",
+    "forks": 131,
+    "growth": 1154,
+    "history": [
+      {
+        "day": "2026-08-12",
+        "stars": 1154
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 5,
     "title": "Flaminis/Dalaran",
     "summary": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure fo...",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐847",
+    "reason": "🔥 爆款！⭐881",
     "source": "GitHub",
-    "stars": 847,
+    "stars": 881,
     "url": "https://github.com/Flaminis/Dalaran",
     "language": "Rust",
     "topics": [
@@ -138,71 +173,65 @@
     "core_features": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.。项目名称 Dalaran，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Rust + apache2、computer-vis、lidar、pointcloud",
-    "highlights": "Star 数 847，功能完善，获得开发者广泛认可",
-    "stars_fmt": "847",
-    "forks": 54,
-    "growth": 847,
+    "highlights": "Star 数 881，功能完善，获得开发者广泛认可",
+    "stars_fmt": "881",
+    "forks": 55,
+    "growth": 881,
     "history": [
       {
         "day": "2026-08-12",
-        "stars": 847
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "sohaibdevv/youtube-music",
-    "summary": "A lightweight, ad‑free client for streaming music from YouTube Music. No subs...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐841",
-    "source": "GitHub",
-    "stars": 841,
-    "url": "https://github.com/sohaibdevv/youtube-music",
-    "language": "TypeScript",
-    "topics": [
-      "ad-free",
-      "audio-streaming",
-      "background-playback",
-      "desktop-app",
-      "free",
-      "music",
-      "music-player",
-      "no-ads",
-      "open-source",
-      "player",
-      "playlist-manager",
-      "streaming",
-      "windows",
-      "youtube",
-      "youtube-music",
-      "yt-music"
-    ],
-    "core_features": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.。项目名称 youtube-music，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + ad-free、audio-stream、background-p、desktop-app",
-    "highlights": "Star 数 841，功能完善，获得开发者广泛认可",
-    "stars_fmt": "841",
-    "forks": 0,
-    "growth": 841,
-    "history": [
-      {
-        "day": "2026-08-12",
-        "stars": 841
+        "stars": 881
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 6,
+    "title": "LaoFeng-mouse/flyingmouse-format",
+    "summary": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppl...",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐850",
+    "source": "GitHub",
+    "stars": 850,
+    "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+    "language": "JavaScript",
+    "topics": [
+      "desktop-app",
+      "electron",
+      "ffmpeg",
+      "file-converter",
+      "format-converter",
+      "libreoffice",
+      "ocr",
+      "pdf",
+      "windows",
+      "wps"
+    ],
+    "core_features": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换。项目名称 flyingmouse-format，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "JavaScript + desktop-app、electron、ffmpeg、file-convert",
+    "highlights": "Star 数 850，功能完善，获得开发者广泛认可",
+    "stars_fmt": "850",
+    "forks": 62,
+    "growth": 850,
+    "history": [
+      {
+        "day": "2026-08-12",
+        "stars": 850
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
     "title": "MengTo/kage",
     "summary": "An interactive five-chapter night walk through a Kyoto mountain temple, rende...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐837",
+    "reason": "🔥 爆款！⭐850",
     "source": "GitHub",
-    "stars": 837,
+    "stars": 850,
     "url": "https://github.com/MengTo/kage",
     "language": "HTML",
     "topics": [
@@ -216,41 +245,14 @@
     "core_features": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.。项目名称 kage，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "HTML + creative-cod、generative-a、interactive-、japanese-des",
-    "highlights": "Star 数 837，功能完善，获得开发者广泛认可",
-    "stars_fmt": "837",
-    "forks": 147,
-    "growth": 837,
+    "highlights": "Star 数 850，功能完善，获得开发者广泛认可",
+    "stars_fmt": "850",
+    "forks": 153,
+    "growth": 850,
     "history": [
       {
         "day": "2026-08-12",
-        "stars": 837
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
-    "title": "xoreaxeaxeax/asm-hall-of-shame",
-    "summary": "Racing to the bottom of CPU performance",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐784",
-    "source": "GitHub",
-    "stars": 784,
-    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-    "language": "C",
-    "topics": [],
-    "core_features": "Racing to the bottom of CPU performance。项目名称 asm-hall-of-shame，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "C",
-    "highlights": "Star 数 784，功能完善，获得开发者广泛认可",
-    "stars_fmt": "784",
-    "forks": 11,
-    "growth": 784,
-    "history": [
-      {
-        "day": "2026-08-12",
-        "stars": 784
+        "stars": 850
       }
     ],
     "type_label": "🌙 每月热点"
