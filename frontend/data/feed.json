@@ -5,9 +5,9 @@
     "summary": "DeepSeek Harness: Everything is a Plugin.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐54,476",
+    "reason": "🔥 爆款！⭐76,736",
     "source": "GitHub",
-    "stars": 54476,
+    "stars": 76736,
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "language": "TypeScript",
     "topics": [
@@ -18,14 +18,14 @@
     "core_features": "DeepSeek Harness: Everything is a Plugin.。项目名称 deepseek-harness，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + cordis、dsh、dsh-plugin",
-    "highlights": "Star 数突破 54,476，社区活跃度高，增长迅猛",
-    "stars_fmt": "54,476",
-    "forks": 4426,
-    "growth": 54476,
+    "highlights": "Star 数突破 76,736，社区活跃度高，增长迅猛",
+    "stars_fmt": "76,736",
+    "forks": 6635,
+    "growth": 76736,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 54476
+        "stars": 76736
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -36,9 +36,9 @@
     "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rew...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐5,499",
+    "reason": "🔥 爆款！⭐6,007",
     "source": "GitHub",
-    "stars": 5499,
+    "stars": 6007,
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
     "language": "Python",
     "topics": [
@@ -53,14 +53,14 @@
     "core_features": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD。项目名称 watermarks-remover，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skill、ai、c2pa、claude",
-    "highlights": "Star 数突破 5,499，社区活跃度高，增长迅猛",
-    "stars_fmt": "5,499",
-    "forks": 572,
-    "growth": 5499,
+    "highlights": "Star 数突破 6,007，社区活跃度高，增长迅猛",
+    "stars_fmt": "6,007",
+    "forks": 643,
+    "growth": 6007,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 5499
+        "stars": 6007
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -71,36 +71,95 @@
     "summary": "MiniMax H3 inference engine for Mac computers",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,780",
+    "reason": "🔥 爆款！⭐1,808",
     "source": "GitHub",
-    "stars": 1780,
+    "stars": 1808,
     "url": "https://github.com/antirez/h3.c",
     "language": "C",
     "topics": [],
     "core_features": "MiniMax H3 inference engine for Mac computers。项目名称 h3.c，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "C",
-    "highlights": "Star 数突破 1,780，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,780",
-    "forks": 114,
-    "growth": 1780,
+    "highlights": "Star 数突破 1,808，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,808",
+    "forks": 116,
+    "growth": 1808,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 1780
+        "stars": 1808
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
+    "title": "zhu1090093659/dsh-web-ui",
+    "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, gi...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,207",
+    "source": "GitHub",
+    "stars": 1207,
+    "url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "language": "TypeScript",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "web-ui"
+    ],
+    "core_features": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.。项目名称 dsh-web-ui，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "TypeScript + deepseek-har、dsh、dsh-plugin、web-ui",
+    "highlights": "Star 数突破 1,207，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,207",
+    "forks": 50,
+    "growth": 1207,
+    "history": [
+      {
+        "day": "2026-08-14",
+        "stars": 1207
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
+    "title": "xoreaxeaxeax/skitter-creek-bath-salts",
+    "summary": "Unlocking _everything_ on the CPU with DRAM scrambling",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,198",
+    "source": "GitHub",
+    "stars": 1198,
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "language": "C",
+    "topics": [],
+    "core_features": "Unlocking _everything_ on the CPU with DRAM scrambling。项目名称 skitter-creek-bath-salts，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "C",
+    "highlights": "Star 数突破 1,198，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,198",
+    "forks": 112,
+    "growth": 1198,
+    "history": [
+      {
+        "day": "2026-08-14",
+        "stars": 1198
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 5,
     "title": "Leutenegger/book-to-skill",
     "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, refere...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,028",
+    "reason": "🔥 爆款！⭐1,047",
     "source": "GitHub",
-    "stars": 1028,
+    "stars": 1047,
     "url": "https://github.com/Leutenegger/book-to-skill",
     "language": "Python",
     "topics": [
@@ -128,54 +187,54 @@
     "core_features": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.。项目名称 book-to-skill，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python + agent、agent-memory、agent-skill、agent-skills",
-    "highlights": "Star 数突破 1,028，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,028",
-    "forks": 131,
-    "growth": 1028,
+    "highlights": "Star 数突破 1,047，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,047",
+    "forks": 133,
+    "growth": 1047,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 1028
+        "stars": 1047
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 4,
-    "title": "xoreaxeaxeax/skitter-creek-bath-salts",
-    "summary": "Unlocking _everything_ on the CPU with DRAM scrambling",
-    "category": "Other",
+    "id": 6,
+    "title": "cordiverse/paper",
+    "summary": "A Programming Paradigm for Spatiotemporal Composability",
+    "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,024",
+    "reason": "🔥 爆款！⭐972",
     "source": "GitHub",
-    "stars": 1024,
-    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "language": "C",
+    "stars": 972,
+    "url": "https://github.com/cordiverse/paper",
+    "language": "",
     "topics": [],
-    "core_features": "Unlocking _everything_ on the CPU with DRAM scrambling。项目名称 skitter-creek-bath-salts，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "C",
-    "highlights": "Star 数突破 1,024，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,024",
-    "forks": 101,
-    "growth": 1024,
+    "core_features": "A Programming Paradigm for Spatiotemporal Composability。项目名称 paper，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 972，功能完善，获得开发者广泛认可",
+    "stars_fmt": "972",
+    "forks": 35,
+    "growth": 972,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 1024
+        "stars": 972
       }
     ],
-    "type_label": "🔥 每周热点"
+    "type_label": "🌙 每月热点"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "SaladDay/pi-from-scratch",
     "summary": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐893",
+    "reason": "🔥 爆款！⭐928",
     "source": "GitHub",
-    "stars": 893,
+    "stars": 928,
     "url": "https://github.com/SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "topics": [
@@ -193,92 +252,14 @@
     "core_features": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent。项目名称 pi-from-scratch，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + agent-loop、ai-agent、coding-agent、llm",
-    "highlights": "Star 数 893，功能完善，获得开发者广泛认可",
-    "stars_fmt": "893",
-    "forks": 61,
-    "growth": 893,
+    "highlights": "Star 数 928，功能完善，获得开发者广泛认可",
+    "stars_fmt": "928",
+    "forks": 62,
+    "growth": 928,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 893
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
-    "title": "MengTo/kage",
-    "summary": "An interactive five-chapter night walk through a Kyoto mountain temple, rende...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐892",
-    "source": "GitHub",
-    "stars": 892,
-    "url": "https://github.com/MengTo/kage",
-    "language": "HTML",
-    "topics": [
-      "creative-coding",
-      "generative-art",
-      "interactive-storytelling",
-      "japanese-design",
-      "threejs",
-      "webgl"
-    ],
-    "core_features": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.。项目名称 kage，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "HTML + creative-cod、generative-a、interactive-、japanese-des",
-    "highlights": "Star 数 892，功能完善，获得开发者广泛认可",
-    "stars_fmt": "892",
-    "forks": 158,
-    "growth": 892,
-    "history": [
-      {
-        "day": "2026-08-14",
-        "stars": 892
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 7,
-    "title": "sohaibdevv/youtube-music",
-    "summary": "A lightweight, ad‑free client for streaming music from YouTube Music. No subs...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐855",
-    "source": "GitHub",
-    "stars": 855,
-    "url": "https://github.com/sohaibdevv/youtube-music",
-    "language": "TypeScript",
-    "topics": [
-      "ad-free",
-      "audio-streaming",
-      "background-playback",
-      "desktop-app",
-      "free",
-      "music",
-      "music-player",
-      "no-ads",
-      "open-source",
-      "player",
-      "playlist-manager",
-      "streaming",
-      "windows",
-      "youtube",
-      "youtube-music",
-      "yt-music"
-    ],
-    "core_features": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.。项目名称 youtube-music，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + ad-free、audio-stream、background-p、desktop-app",
-    "highlights": "Star 数 855，功能完善，获得开发者广泛认可",
-    "stars_fmt": "855",
-    "forks": 0,
-    "growth": 855,
-    "history": [
-      {
-        "day": "2026-08-14",
-        "stars": 855
+        "stars": 928
       }
     ],
     "type_label": "🌙 每月热点"
