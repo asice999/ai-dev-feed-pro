@@ -5,9 +5,9 @@
     "summary": "DeepSeek Harness: Everything is a Plugin.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐88,233",
+    "reason": "🔥 爆款！⭐94,053",
     "source": "GitHub",
-    "stars": 88233,
+    "stars": 94053,
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "language": "TypeScript",
     "topics": [
@@ -19,14 +19,14 @@
     "core_features": "DeepSeek Harness: Everything is a Plugin.。项目名称 deepseek-harness，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai-agents、cordis、dsh、dsh-plugin",
-    "highlights": "Star 数突破 88,233，社区活跃度高，增长迅猛",
-    "stars_fmt": "88,233",
-    "forks": 7890,
-    "growth": 88233,
+    "highlights": "Star 数突破 94,053，社区活跃度高，增长迅猛",
+    "stars_fmt": "94,053",
+    "forks": 8639,
+    "growth": 94053,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 88233
+        "stars": 94053
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -37,9 +37,9 @@
     "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rew...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐6,725",
+    "reason": "🔥 爆款！⭐7,630",
     "source": "GitHub",
-    "stars": 6725,
+    "stars": 7630,
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
     "language": "Python",
     "topics": [
@@ -54,54 +54,27 @@
     "core_features": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD。项目名称 watermarks-remover，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skill、ai、c2pa、claude",
-    "highlights": "Star 数突破 6,725，社区活跃度高，增长迅猛",
-    "stars_fmt": "6,725",
-    "forks": 721,
-    "growth": 6725,
+    "highlights": "Star 数突破 7,630，社区活跃度高，增长迅猛",
+    "stars_fmt": "7,630",
+    "forks": 807,
+    "growth": 7630,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 6725
+        "stars": 7630
       }
     ],
     "type_label": "📌 收藏和fork"
   },
   {
     "id": 2,
-    "title": "antirez/h3.c",
-    "summary": "MiniMax H3 inference engine for Mac computers",
-    "category": "macOS",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,827",
-    "source": "GitHub",
-    "stars": 1827,
-    "url": "https://github.com/antirez/h3.c",
-    "language": "C",
-    "topics": [],
-    "core_features": "MiniMax H3 inference engine for Mac computers。项目名称 h3.c，属于 macOS 类别。",
-    "use_cases": "mac 桌面应用、效率工具",
-    "tech_stack": "C",
-    "highlights": "Star 数突破 1,827，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,827",
-    "forks": 119,
-    "growth": 1827,
-    "history": [
-      {
-        "day": "2026-08-14",
-        "stars": 1827
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
     "title": "zhu1090093659/dsh-web-ui",
     "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, gi...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,660",
+    "reason": "🔥 爆款！⭐1,900",
     "source": "GitHub",
-    "stars": 1660,
+    "stars": 1900,
     "url": "https://github.com/zhu1090093659/dsh-web-ui",
     "language": "TypeScript",
     "topics": [
@@ -113,81 +86,142 @@
     "core_features": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.。项目名称 dsh-web-ui，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript + deepseek-har、dsh、dsh-plugin、web-ui",
-    "highlights": "Star 数突破 1,660，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,660",
-    "forks": 73,
-    "growth": 1660,
+    "highlights": "Star 数突破 1,900，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,900",
+    "forks": 92,
+    "growth": 1900,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 1660
+        "stars": 1900
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
+    "title": "antirez/h3.c",
+    "summary": "MiniMax H3 inference engine for Mac computers",
+    "category": "macOS",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,835",
+    "source": "GitHub",
+    "stars": 1835,
+    "url": "https://github.com/antirez/h3.c",
+    "language": "C",
+    "topics": [],
+    "core_features": "MiniMax H3 inference engine for Mac computers。项目名称 h3.c，属于 macOS 类别。",
+    "use_cases": "mac 桌面应用、效率工具",
+    "tech_stack": "C",
+    "highlights": "Star 数突破 1,835，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,835",
+    "forks": 120,
+    "growth": 1835,
+    "history": [
+      {
+        "day": "2026-08-14",
+        "stars": 1835
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 4,
-    "title": "xoreaxeaxeax/skitter-creek-bath-salts",
-    "summary": "Unlocking _everything_ on the CPU with DRAM scrambling",
+    "title": "anywhere-labs/deepseek-harness-desktop",
+    "summary": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,396",
+    "reason": "🔥 爆款！⭐1,656",
     "source": "GitHub",
-    "stars": 1396,
-    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "language": "C",
-    "topics": [],
-    "core_features": "Unlocking _everything_ on the CPU with DRAM scrambling。项目名称 skitter-creek-bath-salts，属于 其他 类别。",
+    "stars": 1656,
+    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "language": "TypeScript",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "desktop",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-desktop"
+    ],
+    "core_features": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验。项目名称 deepseek-harness-desktop，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
-    "tech_stack": "C",
-    "highlights": "Star 数突破 1,396，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,396",
-    "forks": 117,
-    "growth": 1396,
+    "tech_stack": "TypeScript + deepseek、deepseek-har、desktop、dsh",
+    "highlights": "Star 数突破 1,656，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,656",
+    "forks": 86,
+    "growth": 1656,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 1396
+        "stars": 1656
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 5,
-    "title": "cordiverse/paper",
-    "summary": "A Programming Paradigm for Spatiotemporal Composability",
-    "category": "Developer-Tools",
+    "title": "xoreaxeaxeax/skitter-creek-bath-salts",
+    "summary": "Unlocking _everything_ on the CPU with DRAM scrambling",
+    "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,146",
+    "reason": "🔥 爆款！⭐1,510",
     "source": "GitHub",
-    "stars": 1146,
-    "url": "https://github.com/cordiverse/paper",
-    "language": "",
+    "stars": 1510,
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "language": "C",
     "topics": [],
-    "core_features": "A Programming Paradigm for Spatiotemporal Composability。项目名称 paper，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,146，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,146",
-    "forks": 41,
-    "growth": 1146,
+    "core_features": "Unlocking _everything_ on the CPU with DRAM scrambling。项目名称 skitter-creek-bath-salts，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "C",
+    "highlights": "Star 数突破 1,510，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,510",
+    "forks": 125,
+    "growth": 1510,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 1146
+        "stars": 1510
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 6,
+    "title": "cordiverse/paper",
+    "summary": "A Programming Paradigm for Spatiotemporal Composability",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,267",
+    "source": "GitHub",
+    "stars": 1267,
+    "url": "https://github.com/cordiverse/paper",
+    "language": "",
+    "topics": [],
+    "core_features": "A Programming Paradigm for Spatiotemporal Composability。项目名称 paper，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数突破 1,267，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,267",
+    "forks": 46,
+    "growth": 1267,
+    "history": [
+      {
+        "day": "2026-08-14",
+        "stars": 1267
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 7,
     "title": "Leutenegger/book-to-skill",
     "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, refere...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,054",
+    "reason": "🔥 爆款！⭐1,058",
     "source": "GitHub",
-    "stars": 1054,
+    "stars": 1058,
     "url": "https://github.com/Leutenegger/book-to-skill",
     "language": "Python",
     "topics": [
@@ -215,54 +249,16 @@
     "core_features": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.。项目名称 book-to-skill，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python + agent、agent-memory、agent-skill、agent-skills",
-    "highlights": "Star 数突破 1,054，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,054",
-    "forks": 134,
-    "growth": 1054,
+    "highlights": "Star 数突破 1,058，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,058",
+    "forks": 135,
+    "growth": 1058,
     "history": [
       {
         "day": "2026-08-14",
-        "stars": 1054
+        "stars": 1058
       }
     ],
     "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 7,
-    "title": "SaladDay/pi-from-scratch",
-    "summary": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐957",
-    "source": "GitHub",
-    "stars": 957,
-    "url": "https://github.com/SaladDay/pi-from-scratch",
-    "language": "TypeScript",
-    "topics": [
-      "agent-loop",
-      "ai-agent",
-      "coding-agent",
-      "llm",
-      "llm-agent",
-      "pi",
-      "pi-agent",
-      "tool-calling",
-      "typescript",
-      "typescript-tutorial"
-    ],
-    "core_features": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent。项目名称 pi-from-scratch，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + agent-loop、ai-agent、coding-agent、llm",
-    "highlights": "Star 数 957，功能完善，获得开发者广泛认可",
-    "stars_fmt": "957",
-    "forks": 64,
-    "growth": 957,
-    "history": [
-      {
-        "day": "2026-08-14",
-        "stars": 957
-      }
-    ],
-    "type_label": "🌙 每月热点"
   }
 ]
