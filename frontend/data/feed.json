@@ -5,9 +5,9 @@
     "summary": "DeepSeek Harness: Everything is a Plugin.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐120,291",
+    "reason": "🔥 爆款！⭐125,536",
     "source": "GitHub",
-    "stars": 120291,
+    "stars": 125536,
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "language": "TypeScript",
     "topics": [
@@ -19,14 +19,14 @@
     "core_features": "DeepSeek Harness: Everything is a Plugin.。项目名称 deepseek-harness，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai-agents、cordis、dsh、dsh-plugin",
-    "highlights": "Star 数突破 120,291，社区活跃度高，增长迅猛",
-    "stars_fmt": "120,291",
-    "forks": 11856,
-    "growth": 120291,
+    "highlights": "Star 数突破 125,536，社区活跃度高，增长迅猛",
+    "stars_fmt": "125,536",
+    "forks": 12472,
+    "growth": 125536,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 120291
+        "stars": 125536
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -37,9 +37,9 @@
     "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rew...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐10,036",
+    "reason": "🔥 爆款！⭐10,404",
     "source": "GitHub",
-    "stars": 10036,
+    "stars": 10404,
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
     "language": "Python",
     "topics": [
@@ -54,14 +54,14 @@
     "core_features": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD。项目名称 watermarks-remover，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + agent-skill、ai、c2pa、claude",
-    "highlights": "Star 数突破 10,036，社区活跃度高，增长迅猛",
-    "stars_fmt": "10,036",
-    "forks": 1036,
-    "growth": 10036,
+    "highlights": "Star 数突破 10,404，社区活跃度高，增长迅猛",
+    "stars_fmt": "10,404",
+    "forks": 1073,
+    "growth": 10404,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 10036
+        "stars": 10404
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -72,9 +72,9 @@
     "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐6,990",
+    "reason": "🔥 爆款！⭐8,029",
     "source": "GitHub",
-    "stars": 6990,
+    "stars": 8029,
     "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "language": "TypeScript",
     "topics": [
@@ -88,14 +88,14 @@
     "core_features": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。项目名称 deepseek-harness-desktop，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "TypeScript + deepseek、deepseek-har、desktop、dsh",
-    "highlights": "Star 数突破 6,990，社区活跃度高，增长迅猛",
-    "stars_fmt": "6,990",
-    "forks": 301,
-    "growth": 6990,
+    "highlights": "Star 数突破 8,029，社区活跃度高，增长迅猛",
+    "stars_fmt": "8,029",
+    "forks": 334,
+    "growth": 8029,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 6990
+        "stars": 8029
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -106,9 +106,9 @@
     "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,448",
+    "reason": "🔥 爆款！⭐4,132",
     "source": "GitHub",
-    "stars": 3448,
+    "stars": 4132,
     "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "language": "Python",
     "topics": [
@@ -121,14 +121,14 @@
     "core_features": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表。项目名称 awesome-dsh-plugin，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python + awesome、awesome-list、deepseek-har、dsh",
-    "highlights": "Star 数突破 3,448，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,448",
-    "forks": 687,
-    "growth": 3448,
+    "highlights": "Star 数突破 4,132，社区活跃度高，增长迅猛",
+    "stars_fmt": "4,132",
+    "forks": 780,
+    "growth": 4132,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 3448
+        "stars": 4132
       }
     ],
     "type_label": "🔥 每周热点"
@@ -139,9 +139,9 @@
     "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, gi...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,906",
+    "reason": "🔥 爆款！⭐3,177",
     "source": "GitHub",
-    "stars": 2906,
+    "stars": 3177,
     "url": "https://github.com/zhu1090093659/dsh-web-ui",
     "language": "TypeScript",
     "topics": [
@@ -153,14 +153,14 @@
     "core_features": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.。项目名称 dsh-web-ui，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript + deepseek-har、dsh、dsh-plugin、web-ui",
-    "highlights": "Star 数突破 2,906，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,906",
-    "forks": 165,
-    "growth": 2906,
+    "highlights": "Star 数突破 3,177，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,177",
+    "forks": 185,
+    "growth": 3177,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 2906
+        "stars": 3177
       }
     ],
     "type_label": "🔥 每周热点"
@@ -171,9 +171,9 @@
     "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Stand...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,489",
+    "reason": "🔥 爆款！⭐2,737",
     "source": "GitHub",
-    "stars": 2489,
+    "stars": 2737,
     "url": "https://github.com/xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "topics": [
@@ -185,14 +185,14 @@
     "core_features": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)。项目名称 dsh-anchored-standard，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript + deepseek、deepseek-har、dsh-plugin、llm-agent",
-    "highlights": "Star 数突破 2,489，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,489",
-    "forks": 77,
-    "growth": 2489,
+    "highlights": "Star 数突破 2,737，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,737",
+    "forks": 85,
+    "growth": 2737,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 2489
+        "stars": 2737
       }
     ],
     "type_label": "🔥 每周热点"
@@ -203,23 +203,23 @@
     "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injec...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,119",
+    "reason": "🔥 爆款！⭐2,505",
     "source": "GitHub",
-    "stars": 2119,
+    "stars": 2505,
     "url": "https://github.com/yjh051108/dsh-routing-suite",
     "language": "PowerShell",
     "topics": [],
     "core_features": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).。项目名称 dsh-routing-suite，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "PowerShell",
-    "highlights": "Star 数突破 2,119，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,119",
-    "forks": 53,
-    "growth": 2119,
+    "highlights": "Star 数突破 2,505，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,505",
+    "forks": 62,
+    "growth": 2505,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 2119
+        "stars": 2505
       }
     ],
     "type_label": "🔥 每周热点"
@@ -230,23 +230,23 @@
     "summary": "A Programming Paradigm for Spatiotemporal Composability",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,689",
+    "reason": "🔥 爆款！⭐1,773",
     "source": "GitHub",
-    "stars": 1689,
+    "stars": 1773,
     "url": "https://github.com/cordiverse/paper",
     "language": "",
     "topics": [],
     "core_features": "A Programming Paradigm for Spatiotemporal Composability。项目名称 paper，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,689，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,689",
-    "forks": 65,
-    "growth": 1689,
+    "highlights": "Star 数突破 1,773，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,773",
+    "forks": 68,
+    "growth": 1773,
     "history": [
       {
         "day": "2026-08-16",
-        "stars": 1689
+        "stars": 1773
       }
     ],
     "type_label": "🔥 每周热点"
