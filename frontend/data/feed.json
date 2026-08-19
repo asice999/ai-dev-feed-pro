@@ -5,9 +5,9 @@
     "summary": "DeepSeek Harness: Everything is a Plugin.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐165,118",
+    "reason": "🔥 爆款！⭐166,520",
     "source": "GitHub",
-    "stars": 165118,
+    "stars": 166520,
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "language": "TypeScript",
     "topics": [
@@ -19,14 +19,14 @@
     "core_features": "DeepSeek Harness: Everything is a Plugin.。项目名称 deepseek-harness，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai-agents、cordis、dsh、dsh-plugin",
-    "highlights": "Star 数突破 165,118，社区活跃度高，增长迅猛",
-    "stars_fmt": "165,118",
-    "forks": 17537,
-    "growth": 165118,
+    "highlights": "Star 数突破 166,520，社区活跃度高，增长迅猛",
+    "stars_fmt": "166,520",
+    "forks": 17739,
+    "growth": 166520,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 165118
+        "stars": 166520
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -37,9 +37,9 @@
     "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐14,744",
+    "reason": "🔥 爆款！⭐15,058",
     "source": "GitHub",
-    "stars": 14744,
+    "stars": 15058,
     "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "language": "TypeScript",
     "topics": [
@@ -55,14 +55,14 @@
     "core_features": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。。项目名称 deepseek-harness-desktop，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "TypeScript + cordis、cordis-plugi、deepseek、deepseek-har",
-    "highlights": "Star 数突破 14,744，社区活跃度高，增长迅猛",
-    "stars_fmt": "14,744",
-    "forks": 685,
-    "growth": 14744,
+    "highlights": "Star 数突破 15,058，社区活跃度高，增长迅猛",
+    "stars_fmt": "15,058",
+    "forks": 709,
+    "growth": 15058,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 14744
+        "stars": 15058
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -73,9 +73,9 @@
     "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐9,821",
+    "reason": "🔥 爆款！⭐10,010",
     "source": "GitHub",
-    "stars": 9821,
+    "stars": 10010,
     "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "language": "Python",
     "topics": [
@@ -88,14 +88,14 @@
     "core_features": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表。项目名称 awesome-dsh-plugin，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Python + awesome、awesome-list、deepseek-har、dsh",
-    "highlights": "Star 数突破 9,821，社区活跃度高，增长迅猛",
-    "stars_fmt": "9,821",
-    "forks": 1444,
-    "growth": 9821,
+    "highlights": "Star 数突破 10,010，社区活跃度高，增长迅猛",
+    "stars_fmt": "10,010",
+    "forks": 1473,
+    "growth": 10010,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 9821
+        "stars": 10010
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -106,23 +106,23 @@
     "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injec...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐6,228",
+    "reason": "🔥 爆款！⭐6,282",
     "source": "GitHub",
-    "stars": 6228,
+    "stars": 6282,
     "url": "https://github.com/yjh051108/dsh-routing-suite",
     "language": "PowerShell",
     "topics": [],
     "core_features": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).。项目名称 dsh-routing-suite，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "PowerShell",
-    "highlights": "Star 数突破 6,228，社区活跃度高，增长迅猛",
-    "stars_fmt": "6,228",
-    "forks": 111,
-    "growth": 6228,
+    "highlights": "Star 数突破 6,282，社区活跃度高，增长迅猛",
+    "stars_fmt": "6,282",
+    "forks": 112,
+    "growth": 6282,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 6228
+        "stars": 6282
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -133,9 +133,9 @@
     "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Stand...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,620",
+    "reason": "🔥 爆款！⭐3,633",
     "source": "GitHub",
-    "stars": 3620,
+    "stars": 3633,
     "url": "https://github.com/xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "topics": [
@@ -147,14 +147,14 @@
     "core_features": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)。项目名称 dsh-anchored-standard，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript + deepseek、deepseek-har、dsh-plugin、llm-agent",
-    "highlights": "Star 数突破 3,620，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,620",
+    "highlights": "Star 数突破 3,633，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,633",
     "forks": 108,
-    "growth": 3620,
+    "growth": 3633,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 3620
+        "stars": 3633
       }
     ],
     "type_label": "🔥 每周热点"
@@ -165,23 +165,23 @@
     "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,624",
+    "reason": "🔥 爆款！⭐2,673",
     "source": "GitHub",
-    "stars": 2624,
+    "stars": 2673,
     "url": "https://github.com/yetone/cumora",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.。项目名称 cumora，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 2,624，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,624",
-    "forks": 295,
-    "growth": 2624,
+    "highlights": "Star 数突破 2,673，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,673",
+    "forks": 304,
+    "growth": 2673,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 2624
+        "stars": 2673
       }
     ],
     "type_label": "🔥 每周热点"
@@ -192,23 +192,23 @@
     "summary": "A Programming Paradigm for Spatiotemporal Composability",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,359",
+    "reason": "🔥 爆款！⭐2,383",
     "source": "GitHub",
-    "stars": 2359,
+    "stars": 2383,
     "url": "https://github.com/cordiverse/paper",
     "language": "",
     "topics": [],
     "core_features": "A Programming Paradigm for Spatiotemporal Composability。项目名称 paper，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 2,359，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,359",
-    "forks": 99,
-    "growth": 2359,
+    "highlights": "Star 数突破 2,383，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,383",
+    "forks": 101,
+    "growth": 2383,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 2359
+        "stars": 2383
       }
     ],
     "type_label": "🔥 每周热点"
@@ -219,9 +219,9 @@
     "summary": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,053",
+    "reason": "🔥 爆款！⭐2,074",
     "source": "GitHub",
-    "stars": 2053,
+    "stars": 2074,
     "url": "https://github.com/ccch1mneyyy/dsh-TUI",
     "language": "TypeScript",
     "topics": [
@@ -238,14 +238,14 @@
     "core_features": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.。项目名称 dsh-TUI，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript + claude-code、coding-agent、deepseek、deepseek-har",
-    "highlights": "Star 数突破 2,053，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,053",
-    "forks": 91,
-    "growth": 2053,
+    "highlights": "Star 数突破 2,074，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,074",
+    "forks": 92,
+    "growth": 2074,
     "history": [
       {
         "day": "2026-08-19",
-        "stars": 2053
+        "stars": 2074
       }
     ],
     "type_label": "🔥 每周热点"
