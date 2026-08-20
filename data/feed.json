@@ -5,23 +5,23 @@
     "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injec...",
     "category": "Design",
     "score": 10,
-    "reason": "🔥 爆款！⭐6,366",
+    "reason": "🔥 爆款！⭐6,419",
     "source": "GitHub",
-    "stars": 6366,
+    "stars": 6419,
     "url": "https://github.com/yjh051108/dsh-routing-suite",
     "language": "PowerShell",
     "topics": [],
     "core_features": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).。项目名称 dsh-routing-suite，属于 设计 类别。",
     "use_cases": "UI/UX 设计、原型制作、设计系统管理",
     "tech_stack": "PowerShell",
-    "highlights": "Star 数突破 6,366，社区活跃度高，增长迅猛",
-    "stars_fmt": "6,366",
-    "forks": 114,
-    "growth": 6366,
+    "highlights": "Star 数突破 6,419，社区活跃度高，增长迅猛",
+    "stars_fmt": "6,419",
+    "forks": 117,
+    "growth": 6419,
     "history": [
       {
         "day": "2026-08-20",
-        "stars": 6366
+        "stars": 6419
       }
     ],
     "type_label": "📌 收藏和fork"
@@ -32,9 +32,9 @@
     "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Stand...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,650",
+    "reason": "🔥 爆款！⭐3,668",
     "source": "GitHub",
-    "stars": 3650,
+    "stars": 3668,
     "url": "https://github.com/xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "topics": [
@@ -46,54 +46,27 @@
     "core_features": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)。项目名称 dsh-anchored-standard，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "JavaScript + deepseek、deepseek-har、dsh-plugin、llm-agent",
-    "highlights": "Star 数突破 3,650，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,650",
+    "highlights": "Star 数突破 3,668，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,668",
     "forks": 110,
-    "growth": 3650,
+    "growth": 3668,
     "history": [
       {
         "day": "2026-08-20",
-        "stars": 3650
+        "stars": 3668
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 2,
-    "title": "yetone/cumora",
-    "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐2,730",
-    "source": "GitHub",
-    "stars": 2730,
-    "url": "https://github.com/yetone/cumora",
-    "language": "TypeScript",
-    "topics": [],
-    "core_features": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.。项目名称 cumora，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 2,730，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,730",
-    "forks": 316,
-    "growth": 2730,
-    "history": [
-      {
-        "day": "2026-08-20",
-        "stars": 2730
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
     "title": "s1dashu/ip-as-logo-skill",
     "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,448",
+    "reason": "🔥 爆款！⭐2,828",
     "source": "GitHub",
-    "stars": 2448,
+    "stars": 2828,
     "url": "https://github.com/s1dashu/ip-as-logo-skill",
     "language": "",
     "topics": [
@@ -106,14 +79,41 @@
     "core_features": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.。项目名称 ip-as-logo-skill，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 2,448，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,448",
-    "forks": 110,
-    "growth": 2448,
+    "highlights": "Star 数突破 2,828，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,828",
+    "forks": 131,
+    "growth": 2828,
     "history": [
       {
         "day": "2026-08-20",
-        "stars": 2448
+        "stars": 2828
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
+    "title": "yetone/cumora",
+    "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐2,758",
+    "source": "GitHub",
+    "stars": 2758,
+    "url": "https://github.com/yetone/cumora",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.。项目名称 cumora，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数突破 2,758，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,758",
+    "forks": 321,
+    "growth": 2758,
+    "history": [
+      {
+        "day": "2026-08-20",
+        "stars": 2758
       }
     ],
     "type_label": "🔥 每周热点"
@@ -124,9 +124,9 @@
     "summary": "The plugin market inside DeepSeek Harness — browse, search, one-click install...",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,329",
+    "reason": "🔥 爆款！⭐1,393",
     "source": "GitHub",
-    "stars": 1329,
+    "stars": 1393,
     "url": "https://github.com/dsh-market/dsh-market",
     "language": "TypeScript",
     "topics": [
@@ -137,14 +137,14 @@
     "core_features": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场。项目名称 dsh-market，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "TypeScript + deepseek-har、dsh-plugin、marketplace",
-    "highlights": "Star 数突破 1,329，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,329",
-    "forks": 79,
-    "growth": 1329,
+    "highlights": "Star 数突破 1,393，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,393",
+    "forks": 83,
+    "growth": 1393,
     "history": [
       {
         "day": "2026-08-20",
-        "stars": 1329
+        "stars": 1393
       }
     ],
     "type_label": "🔥 每周热点"
@@ -155,9 +155,9 @@
     "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking,...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,195",
+    "reason": "🔥 爆款！⭐1,198",
     "source": "GitHub",
-    "stars": 1195,
+    "stars": 1198,
     "url": "https://github.com/cinderline/northcinder",
     "language": "JavaScript",
     "topics": [
@@ -175,27 +175,62 @@
     "core_features": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.。项目名称 northcinder，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript + agentic-comm、human-in-the、local-first、mcp",
-    "highlights": "Star 数突破 1,195，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,195",
+    "highlights": "Star 数突破 1,198，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,198",
     "forks": 5,
-    "growth": 1195,
+    "growth": 1198,
     "history": [
       {
         "day": "2026-08-20",
-        "stars": 1195
+        "stars": 1198
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 6,
+    "title": "CopilotKit/openbot",
+    "summary": "Open-source AI coworkers that each get a computer of their own: a browser, fi...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,124",
+    "source": "GitHub",
+    "stars": 1124,
+    "url": "https://github.com/CopilotKit/openbot",
+    "language": "TypeScript",
+    "topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "core_features": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.。项目名称 openbot，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript + ag-ui、agent-govern、ai-agents、browser-auto",
+    "highlights": "Star 数突破 1,124，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,124",
+    "forks": 108,
+    "growth": 1124,
+    "history": [
+      {
+        "day": "2026-08-20",
+        "stars": 1124
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 7,
     "title": "ZSvirt/zsvirt",
     "summary": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
     "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,094",
+    "reason": "🔥 爆款！⭐1,107",
     "source": "GitHub",
-    "stars": 1094,
+    "stars": 1107,
     "url": "https://github.com/ZSvirt/zsvirt",
     "language": "Java",
     "topics": [
@@ -213,41 +248,14 @@
     "core_features": "Core IaaS engine and cloud infrastructure foundation of ZSvirt。项目名称 zsvirt，属于 其他 类别。",
     "use_cases": "通用工具、开源项目",
     "tech_stack": "Java + cloud-native、hypervisor、infrastructu、kvm",
-    "highlights": "Star 数突破 1,094，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,094",
+    "highlights": "Star 数突破 1,107，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,107",
     "forks": 155,
-    "growth": 1094,
+    "growth": 1107,
     "history": [
       {
         "day": "2026-08-20",
-        "stars": 1094
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 7,
-    "title": "alchaincyf/deepseek-harness-orange-book",
-    "summary": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/H...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,091",
-    "source": "GitHub",
-    "stars": 1091,
-    "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
-    "language": "HTML",
-    "topics": [],
-    "core_features": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载。项目名称 deepseek-harness-orange-book，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "HTML",
-    "highlights": "Star 数突破 1,091，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,091",
-    "forks": 96,
-    "growth": 1091,
-    "history": [
-      {
-        "day": "2026-08-20",
-        "stars": 1091
+        "stars": 1107
       }
     ],
     "type_label": "🔥 每周热点"
