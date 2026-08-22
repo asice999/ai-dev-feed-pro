@@ -1,72 +1,13 @@
 [
   {
     "id": 0,
-    "title": "yjh051108/dsh-routing-suite",
-    "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injec...",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐6,445",
-    "source": "GitHub",
-    "stars": 6445,
-    "url": "https://github.com/yjh051108/dsh-routing-suite",
-    "language": "PowerShell",
-    "topics": [],
-    "core_features": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).。项目名称 dsh-routing-suite，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "PowerShell",
-    "highlights": "Star 数突破 6,445，社区活跃度高，增长迅猛",
-    "stars_fmt": "6,445",
-    "forks": 119,
-    "growth": 6445,
-    "history": [
-      {
-        "day": "2026-08-20",
-        "stars": 6445
-      }
-    ],
-    "type_label": "📌 收藏和fork"
-  },
-  {
-    "id": 1,
-    "title": "xiaobright/dsh-anchored-standard",
-    "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Stand...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐3,678",
-    "source": "GitHub",
-    "stars": 3678,
-    "url": "https://github.com/xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "topics": [
-      "deepseek",
-      "deepseek-harness",
-      "dsh-plugin",
-      "llm-agent"
-    ],
-    "core_features": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)。项目名称 dsh-anchored-standard，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "JavaScript + deepseek、deepseek-har、dsh-plugin、llm-agent",
-    "highlights": "Star 数突破 3,678，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,678",
-    "forks": 110,
-    "growth": 3678,
-    "history": [
-      {
-        "day": "2026-08-20",
-        "stars": 3678
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
     "title": "s1dashu/ip-as-logo-skill",
     "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐3,003",
+    "reason": "🔥 爆款！⭐3,489",
     "source": "GitHub",
-    "stars": 3003,
+    "stars": 3489,
     "url": "https://github.com/s1dashu/ip-as-logo-skill",
     "language": "",
     "topics": [
@@ -79,85 +20,54 @@
     "core_features": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.。项目名称 ip-as-logo-skill，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 3,003，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,003",
-    "forks": 145,
-    "growth": 3003,
+    "highlights": "Star 数突破 3,489，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,489",
+    "forks": 171,
+    "growth": 3489,
     "history": [
       {
-        "day": "2026-08-20",
-        "stars": 3003
+        "day": "2026-08-22",
+        "stars": 3489
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 3,
+    "id": 1,
     "title": "yetone/cumora",
     "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,769",
+    "reason": "🔥 爆款！⭐2,858",
     "source": "GitHub",
-    "stars": 2769,
+    "stars": 2858,
     "url": "https://github.com/yetone/cumora",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.。项目名称 cumora，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 2,769，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,769",
-    "forks": 325,
-    "growth": 2769,
+    "highlights": "Star 数突破 2,858，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,858",
+    "forks": 346,
+    "growth": 2858,
     "history": [
       {
-        "day": "2026-08-20",
-        "stars": 2769
+        "day": "2026-08-22",
+        "stars": 2858
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 4,
-    "title": "dsh-market/dsh-market",
-    "summary": "The plugin market inside DeepSeek Harness — browse, search, one-click install...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,440",
-    "source": "GitHub",
-    "stars": 1440,
-    "url": "https://github.com/dsh-market/dsh-market",
-    "language": "TypeScript",
-    "topics": [
-      "deepseek-harness",
-      "dsh-plugin",
-      "marketplace"
-    ],
-    "core_features": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场。项目名称 dsh-market，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "TypeScript + deepseek-har、dsh-plugin、marketplace",
-    "highlights": "Star 数突破 1,440，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,440",
-    "forks": 85,
-    "growth": 1440,
-    "history": [
-      {
-        "day": "2026-08-20",
-        "stars": 1440
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 5,
+    "id": 2,
     "title": "CopilotKit/OpenBot",
     "summary": "Open-source AI coworkers that each get a computer of their own: a browser, fi...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,407",
+    "reason": "🔥 爆款！⭐2,125",
     "source": "GitHub",
-    "stars": 1407,
+    "stars": 2125,
     "url": "https://github.com/CopilotKit/OpenBot",
     "language": "TypeScript",
     "topics": [
@@ -172,27 +82,27 @@
     "core_features": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.。项目名称 OpenBot，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ag-ui、agent-govern、ai-agents、browser-auto",
-    "highlights": "Star 数突破 1,407，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,407",
-    "forks": 147,
-    "growth": 1407,
+    "highlights": "Star 数突破 2,125，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,125",
+    "forks": 228,
+    "growth": 2125,
     "history": [
       {
-        "day": "2026-08-20",
-        "stars": 1407
+        "day": "2026-08-22",
+        "stars": 2125
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 6,
+    "id": 3,
     "title": "cinderline/northcinder",
     "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking,...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,198",
+    "reason": "🔥 爆款！⭐1,203",
     "source": "GitHub",
-    "stars": 1198,
+    "stars": 1203,
     "url": "https://github.com/cinderline/northcinder",
     "language": "JavaScript",
     "topics": [
@@ -210,54 +120,160 @@
     "core_features": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.。项目名称 northcinder，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript + agentic-comm、human-in-the、local-first、mcp",
-    "highlights": "Star 数突破 1,198，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,198",
+    "highlights": "Star 数突破 1,203，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,203",
     "forks": 5,
-    "growth": 1198,
+    "growth": 1203,
     "history": [
       {
-        "day": "2026-08-20",
-        "stars": 1198
+        "day": "2026-08-22",
+        "stars": 1203
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 7,
-    "title": "ZSvirt/zsvirt",
-    "summary": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-    "category": "Other",
+    "id": 4,
+    "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "summary": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that...",
+    "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,132",
+    "reason": "🔥 爆款！⭐1,036",
     "source": "GitHub",
-    "stars": 1132,
-    "url": "https://github.com/ZSvirt/zsvirt",
-    "language": "Java",
+    "stars": 1036,
+    "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "language": "",
     "topics": [
-      "cloud-native",
-      "hypervisor",
-      "infrastructure",
-      "kvm",
-      "proxmox",
-      "virtual-machine",
-      "virtualization",
-      "vm",
-      "vmware-labs",
-      "vsphere"
+      "agent-skills",
+      "ai-agent",
+      "benchmark",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin"
     ],
-    "core_features": "Core IaaS engine and cloud infrastructure foundation of ZSvirt。项目名称 zsvirt，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "Java + cloud-native、hypervisor、infrastructu、kvm",
-    "highlights": "Star 数突破 1,132，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,132",
-    "forks": 156,
-    "growth": 1132,
+    "core_features": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).。项目名称 DeepSeek-V4-J-Space-Capability-Realization-Report，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数突破 1,036，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,036",
+    "forks": 67,
+    "growth": 1036,
     "history": [
       {
-        "day": "2026-08-20",
-        "stars": 1132
+        "day": "2026-08-22",
+        "stars": 1036
       }
     ],
     "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 5,
+    "title": "wang2122/sprix-sage-router",
+    "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,009",
+    "source": "GitHub",
+    "stars": 1009,
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "language": "Python",
+    "topics": [
+      "a2a",
+      "agent-orchestration",
+      "agent-routing",
+      "ai-agents",
+      "multi-agent-systems",
+      "python",
+      "sprix-ai",
+      "task-scheduling"
+    ],
+    "core_features": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.。项目名称 sprix-sage-router，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + a2a、agent-orches、agent-routin、ai-agents",
+    "highlights": "Star 数突破 1,009，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,009",
+    "forks": 12,
+    "growth": 1009,
+    "history": [
+      {
+        "day": "2026-08-22",
+        "stars": 1009
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 6,
+    "title": "vvxw/deploy-vercel",
+    "summary": "Install Command：npm install",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐985",
+    "source": "GitHub",
+    "stars": 985,
+    "url": "https://github.com/vvxw/deploy-vercel",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "Install Command：npm install。项目名称 deploy-vercel，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 985，功能完善，获得开发者广泛认可",
+    "stars_fmt": "985",
+    "forks": 197,
+    "growth": 985,
+    "history": [
+      {
+        "day": "2026-08-22",
+        "stars": 985
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 7,
+    "title": "Leutenegger/watermarks-remover",
+    "summary": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statisti...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐929",
+    "source": "GitHub",
+    "stars": 929,
+    "url": "https://github.com/Leutenegger/watermarks-remover",
+    "language": "Python",
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-desktop",
+      "codex-plugin",
+      "codex-skill",
+      "codex-skills",
+      "grok",
+      "grok-45",
+      "grok-ai",
+      "grok-build",
+      "grok-cli",
+      "watermark",
+      "watermark-detection",
+      "watermark-tools",
+      "watermarks"
+    ],
+    "core_features": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files。项目名称 watermarks-remover，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + claude、claude-code、claude-skill、codex",
+    "highlights": "Star 数 929，功能完善，获得开发者广泛认可",
+    "stars_fmt": "929",
+    "forks": 95,
+    "growth": 929,
+    "history": [
+      {
+        "day": "2026-08-22",
+        "stars": 929
+      }
+    ],
+    "type_label": "🌙 每月热点"
   }
 ]
