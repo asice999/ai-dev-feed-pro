@@ -1,73 +1,40 @@
 [
   {
     "id": 0,
-    "title": "MengTo/threeui",
-    "summary": "Open-source ThreeUI Community catalog with live interactive components and co...",
-    "category": "Design",
-    "score": 10,
-    "reason": "🔥 爆款！⭐3,467",
-    "source": "GitHub",
-    "stars": 3467,
-    "url": "https://github.com/MengTo/threeui",
-    "language": "HTML",
-    "topics": [
-      "react",
-      "shaders",
-      "threejs",
-      "ui-components",
-      "webgl"
-    ],
-    "core_features": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.。项目名称 threeui，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "HTML + react、shaders、threejs、ui-component",
-    "highlights": "Star 数突破 3,467，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,467",
-    "forks": 334,
-    "growth": 3467,
-    "history": [
-      {
-        "day": "2026-08-25",
-        "stars": 3467
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 1,
     "title": "b-nnett/grok-bot-0.18-reconstructed",
     "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 fo...",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,738",
+    "reason": "🔥 爆款！⭐3,387",
     "source": "GitHub",
-    "stars": 1738,
+    "stars": 3387,
     "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
     "language": "TypeScript",
     "topics": [],
     "core_features": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS。项目名称 grok-bot-0.18-reconstructed，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 1,738，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,738",
-    "forks": 1897,
-    "growth": 1738,
+    "highlights": "Star 数突破 3,387，社区活跃度高，增长迅猛",
+    "stars_fmt": "3,387",
+    "forks": 3262,
+    "growth": 3387,
     "history": [
       {
-        "day": "2026-08-25",
-        "stars": 1738
+        "day": "2026-08-28",
+        "stars": 3387
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 2,
+    "id": 1,
     "title": "duty1g/x64dbg-mcp-server",
     "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg ...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,225",
+    "reason": "🔥 爆款！⭐1,604",
     "source": "GitHub",
-    "stars": 1225,
+    "stars": 1604,
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
     "language": "Zig",
     "topics": [
@@ -94,97 +61,63 @@
     "core_features": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros。项目名称 x64dbg-mcp-server，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Zig + ai-agents、ai-debugging、binary-analy、claude",
-    "highlights": "Star 数突破 1,225，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,225",
-    "forks": 124,
-    "growth": 1225,
+    "highlights": "Star 数突破 1,604，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,604",
+    "forks": 160,
+    "growth": 1604,
     "history": [
       {
-        "day": "2026-08-25",
-        "stars": 1225
+        "day": "2026-08-28",
+        "stars": 1604
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 2,
+    "title": "ApodexAI/FrontierAgent",
+    "summary": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native comm...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,177",
+    "source": "GitHub",
+    "stars": 1177,
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "language": "Python",
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
+      "ai-agents",
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
+    ],
+    "core_features": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.。项目名称 FrontierAgent，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + agent-orches、agentic-ai、agentic-fram、ai-agents",
+    "highlights": "Star 数突破 1,177，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,177",
+    "forks": 98,
+    "growth": 1177,
+    "history": [
+      {
+        "day": "2026-08-28",
+        "stars": 1177
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 3,
-    "title": "cclank/lanshu-create-ai-presenter-video",
-    "summary": "Provider-neutral Codex Skill for producing verified AI presenter videos from ...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐837",
-    "source": "GitHub",
-    "stars": 837,
-    "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-    "language": "Python",
-    "topics": [
-      "ai-video",
-      "codex",
-      "codex-skill",
-      "digital-human",
-      "video-generation"
-    ],
-    "core_features": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.。项目名称 lanshu-create-ai-presenter-video，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + ai-video、codex、codex-skill、digital-huma",
-    "highlights": "Star 数 837，功能完善，获得开发者广泛认可",
-    "stars_fmt": "837",
-    "forks": 146,
-    "growth": 837,
-    "history": [
-      {
-        "day": "2026-08-25",
-        "stars": 837
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 4,
-    "title": "ShadowAqueduct/watermark-remover",
-    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewri...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐770",
-    "source": "GitHub",
-    "stars": 770,
-    "url": "https://github.com/ShadowAqueduct/watermark-remover",
-    "language": "Python",
-    "topics": [
-      "claude-ai",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-skills",
-      "codex",
-      "codex-cli",
-      "codex-skill",
-      "codex-skills",
-      "watermark"
-    ],
-    "core_features": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.。项目名称 watermark-remover，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + claude-ai、claude-code、claude-code-、claude-skill",
-    "highlights": "Star 数 770，功能完善，获得开发者广泛认可",
-    "stars_fmt": "770",
-    "forks": 73,
-    "growth": 770,
-    "history": [
-      {
-        "day": "2026-08-25",
-        "stars": 770
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
     "title": "nateherkai/scroll-craft",
     "summary": "Claude Code skill for premium scroll-driven websites. Scroll becomes the time...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐634",
+    "reason": "🔥 爆款！⭐1,116",
     "source": "GitHub",
-    "stars": 634,
+    "stars": 1116,
     "url": "https://github.com/nateherkai/scroll-craft",
     "language": "JavaScript",
     "topics": [
@@ -207,74 +140,140 @@
     "core_features": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.。项目名称 scroll-craft，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript + accessibilit、agent-skills、ai-web-desig、anthropic",
-    "highlights": "Star 数 634，功能完善，获得开发者广泛认可",
-    "stars_fmt": "634",
-    "forks": 116,
-    "growth": 634,
+    "highlights": "Star 数突破 1,116，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,116",
+    "forks": 179,
+    "growth": 1116,
     "history": [
       {
-        "day": "2026-08-25",
-        "stars": 634
+        "day": "2026-08-28",
+        "stars": 1116
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
+    "title": "bryllim/workout-guide",
+    "summary": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐941",
+    "source": "GitHub",
+    "stars": 941,
+    "url": "https://github.com/bryllim/workout-guide",
+    "language": "Astro",
+    "topics": [
+      "exercise",
+      "expo",
+      "fitness",
+      "npm-package",
+      "open-source",
+      "react-native",
+      "workout"
+    ],
+    "core_features": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim。项目名称 workout-guide，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Astro + exercise、expo、fitness、npm-package",
+    "highlights": "Star 数 941，功能完善，获得开发者广泛认可",
+    "stars_fmt": "941",
+    "forks": 150,
+    "growth": 941,
+    "history": [
+      {
+        "day": "2026-08-28",
+        "stars": 941
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "sapientinc/PRAXIST",
+    "summary": "Autonomous research system for measurable, computer-executable research.",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐919",
+    "source": "GitHub",
+    "stars": 919,
+    "url": "https://github.com/sapientinc/PRAXIST",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Autonomous research system for measurable, computer-executable research.。项目名称 PRAXIST，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Python",
+    "highlights": "Star 数 919，功能完善，获得开发者广泛认可",
+    "stars_fmt": "919",
+    "forks": 114,
+    "growth": 919,
+    "history": [
+      {
+        "day": "2026-08-28",
+        "stars": 919
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 6,
-    "title": "missuo/herdrm",
-    "summary": "Native macOS console for herdr — all your coding agents and their live termin...",
+    "title": "wide-trace/open-higgsfield",
+    "summary": "A studio for image and video generation — one prompt bar, each model’s own se...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐622",
+    "reason": "🔥 爆款！⭐887",
     "source": "GitHub",
-    "stars": 622,
-    "url": "https://github.com/missuo/herdrm",
-    "language": "Swift",
+    "stars": 887,
+    "url": "https://github.com/wide-trace/open-higgsfield",
+    "language": "TypeScript",
     "topics": [],
-    "core_features": "Native macOS console for herdr — all your coding agents and their live terminals, across devices。项目名称 herdrm，属于 AI 类别。",
+    "core_features": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.。项目名称 open-higgsfield，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Swift",
-    "highlights": "Star 数 622，功能完善，获得开发者广泛认可",
-    "stars_fmt": "622",
-    "forks": 39,
-    "growth": 622,
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数 887，功能完善，获得开发者广泛认可",
+    "stars_fmt": "887",
+    "forks": 7,
+    "growth": 887,
     "history": [
       {
-        "day": "2026-08-25",
-        "stars": 622
+        "day": "2026-08-28",
+        "stars": 887
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "lanicer/cve-2026-41940-PoC",
-    "summary": "A cPanel and WHM authentication bypassing tool",
-    "category": "Developer-Tools",
-    "score": 9.8,
-    "reason": "🔥 爆款！⭐528",
+    "title": "ShadowAqueduct/watermark-remover",
+    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewri...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐822",
     "source": "GitHub",
-    "stars": 528,
-    "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+    "stars": 822,
+    "url": "https://github.com/ShadowAqueduct/watermark-remover",
     "language": "Python",
     "topics": [
-      "cpanel",
-      "cve",
-      "cve-2026-41940",
-      "cve-scanning",
-      "vulnerability-research"
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-cli",
+      "codex-skill",
+      "codex-skills",
+      "watermark"
     ],
-    "core_features": "A cPanel and WHM authentication bypassing tool。项目名称 cve-2026-41940-PoC，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Python + cpanel、cve、cve-2026-419、cve-scanning",
-    "highlights": "Star 数 528，功能完善，获得开发者广泛认可",
-    "stars_fmt": "528",
-    "forks": 96,
-    "growth": 528,
+    "core_features": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.。项目名称 watermark-remover，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + claude-ai、claude-code、claude-code-、claude-skill",
+    "highlights": "Star 数 822，功能完善，获得开发者广泛认可",
+    "stars_fmt": "822",
+    "forks": 78,
+    "growth": 822,
     "history": [
       {
-        "day": "2026-08-25",
-        "stars": 528
+        "day": "2026-08-28",
+        "stars": 822
       }
     ],
     "type_label": "🌙 每月热点"
