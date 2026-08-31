@@ -1,279 +1,288 @@
 [
   {
     "id": 0,
-    "title": "b-nnett/grok-bot-0.18-reconstructed",
-    "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 fo...",
-    "category": "macOS",
-    "score": 10,
-    "reason": "🔥 爆款！⭐3,387",
-    "source": "GitHub",
-    "stars": 3387,
-    "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-    "language": "TypeScript",
-    "topics": [],
-    "core_features": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS。项目名称 grok-bot-0.18-reconstructed，属于 macOS 类别。",
-    "use_cases": "mac 桌面应用、效率工具",
-    "tech_stack": "TypeScript",
-    "highlights": "Star 数突破 3,387，社区活跃度高，增长迅猛",
-    "stars_fmt": "3,387",
-    "forks": 3262,
-    "growth": 3387,
-    "history": [
-      {
-        "day": "2026-08-28",
-        "stars": 3387
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 1,
-    "title": "duty1g/x64dbg-mcp-server",
-    "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg ...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,604",
-    "source": "GitHub",
-    "stars": 1604,
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "language": "Zig",
-    "topics": [
-      "ai-agents",
-      "ai-debugging",
-      "binary-analysis",
-      "claude",
-      "claude-code",
-      "malware-analysis",
-      "malware-research",
-      "malware-scanner",
-      "mcp",
-      "mcp-server",
-      "mcp-servers",
-      "x64dbg",
-      "x64dbg-mcp",
-      "x64dbg-plugin",
-      "x64dbg-tools",
-      "xdbg",
-      "zig",
-      "zig-lang",
-      "ziglang"
-    ],
-    "core_features": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros。项目名称 x64dbg-mcp-server，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Zig + ai-agents、ai-debugging、binary-analy、claude",
-    "highlights": "Star 数突破 1,604，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,604",
-    "forks": 160,
-    "growth": 1604,
-    "history": [
-      {
-        "day": "2026-08-28",
-        "stars": 1604
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
-    "title": "ApodexAI/FrontierAgent",
-    "summary": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native comm...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,177",
-    "source": "GitHub",
-    "stars": 1177,
-    "url": "https://github.com/ApodexAI/FrontierAgent",
-    "language": "Python",
-    "topics": [
-      "agent-orchestration",
-      "agentic-ai",
-      "agentic-framework",
-      "ai-agents",
-      "harness",
-      "multi-agent",
-      "terminal-agent",
-      "tui"
-    ],
-    "core_features": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.。项目名称 FrontierAgent，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + agent-orches、agentic-ai、agentic-fram、ai-agents",
-    "highlights": "Star 数突破 1,177，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,177",
-    "forks": 98,
-    "growth": 1177,
-    "history": [
-      {
-        "day": "2026-08-28",
-        "stars": 1177
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
-    "title": "nateherkai/scroll-craft",
-    "summary": "Claude Code skill for premium scroll-driven websites. Scroll becomes the time...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,116",
-    "source": "GitHub",
-    "stars": 1116,
-    "url": "https://github.com/nateherkai/scroll-craft",
-    "language": "JavaScript",
-    "topics": [
-      "accessibility",
-      "agent-skills",
-      "ai-web-design",
-      "anthropic",
-      "claude-code",
-      "claude-code-plugin",
-      "creative-coding",
-      "design-system",
-      "frontend",
-      "interaction-design",
-      "landing-page",
-      "scroll-animation",
-      "scrollytelling",
-      "typography",
-      "web-design"
-    ],
-    "core_features": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.。项目名称 scroll-craft，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript + accessibilit、agent-skills、ai-web-desig、anthropic",
-    "highlights": "Star 数突破 1,116，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,116",
-    "forks": 179,
-    "growth": 1116,
-    "history": [
-      {
-        "day": "2026-08-28",
-        "stars": 1116
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 4,
-    "title": "bryllim/workout-guide",
-    "summary": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐941",
-    "source": "GitHub",
-    "stars": 941,
-    "url": "https://github.com/bryllim/workout-guide",
-    "language": "Astro",
-    "topics": [
-      "exercise",
-      "expo",
-      "fitness",
-      "npm-package",
-      "open-source",
-      "react-native",
-      "workout"
-    ],
-    "core_features": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim。项目名称 workout-guide，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Astro + exercise、expo、fitness、npm-package",
-    "highlights": "Star 数 941，功能完善，获得开发者广泛认可",
-    "stars_fmt": "941",
-    "forks": 150,
-    "growth": 941,
-    "history": [
-      {
-        "day": "2026-08-28",
-        "stars": 941
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
     "title": "sapientinc/PRAXIST",
     "summary": "Autonomous research system for measurable, computer-executable research.",
     "category": "Developer-Tools",
     "score": 10,
-    "reason": "🔥 爆款！⭐919",
+    "reason": "🔥 爆款！⭐4,534",
     "source": "GitHub",
-    "stars": 919,
+    "stars": 4534,
     "url": "https://github.com/sapientinc/PRAXIST",
     "language": "Python",
     "topics": [],
     "core_features": "Autonomous research system for measurable, computer-executable research.。项目名称 PRAXIST，属于 开发者工具 类别。",
     "use_cases": "日常开发、DevOps 自动化、代码质量提升",
     "tech_stack": "Python",
-    "highlights": "Star 数 919，功能完善，获得开发者广泛认可",
-    "stars_fmt": "919",
-    "forks": 114,
-    "growth": 919,
+    "highlights": "Star 数突破 4,534，社区活跃度高，增长迅猛",
+    "stars_fmt": "4,534",
+    "forks": 365,
+    "growth": 4534,
     "history": [
       {
-        "day": "2026-08-28",
-        "stars": 919
+        "day": "2026-08-31",
+        "stars": 4534
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
-    "id": 6,
+    "id": 1,
+    "title": "XiaoDuoYa/codex-with-chatgpt",
+    "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping ...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,457",
+    "source": "GitHub",
+    "stars": 1457,
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "core_features": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.。项目名称 codex-with-chatgpt，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript + ai-agents、chatgpt、codex、mcp",
+    "highlights": "Star 数突破 1,457，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,457",
+    "forks": 158,
+    "growth": 1457,
+    "history": [
+      {
+        "day": "2026-08-31",
+        "stars": 1457
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 2,
+    "title": "MetaMask-AI/metamask-desktop",
+    "summary": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled web...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,227",
+    "source": "GitHub",
+    "stars": 1227,
+    "url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "language": "CSS",
+    "topics": [
+      "bitcoin",
+      "bitcoin-wallet",
+      "crypto",
+      "cryptocoins",
+      "cryptocompare-api",
+      "cryptocurrency",
+      "dapp",
+      "ethereum",
+      "ethereum-blockchain",
+      "ethereum-wallet",
+      "evm",
+      "evm-wallet",
+      "macos",
+      "metamask",
+      "metamask-dapp",
+      "metamask-desktop",
+      "metamask-io",
+      "solana",
+      "web3",
+      "windows"
+    ],
+    "core_features": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites。项目名称 metamask-desktop，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "CSS + bitcoin、bitcoin-wall、crypto、cryptocoins",
+    "highlights": "Star 数突破 1,227，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,227",
+    "forks": 91,
+    "growth": 1227,
+    "history": [
+      {
+        "day": "2026-08-31",
+        "stars": 1227
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
     "title": "wide-trace/open-higgsfield",
     "summary": "A studio for image and video generation — one prompt bar, each model’s own se...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐887",
+    "reason": "🔥 爆款！⭐1,085",
     "source": "GitHub",
-    "stars": 887,
+    "stars": 1085,
     "url": "https://github.com/wide-trace/open-higgsfield",
     "language": "TypeScript",
     "topics": [],
     "core_features": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.。项目名称 open-higgsfield，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript",
-    "highlights": "Star 数 887，功能完善，获得开发者广泛认可",
-    "stars_fmt": "887",
-    "forks": 7,
-    "growth": 887,
+    "highlights": "Star 数突破 1,085，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,085",
+    "forks": 15,
+    "growth": 1085,
     "history": [
       {
-        "day": "2026-08-28",
-        "stars": 887
+        "day": "2026-08-31",
+        "stars": 1085
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
+    "title": "Tencent/WeMM-Embedding",
+    "summary": "WeMM-Embedding is a family of universal multimodal embedding models by the We...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐942",
+    "source": "GitHub",
+    "stars": 942,
+    "url": "https://github.com/Tencent/WeMM-Embedding",
+    "language": "Python",
+    "topics": [
+      "embedding-models",
+      "multimodal",
+      "multimodal-llm"
+    ],
+    "core_features": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.。项目名称 WeMM-Embedding，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + embedding-mo、multimodal、multimodal-l",
+    "highlights": "Star 数 942，功能完善，获得开发者广泛认可",
+    "stars_fmt": "942",
+    "forks": 66,
+    "growth": 942,
+    "history": [
+      {
+        "day": "2026-08-31",
+        "stars": 942
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "Nanako0129/sepia",
+    "summary": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — nar...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐939",
+    "source": "GitHub",
+    "stars": 939,
+    "url": "https://github.com/Nanako0129/sepia",
+    "language": "",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "fiction",
+      "grok",
+      "humanizer",
+      "llm",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "core_features": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).。项目名称 sepia，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 939，功能完善，获得开发者广泛认可",
+    "stars_fmt": "939",
+    "forks": 57,
+    "growth": 939,
+    "history": [
+      {
+        "day": "2026-08-31",
+        "stars": 939
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "jub0t/WolfCut",
+    "summary": "Free & Open-Source CapCut replacement.",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐731",
+    "source": "GitHub",
+    "stars": 731,
+    "url": "https://github.com/jub0t/WolfCut",
+    "language": "TypeScript",
+    "topics": [
+      "audio-processor",
+      "auto-caption",
+      "automation",
+      "capcut",
+      "capcut-alternative",
+      "content-creation",
+      "cross-platform",
+      "desktop-app",
+      "ffmpeg",
+      "free-video-editor",
+      "non-linear-editor",
+      "offline-first",
+      "open-source-video-editor",
+      "rust-lang",
+      "tauri-app",
+      "video-editing",
+      "video-editing-software",
+      "video-processing-tool",
+      "whisper-cpp"
+    ],
+    "core_features": "Free & Open-Source CapCut replacement.。项目名称 WolfCut，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "TypeScript + audio-proces、auto-caption、automation、capcut",
+    "highlights": "Star 数 731，功能完善，获得开发者广泛认可",
+    "stars_fmt": "731",
+    "forks": 55,
+    "growth": 731,
+    "history": [
+      {
+        "day": "2026-08-31",
+        "stars": 731
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "ShadowAqueduct/watermark-remover",
-    "summary": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewri...",
+    "title": "cbrock84/headcount",
+    "summary": "An agent organization for Claude Code, structured as a company — 15+ departme...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐822",
+    "reason": "🔥 爆款！⭐717",
     "source": "GitHub",
-    "stars": 822,
-    "url": "https://github.com/ShadowAqueduct/watermark-remover",
-    "language": "Python",
+    "stars": 717,
+    "url": "https://github.com/cbrock84/headcount",
+    "language": "Markdown",
     "topics": [
-      "claude-ai",
+      "agent-marketplace",
       "claude-code",
       "claude-code-plugin",
+      "claude-plugin",
       "claude-skills",
-      "codex",
-      "codex-cli",
-      "codex-skill",
-      "codex-skills",
-      "watermark"
+      "mcp"
     ],
-    "core_features": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.。项目名称 watermark-remover，属于 AI 类别。",
+    "core_features": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.。项目名称 headcount，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + claude-ai、claude-code、claude-code-、claude-skill",
-    "highlights": "Star 数 822，功能完善，获得开发者广泛认可",
-    "stars_fmt": "822",
-    "forks": 78,
-    "growth": 822,
+    "tech_stack": "Markdown + agent-market、claude-code、claude-code-、claude-plugi",
+    "highlights": "Star 数 717，功能完善，获得开发者广泛认可",
+    "stars_fmt": "717",
+    "forks": 106,
+    "growth": 717,
     "history": [
       {
-        "day": "2026-08-28",
-        "stars": 822
+        "day": "2026-08-31",
+        "stars": 717
       }
     ],
     "type_label": "🌙 每月热点"
