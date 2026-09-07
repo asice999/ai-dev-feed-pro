@@ -1,223 +1,13 @@
 [
   {
     "id": 0,
-    "title": "anthropics/commerce-agents",
-    "summary": "Reference blueprint for building shopping and merchant agents with Claude. Ex...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,598",
-    "source": "GitHub",
-    "stars": 1598,
-    "url": "https://github.com/anthropics/commerce-agents",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.。项目名称 commerce-agents，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数突破 1,598，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,598",
-    "forks": 257,
-    "growth": 1598,
-    "history": [
-      {
-        "day": "2026-09-04",
-        "stars": 1598
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 1,
-    "title": "rakanki911/DLSS5-Swapper",
-    "summary": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and ...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,111",
-    "source": "GitHub",
-    "stars": 1111,
-    "url": "https://github.com/rakanki911/DLSS5-Swapper",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.。项目名称 DLSS5-Swapper，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数突破 1,111，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,111",
-    "forks": 49,
-    "growth": 1111,
-    "history": [
-      {
-        "day": "2026-09-04",
-        "stars": 1111
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
-    "title": "GangTailorUpgrade/undress-service",
-    "summary": "Dress AI Sponsor",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,018",
-    "source": "GitHub",
-    "stars": 1018,
-    "url": "https://github.com/GangTailorUpgrade/undress-service",
-    "language": "Python",
-    "topics": [
-      "18comic",
-      "coomer",
-      "coomer-downloader",
-      "coomer-party",
-      "coomer-porn",
-      "coomer-su",
-      "doujin-moe",
-      "ehviewer",
-      "ex-hentai",
-      "explicit-content",
-      "hitomi-la",
-      "kemono",
-      "kemono-downloader",
-      "kemono-oarty",
-      "kemono-party",
-      "kemono-porn",
-      "kemono-su",
-      "nudity",
-      "sex",
-      "unrestricted-ai"
-    ],
-    "core_features": "Dress AI Sponsor。项目名称 undress-service，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + 18comic、coomer、coomer-downl、coomer-party",
-    "highlights": "Star 数突破 1,018，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,018",
-    "forks": 1,
-    "growth": 1018,
-    "history": [
-      {
-        "day": "2026-09-04",
-        "stars": 1018
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
-    "title": "shadcn-ui/cn",
-    "summary": "cn is a new engine for Tailwind class merging and conflict resolution. It rep...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐974",
-    "source": "GitHub",
-    "stars": 974,
-    "url": "https://github.com/shadcn-ui/cn",
-    "language": "TypeScript",
-    "topics": [
-      "clsx",
-      "cn",
-      "shadcn",
-      "tailwind-merge",
-      "tailwindcss"
-    ],
-    "core_features": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.。项目名称 cn，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + clsx、cn、shadcn、tailwind-mer",
-    "highlights": "Star 数 974，功能完善，获得开发者广泛认可",
-    "stars_fmt": "974",
-    "forks": 7,
-    "growth": 974,
-    "history": [
-      {
-        "day": "2026-09-04",
-        "stars": 974
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 4,
-    "title": "2akouwu/reverify",
-    "summary": "Anti-hallucination for AI agents that read binaries. The model proposes, dete...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐794",
-    "source": "GitHub",
-    "stars": 794,
-    "url": "https://github.com/2akouwu/reverify",
-    "language": "Python",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "anti-hallucination",
-      "binary-analysis",
-      "context-engineering",
-      "ctf",
-      "developer-tools",
-      "disassembler",
-      "frida",
-      "grounding",
-      "hallucination",
-      "hallucination-detection",
-      "llm",
-      "malware-analysis",
-      "mcp",
-      "mcp-server",
-      "python",
-      "reverse-engineering",
-      "security-tools",
-      "verification"
-    ],
-    "core_features": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.。项目名称 reverify，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + ai、ai-agents、anti-halluci、binary-analy",
-    "highlights": "Star 数 794，功能完善，获得开发者广泛认可",
-    "stars_fmt": "794",
-    "forks": 166,
-    "growth": 794,
-    "history": [
-      {
-        "day": "2026-09-04",
-        "stars": 794
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "jlrouzies-fr/DLSS5-Feeder",
-    "summary": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS ...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐671",
-    "source": "GitHub",
-    "stars": 671,
-    "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
-    "language": "C++",
-    "topics": [],
-    "core_features": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.。项目名称 DLSS5-Feeder，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "C++",
-    "highlights": "Star 数 671，功能完善，获得开发者广泛认可",
-    "stars_fmt": "671",
-    "forks": 31,
-    "growth": 671,
-    "history": [
-      {
-        "day": "2026-09-04",
-        "stars": 671
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
     "title": "lnkiai/m3e-canvas",
     "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-c...",
     "category": "AI",
-    "score": 9.7,
-    "reason": "🔥 爆款！⭐508",
+    "score": 10,
+    "reason": "🔥 爆款！⭐4,316",
     "source": "GitHub",
-    "stars": 508,
+    "stars": 4316,
     "url": "https://github.com/lnkiai/m3e-canvas",
     "language": "TypeScript",
     "topics": [
@@ -233,41 +23,215 @@
     "core_features": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.。项目名称 m3e-canvas，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + design-tool、material-3-e、material-des、material3",
-    "highlights": "Star 数 508，功能完善，获得开发者广泛认可",
-    "stars_fmt": "508",
-    "forks": 29,
-    "growth": 508,
+    "highlights": "Star 数突破 4,316，社区活跃度高，增长迅猛",
+    "stars_fmt": "4,316",
+    "forks": 371,
+    "growth": 4316,
     "history": [
       {
-        "day": "2026-09-04",
-        "stars": 508
+        "day": "2026-09-07",
+        "stars": 4316
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 1,
+    "title": "anthropics/commerce-agents",
+    "summary": "Reference blueprint for building shopping and merchant agents with Claude. Ex...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐2,235",
+    "source": "GitHub",
+    "stars": 2235,
+    "url": "https://github.com/anthropics/commerce-agents",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.。项目名称 commerce-agents，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数突破 2,235，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,235",
+    "forks": 382,
+    "growth": 2235,
+    "history": [
+      {
+        "day": "2026-09-07",
+        "stars": 2235
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 2,
+    "title": "ashemag/human-atlas",
+    "summary": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system ...",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,396",
+    "source": "GitHub",
+    "stars": 1396,
+    "url": "https://github.com/ashemag/human-atlas",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.。项目名称 human-atlas，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数突破 1,396，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,396",
+    "forks": 366,
+    "growth": 1396,
+    "history": [
+      {
+        "day": "2026-09-07",
+        "stars": 1396
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
+    "title": "Rion-Wu-tech/wechat-intelligence-hub",
+    "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, se...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,178",
+    "source": "GitHub",
+    "stars": 1178,
+    "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+    "language": "Python",
+    "topics": [],
+    "core_features": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.。项目名称 wechat-intelligence-hub，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python",
+    "highlights": "Star 数突破 1,178，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,178",
+    "forks": 1310,
+    "growth": 1178,
+    "history": [
+      {
+        "day": "2026-09-07",
+        "stars": 1178
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
+    "title": "pierrenade/short-video-generator-AI",
+    "summary": "Free open-source project designed for turning youtube-viedos into viral short...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐927",
+    "source": "GitHub",
+    "stars": 927,
+    "url": "https://github.com/pierrenade/short-video-generator-AI",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-video",
+      "python",
+      "short-video-maker",
+      "video-generation"
+    ],
+    "core_features": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.。项目名称 short-video-generator-AI，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + ai、ai-video、python、short-video-",
+    "highlights": "Star 数 927，功能完善，获得开发者广泛认可",
+    "stars_fmt": "927",
+    "forks": 154,
+    "growth": 927,
+    "history": [
+      {
+        "day": "2026-09-07",
+        "stars": 927
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "yczz/oc-english",
+    "summary": "养成类游戏英语学习",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐835",
+    "source": "GitHub",
+    "stars": 835,
+    "url": "https://github.com/yczz/oc-english",
+    "language": "JavaScript",
+    "topics": [],
+    "core_features": "养成类游戏英语学习。项目名称 oc-english，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "JavaScript",
+    "highlights": "Star 数 835，功能完善，获得开发者广泛认可",
+    "stars_fmt": "835",
+    "forks": 11,
+    "growth": 835,
+    "history": [
+      {
+        "day": "2026-09-07",
+        "stars": 835
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "vinzdg/codenotch",
+    "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antig...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐714",
+    "source": "GitHub",
+    "stars": 714,
+    "url": "https://github.com/vinzdg/codenotch",
+    "language": "Swift",
+    "topics": [],
+    "core_features": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.。项目名称 codenotch，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Swift",
+    "highlights": "Star 数 714，功能完善，获得开发者广泛认可",
+    "stars_fmt": "714",
+    "forks": 98,
+    "growth": 714,
+    "history": [
+      {
+        "day": "2026-09-07",
+        "stars": 714
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "MSNightmare/FalconFlank",
-    "summary": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-    "category": "Other",
-    "score": 9.3,
-    "reason": "⭐423 高热度项目",
+    "title": "nahrek/polyledger",
+    "summary": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from ...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐620",
     "source": "GitHub",
-    "stars": 423,
-    "url": "https://github.com/MSNightmare/FalconFlank",
-    "language": "C",
-    "topics": [],
-    "core_features": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability。项目名称 FalconFlank，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "C",
-    "highlights": "Star 数 423，功能完善，获得开发者广泛认可",
-    "stars_fmt": "423",
-    "forks": 111,
-    "growth": 423,
+    "stars": 620,
+    "url": "https://github.com/nahrek/polyledger",
+    "language": "Python",
+    "topics": [
+      "data-science",
+      "hypersync",
+      "polymarket",
+      "polymarketprediction-markets",
+      "prediction-market"
+    ],
+    "core_features": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL。项目名称 polyledger，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + data-science、hypersync、polymarket、polymarketpr",
+    "highlights": "Star 数 620，功能完善，获得开发者广泛认可",
+    "stars_fmt": "620",
+    "forks": 109,
+    "growth": 620,
     "history": [
       {
-        "day": "2026-09-04",
-        "stars": 423
+        "day": "2026-09-07",
+        "stars": 620
       }
     ],
     "type_label": "🌙 每月热点"
