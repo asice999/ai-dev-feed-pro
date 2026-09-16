@@ -1,194 +1,45 @@
 [
   {
     "id": 0,
-    "title": "sdli1995/dlssg_for_sm86",
-    "summary": "Here is a dlssg for RTX30 Series GPU",
-    "category": "Other",
+    "title": "Chuloo/mural",
+    "summary": "The language app you eventually delete. A native iPhone companion for learnin...",
+    "category": "Learning",
     "score": 10,
-    "reason": "🔥 爆款！⭐2,203",
+    "reason": "🔥 爆款！⭐1,059",
     "source": "GitHub",
-    "stars": 2203,
-    "url": "https://github.com/sdli1995/dlssg_for_sm86",
-    "language": "",
-    "topics": [],
-    "core_features": "Here is a dlssg for RTX30 Series GPU。项目名称 dlssg_for_sm86，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 2,203，社区活跃度高，增长迅猛",
-    "stars_fmt": "2,203",
-    "forks": 133,
-    "growth": 2203,
+    "stars": 1059,
+    "url": "https://github.com/Chuloo/mural",
+    "language": "Kotlin",
+    "topics": [
+      "ios",
+      "language-learning",
+      "open-source",
+      "swiftui"
+    ],
+    "core_features": "The language app you eventually delete. A native iPhone companion for learning through conversation.。项目名称 mural，属于 学习 类别。",
+    "use_cases": "在线学习、技能培训、知识管理",
+    "tech_stack": "Kotlin + ios、language-lea、open-source、swiftui",
+    "highlights": "Star 数突破 1,059，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,059",
+    "forks": 222,
+    "growth": 1059,
     "history": [
       {
-        "day": "2026-09-13",
-        "stars": 2203
+        "day": "2026-09-16",
+        "stars": 1059
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 1,
-    "title": "openai/NavierStokesAndEuler",
-    "summary": "Lean certificates accompanying Navier-Stokes and Euler results",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,829",
-    "source": "GitHub",
-    "stars": 1829,
-    "url": "https://github.com/openai/NavierStokesAndEuler",
-    "language": "Lean",
-    "topics": [],
-    "core_features": "Lean certificates accompanying Navier-Stokes and Euler results。项目名称 NavierStokesAndEuler，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Lean",
-    "highlights": "Star 数突破 1,829，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,829",
-    "forks": 181,
-    "growth": 1829,
-    "history": [
-      {
-        "day": "2026-09-13",
-        "stars": 1829
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
-    "title": "EverettFish/holo-card-studio",
-    "summary": "Turn the user's description or uploaded reference into a finished, editable B...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,471",
-    "source": "GitHub",
-    "stars": 1471,
-    "url": "https://github.com/EverettFish/holo-card-studio",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.。项目名称 holo-card-studio，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python",
-    "highlights": "Star 数突破 1,471，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,471",
-    "forks": 209,
-    "growth": 1471,
-    "history": [
-      {
-        "day": "2026-09-13",
-        "stars": 1471
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
-    "title": "Vincentwei1021/anything2explainer",
-    "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turn...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,082",
-    "source": "GitHub",
-    "stars": 1082,
-    "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-video",
-      "claude-code",
-      "claude-code-skill",
-      "codex",
-      "edge-tts",
-      "educational-video",
-      "explainer-video",
-      "kokoro",
-      "motion-graphics",
-      "multi-agent",
-      "react",
-      "remotion",
-      "text-to-video",
-      "tts",
-      "typescript",
-      "video-generation"
-    ],
-    "core_features": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.。项目名称 anything2explainer，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + agent-skills、ai-agents、ai-video、claude-code",
-    "highlights": "Star 数突破 1,082，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,082",
-    "forks": 187,
-    "growth": 1082,
-    "history": [
-      {
-        "day": "2026-09-13",
-        "stars": 1082
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 4,
-    "title": "achimala/dream-loop",
-    "summary": "Agent skill for impressive 3D visuals using Blender + image gen + subagent cr...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐924",
-    "source": "GitHub",
-    "stars": 924,
-    "url": "https://github.com/achimala/dream-loop",
-    "language": "JavaScript",
-    "topics": [],
-    "core_features": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic。项目名称 dream-loop，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript",
-    "highlights": "Star 数 924，功能完善，获得开发者广泛认可",
-    "stars_fmt": "924",
-    "forks": 105,
-    "growth": 924,
-    "history": [
-      {
-        "day": "2026-09-13",
-        "stars": 924
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 5,
-    "title": "gazijarin/itsgiving",
-    "summary": "Express yourself in meetings (with memes, of course).",
-    "category": "Learning",
-    "score": 10,
-    "reason": "🔥 爆款！⭐791",
-    "source": "GitHub",
-    "stars": 791,
-    "url": "https://github.com/gazijarin/itsgiving",
-    "language": "Python",
-    "topics": [],
-    "core_features": "Express yourself in meetings (with memes, of course).。项目名称 itsgiving，属于 学习 类别。",
-    "use_cases": "在线学习、技能培训、知识管理",
-    "tech_stack": "Python",
-    "highlights": "Star 数 791，功能完善，获得开发者广泛认可",
-    "stars_fmt": "791",
-    "forks": 91,
-    "growth": 791,
-    "history": [
-      {
-        "day": "2026-09-13",
-        "stars": 791
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 6,
     "title": "sumimakito/Mac-Duo",
     "summary": "Wish you could bring the iPhone Duo effect to your MacBook?",
     "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐695",
+    "reason": "🔥 爆款！⭐917",
     "source": "GitHub",
-    "stars": 695,
+    "stars": 917,
     "url": "https://github.com/sumimakito/Mac-Duo",
     "language": "Swift",
     "topics": [
@@ -204,45 +55,187 @@
     "core_features": "Wish you could bring the iPhone Duo effect to your MacBook?。项目名称 Mac-Duo，属于 macOS 类别。",
     "use_cases": "mac 桌面应用、效率工具",
     "tech_stack": "Swift + flip、iphone、iphoneduo、mac",
-    "highlights": "Star 数 695，功能完善，获得开发者广泛认可",
-    "stars_fmt": "695",
-    "forks": 55,
-    "growth": 695,
+    "highlights": "Star 数 917，功能完善，获得开发者广泛认可",
+    "stars_fmt": "917",
+    "forks": 66,
+    "growth": 917,
     "history": [
       {
-        "day": "2026-09-13",
-        "stars": 695
+        "day": "2026-09-16",
+        "stars": 917
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 2,
+    "title": "ai-sucks-butt/ai-sucks-butt",
+    "summary": "If you think AI sucks, star the repo.",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐863",
+    "source": "GitHub",
+    "stars": 863,
+    "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+    "language": "",
+    "topics": [],
+    "core_features": "If you think AI sucks, star the repo.。项目名称 ai-sucks-butt，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 863，功能完善，获得开发者广泛认可",
+    "stars_fmt": "863",
+    "forks": 0,
+    "growth": 863,
+    "history": [
+      {
+        "day": "2026-09-16",
+        "stars": 863
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 3,
+    "title": "yifanzhang-pro/recurrent-looped-tranformer",
+    "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐833",
+    "source": "GitHub",
+    "stars": 833,
+    "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+    "language": "HTML",
+    "topics": [],
+    "core_features": "Official Project Page for Recurrent Looped Transformer (RLT)。项目名称 recurrent-looped-tranformer，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "HTML",
+    "highlights": "Star 数 833，功能完善，获得开发者广泛认可",
+    "stars_fmt": "833",
+    "forks": 81,
+    "growth": 833,
+    "history": [
+      {
+        "day": "2026-09-16",
+        "stars": 833
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 4,
+    "title": "kruzovic7/ai-data-extractor",
+    "summary": "Free open-source extractor for AI coding assistant chat histories. Supports C...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐823",
+    "source": "GitHub",
+    "stars": 823,
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-data-extraction",
+      "claude-code",
+      "cursor"
+    ],
+    "core_features": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.。项目名称 ai-data-extractor，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + ai、ai-data-extr、claude-code、cursor",
+    "highlights": "Star 数 823，功能完善，获得开发者广泛认可",
+    "stars_fmt": "823",
+    "forks": 132,
+    "growth": 823,
+    "history": [
+      {
+        "day": "2026-09-16",
+        "stars": 823
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 5,
+    "title": "angusdevgo/IDM_Pro_Tool",
+    "summary": "IDM激活与状态维护工具",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐712",
+    "source": "GitHub",
+    "stars": 712,
+    "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+    "language": "C#",
+    "topics": [],
+    "core_features": "IDM激活与状态维护工具。项目名称 IDM_Pro_Tool，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "C#",
+    "highlights": "Star 数 712，功能完善，获得开发者广泛认可",
+    "stars_fmt": "712",
+    "forks": 181,
+    "growth": 712,
+    "history": [
+      {
+        "day": "2026-09-16",
+        "stars": 712
+      }
+    ],
+    "type_label": "🌙 每月热点"
+  },
+  {
+    "id": 6,
+    "title": "eternityspring/reelbench-skills",
+    "summary": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐697",
+    "source": "GitHub",
+    "stars": 697,
+    "url": "https://github.com/eternityspring/reelbench-skills",
+    "language": "HTML",
+    "topics": [
+      "ai-video",
+      "claude-skills",
+      "ffmpeg",
+      "shot-analysis",
+      "video-analysis"
+    ],
+    "core_features": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill。项目名称 reelbench-skills，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "HTML + ai-video、claude-skill、ffmpeg、shot-analysi",
+    "highlights": "Star 数 697，功能完善，获得开发者广泛认可",
+    "stars_fmt": "697",
+    "forks": 92,
+    "growth": 697,
+    "history": [
+      {
+        "day": "2026-09-16",
+        "stars": 697
       }
     ],
     "type_label": "🌙 每月热点"
   },
   {
     "id": 7,
-    "title": "SpaceDudem/text-humanizer",
-    "summary": "text-humanizer is an open-source project designed to convert text generated b...",
+    "title": "zjwzcx/Awesome-Astra-Embodied-AI",
+    "summary": "GPT-6 Astra for embodied AI and robotics.",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐673",
+    "reason": "🔥 爆款！⭐693",
     "source": "GitHub",
-    "stars": 673,
-    "url": "https://github.com/SpaceDudem/text-humanizer",
-    "language": "Python",
-    "topics": [
-      "ai-humanizer",
-      "gpt-zero",
-      "text-humanizer"
-    ],
-    "core_features": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero。项目名称 text-humanizer，属于 AI 类别。",
+    "stars": 693,
+    "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+    "language": "",
+    "topics": [],
+    "core_features": "GPT-6 Astra for embodied AI and robotics.。项目名称 Awesome-Astra-Embodied-AI，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + ai-humanizer、gpt-zero、text-humaniz",
-    "highlights": "Star 数 673，功能完善，获得开发者广泛认可",
-    "stars_fmt": "673",
-    "forks": 106,
-    "growth": 673,
+    "tech_stack": "多语言支持",
+    "highlights": "Star 数 693，功能完善，获得开发者广泛认可",
+    "stars_fmt": "693",
+    "forks": 13,
+    "growth": 693,
     "history": [
       {
-        "day": "2026-09-13",
-        "stars": 673
+        "day": "2026-09-16",
+        "stars": 693
       }
     ],
     "type_label": "🌙 每月热点"
