@@ -5,9 +5,9 @@
     "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐4,147",
+    "reason": "🔥 爆款！⭐5,473",
     "source": "GitHub",
-    "stars": 4147,
+    "stars": 5473,
     "url": "https://github.com/KKKKhazix/AIHOT",
     "language": "TypeScript",
     "topics": [
@@ -23,27 +23,92 @@
     "core_features": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。。项目名称 AIHOT，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "TypeScript + ai、content-cura、llm、mcp",
-    "highlights": "Star 数突破 4,147，社区活跃度高，增长迅猛",
-    "stars_fmt": "4,147",
-    "forks": 1198,
-    "growth": 4147,
+    "highlights": "Star 数突破 5,473，社区活跃度高，增长迅猛",
+    "stars_fmt": "5,473",
+    "forks": 1431,
+    "growth": 5473,
     "history": [
       {
-        "day": "2026-10-01",
-        "stars": 4147
+        "day": "2026-10-04",
+        "stars": 5473
+      }
+    ],
+    "type_label": "📌 收藏和fork"
+  },
+  {
+    "id": 1,
+    "title": "rehan-remade/universal-modder",
+    "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code ...",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐2,671",
+    "source": "GitHub",
+    "stars": 2671,
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "language": "Python",
+    "topics": [
+      "age-of-empires",
+      "claude-code",
+      "claude-code-plugin",
+      "fal",
+      "game-assets",
+      "game-modding",
+      "mcp",
+      "modding",
+      "reverse-engineering",
+      "tmodloader"
+    ],
+    "core_features": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.。项目名称 universal-modder，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Python + age-of-empir、claude-code、claude-code-、fal",
+    "highlights": "Star 数突破 2,671，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,671",
+    "forks": 233,
+    "growth": 2671,
+    "history": [
+      {
+        "day": "2026-10-04",
+        "stars": 2671
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
-    "id": 1,
+    "id": 2,
+    "title": "CopilotKit/OpenDots",
+    "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐2,614",
+    "source": "GitHub",
+    "stars": 2614,
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "language": "TypeScript",
+    "topics": [],
+    "core_features": "Your always-on AI coworkers that move between text, calls, and Slack.。项目名称 OpenDots，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "TypeScript",
+    "highlights": "Star 数突破 2,614，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,614",
+    "forks": 324,
+    "growth": 2614,
+    "history": [
+      {
+        "day": "2026-10-04",
+        "stars": 2614
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
     "title": "feder-cr/dots",
     "summary": "Open-source dots for the web: an AI agent with its own browser, one that does...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,939",
+    "reason": "🔥 爆款！⭐2,574",
     "source": "GitHub",
-    "stars": 1939,
+    "stars": 2574,
     "url": "https://github.com/feder-cr/dots",
     "language": "Python",
     "topics": [
@@ -71,94 +136,14 @@
     "core_features": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.。项目名称 dots，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python + ai-agent、ai-agents、ai-browser、anti-detect-",
-    "highlights": "Star 数突破 1,939，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,939",
-    "forks": 320,
-    "growth": 1939,
+    "highlights": "Star 数突破 2,574，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,574",
+    "forks": 436,
+    "growth": 2574,
     "history": [
       {
-        "day": "2026-10-01",
-        "stars": 1939
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
-    "title": "dzhng/jevgrep",
-    "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to di...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,911",
-    "source": "GitHub",
-    "stars": 1911,
-    "url": "https://github.com/dzhng/jevgrep",
-    "language": "TypeScript",
-    "topics": [
-      "ai-sdk",
-      "claude-code",
-      "cli",
-      "code-search",
-      "codex",
-      "coding-agents",
-      "context-retrieval",
-      "developer-tools",
-      "jev",
-      "semantic-search",
-      "typescript",
-      "vercel-ai-gateway"
-    ],
-    "core_features": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.。项目名称 jevgrep，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + ai-sdk、claude-code、cli、code-search",
-    "highlights": "Star 数突破 1,911，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,911",
-    "forks": 127,
-    "growth": 1911,
-    "history": [
-      {
-        "day": "2026-10-01",
-        "stars": 1911
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 3,
-    "title": "Louis-CFM/coucou",
-    "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (...",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,499",
-    "source": "GitHub",
-    "stars": 1499,
-    "url": "https://github.com/Louis-CFM/coucou",
-    "language": "Swift",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "dynamic-island",
-      "macos",
-      "macos-app",
-      "menubar-app",
-      "notch",
-      "open-source",
-      "swift",
-      "swiftui"
-    ],
-    "core_features": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.。项目名称 coucou，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Swift + ai-agents、anthropic、claude、claude-code",
-    "highlights": "Star 数突破 1,499，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,499",
-    "forks": 190,
-    "growth": 1499,
-    "history": [
-      {
-        "day": "2026-10-01",
-        "stars": 1499
+        "day": "2026-10-04",
+        "stars": 2574
       }
     ],
     "type_label": "🔥 每周热点"
@@ -166,136 +151,134 @@
   {
     "id": 4,
     "title": "firelex/jeff",
-    "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-    "category": "Other",
+    "summary": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks be...",
+    "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,200",
+    "reason": "🔥 爆款！⭐1,351",
     "source": "GitHub",
-    "stars": 1200,
+    "stars": 1351,
     "url": "https://github.com/firelex/jeff",
     "language": "Python",
     "topics": [],
-    "core_features": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification。项目名称 jeff，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
+    "core_features": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.。项目名称 jeff，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "Python",
-    "highlights": "Star 数突破 1,200，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,200",
-    "forks": 51,
-    "growth": 1200,
+    "highlights": "Star 数突破 1,351，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,351",
+    "forks": 64,
+    "growth": 1351,
     "history": [
       {
-        "day": "2026-10-01",
-        "stars": 1200
+        "day": "2026-10-04",
+        "stars": 1351
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 5,
-    "title": "kaankiziltug/logo-design-skill",
-    "summary": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI ...",
+    "title": "nanaism/yomiyasu",
+    "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japan...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,148",
+    "reason": "🔥 爆款！⭐1,330",
     "source": "GitHub",
-    "stars": 1148,
-    "url": "https://github.com/kaankiziltug/logo-design-skill",
-    "language": "HTML",
+    "stars": 1330,
+    "url": "https://github.com/nanaism/yomiyasu",
+    "language": "Python",
     "topics": [
       "agent-skills",
-      "branding",
-      "claude",
-      "claude-skills",
+      "ai-writing",
+      "antigravity",
+      "claude-code",
       "codex",
-      "gemini-cli",
-      "logo-design",
-      "svg"
+      "cursor",
+      "gemini",
+      "japanese",
+      "linter",
+      "llm",
+      "nlp",
+      "writing",
+      "writing-assistant",
+      "writing-tool"
     ],
-    "core_features": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.。项目名称 logo-design-skill，属于 AI 类别。",
+    "core_features": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese。项目名称 yomiyasu，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "HTML + agent-skills、branding、claude、claude-skill",
-    "highlights": "Star 数突破 1,148，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,148",
-    "forks": 63,
-    "growth": 1148,
+    "tech_stack": "Python + agent-skills、ai-writing、antigravity、claude-code",
+    "highlights": "Star 数突破 1,330，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,330",
+    "forks": 29,
+    "growth": 1330,
     "history": [
       {
-        "day": "2026-10-01",
-        "stars": 1148
+        "day": "2026-10-04",
+        "stars": 1330
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 6,
-    "title": "yihui-dev/awesome-opus5-5-videos",
-    "summary": "A growing collection of viral videos made with Claude Opus 5.5 and the prompt...",
-    "category": "Developer-Tools",
+    "title": "edenfunf/reelmimic",
+    "summary": "Show it a video you love. Get a new video in the same style. An AI crew (Clau...",
+    "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,118",
+    "reason": "🔥 爆款！⭐1,126",
     "source": "GitHub",
-    "stars": 1118,
-    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-    "language": "",
+    "stars": 1126,
+    "url": "https://github.com/edenfunf/reelmimic",
+    "language": "JavaScript",
     "topics": [
+      "2d-animation",
+      "ai-agents",
       "ai-video",
-      "awesome",
-      "awesome-list",
-      "claude",
-      "claude-opus",
-      "creative-coding",
-      "motion-graphics",
-      "prompts",
-      "threejs"
+      "animation",
+      "claude-code",
+      "codex",
+      "multi-agent",
+      "style-transfer",
+      "video-generation"
     ],
-    "core_features": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.。项目名称 awesome-opus5-5-videos，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "多语言支持",
-    "highlights": "Star 数突破 1,118，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,118",
-    "forks": 126,
-    "growth": 1118,
+    "core_features": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.。项目名称 reelmimic，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "JavaScript + 2d-animation、ai-agents、ai-video、animation",
+    "highlights": "Star 数突破 1,126，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,126",
+    "forks": 147,
+    "growth": 1126,
     "history": [
       {
-        "day": "2026-10-01",
-        "stars": 1118
+        "day": "2026-10-04",
+        "stars": 1126
       }
     ],
     "type_label": "🔥 每周热点"
   },
   {
     "id": 7,
-    "title": "feitangyuan/onetake",
-    "summary": "Motion films that never cut to the next slide: every beat grows out of the on...",
-    "category": "AI",
+    "title": "CAPCOM-TD-OSS/REDox",
+    "summary": "High-performance, token-based structured data engine for .NET. A core compone...",
+    "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐1,067",
+    "reason": "🔥 爆款！⭐991",
     "source": "GitHub",
-    "stars": 1067,
-    "url": "https://github.com/feitangyuan/onetake",
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "animation",
-      "canvas",
-      "claude-skill",
-      "launch-video",
-      "motion-graphics",
-      "video"
-    ],
-    "core_features": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.。项目名称 onetake，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + agent-skill、animation、canvas、claude-skill",
-    "highlights": "Star 数突破 1,067，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,067",
-    "forks": 67,
-    "growth": 1067,
+    "stars": 991,
+    "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+    "language": "C#",
+    "topics": [],
+    "core_features": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.。项目名称 REDox，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "C#",
+    "highlights": "Star 数 991，功能完善，获得开发者广泛认可",
+    "stars_fmt": "991",
+    "forks": 27,
+    "growth": 991,
     "history": [
       {
-        "day": "2026-10-01",
-        "stars": 1067
+        "day": "2026-10-04",
+        "stars": 991
       }
     ],
-    "type_label": "🔥 每周热点"
+    "type_label": "🌙 每月热点"
   }
 ]
