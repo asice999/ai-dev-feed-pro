@@ -1,267 +1,233 @@
 [
   {
     "id": 0,
-    "title": "QingYunA/answer-me-with-html",
-    "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-p...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,820",
-    "source": "GitHub",
-    "stars": 1820,
-    "url": "https://github.com/QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "topics": [
-      "agent-skill",
-      "ai-agent",
-      "claude-code",
-      "claude-code-skill",
-      "claude-skill",
-      "claude-skills",
-      "cli",
-      "diagram",
-      "explainer",
-      "html",
-      "llm",
-      "ste100"
-    ],
-    "core_features": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。。项目名称 answer-me-with-html，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "JavaScript + agent-skill、ai-agent、claude-code、claude-code-",
-    "highlights": "Star 数突破 1,820，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,820",
-    "forks": 128,
-    "growth": 1820,
-    "history": [
-      {
-        "day": "2026-10-07",
-        "stars": 1820
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 1,
-    "title": "facebookincubator/muse-gadget-sdk",
-    "summary": "Open source SDK to build Muse gadgets",
-    "category": "Developer-Tools",
-    "score": 10,
-    "reason": "🔥 爆款！⭐1,572",
-    "source": "GitHub",
-    "stars": 1572,
-    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
-    "language": "C",
-    "topics": [],
-    "core_features": "Open source SDK to build Muse gadgets。项目名称 muse-gadget-sdk，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "C",
-    "highlights": "Star 数突破 1,572，社区活跃度高，增长迅猛",
-    "stars_fmt": "1,572",
-    "forks": 307,
-    "growth": 1572,
-    "history": [
-      {
-        "day": "2026-10-07",
-        "stars": 1572
-      }
-    ],
-    "type_label": "🔥 每周热点"
-  },
-  {
-    "id": 2,
-    "title": "sganggs/Stronghold-Protocol",
-    "summary": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-    "category": "Other",
-    "score": 10,
-    "reason": "🔥 爆款！⭐838",
-    "source": "GitHub",
-    "stars": 838,
-    "url": "https://github.com/sganggs/Stronghold-Protocol",
-    "language": "JavaScript",
-    "topics": [
-      "arknights",
-      "auto-chess",
-      "fan-game",
-      "nodejs",
-      "tower-defense",
-      "websocket"
-    ],
-    "core_features": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）。项目名称 Stronghold-Protocol，属于 其他 类别。",
-    "use_cases": "通用工具、开源项目",
-    "tech_stack": "JavaScript + arknights、auto-chess、fan-game、nodejs",
-    "highlights": "Star 数 838，功能完善，获得开发者广泛认可",
-    "stars_fmt": "838",
-    "forks": 181,
-    "growth": 838,
-    "history": [
-      {
-        "day": "2026-10-07",
-        "stars": 838
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 3,
-    "title": "lucasmarkes/hairline",
-    "summary": "Six isometric line figures that answer the pointer. For React and for anythin...",
-    "category": "AI",
-    "score": 10,
-    "reason": "🔥 爆款！⭐837",
-    "source": "GitHub",
-    "stars": 837,
-    "url": "https://github.com/lucasmarkes/hairline",
-    "language": "TypeScript",
-    "topics": [
-      "animation",
-      "isometric",
-      "react",
-      "shadcn",
-      "svg",
-      "typescript"
-    ],
-    "core_features": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.。项目名称 hairline，属于 AI 类别。",
-    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "TypeScript + animation、isometric、react、shadcn",
-    "highlights": "Star 数 837，功能完善，获得开发者广泛认可",
-    "stars_fmt": "837",
-    "forks": 48,
-    "growth": 837,
-    "history": [
-      {
-        "day": "2026-10-07",
-        "stars": 837
-      }
-    ],
-    "type_label": "🌙 每月热点"
-  },
-  {
-    "id": 4,
     "title": "alchaincyf/huashu-art-motion",
     "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐792",
+    "reason": "🔥 爆款！⭐2,950",
     "source": "GitHub",
-    "stars": 792,
+    "stars": 2950,
     "url": "https://github.com/alchaincyf/huashu-art-motion",
     "language": "JavaScript",
     "topics": [],
     "core_features": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。。项目名称 huashu-art-motion，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
     "tech_stack": "JavaScript",
-    "highlights": "Star 数 792，功能完善，获得开发者广泛认可",
-    "stars_fmt": "792",
-    "forks": 104,
-    "growth": 792,
+    "highlights": "Star 数突破 2,950，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,950",
+    "forks": 315,
+    "growth": 2950,
     "history": [
       {
-        "day": "2026-10-07",
-        "stars": 792
+        "day": "2026-10-10",
+        "stars": 2950
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 1,
+    "title": "storytold/wordcraft",
+    "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "category": "Other",
+    "score": 10,
+    "reason": "🔥 爆款！⭐2,016",
+    "source": "GitHub",
+    "stars": 2016,
+    "url": "https://github.com/storytold/wordcraft",
+    "language": "Rust",
+    "topics": [],
+    "core_features": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust。项目名称 wordcraft，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 2,016，社区活跃度高，增长迅猛",
+    "stars_fmt": "2,016",
+    "forks": 601,
+    "growth": 2016,
+    "history": [
+      {
+        "day": "2026-10-10",
+        "stars": 2016
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 2,
+    "title": "zhongerxin/iPhone-use",
+    "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+    "category": "Developer-Tools",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,990",
+    "source": "GitHub",
+    "stars": 1990,
+    "url": "https://github.com/zhongerxin/iPhone-use",
+    "language": "Python",
+    "topics": [],
+    "core_features": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。。项目名称 iPhone-use，属于 开发者工具 类别。",
+    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
+    "tech_stack": "Python",
+    "highlights": "Star 数突破 1,990，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,990",
+    "forks": 190,
+    "growth": 1990,
+    "history": [
+      {
+        "day": "2026-10-10",
+        "stars": 1990
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 3,
+    "title": "nullmoth/nvidia-macos-driver",
+    "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCo...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,959",
+    "source": "GitHub",
+    "stars": 1959,
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "language": "Rust",
+    "topics": [],
+    "core_features": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.。项目名称 nvidia-macos-driver，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 1,959，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,959",
+    "forks": 173,
+    "growth": 1959,
+    "history": [
+      {
+        "day": "2026-10-10",
+        "stars": 1959
+      }
+    ],
+    "type_label": "🔥 每周热点"
+  },
+  {
+    "id": 4,
+    "title": "LosaLosSantos/aurelio-finance",
+    "summary": "Open-source personal finance app with an AI financial advisor: track your net...",
+    "category": "AI",
+    "score": 10,
+    "reason": "🔥 爆款！⭐1,556",
+    "source": "GitHub",
+    "stars": 1556,
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "dividends",
+      "etf",
+      "finance",
+      "financial-planning",
+      "fintech",
+      "investing",
+      "llm",
+      "net-worth",
+      "personal-finance",
+      "portfolio-tracker",
+      "self-hosted",
+      "stocks",
+      "wealth-management"
+    ],
+    "core_features": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.。项目名称 aurelio-finance，属于 AI 类别。",
+    "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
+    "tech_stack": "Python + ai、dividends、etf、finance",
+    "highlights": "Star 数突破 1,556，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,556",
+    "forks": 128,
+    "growth": 1556,
+    "history": [
+      {
+        "day": "2026-10-10",
+        "stars": 1556
+      }
+    ],
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 5,
-    "title": "StayLameBro/backburner",
-    "summary": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more co...",
+    "title": "storytold/cadcraft",
+    "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room Aut...",
     "category": "AI",
     "score": 10,
-    "reason": "🔥 爆款！⭐782",
+    "reason": "🔥 爆款！⭐1,421",
     "source": "GitHub",
-    "stars": 782,
-    "url": "https://github.com/StayLameBro/backburner",
-    "language": "Python",
-    "topics": [
-      "apple-silicon",
-      "ios",
-      "iphone",
-      "llama-cpp",
-      "llm-inference",
-      "local-llm",
-      "macos",
-      "metal",
-      "qwen",
-      "sme2",
-      "speculative-decoding"
-    ],
-    "core_features": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable。项目名称 backburner，属于 AI 类别。",
+    "stars": 1421,
+    "url": "https://github.com/storytold/cadcraft",
+    "language": "Rust",
+    "topics": [],
+    "core_features": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust。项目名称 cadcraft，属于 AI 类别。",
     "use_cases": "AI 应用开发、智能客服、自动化流程、内容生成",
-    "tech_stack": "Python + apple-silico、ios、iphone、llama-cpp",
-    "highlights": "Star 数 782，功能完善，获得开发者广泛认可",
-    "stars_fmt": "782",
-    "forks": 77,
-    "growth": 782,
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 1,421，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,421",
+    "forks": 596,
+    "growth": 1421,
     "history": [
       {
-        "day": "2026-10-07",
-        "stars": 782
+        "day": "2026-10-10",
+        "stars": 1421
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 6,
-    "title": "Jakeschincariol/replica-skill",
-    "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it...",
-    "category": "Design",
+    "title": "storytold/gridcraft",
+    "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in ...",
+    "category": "Other",
     "score": 10,
-    "reason": "🔥 爆款！⭐711",
+    "reason": "🔥 爆款！⭐1,262",
     "source": "GitHub",
-    "stars": 711,
-    "url": "https://github.com/Jakeschincariol/replica-skill",
-    "language": "Python",
-    "topics": [
-      "agent",
-      "agent-skills",
-      "app-clone",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "indie-hacker",
-      "reverse-engineering",
-      "saas"
-    ],
-    "core_features": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.。项目名称 replica-skill，属于 设计 类别。",
-    "use_cases": "UI/UX 设计、原型制作、设计系统管理",
-    "tech_stack": "Python + agent、agent-skills、app-clone、claude",
-    "highlights": "Star 数 711，功能完善，获得开发者广泛认可",
-    "stars_fmt": "711",
-    "forks": 76,
-    "growth": 711,
+    "stars": 1262,
+    "url": "https://github.com/storytold/gridcraft",
+    "language": "Rust",
+    "topics": [],
+    "core_features": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.。项目名称 gridcraft，属于 其他 类别。",
+    "use_cases": "通用工具、开源项目",
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 1,262，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,262",
+    "forks": 497,
+    "growth": 1262,
     "history": [
       {
-        "day": "2026-10-07",
-        "stars": 711
+        "day": "2026-10-10",
+        "stars": 1262
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   },
   {
     "id": 7,
-    "title": "mizorewww/x_gift_bot",
-    "summary": "X Premium gift CLI and redemption site",
-    "category": "Developer-Tools",
+    "title": "noahdunnagan/fsearch",
+    "summary": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed conten...",
+    "category": "macOS",
     "score": 10,
-    "reason": "🔥 爆款！⭐699",
+    "reason": "🔥 爆款！⭐1,233",
     "source": "GitHub",
-    "stars": 699,
-    "url": "https://github.com/mizorewww/x_gift_bot",
-    "language": "Go",
+    "stars": 1233,
+    "url": "https://github.com/noahdunnagan/fsearch",
+    "language": "Rust",
     "topics": [],
-    "core_features": "X Premium gift CLI and redemption site。项目名称 x_gift_bot，属于 开发者工具 类别。",
-    "use_cases": "日常开发、DevOps 自动化、代码质量提升",
-    "tech_stack": "Go",
-    "highlights": "Star 数 699，功能完善，获得开发者广泛认可",
-    "stars_fmt": "699",
-    "forks": 266,
-    "growth": 699,
+    "core_features": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.。项目名称 fsearch，属于 macOS 类别。",
+    "use_cases": "mac 桌面应用、效率工具",
+    "tech_stack": "Rust",
+    "highlights": "Star 数突破 1,233，社区活跃度高，增长迅猛",
+    "stars_fmt": "1,233",
+    "forks": 84,
+    "growth": 1233,
     "history": [
       {
-        "day": "2026-10-07",
-        "stars": 699
+        "day": "2026-10-10",
+        "stars": 1233
       }
     ],
-    "type_label": "🌙 每月热点"
+    "type_label": "🔥 每周热点"
   }
 ]
